@@ -718,20 +718,7 @@ function LeagueCard({
 export default function Page() {
   const data = readLatestReport();
 
-  const sectionsRecord = isRecord(data.sections) ? data.sections : null;
-  const mlbSection =
-    sectionsRecord && isRecord(sectionsRecord.mlb) ? sectionsRecord.mlb : null;
-  const mlbAdvanced =
-    mlbSection && isRecord(mlbSection.advanced) ? mlbSection.advanced : null;
-  const mlbAdvancedSections =
-    mlbAdvanced && isRecord(mlbAdvanced.sections) ? mlbAdvanced.sections : null;
-
-  const statcastWatch: unknown[] =
-    mlbAdvancedSections && Array.isArray(mlbAdvancedSections.statcast_watch)
-      ? mlbAdvancedSections.statcast_watch
-      : [];
-
-  const title = toDisplayText(data.title) || "GLOBAL AI REPORT";
+  const title = "GLOBAL AI REPORT";
   const generatedDate =
     toDisplayText(data.generated_date) ||
     toDisplayText(data.generated_at) ||
@@ -795,23 +782,6 @@ export default function Page() {
                     Headline
                   </div>
                   <p className="text-base leading-7 text-zinc-100">{headline}</p>
-                </div>
-              ) : null}
-
-              {statcastWatch.length ? (
-                <div className="rounded-2xl border border-zinc-800 bg-black/40 p-4">
-                  <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-500">
-                    Statcast Snapshot
-                  </div>
-                  <ul className="space-y-2">
-                    {statcastWatch.map((item, idx) => (
-                      <li key={idx} className="ml-5 list-disc text-sm leading-6 text-zinc-300">
-                        {typeof item === "string"
-                          ? item.replace(/^[-•]\s*/, "")
-                          : String(item)}
-                      </li>
-                    ))}
-                  </ul>
                 </div>
               ) : null}
 
