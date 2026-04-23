@@ -7,10 +7,6 @@ type Primitive = string | number | boolean | null | undefined;
 type JsonValue = Primitive | JsonObject | JsonValue[] | Record<string, unknown>;
 type JsonObject = { [key: string]: JsonValue };
 
-const VIDEO_URL =
-  process.env.NEXT_PUBLIC_GSR_VIDEO_URL ||
-  "https://www.youtube.com/embed/5qap5aO4i9A";
-
 const PRIMARY_ORDER = [
   "mlb",
   "nba",
@@ -808,22 +804,27 @@ export default function Page() {
               ) : null}
             </div>
 
-            <div className="overflow-hidden rounded-3xl border border-zinc-800 bg-zinc-950 shadow-2xl shadow-black/40">
-              <div className="border-b border-zinc-800 px-4 py-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-400">
-                Yahoo Finance Live
-              </div>
-              <div className="aspect-video w-full bg-black">
-                <iframe
-                  src={VIDEO_URL}
-                  title="Live Video Feed"
-                  className="h-full w-full"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  referrerPolicy="strict-origin-when-cross-origin"
-                  allowFullScreen
-                />
-              </div>
-            </div>
-          </div>
+<div className="overflow-hidden rounded-3xl border border-zinc-800 bg-zinc-950 shadow-2xl shadow-black/40">
+  <div className="border-b border-zinc-800 px-4 py-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-400">
+    Yahoo Finance Live
+  </div>
+
+  <div className="flex aspect-video w-full items-center justify-center bg-black p-6">
+    <div className="max-w-md text-center">
+      <p className="mb-3 text-sm text-zinc-300">
+        Live business video is available directly on Yahoo Finance.
+      </p>
+      <a
+        href="https://finance.yahoo.com/live/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-flex rounded-lg bg-zinc-800 px-4 py-2 text-sm font-semibold text-white transition hover:bg-zinc-700"
+      >
+        Open Yahoo Finance Live
+      </a>
+    </div>
+  </div>
+</div>
         </header>
 
         {primaryCards.length ? (
