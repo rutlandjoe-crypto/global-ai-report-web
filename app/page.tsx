@@ -78,7 +78,7 @@ function readLatestReport(): JsonObject {
   try {
     if (!fs.existsSync(filePath)) {
       return {
-        title: "GLOBAL SPORTS REPORT",
+        title: "GLOBAL AI REPORT",
         generated_date: new Date().toLocaleString("en-US", {
           timeZone: "America/New_York",
           dateStyle: "full",
@@ -90,12 +90,12 @@ function readLatestReport(): JsonObject {
     }
 
     const raw = fs.readFileSync(filePath, "utf8");
-    const parsed = JSON.parse(raw) as JsonObject;
+    const parsed = JSON.parse(raw) as unknown;
 
-    if (isRecord(parsed)) return parsed;
+    if (isRecord(parsed)) return parsed as JsonObject;
 
     return {
-      title: "GLOBAL SPORTS REPORT",
+      title: "GLOBAL AI REPORT",
       generated_date: new Date().toLocaleString("en-US", {
         timeZone: "America/New_York",
         dateStyle: "full",
@@ -106,7 +106,7 @@ function readLatestReport(): JsonObject {
     };
   } catch (error) {
     return {
-      title: "GLOBAL SPORTS REPORT",
+      title: "GLOBAL AI REPORT",
       generated_date: new Date().toLocaleString("en-US", {
         timeZone: "America/New_York",
         dateStyle: "full",
@@ -370,8 +370,9 @@ function renderValue(value: unknown) {
       if (v === null || v === undefined) return false;
       if (typeof v === "string") return cleanTextBlock(v).trim().length > 0;
       if (Array.isArray(v)) return normalizeArray(v).length > 0;
-      if (isRecord(v))
+      if (isRecord(v)) {
         return Object.keys(v).some((k) => !HIDDEN_FIELDS.has(k));
+      }
       return true;
     });
 
@@ -641,8 +642,9 @@ function LeagueCard({
     if (value === null || value === undefined) return false;
     if (typeof value === "string") return cleanTextBlock(value).trim().length > 0;
     if (Array.isArray(value)) return normalizeArray(value).length > 0;
-    if (isRecord(value))
+    if (isRecord(value)) {
       return Object.keys(value).some((k) => !HIDDEN_FIELDS.has(k));
+    }
     return true;
   });
 
@@ -670,14 +672,17 @@ function LeagueCard({
               !Object.entries(value).some(([childKey, childVal]) => {
                 if (HIDDEN_FIELDS.has(childKey)) return false;
                 if (childVal === null || childVal === undefined) return false;
-                if (typeof childVal === "string")
+                if (typeof childVal === "string") {
                   return cleanTextBlock(childVal).trim().length > 0;
-                if (Array.isArray(childVal))
+                }
+                if (Array.isArray(childVal)) {
                   return normalizeArray(childVal).length > 0;
-                if (isRecord(childVal))
+                }
+                if (isRecord(childVal)) {
                   return Object.keys(childVal).some(
                     (nestedKey) => !HIDDEN_FIELDS.has(nestedKey)
                   );
+                }
                 return true;
               }))
           ) {
@@ -713,7 +718,20 @@ function LeagueCard({
 export default function Page() {
   const data = readLatestReport();
 
-  const title = toDisplayText(data.title) || "GLOBAL SPORTS REPORT";
+  const sectionsRecord = isRecord(data.sections) ? data.sections : null;
+  const mlbSection =
+    sectionsRecord && isRecord(sectionsRecord.mlb) ? sectionsRecord.mlb : null;
+  const mlbAdvanced =
+    mlbSection && isRecord(mlbSection.advanced) ? mlbSection.advanced : null;
+  const mlbAdvancedSections =
+    mlbAdvanced && isRecord(mlbAdvanced.sections) ? mlbAdvanced.sections : null;
+
+  const statcastWatch: unknown[] =
+    mlbAdvancedSections && Array.isArray(mlbAdvancedSections.statcast_watch)
+      ? mlbAdvancedSections.statcast_watch
+      : [];
+
+  const title = toDisplayText(data.title) || "GLOBAL AI REPORT";
   const generatedDate =
     toDisplayText(data.generated_date) ||
     toDisplayText(data.generated_at) ||
@@ -780,21 +798,22 @@ export default function Page() {
                 </div>
               ) : null}
 
-{/* STATCAST SNAPSHOT (TEXT-BASED) */}
-{data.sections?.mlb?.advanced?.sections?.statcast_watch?.length ? (
-  <div className="rounded-2xl border border-zinc-800 bg-black/40 p-4">
-    <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-500">
-      Statcast Snapshot
-    </div>
-    <ul className="space-y-2">
-      {data.sections.mlb.advanced.sections.statcast_watch.map((item: string, idx: number) => (
-        <li key={idx} className="ml-5 list-disc text-sm leading-6 text-zinc-300">
-          {item.replace(/^[-•]\s*/, "")}
-        </li>
-      ))}
-    </ul>
-  </div>
-) : null}
+              {statcastWatch.length ? (
+                <div className="rounded-2xl border border-zinc-800 bg-black/40 p-4">
+                  <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-500">
+                    Statcast Snapshot
+                  </div>
+                  <ul className="space-y-2">
+                    {statcastWatch.map((item, idx) => (
+                      <li key={idx} className="ml-5 list-disc text-sm leading-6 text-zinc-300">
+                        {typeof item === "string"
+                          ? item.replace(/^[-•]\s*/, "")
+                          : String(item)}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ) : null}
 
               <div className="grid gap-4 md:grid-cols-2">
                 <SummaryCard title="Snapshot" value={snapshot} />
@@ -804,7 +823,7 @@ export default function Page() {
                   </div>
                   <p className="text-sm leading-6 text-zinc-200">
                     This report is an automated summary intended to support, not replace,
-                    human sports journalism.
+                    human journalism.
                   </p>
                 </div>
               </div>
@@ -821,12 +840,12 @@ export default function Page() {
 
             <div className="overflow-hidden rounded-3xl border border-zinc-800 bg-zinc-950 shadow-2xl shadow-black/40">
               <div className="border-b border-zinc-800 px-4 py-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-400">
-                Yahoo Sports Network
+                Live Video
               </div>
               <div className="aspect-video w-full bg-black">
                 <iframe
                   src={VIDEO_URL}
-                  title="Yahoo Sports Network Live"
+                  title="Live Video Feed"
                   className="h-full w-full"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                   referrerPolicy="strict-origin-when-cross-origin"
@@ -841,7 +860,7 @@ export default function Page() {
           <section className="mb-6">
             <div className="mb-3 flex items-center justify-between">
               <h2 className="text-sm font-bold uppercase tracking-[0.22em] text-zinc-400">
-                League Reports
+                Coverage
               </h2>
             </div>
 
@@ -875,10 +894,10 @@ export default function Page() {
 
         <footer className="rounded-3xl border border-zinc-800 bg-zinc-950/90 p-5 text-center shadow-2xl shadow-black/40">
           <p className="text-xs uppercase tracking-[0.22em] text-zinc-500">
-            Global Sports Report
+            Global AI Report
           </p>
           <p className="mt-2 text-sm text-zinc-400">
-            Automated sports journalism support for the modern newsroom.
+            Automated reporting support for the modern newsroom.
           </p>
         </footer>
       </div>
