@@ -9,7 +9,7 @@ type JsonObject = { [key: string]: JsonValue };
 
 const VIDEO_URL =
   process.env.NEXT_PUBLIC_GSR_VIDEO_URL ||
-  "https://www.youtube.com/embed/PMDQ82w1pAE?autoplay=1&mute=1";
+  "https://www.youtube.com/embed/live_stream?channel=UCEAZeUIeJs0IjQiqTCdVSIg";
 
 const PRIMARY_ORDER = [
   "mlb",
@@ -746,7 +746,7 @@ export default function Page() {
   const snapshot = formatSectionText(data.snapshot);
   const keyStorylines = data.key_storylines;
   const primaryCards = getPrimaryCards(data);
-  const extraSections = getExtraSections(data);
+  const extraSections: any[] = [];
 
   return (
     <main className="min-h-screen bg-black text-white">
@@ -840,7 +840,7 @@ export default function Page() {
 
             <div className="overflow-hidden rounded-3xl border border-zinc-800 bg-zinc-950 shadow-2xl shadow-black/40">
               <div className="border-b border-zinc-800 px-4 py-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-zinc-400">
-                Live Video
+                Yahoo Finance Live
               </div>
               <div className="aspect-video w-full bg-black">
                 <iframe
