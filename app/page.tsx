@@ -9,7 +9,7 @@ type JsonObject = { [key: string]: JsonValue };
 
 const VIDEO_URL =
   process.env.NEXT_PUBLIC_GSR_VIDEO_URL ||
-  "https://www.youtube.com/embed/live_stream?channel=UCEAZeUIeJs0IjQiqTCdVSIg";
+  "https://www.youtube.com/embed/9NyxcX3rhQs";
 
 const PRIMARY_ORDER = [
   "mlb",
