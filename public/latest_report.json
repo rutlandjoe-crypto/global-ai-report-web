@@ -1,34 +1,59 @@
 {
-  "title": "GLOBAL AI REPORT | 2026-04-22",
-  "generated_date": "Wednesday, April 22, 2026, 10:45 PM ET",
-  "headline": "AI product rollouts, model updates, and enterprise adoption remain the focus across the sector.",
-  "snapshot": "This edition includes 4 reports.",
+  "title": "GLOBAL AI REPORT",
+  "generated_date": "2026-04-24",
+  "generated_at": "2026-04-24 12:25 AM ET",
+  "updated_at": "2026-04-24 12:25 AM ET",
+  "published_at": "2026-04-24 12:25 AM ET",
+  "headline": "AI development continues to accelerate across models, enterprise adoption, infrastructure, and regulation.",
+  "snapshot": "The AI sector remains one of the fastest-moving global technology stories, with model competition, data-center demand, enterprise use cases, and policy pressure all shaping the landscape.",
   "key_storylines": [
-    "Major AI companies continue pushing model updates and enterprise tools.",
-    "Competition remains intense across assistants, infrastructure, and developer platforms.",
-    "Business adoption is increasingly tied to workflow efficiency and automation.",
-    "Investor and media attention remains fixed on practical AI deployment."
+    "Major AI companies continue competing on model capability, speed, cost, and enterprise integration.",
+    "AI infrastructure demand is reshaping cloud, chip, data-center, and energy conversations.",
+    "Governments and regulators are moving to define guardrails around safety, copyright, privacy, and competition."
   ],
-  "sections": {
-    "models": {
-      "title": "MODELS",
-      "headline": "Model competition remains active across consumer and enterprise AI.",
-      "snapshot": "Companies continue refining performance, reliability, and multimodal capability."
+  "disclaimer": "This report is an automated summary intended to support, not replace, human technology journalism.",
+  "x_handle": "@GlobalSportsRp",
+  "substack_url": "https://globalsportsreport.substack.com/",
+  "sections": [
+    {
+      "key": "models",
+      "title": "Model Watch",
+      "headline": "Model competition remains the center of the AI race.",
+      "snapshot": "Frontier labs and major platforms are competing on reasoning, multimodality, latency, developer tools, and enterprise reliability.",
+      "key_storylines": [
+        "The strongest AI coverage continues to come from comparing model capability with real-world deployment.",
+        "Enterprise buyers are watching cost, safety, integration, and accuracy as closely as benchmark performance."
+      ]
     },
-    "business": {
-      "title": "BUSINESS",
-      "headline": "AI business expansion remains centered on enterprise value.",
-      "snapshot": "Vendors are positioning tools around productivity, automation, and data workflows."
+    {
+      "key": "enterprise",
+      "title": "Enterprise AI Watch",
+      "headline": "Businesses continue moving AI from experimentation into workflow deployment.",
+      "snapshot": "AI adoption is increasingly tied to productivity tools, customer support, software development, analytics, and internal knowledge systems.",
+      "key_storylines": [
+        "The enterprise AI story is shifting from demos to measurable business use cases.",
+        "Journalists should watch which companies turn AI pilots into recurring revenue and operational savings."
+      ]
     },
-    "tools": {
-      "title": "TOOLS",
-      "headline": "Tooling remains a major battleground in the AI market.",
-      "snapshot": "Developer platforms, copilots, and automation layers continue evolving quickly."
+    {
+      "key": "infrastructure",
+      "title": "AI Infrastructure Watch",
+      "headline": "AI demand continues to pressure chips, cloud platforms, data centers, and power supply.",
+      "snapshot": "The physical buildout behind AI remains one of the most important business and technology stories in the market.",
+      "key_storylines": [
+        "Chip supply, cloud capacity, and data-center expansion remain key indicators of AI momentum.",
+        "Energy demand and infrastructure constraints are becoming central to the AI growth story."
+      ]
     },
-    "media": {
-      "title": "MEDIA",
-      "headline": "AI’s cultural and newsroom impact continues to expand.",
-      "snapshot": "Publishers, creators, and analysts are tracking both adoption and disruption."
+    {
+      "key": "policy",
+      "title": "AI Policy Watch",
+      "headline": "Regulation, copyright, privacy, and safety remain central to the global AI debate.",
+      "snapshot": "Governments are trying to balance innovation with concerns around misinformation, job disruption, data use, and market concentration.",
+      "key_storylines": [
+        "AI policy coverage is increasingly global, with different regions moving at different speeds.",
+        "Copyright, data licensing, and platform power remain major pressure points for media and technology companies."
+      ]
     }
-  }
+  ]
 }
