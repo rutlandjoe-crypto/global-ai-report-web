@@ -3,262 +3,221 @@ import path from "path";
 
 export const dynamic = "force-dynamic";
 
-export const metadata = {
-  title: "Global AI Report",
-  description: "Automated AI journalism support for the modern newsroom.",
-};
-
 type JsonObject = { [key: string]: any };
 
 const VIDEO_URL =
   process.env.NEXT_PUBLIC_GAI_VIDEO_URL ||
-  "https://www.youtube.com/embed/live_stream?channel=UCUMZ7gohGI9HcU9VNsr2FJQ&autoplay=1&mute=1";
+  "https://www.youtube.com/embed/2ePf9rue1Ao"; // fallback AI stream
 
 function readLatestReport(): JsonObject {
   const filePath = path.join(process.cwd(), "public", "latest_report.json");
 
   try {
     if (!fs.existsSync(filePath)) {
-      return {
-        title: "GLOBAL AI REPORT",
-        generated_date: new Date().toLocaleString("en-US", {
-          timeZone: "America/New_York",
-        }),
-        headline: "Latest report file not found.",
-        snapshot: "Add public/latest_report.json to display live data.",
-        key_storylines: [],
-        sections: [],
-      };
+      return fallbackReport("Latest report file not found.", "Add public/latest_report.json to display live data.");
     }
 
     const raw = fs.readFileSync(filePath, "utf8");
-    const parsed = JSON.parse(raw);
-
-    return parsed && typeof parsed === "object" ? parsed : {};
-  } catch (e) {
-    return {
-      title: "GLOBAL AI REPORT",
-      generated_date: new Date().toLocaleString("en-US", {
-        timeZone: "America/New_York",
-      }),
-      headline: "Error loading report.",
-      snapshot: "Check public/latest_report.json.",
-      key_storylines: [],
-      sections: [],
-    };
+    return JSON.parse(raw);
+  } catch {
+    return fallbackReport("Latest report could not be loaded.", "Check public/latest_report.json for valid JSON formatting.");
   }
 }
 
-function asText(value: any): string {
-  if (value === null || value === undefined) return "";
+function fallbackReport(headline: string, snapshot: string): JsonObject {
+  return {
+    title: "GLOBAL AI REPORT",
+    generated_date: new Date().toLocaleString("en-US", {
+      timeZone: "America/New_York",
+    }),
+    headline,
+    snapshot,
+    key_storylines: [],
+    sections: [],
+  };
+}
+
+function asArray(value: any): any[] {
+  if (!value) return [];
+  if (Array.isArray(value)) return value;
+  if (typeof value === "object") return Object.values(value);
+  return [];
+}
+
+function text(value: any, fallback = ""): string {
   if (typeof value === "string") return value;
-  if (typeof value === "number" || typeof value === "boolean") return String(value);
-  return "";
+  if (value === null || value === undefined) return fallback;
+  return String(value);
 }
 
-function asArray(value: any): string[] {
-  if (!Array.isArray(value)) return [];
-  return value
-    .map((item) => {
-      if (typeof item === "string") return item;
-      if (typeof item === "number" || typeof item === "boolean") return String(item);
-      if (item && typeof item === "object") {
-        return Object.entries(item)
-          .map(([key, val]) => `${cleanLabel(key)}: ${asText(val)}`)
-          .filter(Boolean)
-          .join(" | ");
-      }
-      return "";
-    })
-    .filter(Boolean);
-}
-
-function cleanLabel(value: string): string {
-  return value
-    .replace(/_/g, " ")
-    .replace(/\b\w/g, (char) => char.toUpperCase())
-    .trim();
-}
-
-function SectionCard({ section }: { section: JsonObject }) {
-  const title = asText(section.title) || asText(section.name) || "AI Coverage";
-  const headline = asText(section.headline);
-  const snapshot = asText(section.snapshot);
-  const keyStorylines = asArray(section.key_storylines || section.content || section.items);
-
+function getUpdatedAt(report: JsonObject): string {
   return (
-    <section className="rounded-3xl border border-blue-900/40 bg-[#111827] p-5 shadow-2xl shadow-black/30">
-      <div className="mb-4 flex items-center justify-between gap-3 border-b border-blue-900/40 pb-3">
-        <h2 className="text-lg font-bold uppercase tracking-[0.18em] text-white">
-          {title}
-        </h2>
-        <span className="rounded-full border border-blue-500/30 px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.24em] text-blue-300">
-          Live Desk
-        </span>
-      </div>
-
-      <div className="space-y-4">
-        {headline ? (
-          <div className="rounded-2xl border border-blue-900/30 bg-[#0a0f1c] p-4">
-            <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-blue-400">
-              Headline
-            </div>
-            <p className="text-sm leading-6 text-zinc-100">{headline}</p>
-          </div>
-        ) : null}
-
-        {snapshot ? (
-          <div className="rounded-2xl border border-blue-900/30 bg-[#0a0f1c] p-4">
-            <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-blue-400">
-              Snapshot
-            </div>
-            <p className="text-sm leading-6 text-zinc-300">{snapshot}</p>
-          </div>
-        ) : null}
-
-        {keyStorylines.length ? (
-          <div className="rounded-2xl border border-blue-900/30 bg-[#0a0f1c] p-4">
-            <div className="mb-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-blue-400">
-              Key Storylines
-            </div>
-            <ul className="space-y-2">
-              {keyStorylines.map((item, idx) => (
-                <li key={idx} className="ml-5 list-disc text-sm leading-6 text-zinc-300">
-                  {item}
-                </li>
-              ))}
-            </ul>
-          </div>
-        ) : null}
-      </div>
-    </section>
+    text(report.updated_at) ||
+    text(report.generated_at) ||
+    text(report.generated_date) ||
+    text(report.published_at) ||
+    new Date().toLocaleString("en-US", { timeZone: "America/New_York" })
   );
 }
 
-export default function Page() {
-  const data = readLatestReport();
+export default function Home() {
+  const report = readLatestReport();
 
-  const title = asText(data.title) || "GLOBAL AI REPORT";
-  const generatedDate =
-    asText(data.generated_date) ||
-    asText(data.generated_at) ||
-    asText(data.updated_at) ||
-    new Date().toLocaleString("en-US", {
-      timeZone: "America/New_York",
-    });
+  const title = text(report.title, "GLOBAL AI REPORT");
+  const headline = text(report.headline, "AI briefing loading.");
+  const snapshot = text(report.snapshot || report.body, "Latest AI intelligence will appear here.");
+  const updatedAt = getUpdatedAt(report);
 
-  const headline = asText(data.headline);
-  const snapshot = asText(data.snapshot);
-  const keyStorylines = asArray(data.key_storylines);
-
-  const sections = Array.isArray(data.sections)
-    ? data.sections.filter((section: any) => section && typeof section === "object")
-    : [];
+  const keyStorylines = asArray(report.key_storylines || report.key_points || report.storylines);
+  const sections = asArray(report.sections);
 
   return (
-    <main className="min-h-screen bg-[#0a0f1c] text-white">
-      <div className="mx-auto max-w-7xl px-4 py-6">
-        <header className="mb-6 rounded-3xl border border-blue-900/40 bg-[#0f172a] p-5 shadow-2xl shadow-black/40">
-          <div className="grid gap-6 lg:grid-cols-[1.15fr_0.85fr]">
-            <div className="space-y-4">
-              <div className="inline-flex w-fit rounded-full border border-blue-500/30 bg-blue-500/10 px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.28em] text-blue-400">
-                AI Intelligence Desk
+    <main className="min-h-screen bg-slate-100 text-slate-950">
+      <div className="mx-auto max-w-7xl px-5 py-6">
+        <header className="rounded-3xl bg-white p-6 shadow-sm border border-slate-200">
+          <div className="grid gap-6 lg:grid-cols-[1.35fr_0.65fr]">
+            
+            {/* LEFT SIDE */}
+            <div>
+              <p className="text-sm font-bold tracking-[0.25em] text-blue-400">
+                BUILT FOR JOURNALISTS, BY A JOURNALIST
+              </p>
+
+              <h1 className="mt-3 text-4xl font-black tracking-tight text-slate-950 md:text-6xl">
+                {title}
+              </h1>
+
+              <p className="mt-3 text-sm font-semibold text-red-700">
+                Updated: {updatedAt} ET
+              </p>
+
+              <h2 className="mt-6 text-2xl font-extrabold leading-tight text-slate-900 md:text-3xl">
+                {headline}
+              </h2>
+
+              <p className="mt-4 max-w-3xl text-lg leading-8 text-slate-700">
+                {snapshot}
+              </p>
+
+              <div className="mt-6 flex flex-wrap gap-3">
+                <a
+                  href="https://globalsportsreport.substack.com/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded-full bg-blue-700 px-5 py-3 text-sm font-bold text-white shadow-sm hover:bg-blue-800"
+                >
+                  Read the Network Briefing
+                </a>
+
+                <a
+                  href="https://x.com/GlobalSportsRp"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="rounded-full border border-slate-300 bg-white px-5 py-3 text-sm font-bold text-slate-900 hover:bg-slate-50"
+                >
+                  Follow @GlobalSportsRp
+                </a>
               </div>
-
-              <div>
-                <h1 className="text-3xl font-black uppercase tracking-[0.16em] text-white sm:text-4xl">
-                  {title}
-                </h1>
-                <p className="mt-2 text-sm text-blue-400">Updated: {generatedDate}</p>
-              </div>
-
-              {headline ? (
-                <div className="rounded-2xl border border-blue-900/40 bg-[#0a0f1c] p-4">
-                  <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-blue-400">
-                    Headline
-                  </div>
-                  <p className="text-base leading-7 text-zinc-100">{headline}</p>
-                </div>
-              ) : null}
-
-              <div className="grid gap-4 md:grid-cols-2">
-                {snapshot ? (
-                  <div className="rounded-2xl border border-blue-900/40 bg-[#111827] p-4">
-                    <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-blue-400">
-                      Snapshot
-                    </div>
-                    <p className="text-sm leading-6 text-zinc-300">{snapshot}</p>
-                  </div>
-                ) : null}
-
-                <div className="rounded-2xl border border-blue-900/40 bg-[#111827] p-4">
-                  <div className="mb-2 text-[11px] font-semibold uppercase tracking-[0.22em] text-blue-400">
-                    Newsroom Note
-                  </div>
-                  <p className="text-sm leading-6 text-zinc-300">
-                    This report is an automated summary intended to support, not replace,
-                    human technology journalism.
-                  </p>
-                </div>
-              </div>
-
-              {keyStorylines.length ? (
-                <div className="rounded-2xl border border-blue-900/40 bg-[#111827] p-4">
-                  <div className="mb-3 text-[11px] font-semibold uppercase tracking-[0.22em] text-blue-400">
-                    Key Storylines
-                  </div>
-                  <ul className="space-y-2">
-                    {keyStorylines.map((item, idx) => (
-                      <li key={idx} className="ml-5 list-disc text-sm leading-6 text-zinc-300">
-                        {item}
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              ) : null}
             </div>
 
-            <div className="overflow-hidden rounded-3xl border border-blue-900/40 bg-[#0f172a] shadow-2xl shadow-black/40">
-              <div className="border-b border-blue-900/40 px-4 py-3 text-xs font-semibold uppercase tracking-[0.22em] text-blue-400">
-                AI / Tech Live Video
-              </div>
+            {/* RIGHT SIDE VIDEO */}
+            <aside className="rounded-3xl border border-slate-200 bg-slate-950 p-5 text-white shadow-sm">
+              <p className="text-xs font-bold tracking-[0.25em] text-blue-300">
+                LIVE AI WATCH
+              </p>
 
-              <div className="aspect-video w-full bg-[#020617]">
+              <div className="mt-4 rounded-2xl overflow-hidden aspect-video">
                 <iframe
-                  src={VIDEO_URL}
-                  title="Bloomberg Technology Live"
-                  allow="autoplay; encrypted-media; picture-in-picture"
+                  src={`${VIDEO_URL}?autoplay=1&mute=1`}
+                  title="AI Live Video"
+                  allow="autoplay; encrypted-media"
                   allowFullScreen
-                  className="h-full w-full"
+                  className="w-full h-full"
                 />
               </div>
-            </div>
+            </aside>
           </div>
         </header>
 
-        {sections.length ? (
-          <section className="mb-6">
-            <div className="mb-3 flex items-center justify-between">
-              <h2 className="text-sm font-bold uppercase tracking-[0.22em] text-blue-300">
-                Coverage
-              </h2>
-            </div>
+        {/* REST STAYS SAME */}
+        <section className="mt-6 grid gap-6 lg:grid-cols-[0.75fr_1.25fr]">
+          <aside className="rounded-3xl bg-white p-6 shadow-sm border border-slate-200">
+            <p className="text-sm font-black tracking-[0.2em] text-blue-700">
+              KEY STORYLINES
+            </p>
 
-            <div className="grid gap-5 lg:grid-cols-2">
-              {sections.map((section: JsonObject, idx: number) => (
-                <SectionCard key={idx} section={section} />
-              ))}
+            <div className="mt-5 space-y-4">
+              {keyStorylines.length > 0 ? (
+                keyStorylines.map((item, index) => (
+                  <div key={index} className="rounded-2xl border border-slate-200 bg-slate-50 p-4">
+                    <p className="text-sm font-bold leading-6 text-slate-800">
+                      {text(item)}
+                    </p>
+                  </div>
+                ))
+              ) : (
+                <div className="rounded-2xl border border-slate-200 bg-slate-50 p-4">
+                  <p className="text-sm font-bold leading-6 text-slate-800">
+                    Key storylines will populate after the next AI report update.
+                  </p>
+                </div>
+              )}
             </div>
+          </aside>
+
+          <section className="space-y-6">
+            {sections.length > 0 ? (
+              sections.map((section, index) => {
+                const sectionTitle = text(section.title || section.name || section.category, `AI Section ${index + 1}`);
+                const sectionHeadline = text(section.headline);
+                const sectionSnapshot = text(section.snapshot || section.summary || section.body);
+                const sectionItems = asArray(section.items || section.key_storylines || section.points);
+
+                return (
+                  <article key={index} className="rounded-3xl bg-white p-6 shadow-sm border border-slate-200">
+                    <p className="text-xs font-black tracking-[0.25em] text-red-700">
+                      GLOBAL AI REPORT
+                    </p>
+
+                    <h3 className="mt-3 text-2xl font-black text-slate-950">
+                      {sectionTitle}
+                    </h3>
+
+                    {sectionHeadline && (
+                      <h4 className="mt-4 text-xl font-extrabold text-slate-900">
+                        {sectionHeadline}
+                      </h4>
+                    )}
+
+                    {sectionSnapshot && (
+                      <p className="mt-4 whitespace-pre-line text-base leading-8 text-slate-700">
+                        {sectionSnapshot}
+                      </p>
+                    )}
+                  </article>
+                );
+              })
+            ) : (
+              <article className="rounded-3xl bg-white p-6 shadow-sm border border-slate-200">
+                <p className="text-xs font-black tracking-[0.25em] text-red-700">
+                  GLOBAL AI REPORT
+                </p>
+
+                <h3 className="mt-3 text-2xl font-black text-slate-950">
+                  AI briefing ready for content
+                </h3>
+
+                <p className="mt-4 text-base leading-8 text-slate-700">
+                  Once the automated AI report writes to public/latest_report.json,
+                  sections will display here.
+                </p>
+              </article>
+            )}
           </section>
-        ) : null}
+        </section>
 
-        <footer className="rounded-3xl border border-blue-900/40 bg-[#0f172a] p-5 text-center shadow-2xl shadow-black/40">
-          <p className="text-xs uppercase tracking-[0.22em] text-blue-400">
-            Global AI Report
-          </p>
-          <p className="mt-2 text-sm text-zinc-400">
-            Automated AI journalism support for the modern newsroom.
-          </p>
+        <footer className="mt-8 rounded-3xl bg-slate-950 p-6 text-center text-sm font-semibold text-slate-300">
+          Global AI Report · Part of the GSR Network · Built for journalists, by a journalist.
         </footer>
       </div>
     </main>
