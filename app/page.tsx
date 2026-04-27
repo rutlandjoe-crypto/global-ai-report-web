@@ -3,6 +3,8 @@ import path from "path";
 
 export const dynamic = "force-dynamic";
 
+import EditorialStandard from "@/components/EditorialStandard";
+
 type AnyObj = Record<string, any>;
 
 const SITE = {
@@ -347,6 +349,7 @@ export default function Page() {
             {SITE.descriptor}
           </p>
         </div>
+        <EditorialStandard />
       </footer>
     </main>
   );
