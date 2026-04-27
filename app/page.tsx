@@ -22,7 +22,7 @@ const FALLBACK_VIDEO_LINK = "https://www.youtube.com/";
 const TOOLKIT = [
   ["OpenAI", "https://openai.com"],
   ["Google AI", "https://ai.google"],
-  ["NVIDIA News", "https://nvidia.com/en-us/news/"],
+  ["NVIDIA News", "https://www.nvidia.com/en-us/news/"],
   ["Hugging Face", "https://huggingface.co"],
   ["MIT Tech Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/"],
 ];
@@ -183,21 +183,72 @@ function VideoModule({ videoUrl }: { videoUrl: string }) {
   );
 }
 
+function StoryCard({ story, index }: { story: AnyObj; index: number }) {
+  const title = storyTitle(story, index);
+  const url = storyUrl(story);
+  const summary = storySummary(story);
+
+  const keyData = asList(story.key_data || story.keyData || story.data || story.metrics);
+  const why = asList(story.why_it_matters || story.whyItMatters || story.why);
+  const watch = asList(story.what_to_watch || story.whatToWatch || story.watch);
+
+  return (
+    <article className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+      <p className="mb-2 text-xs font-black uppercase tracking-wide text-blue-700">
+        AI Watch
+      </p>
+
+      <h3 className="text-xl font-black leading-tight text-slate-950">
+        {url !== "#" ? (
+          <a href={url} target="_blank" rel="noopener noreferrer" className="hover:text-blue-800">
+            {title}
+          </a>
+        ) : (
+          title
+        )}
+      </h3>
+
+      <p className="mt-3 text-sm leading-6 text-slate-700">{summary}</p>
+
+      <div className="mt-4 grid gap-3 md:grid-cols-3">
+        <div className="rounded-xl bg-slate-50 p-3">
+          <p className="mb-2 text-xs font-black uppercase text-slate-600">Key Data</p>
+          <LineList items={keyData.length ? keyData : ["No verified data point attached yet."]} />
+        </div>
+
+        <div className="rounded-xl bg-slate-50 p-3">
+          <p className="mb-2 text-xs font-black uppercase text-slate-600">Why It Matters</p>
+          <LineList items={why.length ? why : ["This affects AI coverage priorities."]} />
+        </div>
+
+        <div className="rounded-xl bg-slate-50 p-3">
+          <p className="mb-2 text-xs font-black uppercase text-slate-600">What To Watch</p>
+          <LineList items={watch.length ? watch : ["Monitor the next company, model, policy or market response."]} />
+        </div>
+      </div>
+    </article>
+  );
+}
+
 export default function Page() {
   const report = readReport();
   const videoUrl = normalizeVideoUrl(report.video_url);
 
   const headline =
     cleanText(report.headline) ||
+    cleanText(report.title) ||
     "AI Newsroom Watch: Major Developments Under Review";
 
   const snapshot =
     cleanText(report.snapshot) ||
+    cleanText(report.summary) ||
+    cleanText(report.body) ||
     "A live AI briefing built for journalists tracking companies, models, infrastructure, policy and global competition.";
 
   const updated =
     cleanText(report.updated_at) ||
     cleanText(report.generated_at) ||
+    cleanText(report.published_at) ||
     "Update time unavailable";
 
   let stories = getStories(report).filter((story) => story && typeof story === "object");
@@ -209,12 +260,20 @@ export default function Page() {
         summary: snapshot,
         key_data: ["Latest AI report generated from live feeds."],
         why_it_matters: ["Editors need fast clarity in a rapidly evolving sector."],
-        what_to_watch: ["Next model release, policy move or company response."],
+        what_to_watch: ["Next model release, policy move, infrastructure signal or company response."],
       },
     ];
   }
 
   const leadStories = stories.slice(0, 10);
+
+  const signals = asList(
+    report.key_storylines ||
+      report.keyStorylines ||
+      report.signals ||
+      report.toplines ||
+      report.takeaways
+  );
 
   return (
     <main className="min-h-screen bg-slate-100 text-slate-950">
@@ -247,13 +306,56 @@ export default function Page() {
         </div>
       </header>
 
-      <section className="mx-auto max-w-7xl px-5 py-6 space-y-6">
-        {leadStories.map((story, index) => (
-          <div key={index} className="bg-white p-5 rounded-2xl shadow">
-            <h2 className="font-bold text-xl">{storyTitle(story, index)}</h2>
-            <p className="mt-2 text-sm text-slate-700">{storySummary(story)}</p>
-          </div>
-        ))}
+      <section className="mx-auto grid max-w-7xl gap-6 px-5 py-6 lg:grid-cols-[0.75fr_1.25fr]">
+        <aside className="space-y-6">
+          <Block title="Editor Signals">
+            <LineList
+              items={
+                signals.length
+                  ? signals
+                  : [
+                      "Track the strongest AI business development.",
+                      "Prioritize verified source links.",
+                      "Watch model releases, infrastructure, regulation and enterprise adoption.",
+                    ]
+              }
+            />
+          </Block>
+
+          <Block title="Journalist Toolkit">
+            <div className="space-y-2">
+              {TOOLKIT.map(([name, url]) => (
+                <a
+                  key={name}
+                  href={url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block rounded-xl border border-slate-200 bg-slate-50 px-4 py-3 text-sm font-bold text-blue-900 hover:bg-blue-50"
+                >
+                  {name}
+                </a>
+              ))}
+            </div>
+          </Block>
+
+          <Block title="Coverage Lens">
+            <LineList
+              items={[
+                "Company: Who gains market or platform leverage?",
+                "Model: What changed in capability, safety or deployment?",
+                "Infrastructure: What does this mean for chips, cloud or data centers?",
+                "Policy: What regulators, courts or governments may respond?",
+                "Newsroom: What should journalists verify next?",
+              ]}
+            />
+          </Block>
+        </aside>
+
+        <section className="space-y-6">
+          {leadStories.map((story, index) => (
+            <StoryCard key={index} story={story} index={index} />
+          ))}
+        </section>
       </section>
 
       <footer className="border-t border-slate-300 bg-white">
