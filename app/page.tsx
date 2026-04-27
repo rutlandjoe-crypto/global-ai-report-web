@@ -13,12 +13,6 @@ const SITE = {
     "Global AI Report tracks artificial intelligence across business, policy, infrastructure and innovation, delivering journalist-ready signals on the fastest-moving sector in the global economy.",
 };
 
-const DEFAULT_VIDEO =
-  process.env.NEXT_PUBLIC_GAI_VIDEO_URL ||
-  "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1";
-
-const FALLBACK_VIDEO_LINK = "https://www.youtube.com/";
-
 const TOOLKIT = [
   ["OpenAI", "https://openai.com"],
   ["Google AI", "https://ai.google"],
@@ -44,24 +38,6 @@ function cleanText(value: any): string {
     return Object.values(value).map(cleanText).filter(Boolean).join(" • ");
   }
   return String(value).replace(/\s+/g, " ").trim();
-}
-
-function normalizeVideoUrl(value: any): string {
-  const cleaned = cleanText(value) || DEFAULT_VIDEO;
-
-  const needsRel = !cleaned.includes("rel=");
-  const needsAutoplay = !cleaned.includes("autoplay=");
-  const needsMute = !cleaned.includes("mute=");
-
-  const params = [
-    needsRel ? "rel=0" : "",
-    needsAutoplay ? "autoplay=1" : "",
-    needsMute ? "mute=1" : "",
-  ].filter(Boolean);
-
-  if (!params.length) return cleaned;
-
-  return `${cleaned}${cleaned.includes("?") ? "&" : "?"}${params.join("&")}`;
 }
 
 function asList(value: any): string[] {
@@ -148,37 +124,31 @@ function LineList({ items }: { items: string[] }) {
   );
 }
 
-function VideoModule({ videoUrl }: { videoUrl: string }) {
+function NewsroomBriefing({ items }: { items: string[] }) {
+  const safe = items.filter(Boolean).slice(0, 6);
+
   return (
-    <div className="rounded-2xl border border-slate-300 bg-slate-950 p-3 shadow-sm">
-      <div className="mb-2 flex items-center justify-between gap-3">
-        <p className="text-xs font-black uppercase tracking-wide text-blue-300">
-          Live Coverage
-        </p>
-
-        <a
-          href={FALLBACK_VIDEO_LINK}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="rounded-full border border-blue-300 px-3 py-1 text-xs font-bold text-blue-200 hover:bg-blue-300 hover:text-slate-950"
-        >
-          Open Live Coverage
-        </a>
-      </div>
-
-      <div className="aspect-video overflow-hidden rounded-xl bg-black">
-        <iframe
-          src={videoUrl}
-          title="AI live video"
-          allow="autoplay; encrypted-media; picture-in-picture"
-          allowFullScreen
-          className="h-full w-full"
-        />
-      </div>
-
-      <p className="mt-3 text-xs leading-5 text-slate-300">
-        If the embedded provider blocks playback, use the Open Live Coverage button.
+    <div className="rounded-2xl border border-slate-300 bg-white p-5 shadow-sm">
+      <p className="mb-3 text-xs font-black uppercase tracking-wide text-blue-800">
+        Live Newsroom Briefing
       </p>
+
+      {safe.length ? (
+        <div className="space-y-2">
+          {safe.map((item, i) => (
+            <p
+              key={i}
+              className="border-b border-slate-100 pb-2 text-sm leading-6 text-slate-800"
+            >
+              {item}
+            </p>
+          ))}
+        </div>
+      ) : (
+        <p className="text-sm leading-6 text-slate-700">
+          Monitoring major developments across AI business, models, infrastructure, policy and enterprise adoption.
+        </p>
+      )}
     </div>
   );
 }
@@ -232,7 +202,6 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
 
 export default function Page() {
   const report = readReport();
-  const videoUrl = normalizeVideoUrl(report.video_url);
 
   const headline =
     cleanText(report.headline) ||
@@ -302,7 +271,18 @@ export default function Page() {
             </div>
           </div>
 
-          <VideoModule videoUrl={videoUrl} />
+          <NewsroomBriefing
+            items={
+              signals.length
+                ? signals
+                : [
+                    "Track the strongest AI business development.",
+                    "Prioritize verified source links.",
+                    "Watch model releases, infrastructure, regulation and enterprise adoption.",
+                    "Monitor company moves, policy shifts and market signals.",
+                  ]
+            }
+          />
         </div>
       </header>
 
