@@ -5,9 +5,8 @@ export const dynamic = "force-dynamic";
 
 type JsonObject = { [key: string]: any };
 
-const VIDEO_URL =
-  process.env.NEXT_PUBLIC_GAI_VIDEO_URL ||
-  "https://www.youtube.com/embed/2ePf9rue1Ao";
+// ✅ CLEAN VIDEO (NO PARAM BREAK)
+const VIDEO_URL = "https://www.youtube.com/embed/21X5lGlDOfg";
 
 function readReport(): JsonObject {
   try {
@@ -32,12 +31,29 @@ function asText(v: any): string {
 
 function asList(v: any): string[] {
   if (!v) return [];
-  if (Array.isArray(v)) return v.map((x) => asText(x)).filter(Boolean);
+
+  if (Array.isArray(v)) {
+    return v.map((x) => asText(x)).filter(Boolean);
+  }
+
+  if (typeof v === "string") {
+    return v
+      .split(/\n|•|- /)
+      .map((x) => x.trim())
+      .filter(Boolean);
+  }
+
   return [];
 }
 
+// ✅ FIX: HANDLE OBJECT + ARRAY
 function getSections(report: JsonObject): any[] {
   if (Array.isArray(report.sections)) return report.sections;
+
+  if (report.sections && typeof report.sections === "object") {
+    return Object.values(report.sections);
+  }
+
   return [];
 }
 
@@ -88,7 +104,6 @@ export default function Home() {
     <main className="min-h-screen bg-black text-white">
       <div className="mx-auto max-w-7xl px-5 py-6">
 
-        {/* HERO */}
         <header className="grid gap-8 border-b border-neutral-800 pb-10 lg:grid-cols-[1.2fr_0.8fr]">
 
           <div>
@@ -121,28 +136,33 @@ export default function Home() {
             </div>
           </div>
 
-          {/* VIDEO FIX */}
+          {/* ✅ FIXED VIDEO */}
           <div className="rounded-3xl bg-neutral-900 p-5">
             <div className="text-xs font-black uppercase text-blue-400 mb-2">
               LIVE AI VIDEO
             </div>
 
             <div className="aspect-video rounded-xl overflow-hidden bg-black">
-              <iframe
-                src={`${VIDEO_URL}?autoplay=1&mute=1`}
-                className="w-full h-full"
-                allow="autoplay; encrypted-media"
-              />
+<iframe
+  src={`${VIDEO_URL}?autoplay=1&mute=1`}
+  title="Live Video"
+  allow="autoplay; encrypted-media"
+  allowFullScreen
+  className="w-full h-full rounded-2xl"
+/>
             </div>
 
-            {/* FALLBACK IF VIDEO FAILS */}
-            <div className="mt-3 text-xs text-neutral-400">
-              If video fails, open directly on YouTube.
-            </div>
+            <a
+              href="https://www.youtube.com/results?search_query=artificial+intelligence+news"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 inline-block text-xs text-blue-400 underline"
+            >
+              Open AI news stream
+            </a>
           </div>
         </header>
 
-        {/* STORYLINES */}
         <section className="grid gap-4 py-6 md:grid-cols-2 lg:grid-cols-4">
           {keyStorylines.slice(0, 4).map((s, i) => (
             <div key={i} className="rounded-2xl border border-neutral-800 p-4">
@@ -151,9 +171,8 @@ export default function Home() {
           ))}
         </section>
 
-        {/* CONTENT */}
         <section className="grid gap-6 lg:grid-cols-2">
-          {sections.map((s, i) => (
+          {sections.map((s: any, i: number) => (
             <Card key={i} section={s} />
           ))}
         </section>
