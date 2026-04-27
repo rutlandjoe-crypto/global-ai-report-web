@@ -3,179 +3,319 @@ import path from "path";
 
 export const dynamic = "force-dynamic";
 
-type JsonObject = { [key: string]: any };
+type AnyObj = Record<string, any>;
 
-// ✅ RELIABLE LIVE STREAM (WORKING)
-const VIDEO_URL = "https://www.youtube.com/embed/21X5lGlDOfg?rel=0";
+const SITE = {
+  name: "Global Politics Report",
+  tagline: "Built for journalists, by a journalist.",
+  topic: "Politics",
+  videoUrl:
+    process.env.NEXT_PUBLIC_GPR_VIDEO_URL ||
+    "https://www.youtube.com/embed/1Y3FQ8F7vLE",
+};
 
-function readReport(): JsonObject {
+const TOOLKIT = [
+  ["AP Politics", "https://apnews.com/hub/politics"],
+  ["Reuters Politics", "https://www.reuters.com/world/us/"],
+  ["Federal Register", "https://www.federalregister.gov/"],
+  ["Congress.gov", "https://www.congress.gov/"],
+  ["FEC Data", "https://www.fec.gov/data/"],
+];
+
+function readReport(): AnyObj {
   try {
-    const filePath = path.join(process.cwd(), "public", "latest_report.json");
-    const raw = fs.readFileSync(filePath, "utf8");
+    const file = path.join(process.cwd(), "public", "latest_report.json");
+    const raw = fs.readFileSync(file, "utf8");
     return JSON.parse(raw);
   } catch {
-    return {
-      headline: "AI Report Loading",
-      snapshot: "",
-      sections: [],
-    };
+    return {};
   }
 }
 
-function asText(v: any): string {
-  if (!v) return "";
-  return String(v).trim();
+function cleanText(value: any): string {
+  if (value === null || value === undefined) return "";
+  if (Array.isArray(value)) return value.map(cleanText).filter(Boolean).join(" • ");
+  if (typeof value === "object") {
+    return Object.values(value).map(cleanText).filter(Boolean).join(" • ");
+  }
+  return String(value).replace(/\s+/g, " ").trim();
 }
 
-function asList(v: any): string[] {
-  if (!v) return [];
+function asList(value: any): string[] {
+  if (!value) return [];
+  if (Array.isArray(value)) return value.map(cleanText).filter(Boolean);
+  if (typeof value === "object") return Object.values(value).map(cleanText).filter(Boolean);
+  return cleanText(value)
+    .split(/\n|•|\|/)
+    .map((x) => x.trim())
+    .filter(Boolean);
+}
 
-  if (Array.isArray(v)) {
-    return v.map((x) => asText(x)).filter(Boolean);
-  }
+function getStories(report: AnyObj): AnyObj[] {
+  const candidates =
+    report.stories ||
+    report.news ||
+    report.headlines ||
+    report.items ||
+    report.articles ||
+    report.sections ||
+    [];
 
-  if (typeof v === "string") {
-    return v
-      .split(/\n|•|- /)
-      .map((x) => x.trim())
-      .filter(Boolean);
+  if (Array.isArray(candidates)) return candidates.filter(Boolean);
+
+  if (typeof candidates === "object") {
+    return Object.values(candidates).flatMap((item: any) =>
+      Array.isArray(item) ? item : [item]
+    );
   }
 
   return [];
 }
 
-function getSections(report: JsonObject): any[] {
-  if (Array.isArray(report.sections)) return report.sections;
-  if (report.sections && typeof report.sections === "object") {
-    return Object.values(report.sections);
-  }
-  return [];
+function storyTitle(story: AnyObj, index: number): string {
+  return (
+    cleanText(story.headline) ||
+    cleanText(story.title) ||
+    cleanText(story.name) ||
+    `Politics Storyline ${index + 1}`
+  );
 }
 
-// 🔥 CLEAN NEWS LINE
-function NewsLine({ item }: { item: any }) {
-  const headline = asText(item.headline);
-  const url = item.url || "#";
-  const context = asText(item.snapshot);
+function storyUrl(story: AnyObj): string {
+  return cleanText(story.url) || cleanText(story.link) || cleanText(story.source_url) || "#";
+}
+
+function storySummary(story: AnyObj): string {
+  return (
+    cleanText(story.summary) ||
+    cleanText(story.snapshot) ||
+    cleanText(story.description) ||
+    cleanText(story.body) ||
+    "Political development flagged for newsroom monitoring."
+  );
+}
+
+function Block({ title, children }: { title: string; children: React.ReactNode }) {
+  return (
+    <section className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+      <h2 className="mb-3 text-sm font-black uppercase tracking-wide text-blue-800">
+        {title}
+      </h2>
+      {children}
+    </section>
+  );
+}
+
+function LineList({ items }: { items: string[] }) {
+  const safe = items.filter(Boolean).slice(0, 8);
+
+  if (!safe.length) {
+    return <p className="text-sm leading-6 text-slate-700">No current items available.</p>;
+  }
 
   return (
-    <div className="py-2 border-b border-neutral-800">
-      <a
-        href={url}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="block text-lg font-bold text-white hover:text-blue-400"
-      >
-        {headline}
-      </a>
-
-      {context && (
-        <div className="text-sm text-neutral-400 mt-1">
-          {context}
-        </div>
-      )}
+    <div className="space-y-2">
+      {safe.map((item, i) => (
+        <p key={i} className="border-b border-slate-100 pb-2 text-sm leading-6 text-slate-800">
+          {item}
+        </p>
+      ))}
     </div>
   );
 }
 
-export default function Home() {
-  const report = readReport();
+function StoryCard({ story, index }: { story: AnyObj; index: number }) {
+  const title = storyTitle(story, index);
+  const url = storyUrl(story);
+  const summary = storySummary(story);
 
-  const headline = asText(report.headline);
-  const snapshot = asText(report.snapshot);
-  const updated = asText(report.updated_at || report.generated_at);
-
-  const sections = getSections(report);
-  const keyStorylines = asList(report.key_storylines);
+  const keyData = asList(story.key_data || story.keyData || story.data || story.metrics);
+  const why = asList(story.why_it_matters || story.whyItMatters || story.why);
+  const watch = asList(story.what_to_watch || story.whatToWatch || story.watch);
 
   return (
-    <main className="min-h-screen bg-black text-white">
-      <div className="max-w-6xl mx-auto px-4 py-6">
+    <article className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+      <p className="mb-2 text-xs font-black uppercase tracking-wide text-red-700">
+        Politics Watch
+      </p>
 
-        {/* HEADER */}
-        <header className="border-b border-neutral-800 pb-6 mb-6">
+      <h3 className="text-xl font-black leading-tight text-slate-950">
+        {url !== "#" ? (
+          <a href={url} target="_blank" rel="noopener noreferrer" className="hover:text-blue-800">
+            {title}
+          </a>
+        ) : (
+          title
+        )}
+      </h3>
 
-          <div className="grid lg:grid-cols-[1.2fr_1fr] gap-6 items-start">
+      <p className="mt-3 text-sm leading-6 text-slate-700">{summary}</p>
 
-            {/* LEFT SIDE */}
-            <div>
-              <div className="text-xs uppercase font-black tracking-widest text-blue-400 mb-2">
-                GLOBAL AI REPORT
-              </div>
+      <div className="mt-4 grid gap-3 md:grid-cols-3">
+        <div className="rounded-xl bg-slate-50 p-3">
+          <p className="mb-2 text-xs font-black uppercase text-slate-600">Key Data</p>
+          <LineList items={keyData.length ? keyData : ["No verified data point attached yet."]} />
+        </div>
 
-              <h1 className="text-4xl font-extrabold leading-tight">
-                {headline}
-              </h1>
+        <div className="rounded-xl bg-slate-50 p-3">
+          <p className="mb-2 text-xs font-black uppercase text-slate-600">Why It Matters</p>
+          <LineList items={why.length ? why : ["This affects political coverage priorities."]} />
+        </div>
 
-              {snapshot && (
-                <p className="text-base text-neutral-400 mt-3 max-w-2xl">
-                  {snapshot}
-                </p>
-              )}
-
-              <div className="text-xs text-neutral-500 mt-3">
-                Updated {updated}
-              </div>
-            </div>
-
-            {/* RIGHT SIDE — BIG VIDEO */}
-            <div>
-              <div className="text-xs font-bold mb-2 text-blue-400">
-                LIVE AI COVERAGE
-              </div>
-
-              <div className="aspect-video bg-black rounded-xl overflow-hidden border border-neutral-800">
-                <iframe
-                  src={VIDEO_URL}
-                  title="Live AI Video"
-                  allow="autoplay; encrypted-media"
-                  allowFullScreen
-                  className="w-full h-full"
-                />
-              </div>
-
-              <div className="text-xs text-neutral-500 mt-2">
-                Live AI news stream
-              </div>
-            </div>
-
-          </div>
-        </header>
-
-        {/* KEY STORYLINES */}
-        <section className="mb-6">
-          {keyStorylines.map((s, i) => (
-            <div key={i} className="py-2 border-b border-neutral-800">
-              <div className="text-base font-semibold text-white">
-                {s}
-              </div>
-            </div>
-          ))}
-        </section>
-
-        {/* MAIN NEWS */}
-        <section>
-          {sections.map((s: any, i: number) => (
-            <NewsLine key={i} item={s} />
-          ))}
-        </section>
-
-        {/* TOOLKIT */}
-        <section className="mt-8 border-t border-neutral-800 pt-6">
-          <div className="text-xs uppercase font-black text-blue-400 mb-3">
-            Journalist Toolkit
-          </div>
-
-          <div className="space-y-2 text-sm">
-            <a href="https://www.reuters.com" target="_blank" className="block hover:underline">Reuters</a>
-            <a href="https://www.bloomberg.com" target="_blank" className="block hover:underline">Bloomberg</a>
-            <a href="https://www.ft.com" target="_blank" className="block hover:underline">Financial Times</a>
-            <a href="https://www.theinformation.com" target="_blank" className="block hover:underline">The Information</a>
-            <a href="https://techcrunch.com" target="_blank" className="block hover:underline">TechCrunch</a>
-          </div>
-        </section>
-
+        <div className="rounded-xl bg-slate-50 p-3">
+          <p className="mb-2 text-xs font-black uppercase text-slate-600">What To Watch</p>
+          <LineList items={watch.length ? watch : ["Monitor next official action or response."]} />
+        </div>
       </div>
+    </article>
+  );
+}
+
+export default function Page() {
+  const report = readReport();
+
+  const headline =
+    cleanText(report.headline) ||
+    cleanText(report.title) ||
+    "Politics Newsroom Watch: Major Developments Under Review";
+
+  const snapshot =
+    cleanText(report.snapshot) ||
+    cleanText(report.summary) ||
+    cleanText(report.body) ||
+    "A live politics briefing built for journalists tracking power, policy, campaigns and public institutions.";
+
+  const updated =
+    cleanText(report.updated_at) ||
+    cleanText(report.generated_at) ||
+    cleanText(report.published_at) ||
+    "Update time unavailable";
+
+  let stories = getStories(report).filter((story) => story && typeof story === "object");
+
+  if (!stories.length) {
+    stories = [
+      {
+        headline: headline,
+        summary: snapshot,
+        key_data: ["Latest politics report generated from public data and news inputs."],
+        why_it_matters: ["Editors need a fast read on what deserves coverage now."],
+        what_to_watch: ["Refresh the content engine and verify source links."],
+      },
+    ];
+  }
+
+  const leadStories = stories.slice(0, 10);
+
+  const signals = asList(
+    report.key_storylines ||
+      report.keyStorylines ||
+      report.signals ||
+      report.toplines ||
+      report.takeaways
+  );
+
+  return (
+    <main className="min-h-screen bg-slate-100 text-slate-950">
+      <header className="border-b border-slate-300 bg-white">
+        <div className="mx-auto grid max-w-7xl gap-6 px-5 py-8 lg:grid-cols-[1.2fr_0.8fr]">
+          <div>
+            <p className="text-sm font-black uppercase tracking-wide text-red-700">
+              {SITE.name}
+            </p>
+
+            <h1 className="mt-3 text-4xl font-black leading-tight md:text-5xl">
+              {headline}
+            </h1>
+
+            <p className="mt-4 max-w-3xl text-lg leading-8 text-slate-700">
+              {snapshot}
+            </p>
+
+            <div className="mt-5 flex flex-wrap gap-3 text-sm font-bold">
+              <span className="rounded-full bg-blue-900 px-4 py-2 text-white">
+                {SITE.tagline}
+              </span>
+              <span className="rounded-full bg-slate-200 px-4 py-2 text-slate-800">
+                Updated: {updated}
+              </span>
+            </div>
+          </div>
+
+          <div className="rounded-2xl border border-slate-300 bg-slate-950 p-3 shadow-sm">
+            <div className="aspect-video overflow-hidden rounded-xl bg-black">
+              <iframe
+                src={SITE.videoUrl}
+                title="Politics live video"
+                allow="autoplay; encrypted-media; picture-in-picture"
+                allowFullScreen
+                className="h-full w-full"
+              />
+            </div>
+            <p className="mt-3 text-xs leading-5 text-slate-300">
+              Live video module. If a provider blocks playback, the news cards below remain fully active.
+            </p>
+          </div>
+        </div>
+      </header>
+
+      <section className="mx-auto grid max-w-7xl gap-6 px-5 py-6 lg:grid-cols-[0.75fr_1.25fr]">
+        <aside className="space-y-6">
+          <Block title="Editor Signals">
+            <LineList
+              items={
+                signals.length
+                  ? signals
+                  : [
+                      "Track the strongest hard-news development.",
+                      "Prioritize verified source links.",
+                      "Watch policy, campaign and institutional impact.",
+                    ]
+              }
+            />
+          </Block>
+
+          <Block title="Journalist Toolkit">
+            <div className="space-y-2">
+              {TOOLKIT.map(([name, url]) => (
+                <a
+                  key={name}
+                  href={url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="block rounded-xl border border-slate-200 bg-slate-50 px-4 py-3 text-sm font-bold text-blue-900 hover:bg-blue-50"
+                >
+                  {name}
+                </a>
+              ))}
+            </div>
+          </Block>
+
+          <Block title="Coverage Lens">
+            <LineList
+              items={[
+                "Power: Who gains leverage?",
+                "Policy: What changes for citizens or institutions?",
+                "Money: Who is funding, spending or benefiting?",
+                "Accountability: What needs verification?",
+                "Next: What happens today, tomorrow or this week?",
+              ]}
+            />
+          </Block>
+        </aside>
+
+        <section className="space-y-6">
+          {leadStories.map((story, index) => (
+            <StoryCard key={index} story={story} index={index} />
+          ))}
+        </section>
+      </section>
+
+      <footer className="border-t border-slate-300 bg-white">
+        <div className="mx-auto max-w-7xl px-5 py-6 text-sm text-slate-600">
+          © {new Date().getFullYear()} {SITE.name}. {SITE.tagline}
+        </div>
+      </footer>
     </main>
   );
 }
