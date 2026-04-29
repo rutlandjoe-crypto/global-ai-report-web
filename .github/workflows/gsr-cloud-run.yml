@@ -90,6 +90,6 @@ jobs:
 
     git commit -m "Update GSR morning report"
 
-    git pull --rebase origin master
+    git pull --rebase origin main
 
-    git push origin HEAD:master
+    git push origin HEAD:main
