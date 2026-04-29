@@ -23,6 +23,13 @@ const TOOLKIT = [
   ["MIT Tech Review AI", "https://www.technologyreview.com/topic/artificial-intelligence/"],
 ];
 
+const GSR_NETWORK = [
+  ["Sports", "https://globalsportsreport.com"],
+  ["AI", "https://globalaireport.news"],
+  ["Politics", "https://globalpoliticsreport.com"],
+  ["Entertainment", "https://globalentertainmentreport.com"],
+];
+
 function readReport(): AnyObj {
   try {
     const file = path.join(process.cwd(), "public", "latest_report.json");
@@ -74,6 +81,12 @@ function getStories(report: AnyObj): AnyObj[] {
   return [];
 }
 
+function getSpotlightStories(report: AnyObj, key: "live_newsroom" | "editor_signals"): AnyObj[] {
+  const raw = report[key];
+  if (!Array.isArray(raw)) return [];
+  return raw.filter((item) => item && typeof item === "object");
+}
+
 function storyTitle(story: AnyObj, index: number): string {
   return (
     cleanText(story.headline) ||
@@ -84,7 +97,8 @@ function storyTitle(story: AnyObj, index: number): string {
 }
 
 function storyUrl(story: AnyObj): string {
-  return cleanText(story.url) || cleanText(story.link) || cleanText(story.source_url) || "#";
+  const url = cleanText(story.url) || cleanText(story.link) || cleanText(story.source_url) || "#";
+  return url.startsWith("http://") || url.startsWith("https://") ? url : "#";
 }
 
 function storySummary(story: AnyObj): string {
@@ -95,6 +109,14 @@ function storySummary(story: AnyObj): string {
     cleanText(story.body) ||
     "AI development flagged for newsroom monitoring."
   );
+}
+
+function storyLabel(story: AnyObj): string {
+  return cleanText(story.label) || cleanText(story.source) || "AI Watch";
+}
+
+function storySignal(story: AnyObj, index: number): string {
+  return `${storyLabel(story)}: ${storyTitle(story, index)}`;
 }
 
 function Block({ title, children }: { title: string; children: React.ReactNode }) {
@@ -246,8 +268,51 @@ export default function Page() {
       report.takeaways
   );
 
+  const liveNewsroomStories = getSpotlightStories(report, "live_newsroom");
+  const editorSignalStories = getSpotlightStories(report, "editor_signals");
+
+  const liveItems = liveNewsroomStories.length
+    ? liveNewsroomStories.map(storySignal)
+    : signals.length
+      ? signals
+      : [
+          "Track the strongest AI business development.",
+          "Prioritize verified source links.",
+          "Watch model releases, infrastructure, regulation and enterprise adoption.",
+          "Monitor company moves, policy shifts and market signals.",
+        ];
+
+  const editorItems = editorSignalStories.length
+    ? editorSignalStories.map(storySignal)
+    : signals.length
+      ? signals
+      : [
+          "Track the strongest AI business development.",
+          "Prioritize verified source links.",
+          "Watch model releases, infrastructure, regulation and enterprise adoption.",
+        ];
+
   return (
     <main className="min-h-screen bg-slate-100 text-slate-950">
+      <div className="border-b border-blue-950 bg-blue-950 text-white">
+        <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-5 py-2 text-xs font-bold uppercase tracking-wide">
+          <span className="text-blue-200">GSR Network:</span>
+          {GSR_NETWORK.map(([name, url], index) => (
+            <span key={name} className="flex items-center gap-3">
+              <a
+                href={url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white hover:text-blue-200"
+              >
+                {name}
+              </a>
+              {index < GSR_NETWORK.length - 1 ? <span className="text-blue-400">•</span> : null}
+            </span>
+          ))}
+        </div>
+      </div>
+
       <header className="border-b border-slate-300 bg-white">
         <div className="mx-auto grid max-w-7xl gap-6 px-5 py-8 lg:grid-cols-[1.2fr_0.8fr]">
           <div>
@@ -273,35 +338,14 @@ export default function Page() {
             </div>
           </div>
 
-          <NewsroomBriefing
-            items={
-              signals.length
-                ? signals
-                : [
-                    "Track the strongest AI business development.",
-                    "Prioritize verified source links.",
-                    "Watch model releases, infrastructure, regulation and enterprise adoption.",
-                    "Monitor company moves, policy shifts and market signals.",
-                  ]
-            }
-          />
+          <NewsroomBriefing items={liveItems} />
         </div>
       </header>
 
       <section className="mx-auto grid max-w-7xl gap-6 px-5 py-6 lg:grid-cols-[0.75fr_1.25fr]">
         <aside className="space-y-6">
           <Block title="Editor Signals">
-            <LineList
-              items={
-                signals.length
-                  ? signals
-                  : [
-                      "Track the strongest AI business development.",
-                      "Prioritize verified source links.",
-                      "Watch model releases, infrastructure, regulation and enterprise adoption.",
-                    ]
-              }
-            />
+            <LineList items={editorItems} />
           </Block>
 
           <Block title="Journalist Toolkit">
