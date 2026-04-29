@@ -3,12 +3,9 @@ name: GSR Morning Run
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 5 * * *"
-      timezone: "America/New_York"
-    - cron: "0 11 * * *"
-      timezone: "America/New_York"
-    - cron: "0 17 * * *"
-      timezone: "America/New_York"
+    - cron: "0 9 * * *"
+    - cron: "0 15 * * *"
+    - cron: "0 21 * * *"
 
 permissions:
   contents: write
@@ -61,35 +58,20 @@ jobs:
         run: |
           python master_runner.py
 
-      - name: Stage website files
-        run: |
-          git add public/latest_report.json public/latest_report.txt public/global_sports_report.txt || true
-
-      - name: Commit updated site data if changed
+      - name: Commit and push updates
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com}"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          if git diff --cached --quiet; then
-            echo "No site-data changes to commit."
-          else
-            git commit -m "Auto update GSR site data"
+          git add public/latest_report.json public/latest_report.txt public/global_sports_report.txt || true
+
+          if git diff --cached --quiet && git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
           fi
 
-- name: Commit and push updates
-  run: |
-    git config user.name "github-actions[bot]"
-    git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Auto update GSR site data"
 
-    git add public/latest_report.json public/latest_report.txt || true
+          git pull --rebase origin main
 
-    if git diff --cached --quiet && git diff --quiet; then
-      echo "No changes to commit"
-      exit 0
-    fi
-
-    git commit -m "Update GSR morning report"
-
-    git pull --rebase origin main
-
-    git push origin HEAD:main
+          git push origin HEAD:main
