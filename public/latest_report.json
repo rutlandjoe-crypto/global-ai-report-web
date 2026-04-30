@@ -3,8 +3,8 @@
   "vertical": "AI",
   "headline": "Amazon is already offering new OpenAI products on AWS",
   "snapshot": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-  "updated_at": "2026-04-30 04:25:03 AM ET",
-  "generated_at": "2026-04-30 04:25:03 AM ET",
+  "updated_at": "2026-04-30 06:53:32 AM ET",
+  "generated_at": "2026-04-30 06:53:32 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "live_newsroom": [
     {
@@ -29,29 +29,6 @@
       "published": "Mon, 12 Jan 2026 11:30:00 GMT",
       "editorial_score": "76",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "NVIDIA and Google infrastructure cuts AI inference costs",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
-      "snapshot": "At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and...",
-      "key_data": [
-        "Key people or organizations: NVIDIA, Google, AI, At",
-        "Story focus: NVIDIA and Google infrastructure cuts AI inference costs",
-        "Source context: At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The..."
-      ],
-      "why_it_matters": [
-        "This points to the infrastructure race behind AI growth.",
-        "Editors can frame the story around cost, capacity and competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from NVIDIA.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "published": "Thu, 23 Apr 2026 12:19:36 +0000",
-      "editorial_score": "72",
-      "urgency": ""
     },
     {
       "headline": "[WATCH] Satya Nadella says he's ready to 'exploit' the new OpenAI deal",
@@ -121,6 +98,30 @@
       "published": "Tue, 28 Apr 2026 18:49:54 +0000",
       "editorial_score": "48",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "[DEVELOPING] SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+      "snapshot": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+      "key_data": [
+        "Key people or organizations: DEVELOPING, SoftBank, IPO, You",
+        "Specific figures mentioned: $100B",
+        "Story focus: SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+        "Source context: You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure."
+      ],
+      "why_it_matters": [
+        "This points to the infrastructure race behind AI growth.",
+        "Editors can frame the story around cost, capacity and competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from DEVELOPING.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Thu, 30 Apr 2026 03:58:22 +0000",
+      "editorial_score": "44",
+      "urgency": "DEVELOPING"
     }
   ],
   "editor_signals": [
@@ -171,29 +172,6 @@
       "urgency": "WATCH"
     },
     {
-      "headline": "AI signal: NVIDIA and Google infrastructure cuts AI inference costs",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
-      "snapshot": "At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and...",
-      "key_data": [
-        "Key people or organizations: AI, NVIDIA, Google, At",
-        "Story focus: AI signal",
-        "Source context: At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The..."
-      ],
-      "why_it_matters": [
-        "This points to the infrastructure race behind AI growth.",
-        "Editors can frame the story around cost, capacity and competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from AI.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "published": "Thu, 23 Apr 2026 12:19:36 +0000",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
       "headline": "AI signal: Satya Nadella says he's ready to 'exploit' the new OpenAI deal",
       "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
       "snapshot": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
@@ -238,12 +216,35 @@
       "published": "Tue, 13 Jan 2026 13:00:00 GMT",
       "editorial_score": "62",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "AI signal: Google expands Pentagon's access to its AI after Anthropic's refusal",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "snapshot": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+      "key_data": [
+        "Key people or organizations: AI, Google, Pentagon, Anthropic",
+        "Story focus: AI signal",
+        "Source context: After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with..."
+      ],
+      "why_it_matters": [
+        "This is part of the broader AI adoption story across business and technology.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from AI.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Tue, 28 Apr 2026 18:15:00 +0000",
+      "editorial_score": "56",
+      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
     "Amazon is already offering new OpenAI products on AWS",
     "[WATCH] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "NVIDIA and Google infrastructure cuts AI inference costs"
+    "[WATCH] Satya Nadella says he's ready to 'exploit' the new OpenAI deal"
   ],
   "sections": [
     {
@@ -291,29 +292,6 @@
       "published": "Mon, 12 Jan 2026 11:30:00 GMT",
       "editorial_score": "76",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "NVIDIA and Google infrastructure cuts AI inference costs",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-and-google-infrastructure-cuts-ai-inference-costs/",
-      "snapshot": "At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The companies detailed the new A5X bare-metal instances, which run on NVIDIA Vera Rubin NVL72 rack-scale systems. Through hardware and...",
-      "key_data": [
-        "Key people or organizations: NVIDIA, Google, AI, At",
-        "Story focus: NVIDIA and Google infrastructure cuts AI inference costs",
-        "Source context: At the Google Cloud Next conference, Google and NVIDIA outlined their hardware roadmap designed to address the cost of AI inference at scale. The..."
-      ],
-      "why_it_matters": [
-        "This points to the infrastructure race behind AI growth.",
-        "Editors can frame the story around cost, capacity and competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from NVIDIA.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "published": "Thu, 23 Apr 2026 12:19:36 +0000",
-      "editorial_score": "72",
-      "urgency": ""
     },
     {
       "headline": "[WATCH] Satya Nadella says he's ready to 'exploit' the new OpenAI deal",
@@ -569,6 +547,30 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "published": "Mon, 27 Apr 2026 11:12:52 +0000",
       "editorial_score": "42",
+      "urgency": ""
+    },
+    {
+      "headline": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "snapshot": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter.",
+      "key_data": [
+        "Key people or organizations: Sources, Anthropic, Claude",
+        "Specific figures mentioned: $50B, $900B, $850 billion, $900 billion",
+        "Story focus: Sources",
+        "Source context: The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar..."
+      ],
+      "why_it_matters": [
+        "This is part of the broader AI adoption story across business and technology.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Sources.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Thu, 30 Apr 2026 00:07:15 +0000",
+      "editorial_score": "34",
       "urgency": ""
     }
   ],
