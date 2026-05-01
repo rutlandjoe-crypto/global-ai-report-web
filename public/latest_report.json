@@ -1,10 +1,10 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "[WATCH] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-  "snapshot": "Anthropic released Cowork on Monday, a new AI agent capability that extends the power of its wildly successful Claude Code tool to non-technical users — and according to company insiders, the team built the entire feature in approximately a week and a half, largely using...",
-  "updated_at": "2026-05-01 11:55:52 AM ET",
-  "generated_at": "2026-05-01 11:55:52 AM ET",
+  "headline": "[WATCH] Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+  "snapshot": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+  "updated_at": "2026-05-01 12:57:09 PM ET",
+  "generated_at": "2026-05-01 12:57:09 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "live_newsroom": [
     {
@@ -28,6 +28,29 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "published": "Mon, 12 Jan 2026 11:30:00 GMT",
       "editorial_score": "76",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "[WATCH] Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "snapshot": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "key_data": [
+        "Key people or organizations: WATCH, Pentagon, Nvidia, Microsoft",
+        "Story focus: Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+        "Source context: The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over..."
+      ],
+      "why_it_matters": [
+        "This points to the infrastructure race behind AI growth.",
+        "Editors can frame the story around cost, capacity and competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from WATCH.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Fri, 01 May 2026 16:02:36 +0000",
+      "editorial_score": "80",
       "urgency": "WATCH"
     },
     {
@@ -99,33 +122,32 @@
       "published": "Tue, 13 Jan 2026 13:00:00 GMT",
       "editorial_score": "62",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "[WATCH] GPT-5.5 is OpenAI's most capable agentic AI model yet",
-      "url": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
-      "snapshot": "OpenAI launched GPT-5.5 on April 23 as what it calls \"a new class of intelligence for real work and powering agents,\" and the framing is deliberate. OpenAI says it's the most capable agentic AI model to date, built from the ground up to plan, use tools, check its own output,...",
-      "key_data": [
-        "Key people or organizations: WATCH, GPT, OpenAI, AI",
-        "Specific figures mentioned: 5.5, 23",
-        "Story focus: GPT-5.5 is OpenAI's most capable agentic AI model yet",
-        "Source context: OpenAI launched GPT-5.5 on April 23 as what it calls \"a new class of intelligence for real work and powering agents,\" and the framing is deliberate...."
-      ],
-      "why_it_matters": [
-        "This is part of the broader AI adoption story across business and technology.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from WATCH.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "published": "Wed, 29 Apr 2026 09:08:13 +0000",
-      "editorial_score": "54",
-      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
+    {
+      "headline": "AI signal: Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "snapshot": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "key_data": [
+        "Key people or organizations: AI, Pentagon, Nvidia, Microsoft",
+        "Story focus: AI signal",
+        "Source context: The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over..."
+      ],
+      "why_it_matters": [
+        "This points to the infrastructure race behind AI growth.",
+        "Editors can frame the story around cost, capacity and competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from AI.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Fri, 01 May 2026 16:02:36 +0000",
+      "editorial_score": "80",
+      "urgency": "WATCH"
+    },
     {
       "headline": "AI signal: Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
@@ -219,37 +241,37 @@
       "published": "Wed, 07 Jan 2026 20:00:00 GMT",
       "editorial_score": "50",
       "urgency": "WATCH"
-    },
+    }
+  ],
+  "key_storylines": [
+    "[WATCH] Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "[WATCH] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
+    "[WATCH] Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI"
+  ],
+  "sections": [
     {
-      "headline": "AI signal: OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-      "snapshot": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico.",
+      "headline": "[WATCH] Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "snapshot": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
       "key_data": [
-        "Key people or organizations: AI, OpenAI, ChatGPT, Yubico",
-        "Story focus: AI signal",
-        "Source context: OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key..."
+        "Key people or organizations: WATCH, Pentagon, Nvidia, Microsoft",
+        "Story focus: Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+        "Source context: The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over..."
       ],
       "why_it_matters": [
-        "This is part of the broader AI adoption story across business and technology.",
-        "Editors should separate real market movement from promotional noise."
+        "This points to the infrastructure race behind AI growth.",
+        "Editors can frame the story around cost, capacity and competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from AI.",
+        "Watch for follow-up statements from WATCH.",
         "Track whether competitors, regulators or enterprise customers respond."
       ],
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "published": "Thu, 30 Apr 2026 18:20:03 +0000",
-      "editorial_score": "46",
+      "published": "Fri, 01 May 2026 16:02:36 +0000",
+      "editorial_score": "80",
       "urgency": "WATCH"
-    }
-  ],
-  "key_storylines": [
-    "[WATCH] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
-    "[WATCH] Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-    "[WATCH] GPT-5.5 is OpenAI's most capable agentic AI model yet"
-  ],
-  "sections": [
+    },
     {
       "headline": "[WATCH] Anthropic launches Cowork, a Claude Desktop agent that works in your files — no coding required",
       "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
@@ -553,29 +575,6 @@
       "published": "Thu, 30 Apr 2026 15:59:54 +0000",
       "editorial_score": "34",
       "urgency": ""
-    },
-    {
-      "headline": "[DEVELOPING] AI agent governance takes focus as regulators flag control gaps",
-      "url": "https://www.artificialintelligence-news.com/news/ai-agent-governance-control-gaps/",
-      "snapshot": "Australia's financial regulator has warned financial firms that AI agent governance and assurance practices are poorly governed. The warning comes as banks and superannuation trustees expand AI in internal and customer-facing operations. The Australian Prudential Regulation...",
-      "key_data": [
-        "Key people or organizations: DEVELOPING, AI, Australia",
-        "Story focus: AI agent governance takes focus as regulators flag control gaps",
-        "Source context: Australia's financial regulator has warned financial firms that AI agent governance and assurance practices are poorly governed. The warning comes as..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into legal and regulatory scrutiny.",
-        "Editors should watch how policy pressure affects companies and users."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from DEVELOPING.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "published": "Thu, 30 Apr 2026 10:00:00 +0000",
-      "editorial_score": "34",
-      "urgency": "DEVELOPING"
     }
   ],
   "schema": {
