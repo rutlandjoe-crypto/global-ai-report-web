@@ -1,46 +1,148 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "AI feeds checked — no fresh priority headline detected",
-  "snapshot": "The content engine checked the configured feeds, but did not find enough fresh source items for the main live card on this run. This avoids recycling stale headlines.",
-  "updated_at": "2026-05-02 10:56:59 AM ET",
-  "generated_at": "2026-05-02 10:56:59 AM ET",
+  "headline": "[DEVELOPING] Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+  "snapshot": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has...",
+  "updated_at": "2026-05-02 11:23:19 AM ET",
+  "generated_at": "2026-05-02 11:23:19 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
+    "max_public_fallback_age_hours": 72,
     "total_items_checked": 47,
     "live_fresh_items": 0,
     "editor_fresh_items": 12,
+    "public_fallback_items": 34,
     "stale_or_blocked_items": 47,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-02 10:56:59 AM ET"
+    "last_checked": "2026-05-02 11:23:19 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "AI feeds checked — no fresh priority headline detected",
-      "url": "#",
-      "snapshot": "The content engine checked the configured feeds, but did not find enough fresh source items for the main live card on this run. This avoids recycling stale headlines.",
+      "headline": "[DEVELOPING] Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+      "snapshot": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has...",
       "key_data": [
-        "Key people or organizations: AI",
-        "Story focus: AI feeds checked — no fresh priority headline detected",
-        "Source context: The content engine checked the configured feeds, but did not find enough fresh source items for the main live card on this run. This avoids recycling..."
+        "Key people or organizations: DEVELOPING, Pentagon, AI, OpenAI",
+        "Story focus: Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+        "Source context: The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use..."
+      ],
+      "why_it_matters": [
+        "This points to the infrastructure race behind AI growth.",
+        "Editors can frame the story around cost, capacity and competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from DEVELOPING.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-05-01T10:09:56-04:00",
+      "age_hours": "25.22",
+      "freshness_status": "stale",
+      "editorial_score": "118",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "[WATCH] Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "snapshot": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "key_data": [
+        "Key people or organizations: WATCH, Pentagon, Nvidia, Microsoft",
+        "Story focus: Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+        "Source context: The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over..."
+      ],
+      "why_it_matters": [
+        "This points to the infrastructure race behind AI growth.",
+        "Editors can frame the story around cost, capacity and competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from WATCH.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Fri, 01 May 2026 16:02:36 +0000",
+      "age_hours": "23.35",
+      "freshness_status": "stale",
+      "editorial_score": "90",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "[WATCH] Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "snapshot": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for...",
+      "key_data": [
+        "Key people or organizations: WATCH, Replit, Amjad Masad, Cursor",
+        "Story focus: Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell",
+        "Source context: At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question..."
       ],
       "why_it_matters": [
         "This is part of the broader AI adoption story across business and technology.",
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from AI.",
+        "Watch for follow-up statements from WATCH.",
         "Track whether competitors, regulators or enterprise customers respond."
       ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "freshness-gate",
-      "published": "2026-05-02 10:56:59 AM ET",
-      "age_hours": "0.00",
-      "freshness_status": "freshness_fallback",
-      "editorial_score": "0",
-      "urgency": ""
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Fri, 01 May 2026 23:06:50 +0000",
+      "age_hours": "16.27",
+      "freshness_status": "stale",
+      "editorial_score": "46",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "[WATCH] Microsoft wants lawyers to trust its new AI agent in Word documents",
+      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+      "snapshot": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to...",
+      "key_data": [
+        "Key people or organizations: WATCH, Microsoft, AI, Word",
+        "Story focus: Microsoft wants lawyers to trust its new AI agent in Word documents",
+        "Source context: Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal and regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies and users."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from WATCH.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-05-01T07:18:54-04:00",
+      "age_hours": "28.07",
+      "freshness_status": "stale",
+      "editorial_score": "64",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "[DEVELOPING] Did you know you can't steal a charity? Don't worry. Elon Musk will remind you.",
+      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+      "snapshot": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it's already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk's argument against OpenAI? By...",
+      "key_data": [
+        "Key people or organizations: DEVELOPING, Did, Don, Elon Musk",
+        "Story focus: Did you know you can't steal a charity? Don't worry. Elon Musk will remind you.",
+        "Source context: Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it's already getting messy. Emails,..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal and regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies and users."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from DEVELOPING.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Fri, 01 May 2026 17:44:29 +0000",
+      "age_hours": "21.65",
+      "freshness_status": "stale",
+      "editorial_score": "52",
+      "urgency": "DEVELOPING"
     }
   ],
   "editor_signals": [
@@ -64,7 +166,7 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "published": "2026-05-01T10:09:56-04:00",
-      "age_hours": "24.78",
+      "age_hours": "25.22",
       "freshness_status": "stale",
       "editorial_score": "118",
       "urgency": "DEVELOPING"
@@ -89,7 +191,7 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "published": "Fri, 01 May 2026 16:02:36 +0000",
-      "age_hours": "22.91",
+      "age_hours": "23.35",
       "freshness_status": "stale",
       "editorial_score": "90",
       "urgency": "WATCH"
@@ -114,7 +216,7 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "published": "2026-05-01T07:18:54-04:00",
-      "age_hours": "27.63",
+      "age_hours": "28.07",
       "freshness_status": "stale",
       "editorial_score": "64",
       "urgency": "WATCH"
@@ -139,7 +241,7 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "published": "Fri, 01 May 2026 17:44:29 +0000",
-      "age_hours": "21.21",
+      "age_hours": "21.65",
       "freshness_status": "stale",
       "editorial_score": "52",
       "urgency": "DEVELOPING"
@@ -164,44 +266,271 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "published": "Fri, 01 May 2026 14:00:00 +0000",
-      "age_hours": "24.95",
+      "age_hours": "25.39",
       "freshness_status": "stale",
       "editorial_score": "52",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "AI feeds checked — no fresh priority headline detected"
+    "[DEVELOPING] Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+    "[WATCH] Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "[WATCH] Microsoft wants lawyers to trust its new AI agent in Word documents"
   ],
   "sections": [
     {
-      "headline": "AI feeds checked — no fresh priority headline detected",
-      "url": "#",
-      "snapshot": "The content engine checked the configured feeds, but did not find enough fresh source items for the main live card on this run. This avoids recycling stale headlines.",
+      "headline": "[DEVELOPING] Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+      "snapshot": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according to an announcement on Friday. At the same time, the Defense Department has...",
       "key_data": [
-        "Key people or organizations: AI",
-        "Story focus: AI feeds checked — no fresh priority headline detected",
-        "Source context: The content engine checked the configured feeds, but did not find enough fresh source items for the main live card on this run. This avoids recycling..."
+        "Key people or organizations: DEVELOPING, Pentagon, AI, OpenAI",
+        "Story focus: Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia — but not Anthropic",
+        "Source context: The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use..."
+      ],
+      "why_it_matters": [
+        "This points to the infrastructure race behind AI growth.",
+        "Editors can frame the story around cost, capacity and competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from DEVELOPING.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-05-01T10:09:56-04:00",
+      "age_hours": "25.22",
+      "freshness_status": "stale",
+      "editorial_score": "118",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "[WATCH] Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "snapshot": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+      "key_data": [
+        "Key people or organizations: WATCH, Pentagon, Nvidia, Microsoft",
+        "Story focus: Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+        "Source context: The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over..."
+      ],
+      "why_it_matters": [
+        "This points to the infrastructure race behind AI growth.",
+        "Editors can frame the story around cost, capacity and competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from WATCH.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Fri, 01 May 2026 16:02:36 +0000",
+      "age_hours": "23.35",
+      "freshness_status": "stale",
+      "editorial_score": "90",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "[WATCH] Microsoft wants lawyers to trust its new AI agent in Word documents",
+      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
+      "snapshot": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handle tasks like reviewing contracts. \"Instead of relying on general AI models to...",
+      "key_data": [
+        "Key people or organizations: WATCH, Microsoft, AI, Word",
+        "Story focus: Microsoft wants lawyers to trust its new AI agent in Word documents",
+        "Source context: Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal and regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies and users."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from WATCH.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-05-01T07:18:54-04:00",
+      "age_hours": "28.07",
+      "freshness_status": "stale",
+      "editorial_score": "64",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "[DEVELOPING] Did you know you can't steal a charity? Don't worry. Elon Musk will remind you.",
+      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+      "snapshot": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it's already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk's argument against OpenAI? By...",
+      "key_data": [
+        "Key people or organizations: DEVELOPING, Did, Don, Elon Musk",
+        "Story focus: Did you know you can't steal a charity? Don't worry. Elon Musk will remind you.",
+        "Source context: Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it's already getting messy. Emails,..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal and regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies and users."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from DEVELOPING.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Fri, 01 May 2026 17:44:29 +0000",
+      "age_hours": "21.65",
+      "freshness_status": "stale",
+      "editorial_score": "52",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "[DEVELOPING] Musk v. Altman is just getting started",
+      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "snapshot": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it's already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk's argument against OpenAI? By...",
+      "key_data": [
+        "Key people or organizations: DEVELOPING, Musk, Altman, Elon Musk",
+        "Story focus: Musk v. Altman is just getting started",
+        "Source context: Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it's already getting messy. Emails,..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal and regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies and users."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from DEVELOPING.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Fri, 01 May 2026 14:00:00 +0000",
+      "age_hours": "25.39",
+      "freshness_status": "stale",
+      "editorial_score": "52",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "snapshot": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+      "key_data": [
+        "Key people or organizations: Meta, AI, Assured Robot Intelligence",
+        "Story focus: Meta buys robotics startup to bolster its humanoid AI ambitions",
+        "Source context: Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said."
       ],
       "why_it_matters": [
         "This is part of the broader AI adoption story across business and technology.",
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from AI.",
+        "Watch for follow-up statements from Meta.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Fri, 01 May 2026 22:13:27 +0000",
+      "age_hours": "17.16",
+      "freshness_status": "stale",
+      "editorial_score": "48",
+      "urgency": ""
+    },
+    {
+      "headline": "[WATCH] Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "snapshot": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for...",
+      "key_data": [
+        "Key people or organizations: WATCH, Replit, Amjad Masad, Cursor",
+        "Story focus: Replit's Amjad Masad on the Cursor deal, fighting Apple, and why he'd rather not sell",
+        "Source context: At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question..."
+      ],
+      "why_it_matters": [
+        "This is part of the broader AI adoption story across business and technology.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from WATCH.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "published": "Fri, 01 May 2026 23:06:50 +0000",
+      "age_hours": "16.27",
+      "freshness_status": "stale",
+      "editorial_score": "46",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "SAP: How enterprise AI governance secures profit margins",
+      "url": "https://www.artificialintelligence-news.com/news/sap-how-enterprise-ai-governance-secures-profit-margins/",
+      "snapshot": "According to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade model to count the words in a document, and it will often miss the mark by ten percent. Manos Raptopoulos, Global President of...",
+      "key_data": [
+        "Key people or organizations: SAP, AI, According, Ask",
+        "Story focus: SAP",
+        "Source context: According to SAP, enterprise AI governance secures profit margins by replacing statistical guesses with deterministic control. Ask a consumer-grade..."
+      ],
+      "why_it_matters": [
+        "This is part of the broader AI adoption story across business and technology.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from SAP.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "published": "Fri, 01 May 2026 13:05:37 +0000",
+      "age_hours": "26.30",
+      "freshness_status": "stale",
+      "editorial_score": "32",
+      "urgency": ""
+    },
+    {
+      "headline": "All the evidence revealed so far in Musk v. Altman",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "snapshot": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are circulating from the earliest days of OpenAI - and from before the AI lab...",
+      "key_data": [
+        "Key people or organizations: All, Musk, Altman, So",
+        "Story focus: All the evidence revealed so far in Musk v. Altman",
+        "Source context: The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far,..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal and regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies and users."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from All.",
         "Track whether competitors, regulators or enterprise customers respond."
       ],
       "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "freshness-gate",
-      "published": "2026-05-02 10:56:59 AM ET",
-      "age_hours": "0.00",
-      "freshness_status": "freshness_fallback",
-      "editorial_score": "0",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-05-01T15:14:51-04:00",
+      "age_hours": "20.14",
+      "freshness_status": "stale",
+      "editorial_score": "24",
+      "urgency": ""
+    },
+    {
+      "headline": "Elon Musk had a bad week in court",
+      "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+      "snapshot": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in tech. All indications are that he won't win his case against the company, but...",
+      "key_data": [
+        "Key people or organizations: Elon Musk, He, OpenAI, All",
+        "Story focus: Elon Musk had a bad week in court",
+        "Source context: Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal and regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies and users."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Elon Musk.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "published": "2026-05-01T09:33:15-04:00",
+      "age_hours": "25.83",
+      "freshness_status": "stale",
+      "editorial_score": "24",
       "urgency": ""
     }
   ],
   "schema": {
-    "version": "gsr-network-v3.3-freshness-gate",
+    "version": "gsr-network-v3.4-public-fallback-hierarchy",
     "required_story_fields": [
       "headline",
       "url",
