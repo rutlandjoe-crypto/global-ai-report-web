@@ -3,18 +3,18 @@
   "vertical": "AI",
   "headline": "AI feeds checked — no fresh priority headline detected",
   "snapshot": "The content engine checked the configured feeds, but did not find enough fresh source items for the main live card on this run. This avoids recycling stale headlines.",
-  "updated_at": "2026-05-02 09:38:57 AM ET",
-  "generated_at": "2026-05-02 09:38:57 AM ET",
+  "updated_at": "2026-05-02 10:56:59 AM ET",
+  "generated_at": "2026-05-02 10:56:59 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "total_items_checked": 47,
     "live_fresh_items": 0,
-    "editor_fresh_items": 13,
+    "editor_fresh_items": 12,
     "stale_or_blocked_items": 47,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-02 09:38:57 AM ET"
+    "last_checked": "2026-05-02 10:56:59 AM ET"
   },
   "live_newsroom": [
     {
@@ -36,7 +36,7 @@
       ],
       "editor_note": "Monitor for follow-up reporting and broader trend connection.",
       "source_feed": "freshness-gate",
-      "published": "2026-05-02 09:38:57 AM ET",
+      "published": "2026-05-02 10:56:59 AM ET",
       "age_hours": "0.00",
       "freshness_status": "freshness_fallback",
       "editorial_score": "0",
@@ -64,7 +64,7 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "published": "2026-05-01T10:09:56-04:00",
-      "age_hours": "23.48",
+      "age_hours": "24.78",
       "freshness_status": "stale",
       "editorial_score": "118",
       "urgency": "DEVELOPING"
@@ -89,7 +89,7 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "published": "Fri, 01 May 2026 16:02:36 +0000",
-      "age_hours": "21.61",
+      "age_hours": "22.91",
       "freshness_status": "stale",
       "editorial_score": "90",
       "urgency": "WATCH"
@@ -114,7 +114,7 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "published": "2026-05-01T07:18:54-04:00",
-      "age_hours": "26.33",
+      "age_hours": "27.63",
       "freshness_status": "stale",
       "editorial_score": "64",
       "urgency": "WATCH"
@@ -139,7 +139,7 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "published": "Fri, 01 May 2026 17:44:29 +0000",
-      "age_hours": "19.91",
+      "age_hours": "21.21",
       "freshness_status": "stale",
       "editorial_score": "52",
       "urgency": "DEVELOPING"
@@ -164,7 +164,7 @@
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "published": "Fri, 01 May 2026 14:00:00 +0000",
-      "age_hours": "23.65",
+      "age_hours": "24.95",
       "freshness_status": "stale",
       "editorial_score": "52",
       "urgency": "DEVELOPING"
@@ -193,7 +193,7 @@
       ],
       "editor_note": "Monitor for follow-up reporting and broader trend connection.",
       "source_feed": "freshness-gate",
-      "published": "2026-05-02 09:38:57 AM ET",
+      "published": "2026-05-02 10:56:59 AM ET",
       "age_hours": "0.00",
       "freshness_status": "freshness_fallback",
       "editorial_score": "0",
