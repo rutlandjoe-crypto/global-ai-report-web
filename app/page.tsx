@@ -1,9 +1,12 @@
 import fs from "fs";
 import path from "path";
-
-export const dynamic = "force-dynamic";
+import { headers } from "next/headers";
 
 import EditorialStandard from "@/components/EditorialStandard";
+
+export const dynamic = "force-dynamic";
+export const revalidate = 0;
+export const fetchCache = "force-no-store";
 
 type AnyObj = Record<string, any>;
 
@@ -30,7 +33,7 @@ const GSR_NETWORK = [
   ["Entertainment", "https://globalentertainmentreport.com"],
 ];
 
-function readReport(): AnyObj {
+function readReportFromFile(): AnyObj {
   try {
     const file = path.join(process.cwd(), "public", "latest_report.json");
     const raw = fs.readFileSync(file, "utf8");
@@ -40,13 +43,54 @@ function readReport(): AnyObj {
   }
 }
 
+async function readReport(): Promise<AnyObj> {
+  const fallback = readReportFromFile();
+
+  try {
+    const h = await headers();
+    const host = h.get("host");
+
+    if (!host) return fallback;
+
+    const protocol = host.includes("localhost") ? "http" : "https";
+    const url = `${protocol}://${host}/latest_report.json?cacheBust=${Date.now()}`;
+
+    const res = await fetch(url, {
+      cache: "no-store",
+      next: { revalidate: 0 },
+      headers: {
+        "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+        Pragma: "no-cache",
+        Expires: "0",
+      },
+    });
+
+    if (!res.ok) return fallback;
+
+    const data = await res.json();
+    return data && typeof data === "object" ? data : fallback;
+  } catch {
+    return fallback;
+  }
+}
+
 function cleanText(value: any): string {
   if (value === null || value === undefined) return "";
   if (Array.isArray(value)) return value.map(cleanText).filter(Boolean).join(" • ");
   if (typeof value === "object") {
     return Object.values(value).map(cleanText).filter(Boolean).join(" • ");
   }
-  return String(value).replace(/\s+/g, " ").trim();
+
+  return String(value)
+    .replace(/â€”/g, "—")
+    .replace(/â€“/g, "–")
+    .replace(/â€˜/g, "'")
+    .replace(/â€™/g, "'")
+    .replace(/â€œ/g, '"')
+    .replace(/â€�/g, '"')
+    .replace(/Â/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function asList(value: any): string[] {
@@ -62,12 +106,12 @@ function asList(value: any): string[] {
 
 function getStories(report: AnyObj): AnyObj[] {
   const candidates =
+    report.sections ||
     report.stories ||
     report.news ||
     report.headlines ||
     report.items ||
     report.articles ||
-    report.sections ||
     [];
 
   if (Array.isArray(candidates)) return candidates.filter(Boolean);
@@ -160,10 +204,7 @@ function NewsroomBriefing({ items }: { items: string[] }) {
       {safe.length ? (
         <div className="space-y-2">
           {safe.map((item, i) => (
-            <p
-              key={i}
-              className="border-b border-slate-100 pb-2 text-sm leading-6 text-slate-800"
-            >
+            <p key={i} className="border-b border-slate-100 pb-2 text-sm leading-6 text-slate-800">
               {item}
             </p>
           ))}
@@ -224,8 +265,8 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
   );
 }
 
-export default function Page() {
-  const report = readReport();
+export default async function Page() {
+  const report = await readReport();
 
   const headline =
     cleanText(report.headline) ||
@@ -299,12 +340,7 @@ export default function Page() {
           <span className="text-blue-200">GSR Network:</span>
           {GSR_NETWORK.map(([name, url], index) => (
             <span key={name} className="flex items-center gap-3">
-              <a
-                href={url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-white hover:text-blue-200"
-              >
+              <a href={url} target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-200">
                 {name}
               </a>
               {index < GSR_NETWORK.length - 1 ? <span className="text-blue-400">•</span> : null}
