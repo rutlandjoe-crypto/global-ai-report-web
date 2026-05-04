@@ -1,24 +1,104 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "'This is fine' creator says AI startup stole his art",
-  "snapshot": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
-  "updated_at": "2026-05-04 03:21:49 AM ET",
-  "generated_at": "2026-05-04 03:21:49 AM ET",
+  "headline": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+  "snapshot": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+  "updated_at": "2026-05-04 05:34:33 AM ET",
+  "generated_at": "2026-05-04 05:34:33 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 36,
-    "live_fresh_items": 1,
+    "total_items_checked": 48,
+    "live_fresh_items": 0,
     "editor_fresh_items": 5,
-    "public_fallback_items": 16,
-    "stale_or_blocked_items": 35,
+    "public_fallback_items": 18,
+    "stale_or_blocked_items": 48,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-04 03:21:49 AM ET"
+    "last_checked": "2026-05-04 05:34:33 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "How the internet's favorite squirrel dad made the hottest camera app of 2026",
+      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+      "snapshot": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all...",
+      "key_data": [
+        "Key people or organizations: It, DualShot Recorder, App Store",
+        "Specific figures mentioned: 2026, 12",
+        "Story focus: How the internet's favorite squirrel dad made the hottest camera app of 2026",
+        "Source context: It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms and model providers.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from It.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-03T09:00:00-04:00",
+      "age_hours": "20.58",
+      "freshness_status": "stale",
+      "editorial_score": "56",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "snapshot": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "key_data": [
+        "Key people or organizations: In Harvard",
+        "Story focus: In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+        "Source context: A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms and model providers.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from In Harvard.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 03 May 2026 18:00:09 +0000",
+      "age_hours": "15.57",
+      "freshness_status": "stale",
+      "editorial_score": "60",
+      "urgency": ""
+    },
+    {
+      "headline": "AI music is flooding streaming services — but who wants it?",
+      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+      "snapshot": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How...",
+      "key_data": [
+        "Key people or organizations: For, Terrence, Brien, ET",
+        "Specific figures mentioned: 8",
+        "Story focus: AI music is flooding streaming services — but who wants it?",
+        "Source context: This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music..."
+      ],
+      "why_it_matters": [
+        "This is part of the broader AI adoption story across business and technology.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from For.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-03T08:00:00-04:00",
+      "age_hours": "21.58",
+      "freshness_status": "stale",
+      "editorial_score": "36",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "'This is fine' creator says AI startup stole his art",
       "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
@@ -40,37 +120,63 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 03 May 2026 20:16:51 +0000",
-      "age_hours": "11.08",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
+      "age_hours": "13.30",
+      "freshness_status": "stale",
+      "editorial_score": "32",
       "urgency": ""
-    }
-  ],
-  "editor_signals": [
+    },
     {
-      "headline": "AI signal: 'This is fine' creator says AI startup stole his art",
-      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-      "snapshot": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "headline": "AI-generated actors and scripts are now ineligible for Oscars",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "snapshot": "Bad news for Tilly Norwood.",
       "key_data": [
-        "Key people or organizations: Artisan",
-        "Story focus: AI signal",
-        "Source context: The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
+        "Key people or organizations: Oscars, Bad, Tilly Norwood",
+        "Story focus: AI-generated actors and scripts are now ineligible for Oscars",
+        "Source context: Bad news for Tilly Norwood."
       ],
       "why_it_matters": [
         "This is part of the broader AI adoption story across business and technology.",
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from Artisan.",
+        "Watch for follow-up statements from Oscars.",
         "Track whether competitors, regulators or enterprise customers respond."
       ],
       "editor_note": "Monitor for follow-up reporting and broader trend connection.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sun, 03 May 2026 20:16:51 +0000",
-      "age_hours": "11.08",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
+      "published": "Sat, 02 May 2026 21:54:58 +0000",
+      "age_hours": "35.66",
+      "freshness_status": "stale",
+      "editorial_score": "24",
+      "urgency": ""
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "AI signal: In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "snapshot": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "key_data": [
+        "Key people or organizations: In Harvard",
+        "Story focus: AI signal",
+        "Source context: A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms and model providers.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from In Harvard.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 03 May 2026 18:00:09 +0000",
+      "age_hours": "15.57",
+      "freshness_status": "stale",
+      "editorial_score": "60",
       "urgency": ""
     },
     {
@@ -95,36 +201,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-03T09:00:00-04:00",
-      "age_hours": "18.36",
+      "age_hours": "20.58",
       "freshness_status": "stale",
       "editorial_score": "56",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "AI signal: In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "snapshot": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
-      "key_data": [
-        "Key people or organizations: In Harvard",
-        "Story focus: AI signal",
-        "Source context: A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms and model providers.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from In Harvard.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 03 May 2026 18:00:09 +0000",
-      "age_hours": "13.36",
-      "freshness_status": "stale",
-      "editorial_score": "60",
-      "urgency": ""
     },
     {
       "headline": "AI signal: AI music is flooding streaming services — but who wants it?",
@@ -148,10 +228,36 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-03T08:00:00-04:00",
-      "age_hours": "19.36",
+      "age_hours": "21.58",
       "freshness_status": "stale",
       "editorial_score": "36",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "AI signal: 'This is fine' creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "snapshot": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "key_data": [
+        "Key people or organizations: Artisan",
+        "Story focus: AI signal",
+        "Source context: The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
+      ],
+      "why_it_matters": [
+        "This is part of the broader AI adoption story across business and technology.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Artisan.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 03 May 2026 20:16:51 +0000",
+      "age_hours": "13.30",
+      "freshness_status": "stale",
+      "editorial_score": "32",
+      "urgency": ""
     },
     {
       "headline": "AI signal: AI-generated actors and scripts are now ineligible for Oscars",
@@ -174,16 +280,98 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 02 May 2026 21:54:58 +0000",
-      "age_hours": "33.45",
+      "age_hours": "35.66",
       "freshness_status": "stale",
       "editorial_score": "24",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "'This is fine' creator says AI startup stole his art"
+    "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+    "How the internet's favorite squirrel dad made the hottest camera app of 2026",
+    "AI music is flooding streaming services — but who wants it?"
   ],
   "sections": [
+    {
+      "headline": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "snapshot": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "key_data": [
+        "Key people or organizations: In Harvard",
+        "Story focus: In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+        "Source context: A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms and model providers.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from In Harvard.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 03 May 2026 18:00:09 +0000",
+      "age_hours": "15.57",
+      "freshness_status": "stale",
+      "editorial_score": "60",
+      "urgency": ""
+    },
+    {
+      "headline": "How the internet's favorite squirrel dad made the hottest camera app of 2026",
+      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+      "snapshot": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all...",
+      "key_data": [
+        "Key people or organizations: It, DualShot Recorder, App Store",
+        "Specific figures mentioned: 2026, 12",
+        "Story focus: How the internet's favorite squirrel dad made the hottest camera app of 2026",
+        "Source context: It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms and model providers.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from It.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-03T09:00:00-04:00",
+      "age_hours": "20.58",
+      "freshness_status": "stale",
+      "editorial_score": "56",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "AI music is flooding streaming services — but who wants it?",
+      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+      "snapshot": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How...",
+      "key_data": [
+        "Key people or organizations: For, Terrence, Brien, ET",
+        "Specific figures mentioned: 8",
+        "Story focus: AI music is flooding streaming services — but who wants it?",
+        "Source context: This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music..."
+      ],
+      "why_it_matters": [
+        "This is part of the broader AI adoption story across business and technology.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from For.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-03T08:00:00-04:00",
+      "age_hours": "21.58",
+      "freshness_status": "stale",
+      "editorial_score": "36",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "'This is fine' creator says AI startup stole his art",
       "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
@@ -205,9 +393,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 03 May 2026 20:16:51 +0000",
-      "age_hours": "11.08",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
+      "age_hours": "13.30",
+      "freshness_status": "stale",
+      "editorial_score": "32",
       "urgency": ""
     }
   ],
