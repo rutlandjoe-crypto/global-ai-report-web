@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
   "snapshot": "Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public. In an announcement on Tuesday, the Commerce Department's Center for AI Standards and Innovation (CAISI) says it will work with...",
-  "updated_at": "2026-05-05 12:09:03 PM ET",
-  "generated_at": "2026-05-05 12:09:03 PM ET",
+  "updated_at": "2026-05-05 01:48:24 PM ET",
+  "generated_at": "2026-05-05 01:48:24 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 37,
-    "live_fresh_items": 14,
-    "editor_fresh_items": 25,
-    "public_fallback_items": 29,
-    "stale_or_blocked_items": 23,
+    "total_items_checked": 49,
+    "live_fresh_items": 18,
+    "editor_fresh_items": 30,
+    "public_fallback_items": 32,
+    "stale_or_blocked_items": 31,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-05 12:09:03 PM ET"
+    "last_checked": "2026-05-05 01:48:24 PM ET"
   },
   "live_newsroom": [
     {
@@ -40,10 +40,36 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-05T10:26:59-04:00",
-      "age_hours": "1.70",
+      "age_hours": "3.36",
       "freshness_status": "fresh",
       "editorial_score": "192",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta sued by major book publishers over copyright infringement",
+      "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+      "snapshot": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times....",
+      "key_data": [
+        "Key people or organizations: Meta, Llama AI",
+        "Story focus: Meta sued by major book publishers over copyright infringement",
+        "Source context: Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal, safety or regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies, users and enterprise adoption."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Meta.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-05T12:52:38-04:00",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "166",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "CopilotKit raises $27M to help devs deploy app-native AI agents",
@@ -67,7 +93,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 05 May 2026 14:07:47 +0000",
-      "age_hours": "2.02",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": ""
@@ -93,19 +119,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 05 May 2026 13:18:50 +0000",
-      "age_hours": "2.84",
+      "age_hours": "4.49",
       "freshness_status": "fresh",
       "editorial_score": "126",
       "urgency": ""
     },
     {
-      "headline": "OpenAI is reportedly launching a phone for ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
-      "snapshot": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming OpenAI is \"fast-tracking\" it and aiming to start mass production in early...",
+      "headline": "OpenAI claims ChatGPT's new default model hallucinates way less",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "snapshot": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on...",
       "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, Jony Ive, As",
-        "Story focus: OpenAI is reportedly launching a phone for ChatGPT",
-        "Source context: OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo..."
+        "Key people or organizations: OpenAI, ChatGPT, Hallucinations, GPT",
+        "Specific figures mentioned: 5.5",
+        "Story focus: OpenAI claims ChatGPT's new default model hallucinates way less",
+        "Source context: OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms and model providers.",
@@ -118,37 +145,11 @@
       "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-05-05T10:54:00-04:00",
-      "age_hours": "1.25",
+      "published": "2026-05-05T13:00:00-04:00",
+      "age_hours": "0.81",
       "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "snapshot": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
-      "key_data": [
-        "Key people or organizations: Etsy, ChatGPT",
-        "Story focus: Etsy launches its app within ChatGPT as it continues its AI push",
-        "Source context: Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms and model providers.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from Etsy.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 05 May 2026 15:31:37 +0000",
-      "age_hours": "0.62",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": "WATCH"
+      "editorial_score": "144",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -173,10 +174,63 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-05T10:26:59-04:00",
-      "age_hours": "1.70",
+      "age_hours": "3.36",
       "freshness_status": "fresh",
       "editorial_score": "192",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "AI signal: Meta sued by major book publishers over copyright infringement",
+      "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+      "snapshot": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times....",
+      "key_data": [
+        "Key people or organizations: Meta, Llama AI",
+        "Story focus: AI signal",
+        "Source context: Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal, safety or regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies, users and enterprise adoption."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Meta.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-05T12:52:38-04:00",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "166",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "AI signal: OpenAI claims ChatGPT's new default model hallucinates way less",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "snapshot": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on...",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT, Hallucinations, GPT",
+        "Specific figures mentioned: 5.5",
+        "Story focus: AI signal",
+        "Source context: OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms and model providers.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from OpenAI.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-05T13:00:00-04:00",
+      "age_hours": "0.81",
+      "freshness_status": "fresh",
+      "editorial_score": "144",
+      "urgency": ""
     },
     {
       "headline": "AI signal: CopilotKit raises $27M to help devs deploy app-native AI agents",
@@ -200,94 +254,43 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 05 May 2026 14:07:47 +0000",
-      "age_hours": "2.02",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": ""
     },
     {
-      "headline": "AI signal: India's first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
-      "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
-      "snapshot": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
+      "headline": "AI signal: OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "snapshot": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
       "key_data": [
-        "Key people or organizations: India, GenAI, Krutrim",
+        "Key people or organizations: OpenAI, GPT, Instant, ChatGPT",
+        "Specific figures mentioned: 5.5",
         "Story focus: AI signal",
-        "Source context: Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India."
+        "Source context: The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms and model providers.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from India.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Developing story with elevated newsroom urgency.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 05 May 2026 13:18:50 +0000",
-      "age_hours": "2.84",
-      "freshness_status": "fresh",
-      "editorial_score": "126",
-      "urgency": ""
-    },
-    {
-      "headline": "AI signal: OpenAI is reportedly launching a phone for ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
-      "snapshot": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming OpenAI is \"fast-tracking\" it and aiming to start mass production in early...",
-      "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, Jony Ive, As",
-        "Story focus: AI signal",
-        "Source context: OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms and model providers.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into legal, safety or regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies, users and enterprise adoption."
       ],
       "what_to_watch": [
         "Watch for follow-up statements from OpenAI.",
         "Track whether competitors, regulators or enterprise customers respond."
       ],
       "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-05T10:54:00-04:00",
-      "age_hours": "1.25",
-      "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "AI signal: Etsy launches its app within ChatGPT as it continues its AI push",
-      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "snapshot": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
-      "key_data": [
-        "Key people or organizations: Etsy, ChatGPT",
-        "Story focus: AI signal",
-        "Source context: Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms and model providers.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from Etsy.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 05 May 2026 15:31:37 +0000",
-      "age_hours": "0.62",
+      "published": "Tue, 05 May 2026 17:00:00 +0000",
+      "age_hours": "0.81",
       "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": "WATCH"
+      "editorial_score": "136",
+      "urgency": ""
     }
   ],
   "key_storylines": [
     "Google, Microsoft, and xAI will allow the US government to review their new AI models",
-    "CopilotKit raises $27M to help devs deploy app-native AI agents",
-    "India's first GenAI unicorn shifts to cloud services as AI model ambitions face reality"
+    "Meta sued by major book publishers over copyright infringement",
+    "OpenAI claims ChatGPT's new default model hallucinates way less"
   ],
   "sections": [
     {
@@ -311,10 +314,63 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-05T10:26:59-04:00",
-      "age_hours": "1.70",
+      "age_hours": "3.36",
       "freshness_status": "fresh",
       "editorial_score": "192",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta sued by major book publishers over copyright infringement",
+      "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+      "snapshot": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" when training its Llama AI models, as reported earlier by The New York Times....",
+      "key_data": [
+        "Key people or organizations: Meta, Llama AI",
+        "Story focus: Meta sued by major book publishers over copyright infringement",
+        "Source context: Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal, safety or regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies, users and enterprise adoption."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Meta.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-05T12:52:38-04:00",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "166",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI claims ChatGPT's new default model hallucinates way less",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "snapshot": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant improvements in factuality across the board.\" The company claims that, based on...",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT, Hallucinations, GPT",
+        "Specific figures mentioned: 5.5",
+        "Story focus: OpenAI claims ChatGPT's new default model hallucinates way less",
+        "Source context: OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms and model providers.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from OpenAI.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-05T13:00:00-04:00",
+      "age_hours": "0.81",
+      "freshness_status": "fresh",
+      "editorial_score": "144",
+      "urgency": ""
     },
     {
       "headline": "CopilotKit raises $27M to help devs deploy app-native AI agents",
@@ -338,9 +394,36 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 05 May 2026 14:07:47 +0000",
-      "age_hours": "2.02",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "140",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "snapshot": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+      "key_data": [
+        "Key people or organizations: OpenAI, GPT, Instant, ChatGPT",
+        "Specific figures mentioned: 5.5",
+        "Story focus: OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+        "Source context: The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal, safety or regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies, users and enterprise adoption."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from OpenAI.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 05 May 2026 17:00:00 +0000",
+      "age_hours": "0.81",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
       "urgency": ""
     },
     {
@@ -364,87 +447,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 05 May 2026 13:18:50 +0000",
-      "age_hours": "2.84",
+      "age_hours": "4.49",
       "freshness_status": "fresh",
       "editorial_score": "126",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI is reportedly launching a phone for ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
-      "snapshot": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming OpenAI is \"fast-tracking\" it and aiming to start mass production in early...",
-      "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, Jony Ive, As",
-        "Story focus: OpenAI is reportedly launching a phone for ChatGPT",
-        "Source context: OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms and model providers.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from OpenAI.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-05T10:54:00-04:00",
-      "age_hours": "1.25",
-      "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "snapshot": "Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users.",
-      "key_data": [
-        "Key people or organizations: Etsy, ChatGPT",
-        "Story focus: Etsy launches its app within ChatGPT as it continues its AI push",
-        "Source context: Etsy's new native app within ChatGPT aims to be a conversational shopping experience for users."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms and model providers.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from Etsy.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 05 May 2026 15:31:37 +0000",
-      "age_hours": "0.62",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Researchers gaslit Claude into giving instructions to build explosives",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
-      "snapshot": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerability. Researchers at AI red-teaming company Mindgard say they got Claude to...",
-      "key_data": [
-        "Key people or organizations: Researchers, Claude, Anthropic, But",
-        "Story focus: Researchers gaslit Claude into giving instructions to build explosives",
-        "Source context: Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms and model providers.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from Researchers.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-05T09:13:08-04:00",
-      "age_hours": "2.93",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     }
   ],
