@@ -1,24 +1,51 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "US government increases AI suppliers and rethinks Anthropic's role",
-  "snapshot": "The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft, Reflection AI (which has yet to release a publicly-available model), Amazon, and Nvidia that mean their products can be used on...",
-  "updated_at": "2026-05-06 09:10:23 AM ET",
-  "generated_at": "2026-05-06 09:10:23 AM ET",
+  "headline": "Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
+  "snapshot": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+  "updated_at": "2026-05-06 11:32:48 AM ET",
+  "generated_at": "2026-05-06 11:32:48 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 7,
-    "editor_fresh_items": 28,
-    "public_fallback_items": 34,
-    "stale_or_blocked_items": 42,
+    "total_items_checked": 48,
+    "live_fresh_items": 13,
+    "editor_fresh_items": 31,
+    "public_fallback_items": 33,
+    "stale_or_blocked_items": 35,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-06 09:10:23 AM ET"
+    "last_checked": "2026-05-06 11:32:48 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
+      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "snapshot": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+      "key_data": [
+        "Key people or organizations: Apple, Siri",
+        "Specific figures mentioned: $250M, $250 million",
+        "Story focus: Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
+        "Source context: Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal, safety or regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies, users and enterprise adoption."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Apple.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 06 May 2026 15:12:49 +0000",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "US government increases AI suppliers and rethinks Anthropic's role",
       "url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
@@ -40,7 +67,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 06 May 2026 12:23:00 +0000",
-      "age_hours": "0.79",
+      "age_hours": "3.16",
       "freshness_status": "fresh",
       "editorial_score": "144",
       "urgency": ""
@@ -66,7 +93,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 06 May 2026 10:00:00 +0000",
-      "age_hours": "3.17",
+      "age_hours": "5.55",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": ""
@@ -92,7 +119,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-06T09:00:30-04:00",
-      "age_hours": "0.16",
+      "age_hours": "2.54",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -119,39 +146,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-06T06:13:09-04:00",
-      "age_hours": "2.95",
+      "age_hours": "5.33",
       "freshness_status": "fresh",
       "editorial_score": "80",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft's Office and LinkedIn chief now runs Teams in latest reshuffle",
-      "url": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
-      "snapshot": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is...",
-      "key_data": [
-        "Key people or organizations: Microsoft, Office, LinkedIn, Teams",
-        "Story focus: Microsoft's Office and LinkedIn chief now runs Teams in latest reshuffle",
-        "Source context: Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms and model providers.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from Microsoft.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-06T07:45:41-04:00",
-      "age_hours": "1.41",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "AI signal: Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
+      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "snapshot": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+      "key_data": [
+        "Key people or organizations: Apple, Siri",
+        "Specific figures mentioned: $250M, $250 million",
+        "Story focus: AI signal",
+        "Source context: Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal, safety or regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies, users and enterprise adoption."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Apple.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 06 May 2026 15:12:49 +0000",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "AI signal: US government increases AI suppliers and rethinks Anthropic's role",
       "url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
@@ -173,7 +201,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 06 May 2026 12:23:00 +0000",
-      "age_hours": "0.79",
+      "age_hours": "3.16",
       "freshness_status": "fresh",
       "editorial_score": "144",
       "urgency": ""
@@ -199,7 +227,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-05T12:52:38-04:00",
-      "age_hours": "20.30",
+      "age_hours": "22.67",
       "freshness_status": "stale",
       "editorial_score": "136",
       "urgency": "DEVELOPING"
@@ -226,7 +254,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-05T17:18:23-04:00",
-      "age_hours": "15.87",
+      "age_hours": "18.24",
       "freshness_status": "stale",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
@@ -253,45 +281,45 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-05T13:00:00-04:00",
-      "age_hours": "20.17",
+      "age_hours": "22.55",
       "freshness_status": "stale",
       "editorial_score": "114",
       "urgency": ""
-    },
+    }
+  ],
+  "key_storylines": [
+    "Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
+    "US government increases AI suppliers and rethinks Anthropic's role",
+    "Google tests Remy AI agent for Gemini as focus turns to user control"
+  ],
+  "sections": [
     {
-      "headline": "AI signal: CopilotKit raises $27M to help devs deploy app-native AI agents",
-      "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-      "snapshot": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
+      "headline": "Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
+      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "snapshot": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
       "key_data": [
-        "Key people or organizations: CopilotKit, Series, Glilot Capital, NFX",
-        "Specific figures mentioned: $27M",
-        "Story focus: AI signal",
-        "Source context: The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned."
+        "Key people or organizations: Apple, Siri",
+        "Specific figures mentioned: $250M, $250 million",
+        "Story focus: Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
+        "Source context: Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
       ],
       "why_it_matters": [
-        "This is part of the broader AI adoption story across business and technology.",
-        "Editors should separate real market movement from promotional noise."
+        "This shows AI moving from product hype into legal, safety or regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies, users and enterprise adoption."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from CopilotKit.",
+        "Watch for follow-up statements from Apple.",
         "Track whether competitors, regulators or enterprise customers respond."
       ],
       "editor_note": "Developing story with elevated newsroom urgency.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 05 May 2026 14:07:47 +0000",
-      "age_hours": "23.04",
-      "freshness_status": "stale",
-      "editorial_score": "110",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "US government increases AI suppliers and rethinks Anthropic's role",
-    "Google tests Remy AI agent for Gemini as focus turns to user control",
-    "Google's AI search summaries will now quote Reddit"
-  ],
-  "sections": [
+      "published": "Wed, 06 May 2026 15:12:49 +0000",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "US government increases AI suppliers and rethinks Anthropic's role",
       "url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
@@ -313,7 +341,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 06 May 2026 12:23:00 +0000",
-      "age_hours": "0.79",
+      "age_hours": "3.16",
       "freshness_status": "fresh",
       "editorial_score": "144",
       "urgency": ""
@@ -339,7 +367,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 06 May 2026 10:00:00 +0000",
-      "age_hours": "3.17",
+      "age_hours": "5.55",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": ""
@@ -365,7 +393,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-06T09:00:30-04:00",
-      "age_hours": "0.16",
+      "age_hours": "2.54",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -392,9 +420,36 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-06T06:13:09-04:00",
-      "age_hours": "2.95",
+      "age_hours": "5.33",
       "freshness_status": "fresh",
       "editorial_score": "80",
+      "urgency": ""
+    },
+    {
+      "headline": "AI boom pushes Samsung to $1T",
+      "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "snapshot": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+      "key_data": [
+        "Key people or organizations: Samsung, Asian, TSMC",
+        "Specific figures mentioned: 1, $1",
+        "Story focus: AI boom pushes Samsung to $1T",
+        "Source context: Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to..."
+      ],
+      "why_it_matters": [
+        "This points to the infrastructure and institutional race behind AI growth.",
+        "Editors can frame the story around power, procurement, capacity and competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Samsung.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 06 May 2026 13:54:09 +0000",
+      "age_hours": "1.64",
+      "freshness_status": "fresh",
+      "editorial_score": "79",
       "urgency": ""
     },
     {
@@ -418,7 +473,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-06T07:45:41-04:00",
-      "age_hours": "1.41",
+      "age_hours": "3.79",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": ""
@@ -444,36 +499,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 06 May 2026 06:34:32 +0000",
-      "age_hours": "6.60",
+      "age_hours": "8.97",
       "freshness_status": "fresh",
       "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Peter Sarlin's QuTwo reaches $380M valuation in angel round",
-      "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-      "snapshot": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech,...",
-      "key_data": [
-        "Key people or organizations: Peter Sarlin, QuTwo, Finnish AI, AMD Silo AI CEO",
-        "Specific figures mentioned: $380M, 325, $380 million, 25",
-        "Story focus: Peter Sarlin's QuTwo reaches $380M valuation in angel round",
-        "Source context: QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a..."
-      ],
-      "why_it_matters": [
-        "This is part of the broader AI adoption story across business and technology.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from Peter Sarlin.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 06 May 2026 06:47:12 +0000",
-      "age_hours": "6.39",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
       "urgency": ""
     }
   ],
