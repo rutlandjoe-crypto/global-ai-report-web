@@ -1,59 +1,187 @@
 {
   "title": "Global AI Report",
+  "vertical": "AI",
   "headline": "Google Expands Gemini AI Across Workspace as Enterprise Race Intensifies",
   "snapshot": "Google is pushing deeper AI integration into its core business tools, signaling an aggressive move against Microsoft and OpenAI. The enterprise AI race is shifting from experimentation to full deployment.",
+  "updated_at": "2026-04-26 10:30:00 PM ET",
+  "generated_at": "2026-04-26 10:30:00 PM ET",
   "key_storylines": [
-    "Google integrates Gemini across Docs, Sheets, and Gmail",
+    "Google integrates Gemini across Docs, Sheets and Gmail",
     "Enterprise AI adoption accelerates across sectors",
     "Microsoft and OpenAI continue enterprise push",
     "AI competition centers on productivity ecosystems"
   ],
-  "generated_at": "2026-04-26 10:30:00 PM ET",
-  "sections": [
+  "live_newsroom": [
     {
-      "title": "AI INDUSTRY LEAD",
+      "label": "AI Industry Lead",
       "headline": "Google Expands Gemini Integration Across Workspace Platform",
-      "items": [
+      "summary": "Google is embedding Gemini more deeply into its productivity suite as the enterprise AI race becomes a battle over workplace ecosystems.",
+      "url": "https://workspace.google.com/",
+      "key_data": [
+        "Gemini AI is being positioned inside core Google Workspace tools",
+        "The move targets enterprise productivity and business workflow adoption",
+        "Google is competing directly with Microsoft Copilot for workplace AI users"
+      ],
+      "why_it_matters": [
+        "Enterprise AI is moving from experimentation into daily business operations",
+        "Workspace integration gives Google a direct route into existing corporate workflows",
+        "The next phase of AI competition may be decided by productivity platforms, not standalone chatbots"
+      ],
+      "what_to_watch": [
+        "Watch how quickly companies activate Gemini across Docs, Sheets and Gmail",
+        "Monitor Microsoft Copilot adoption and pricing response",
+        "Track whether enterprise customers demand stronger AI governance controls"
+      ]
+    },
+    {
+      "label": "Enterprise AI Watch",
+      "headline": "Corporate AI Adoption Moves Into Full Deployment Phase",
+      "summary": "Companies are shifting from pilot programs toward broader AI rollouts tied to revenue, productivity and efficiency metrics.",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "key_data": [
+        "Companies are moving from pilot programs to broader AI deployment",
+        "AI tools are increasingly connected to revenue and efficiency targets",
+        "Enterprise demand is pushing faster model and product development"
+      ],
+      "why_it_matters": [
+        "This marks a shift from AI curiosity to AI operating infrastructure",
+        "Executives are now evaluating AI on measurable business outcomes",
+        "Journalists should watch whether promised productivity gains show up in earnings, staffing and operations"
+      ],
+      "what_to_watch": [
+        "Monitor AI-related hiring, restructuring and budget shifts",
+        "Track enterprise adoption claims against actual business performance",
+        "Watch for worker backlash, compliance concerns and failed deployments"
+      ]
+    },
+    {
+      "label": "Policy & Regulation",
+      "headline": "Global Regulators Intensify Oversight of AI Systems",
+      "summary": "Governments are increasing scrutiny of AI safety, transparency, bias and accountability as adoption spreads across business and public life.",
+      "url": "https://hai.stanford.edu/",
+      "key_data": [
+        "EU AI Act enforcement framework continues to advance",
+        "U.S. lawmakers continue pushing transparency and accountability requirements",
+        "Regulators remain focused on safety, bias and high-risk AI use"
+      ],
+      "why_it_matters": [
+        "AI policy is becoming a core business risk for companies deploying models at scale",
+        "Regulation could shape which AI products reach market and how they are used",
+        "Journalists should connect policy moves to real-world deployment risks"
+      ],
+      "what_to_watch": [
+        "Track enforcement timelines and compliance requirements",
+        "Watch how major AI companies adapt product disclosures",
+        "Monitor legal challenges and government procurement rules"
+      ]
+    },
+    {
+      "label": "AI Market Signals",
+      "headline": "AI Investment and Hiring Trends Show Continued Growth",
+      "summary": "AI infrastructure, engineering talent and company restructuring remain major signals of where the sector is heading next.",
+      "url": "https://www.nvidia.com/en-us/news/",
+      "key_data": [
+        "Venture funding continues flowing into AI infrastructure startups",
+        "Hiring demand remains strong for machine learning and AI infrastructure roles",
+        "Companies are restructuring teams around AI-first strategies"
+      ],
+      "why_it_matters": [
+        "Capital and hiring patterns show where the AI economy is concentrating",
+        "Infrastructure demand points to continued pressure on chips, cloud and data centers",
+        "The strongest AI companies may be those controlling distribution, compute or enterprise workflows"
+      ],
+      "what_to_watch": [
+        "Monitor AI infrastructure funding rounds",
+        "Track chip, cloud and data center demand",
+        "Watch whether AI hiring translates into durable revenue growth"
+      ]
+    }
+  ],
+  "editor_signals": [
+    {
+      "label": "Editor Signal",
+      "headline": "Enterprise AI Is Moving From Demo Mode to Deployment Mode",
+      "summary": "The strongest AI storyline is no longer just model capability. It is whether companies can turn AI into reliable, governed, measurable workplace infrastructure.",
+      "key_data": [
+        "Workspace, Copilot and enterprise platforms are now central battlegrounds",
+        "Adoption is increasingly judged by productivity, compliance and revenue impact",
+        "AI coverage should connect product launches to actual business deployment"
+      ],
+      "why_it_matters": [
+        "This gives journalists a sharper frame than simply covering every new AI product announcement"
+      ],
+      "what_to_watch": [
+        "Watch adoption data, customer retention, pricing pressure and enterprise governance requirements"
+      ]
+    }
+  ],
+  "stories": [
+    {
+      "label": "AI Industry Lead",
+      "headline": "Google Expands Gemini Integration Across Workspace Platform",
+      "summary": "Google is pushing Gemini deeper into Workspace as enterprise AI competition intensifies.",
+      "url": "https://workspace.google.com/",
+      "key_data": [
         "Gemini AI now embedded in core Google Workspace tools",
         "Move targets enterprise productivity market dominance",
         "Positions Google directly against Microsoft Copilot"
+      ],
+      "why_it_matters": [
+        "Google is using Workspace distribution to compete for enterprise AI adoption."
+      ],
+      "what_to_watch": [
+        "Watch customer adoption, pricing changes and Microsoft’s Copilot response."
       ]
     },
     {
-      "title": "ENTERPRISE AI WATCH",
+      "label": "Enterprise AI Watch",
       "headline": "Corporate AI Adoption Moves Into Full Deployment Phase",
-      "items": [
+      "summary": "Companies are moving from AI pilots to larger rollouts tied to measurable business outcomes.",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "key_data": [
         "Companies shifting from pilot programs to full rollout",
         "AI tools increasingly tied to revenue and efficiency metrics",
         "Enterprise demand driving rapid model development"
+      ],
+      "why_it_matters": [
+        "The AI market is being judged more by business impact than hype."
+      ],
+      "what_to_watch": [
+        "Track earnings commentary, workforce impact and enterprise governance concerns."
       ]
     },
     {
-      "title": "POLICY & REGULATION",
+      "label": "Policy & Regulation",
       "headline": "Global Regulators Intensify Oversight of AI Systems",
-      "items": [
+      "summary": "AI regulation is becoming a major factor for companies deploying models across high-risk sectors.",
+      "url": "https://hai.stanford.edu/",
+      "key_data": [
         "EU AI Act enforcement framework advances",
         "U.S. lawmakers push for transparency requirements",
-        "Focus remains on safety, bias, and accountability"
+        "Focus remains on safety, bias and accountability"
+      ],
+      "why_it_matters": [
+        "Policy decisions may determine how quickly AI systems are deployed and where they face restrictions."
+      ],
+      "what_to_watch": [
+        "Watch enforcement rules, company disclosures and legal challenges."
       ]
     },
     {
-      "title": "AI MARKET SIGNALS",
+      "label": "AI Market Signals",
       "headline": "AI Investment and Hiring Trends Show Continued Growth",
-      "items": [
+      "summary": "Funding, hiring and infrastructure demand continue to define the AI business cycle.",
+      "url": "https://www.nvidia.com/en-us/news/",
+      "key_data": [
         "Venture funding flows into AI infrastructure startups",
         "Hiring demand rises for machine learning engineers",
         "Companies restructure around AI-first strategies"
-      ]
-    },
-    {
-      "title": "JOURNALIST TOOLKIT",
-      "items": [
-        "OpenAI — Model releases and enterprise AI strategy",
-        "Google DeepMind — Research breakthroughs and product integration",
-        "Microsoft — AI enterprise deployments and Copilot expansion",
-        "Stanford HAI — Academic research and policy insights",
-        "MIT Technology Review — Industry analysis and reporting"
+      ],
+      "why_it_matters": [
+        "Investment and hiring show where companies expect AI value to materialize."
+      ],
+      "what_to_watch": [
+        "Monitor AI infrastructure funding, chip demand and enterprise hiring patterns."
       ]
     }
   ]

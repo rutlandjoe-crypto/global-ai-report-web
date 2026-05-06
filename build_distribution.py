@@ -1,40 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-build_distribution.py
-
-Global Sports Report distribution builder.
-
-What this script does:
-- Loads plain-text report files from sports_bot-ai
-- Loads optional advanced report files
-- Builds a stable latest_report.json payload for the website
-- Writes platform-ready text outputs:
-  - substack_post.txt
-  - telegram_post.txt
-  - twitter_thread.txt
-  - latest_report.txt
-- Copies the website files into global-sports-report-web/public
-- Copies Statcast SVG into website public folder so it renders on site
-- Optionally posts to Telegram
-- Optionally posts a thread to X/Twitter
-- Never crashes because a section contains lists/dicts instead of strings
-- Never calls undefined upload helpers
-
-This file is designed as a full replacement.
-"""
-
 from __future__ import annotations
 
 import json
-import math
 import os
 import re
 import shutil
 import subprocess
-import sys
-import textwrap
 import traceback
 from datetime import datetime
 from pathlib import Path
@@ -61,54 +34,33 @@ except Exception:
     load_dotenv = None  # type: ignore
 
 
-# =============================================================================
-# PATHS / CONSTANTS
-# =============================================================================
-
 BASE_DIR = Path(__file__).resolve().parent
-WEB_DIR = Path(r"C:\Users\joeru\OneDrive\Desktop\global-sports-report-web")
+WEB_DIR = Path(r"C:\Users\joeru\OneDrive\Desktop\global-ai-report-web")
 WEB_PUBLIC_DIR = WEB_DIR / "public"
 
-TITLE = "GLOBAL SPORTS REPORT"
-DISCLAIMER = "This report is an automated summary intended to support, not replace, human sports journalism."
+TITLE = "GLOBAL AI REPORT"
+SITE_NAME = "Global AI Report"
+TAGLINE = "Built for journalists, by a journalist."
+DISCLAIMER = "This report is an automated signal and structure layer intended to support, not replace, human journalism."
 DEFAULT_X_HANDLE = "@GlobalSportsRp"
 DEFAULT_SUBSTACK_URL = "https://globalsportsreport.substack.com/"
-
 SITE_TZ = "America/New_York"
 
 REPORT_FILES: dict[str, Path] = {
-    "mlb": BASE_DIR / "mlb_report.txt",
-    "nba": BASE_DIR / "nba_report.txt",
-    "nhl": BASE_DIR / "nhl_report.txt",
-    "nfl": BASE_DIR / "nfl_report.txt",
-    "ncaafb": BASE_DIR / "ncaafb_report.txt",
-    "soccer": BASE_DIR / "soccer_report.txt",
-    "betting_odds": BASE_DIR / "betting_odds_report.txt",
-    "fantasy": BASE_DIR / "fantasy_report.txt",
-}
-
-ADVANCED_REPORT_FILES: dict[str, Path] = {
-    "mlb": BASE_DIR / "mlb_advanced_report.txt",
-    "nba": BASE_DIR / "nba_advanced_report.txt",
-    "nfl": BASE_DIR / "nfl_advanced_report.txt",
-    "nfl_draft_signals": BASE_DIR / "nfl_draft_signals.txt",
+    "ai": BASE_DIR / "ai_report.txt",
+    "technology": BASE_DIR / "technology_report.txt",
+    "business": BASE_DIR / "business_report.txt",
+    "policy": BASE_DIR / "policy_report.txt",
+    "research": BASE_DIR / "research_report.txt",
 }
 
 JSON_REPORT_FILES: dict[str, Path] = {
-    "mlb": BASE_DIR / "mlb_report.json",
-    "nba": BASE_DIR / "nba_report.json",
-    "nhl": BASE_DIR / "nhl_report.json",
-    "nfl": BASE_DIR / "nfl_report.json",
-    "ncaafb": BASE_DIR / "ncaafb_report.json",
-    "soccer": BASE_DIR / "soccer_report.json",
-    "betting_odds": BASE_DIR / "betting_odds_report.json",
-    "fantasy": BASE_DIR / "fantasy_report.json",
+    "ai": BASE_DIR / "ai_report.json",
+    "technology": BASE_DIR / "technology_report.json",
+    "business": BASE_DIR / "business_report.json",
+    "policy": BASE_DIR / "policy_report.json",
+    "research": BASE_DIR / "research_report.json",
 }
-
-STATCAST_FILES = [
-    BASE_DIR / "mlb_statcast_snapshot.svg",
-    BASE_DIR / "statcast_snapshot.svg",
-]
 
 OUTPUT_SUBSTACK = BASE_DIR / "substack_post.txt"
 OUTPUT_TELEGRAM = BASE_DIR / "telegram_post.txt"
@@ -116,30 +68,27 @@ OUTPUT_TWITTER = BASE_DIR / "twitter_thread.txt"
 OUTPUT_LATEST_TXT = BASE_DIR / "latest_report.txt"
 OUTPUT_LATEST_JSON = BASE_DIR / "latest_report.json"
 OUTPUT_PREVIOUS_JSON = BASE_DIR / "latest_report.previous.json"
-GLOBAL_REPORT_TXT = BASE_DIR / "global_sports_report.txt"
+GLOBAL_REPORT_TXT = BASE_DIR / "global_ai_report.txt"
 
 WEB_COPY_TARGETS = {
     "latest_report.json": WEB_PUBLIC_DIR / "latest_report.json",
     "latest_report.txt": WEB_PUBLIC_DIR / "latest_report.txt",
-    "global_sports_report.txt": WEB_PUBLIC_DIR / "global_sports_report.txt",
-    "mlb_statcast_snapshot.svg": WEB_PUBLIC_DIR / "mlb_statcast_snapshot.svg",
+    "global_ai_report.txt": WEB_PUBLIC_DIR / "global_ai_report.txt",
 }
 
 SECTION_ORDER = [
-    "mlb",
-    "nba",
-    "nhl",
-    "nfl",
-    "ncaafb",
-    "soccer",
-    "betting_odds",
-    "fantasy",
+    "ai",
+    "technology",
+    "business",
+    "policy",
+    "research",
 ]
 
+RUN_STARTED_AT_DT = datetime.now(ZoneInfo(SITE_TZ)) if ZoneInfo else datetime.now()
+RUN_STARTED_AT = RUN_STARTED_AT_DT.strftime("%Y-%m-%d %I:%M:%S %p ET")
+RUN_ID = RUN_STARTED_AT_DT.strftime("gai-ai-%Y%m%d-%H%M%S-et")
+RUN_ISO = RUN_STARTED_AT_DT.isoformat()
 
-# =============================================================================
-# LOGGING / TIME
-# =============================================================================
 
 def now_et() -> datetime:
     if ZoneInfo is None:
@@ -155,14 +104,11 @@ def log(message: str) -> None:
     print(f"[{ts()}] {message}")
 
 
-# =============================================================================
-# ENV / TEXT SAFETY
-# =============================================================================
-
 def load_environment() -> None:
     env_path = BASE_DIR / ".env"
     if load_dotenv and env_path.exists():
         load_dotenv(env_path)
+
     log(f"ENV PATH: {env_path}")
     log(f"ENV EXISTS: {env_path.exists()}")
     log(f"TELEGRAM TOKEN FOUND: {bool(os.getenv('TELEGRAM_BOT_TOKEN'))}")
@@ -175,7 +121,7 @@ def load_environment() -> None:
     log(f"WEB PUBLIC DIR: {WEB_PUBLIC_DIR}")
 
 
-def clean_text(text: str) -> str:
+def clean_text(text: Any) -> str:
     if not isinstance(text, str):
         text = str(text)
 
@@ -200,16 +146,15 @@ def clean_text(text: str) -> str:
         "Ã±": "ñ",
         "Ã¼": "ü",
         "Ã": "",
-        "S nchez": "Sánchez",
-        "Germ n": "Germán",
-        "MartÃ­n": "Martín",
     }
+
     for old, new in replacements.items():
         text = text.replace(old, new)
 
     text = text.replace("\r\n", "\n").replace("\r", "\n")
     text = re.sub(r"[ \t]+\n", "\n", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
+
     return text.strip()
 
 
@@ -221,26 +166,16 @@ def slugify(text: str) -> str:
 
 def format_label(key: str) -> str:
     labels = {
-        "mlb": "MLB",
-        "nba": "NBA",
-        "nhl": "NHL",
-        "nfl": "NFL",
-        "ncaafb": "College Football",
-        "soccer": "Soccer",
-        "betting_odds": "Betting Odds",
-        "fantasy": "Fantasy",
-        "nfl_draft_signals": "NFL Draft Signals",
+        "ai": "AI",
+        "technology": "Technology",
+        "business": "AI Business",
+        "policy": "AI Policy",
+        "research": "AI Research",
     }
     return labels.get(key, key.replace("_", " ").title())
 
 
 def safe_join_parts(value: Any) -> str:
-    """
-    Flatten any mix of strings/lists/dicts into a clean string.
-
-    This directly prevents the old:
-    AttributeError: 'list' object has no attribute 'strip'
-    """
     flattened: list[str] = []
 
     def walk(item: Any) -> None:
@@ -269,33 +204,26 @@ def safe_join_parts(value: Any) -> str:
 
 
 def first_meaningful_line(text: str) -> str:
+    skip = {
+        "HEADLINE",
+        "SNAPSHOT",
+        "KEY STORYLINES",
+        "KEY DATA POINTS",
+        "WHY IT MATTERS",
+        "WHAT TO WATCH",
+        "STORY ANGLES",
+        "UPDATED",
+        "GLOBAL SNAPSHOT",
+        "DISCLAIMER",
+        "AI REPORT",
+        "GLOBAL AI REPORT",
+    }
+
     for line in clean_text(text).splitlines():
         line = line.strip(" -:\t")
-        if line and line.upper() not in {
-            "HEADLINE",
-            "SNAPSHOT",
-            "KEY DATA POINTS",
-            "WHY IT MATTERS",
-            "CURRENT DATA AND ANALYTICS",
-            "STORY ANGLES",
-            "FINAL SCORES",
-            "YESTERDAY FINAL SCORES",
-            "TODAY LIVE",
-            "LIVE",
-            "UPCOMING",
-            "TODAY SCHEDULE",
-            "TODAY FINAL SCORES",
-            "DISCLAIMER",
-            "UPDATED",
-            "GLOBAL SNAPSHOT",
-            "BETTING MARKET NOTE",
-            "WATCH LIST",
-            "MATCHUP FLAGS",
-            "STATCAST WATCH",
-            "BOARD CONTEXT",
-            "LEAGUE EFFICIENCY WATCH",
-        }:
+        if line and line.upper() not in skip and len(line) > 25:
             return line
+
     return ""
 
 
@@ -305,16 +233,14 @@ def parse_timestamp_from_text(text: str) -> str | None:
         r"UPDATED\s*\n\s*([0-9:\-\sAPMET]+)",
         r"Updated:\s*([0-9:\-\sAPMET]+)",
     ]
+
     for pattern in patterns:
         match = re.search(pattern, text, flags=re.IGNORECASE)
         if match:
             return clean_text(match.group(1))
+
     return None
 
-
-# =============================================================================
-# FILE IO
-# =============================================================================
 
 def read_text_file(path: Path) -> str:
     if not path.exists():
@@ -345,16 +271,10 @@ def write_json_file(path: Path, payload: Any) -> None:
     log(f"Saved: {path}")
 
 
-# =============================================================================
-# REPORT PARSING
-# =============================================================================
-
 SECTION_HEADER_RE = re.compile(
-    r"^(HEADLINE|SNAPSHOT|KEY DATA POINTS|WHY IT MATTERS|CURRENT DATA AND ANALYTICS|"
-    r"STORY ANGLES|FINAL SCORES|YESTERDAY FINAL SCORES|TODAY LIVE|LIVE|UPCOMING|"
-    r"TODAY SCHEDULE|TODAY FINAL SCORES|DISCLAIMER|UPDATED|GLOBAL SNAPSHOT|"
-    r"BETTING MARKET NOTE|WATCH LIST|MATCHUP FLAGS|STATCAST WATCH|BOARD CONTEXT|"
-    r"LEAGUE EFFICIENCY WATCH)$",
+    r"^(HEADLINE|SNAPSHOT|KEY STORYLINES|KEY DATA POINTS|WHY IT MATTERS|WHAT TO WATCH|"
+    r"CURRENT DATA AND ANALYTICS|STORY ANGLES|DISCLAIMER|UPDATED|GLOBAL SNAPSHOT|"
+    r"RESEARCH WATCH|POLICY WATCH|BUSINESS WATCH|PRODUCT WATCH|MARKET WATCH)$",
     flags=re.IGNORECASE | re.MULTILINE,
 )
 
@@ -384,27 +304,13 @@ def split_named_sections(text: str) -> dict[str, list[str]]:
     return sections
 
 
-def parse_advanced_report(path: Path) -> dict[str, Any] | None:
-    text = read_text_file(path)
-    if not text:
-        return None
+def append_heartbeat_to_content(text: str, label: str) -> str:
+    heartbeat = f"HEARTBEAT\n{label} checked by GSR Network at {RUN_STARTED_AT}."
 
-    lines = text.splitlines()
-    title = lines[0].strip() if lines else f"{format_label(path.stem)} REPORT"
-    updated_at = parse_timestamp_from_text(text) or now_et().strftime("%Y-%m-%d %I:%M:%S %p ET")
-    sections = split_named_sections(text)
+    if not text.strip():
+        return heartbeat
 
-    normalized_sections: dict[str, list[str]] = {}
-    for key, values in sections.items():
-        cleaned_values = [clean_text(v) for v in values if clean_text(v)]
-        normalized_sections[key] = cleaned_values
-
-    return {
-        "title": title,
-        "source_file": path.name,
-        "updated_at": updated_at,
-        "sections": normalized_sections,
-    }
+    return f"{clean_text(text)}\n\n{heartbeat}"
 
 
 def parse_standard_report(section_key: str, path: Path) -> dict[str, Any] | None:
@@ -412,15 +318,82 @@ def parse_standard_report(section_key: str, path: Path) -> dict[str, Any] | None
     if not text:
         return None
 
-    lines = text.splitlines()
-    title = lines[0].strip() if lines else f"{format_label(section_key)} REPORT"
-    updated_at = parse_timestamp_from_text(text) or now_et().strftime("%Y-%m-%d %I:%M:%S %p ET")
+    sections = split_named_sections(text)
+    headline = ""
+
+    if sections.get("headline"):
+        headline = sections["headline"][0]
+    else:
+        headline = first_meaningful_line(text)
+
+    if not headline:
+        headline = f"{format_label(section_key)} signals refreshed"
+
+    snapshot = ""
+    if sections.get("snapshot"):
+        snapshot = sections["snapshot"][0]
+    elif sections.get("global_snapshot"):
+        snapshot = sections["global_snapshot"][0]
+    else:
+        snapshot = headline
+
+    source_updated_at = parse_timestamp_from_text(text) or RUN_STARTED_AT
+    label = format_label(section_key)
 
     return {
-        "title": title,
+        "title": label,
         "source_file": path.name,
-        "updated_at": updated_at,
-        "content": text,
+        "source_updated_at": source_updated_at,
+        "updated_at": RUN_STARTED_AT,
+        "generated_at": RUN_STARTED_AT,
+        "published_at": RUN_STARTED_AT,
+        "last_checked": RUN_STARTED_AT,
+        "last_pipeline_run": RUN_STARTED_AT,
+        "headline": headline,
+        "snapshot": snapshot,
+        "content": append_heartbeat_to_content(text, label),
+        "freshness_status": "checked",
+        "heartbeat": {
+            "status": "checked",
+            "run_id": RUN_ID,
+            "checked_at": RUN_STARTED_AT,
+            "checked_at_iso": RUN_ISO,
+            "message": f"{label} checked by GSR Network at {RUN_STARTED_AT}.",
+        },
+    }
+
+
+def parse_json_report(section_key: str, path: Path) -> dict[str, Any] | None:
+    data = read_json_file(path)
+    if not isinstance(data, dict):
+        return None
+
+    label = format_label(section_key)
+    headline = clean_text(data.get("headline") or data.get("title") or f"{label} signals refreshed")
+    snapshot = clean_text(data.get("snapshot") or data.get("summary") or headline)
+    content = safe_join_parts(data.get("content") or data.get("body") or data.get("key_storylines") or snapshot)
+
+    return {
+        "title": label,
+        "source_file": path.name,
+        "source_updated_at": clean_text(data.get("updated_at") or data.get("generated_at") or data.get("published_at") or RUN_STARTED_AT),
+        "updated_at": RUN_STARTED_AT,
+        "generated_at": RUN_STARTED_AT,
+        "published_at": RUN_STARTED_AT,
+        "last_checked": RUN_STARTED_AT,
+        "last_pipeline_run": RUN_STARTED_AT,
+        "headline": headline,
+        "snapshot": snapshot,
+        "content": append_heartbeat_to_content(content, label),
+        "key_storylines": data.get("key_storylines", []),
+        "freshness_status": "checked",
+        "heartbeat": {
+            "status": "checked",
+            "run_id": RUN_ID,
+            "checked_at": RUN_STARTED_AT,
+            "checked_at_iso": RUN_ISO,
+            "message": f"{label} checked by GSR Network at {RUN_STARTED_AT}.",
+        },
     }
 
 
@@ -428,120 +401,128 @@ def load_reports() -> dict[str, dict[str, Any]]:
     reports: dict[str, dict[str, Any]] = {}
 
     for key in SECTION_ORDER:
-        path = REPORT_FILES.get(key)
-        if not path:
-            continue
-        parsed = parse_standard_report(key, path)
+        json_path = JSON_REPORT_FILES.get(key)
+        text_path = REPORT_FILES.get(key)
+
+        parsed = None
+
+        if json_path and json_path.exists():
+            parsed = parse_json_report(key, json_path)
+
+        if not parsed and text_path:
+            parsed = parse_standard_report(key, text_path)
+
         if parsed:
             reports[key] = parsed
-            log(f"Loaded report: {path.name}")
+            log(f"Loaded report: {parsed.get('source_file')}")
         else:
-            log(f"Missing report: {path.name}")
+            log(f"Missing report for: {format_label(key)}")
 
     return reports
 
 
-def load_advanced_reports() -> dict[str, dict[str, Any]]:
-    advanced: dict[str, dict[str, Any]] = {}
-    for key, path in ADVANCED_REPORT_FILES.items():
-        parsed = parse_advanced_report(path)
-        if parsed:
-            advanced[key] = parsed
-            log(f"Loaded advanced report: {path.name}")
-    return advanced
-
-
-# =============================================================================
-# GLOBAL JSON PAYLOAD
-# =============================================================================
-
 def infer_global_headline(reports: dict[str, dict[str, Any]]) -> str:
-    mlb = reports.get("mlb", {}).get("content", "")
-    nba = reports.get("nba", {}).get("content", "")
-    nhl = reports.get("nhl", {}).get("content", "")
-    soccer = reports.get("soccer", {}).get("content", "")
+    for key in SECTION_ORDER:
+        report = reports.get(key)
+        if report and report.get("headline"):
+            return clean_text(report["headline"])
 
-    for block in [mlb, nba, nhl, soccer]:
-        sections = split_named_sections(block)
-        headline = sections.get("headline", [])
-        if headline:
-            return headline[0]
+    return "AI developments are moving across technology, business, policy and research."
 
-    available = [format_label(k) for k in SECTION_ORDER if k in reports]
-    if available:
-        return f"{', '.join(available[:2])} lead the current sports calendar while the broader board stays in view."
-    return "The sports calendar remains active across multiple leagues."
 
 def extract_storylines(reports: dict[str, dict[str, Any]]) -> list[str]:
     lines: list[str] = []
 
-    for key in ["mlb", "nba", "nhl", "nfl", "ncaafb", "soccer", "fantasy"]:
+    for key in SECTION_ORDER:
         report = reports.get(key)
         if not report:
             continue
-        content = report.get("content", "")
-        sections = split_named_sections(content)
-        snapshot = sections.get("snapshot", [])
-        if snapshot:
-            lines.append(f"{format_label(key)} snapshot: {snapshot[0]}")
-        elif content:
-            first_line = first_meaningful_line(content)
-            if first_line:
-                lines.append(f"{format_label(key)}: {first_line}")
 
-    return lines[:6]
+        headline = clean_text(report.get("headline", ""))
+        if headline:
+            lines.append(f"{format_label(key)}: {headline}")
+
+    lines.append(f"System heartbeat: Global AI Report checked all available AI feeds at {RUN_STARTED_AT}.")
+    return lines[:7]
 
 
 def infer_global_snapshot(reports: dict[str, dict[str, Any]]) -> str:
-    fantasy = reports.get("fantasy", {}).get("content", "")
-    if fantasy:
-        sections = split_named_sections(fantasy)
-        snapshot = sections.get("snapshot", [])
-        if snapshot:
-            return snapshot[0]
+    for key in SECTION_ORDER:
+        report = reports.get(key)
+        if report and report.get("snapshot"):
+            return clean_text(report["snapshot"])
 
-    soccer = reports.get("soccer", {}).get("content", "")
-    if soccer:
-        sections = split_named_sections(soccer)
-        snapshot = sections.get("snapshot", [])
-        if snapshot:
-            return snapshot[0]
-
-    return "No fantasy updates were available at this time."
+    return "Global AI Report refreshed its available AI and technology signals."
 
 
-def attach_advanced_reports(
-    reports: dict[str, dict[str, Any]],
-    advanced: dict[str, dict[str, Any]],
-) -> None:
-    for section_key, report in reports.items():
-        if section_key in advanced:
-            report["advanced"] = advanced[section_key]
+def build_system_heartbeat(reports: dict[str, dict[str, Any]]) -> dict[str, Any]:
+    missing = [format_label(key) for key in SECTION_ORDER if key not in reports]
 
-    if "nfl_draft_signals" in advanced:
-        if "nfl" in reports:
-            report = reports["nfl"]
-            if "advanced" not in report:
-                report["advanced"] = advanced["nfl_draft_signals"]
+    return {
+        "status": "live",
+        "vertical": "ai",
+        "run_id": RUN_ID,
+        "checked_at": RUN_STARTED_AT,
+        "checked_at_iso": RUN_ISO,
+        "last_pipeline_run": RUN_STARTED_AT,
+        "forced_freshness": True,
+        "message": f"GSR Network AI pipeline completed a live heartbeat at {RUN_STARTED_AT}.",
+        "fresh_section_count": len(reports),
+        "missing_inputs": missing,
+    }
 
 
-def build_latest_report_payload(
-    reports: dict[str, dict[str, Any]],
-    advanced: dict[str, dict[str, Any]],
-) -> dict[str, Any]:
-    attach_advanced_reports(reports, advanced)
-
-    now_string = now_et().strftime("%Y-%m-%d %I:%M:%S %p ET")
+def build_latest_report_payload(reports: dict[str, dict[str, Any]]) -> dict[str, Any]:
     date_string = now_et().strftime("%Y-%m-%d")
 
     payload = {
         "title": f"{TITLE} | {date_string}",
+        "site_name": SITE_NAME,
+        "tagline": TAGLINE,
         "headline": infer_global_headline(reports),
         "key_storylines": extract_storylines(reports),
         "snapshot": infer_global_snapshot(reports),
-        "generated_at": now_string,
-        "updated_at": now_string,
-        "published_at": now_string,
+        "generated_at": RUN_STARTED_AT,
+        "updated_at": RUN_STARTED_AT,
+        "published_at": RUN_STARTED_AT,
+        "last_checked": RUN_STARTED_AT,
+        "last_pipeline_run": RUN_STARTED_AT,
+        "run_id": RUN_ID,
+        "run_iso": RUN_ISO,
+        "system_heartbeat": build_system_heartbeat(reports),
+        "freshness": {
+            "status": "active",
+            "forced_freshness": True,
+            "last_checked": RUN_STARTED_AT,
+            "last_pipeline_run": RUN_STARTED_AT,
+            "run_id": RUN_ID,
+            "inputs": [
+                {
+                    "section": format_label(key),
+                    "key": key,
+                    "status": "present" if key in reports else "missing",
+                    "last_checked": RUN_STARTED_AT,
+                    "run_id": RUN_ID,
+                }
+                for key in SECTION_ORDER
+            ],
+        },
+        "editorial_brain": {
+            "status": "active",
+            "vertical": "ai",
+            "heartbeat": "active",
+            "forced_freshness": "active",
+            "focus": [
+                "AI and technology developments",
+                "Business signals",
+                "Policy and regulation",
+                "Research and model releases",
+                "Orderly one-line card data",
+                "Heartbeat on every successful run",
+                "Forced freshness fields on top-level payload and section cards",
+            ],
+            "version": "2026-05-02-ai-heartbeat-forced-freshness",
+        },
         "disclaimer": DISCLAIMER,
         "x_handle": os.getenv("GSR_X_HANDLE", DEFAULT_X_HANDLE),
         "substack_url": os.getenv("GSR_SUBSTACK_URL", DEFAULT_SUBSTACK_URL),
@@ -552,20 +533,15 @@ def build_latest_report_payload(
         if key in reports:
             payload["sections"][key] = reports[key]
 
-    statcast_public_name = "mlb_statcast_snapshot.svg"
-    if any(p.exists() for p in STATCAST_FILES):
-        payload["statcast_graphic"] = f"/{statcast_public_name}"
-
     return payload
 
-
-# =============================================================================
-# PLATFORM TEXT BUILDERS
-# =============================================================================
 
 def build_latest_report_text(payload: dict[str, Any]) -> str:
     parts: list[str] = [
         payload.get("title", TITLE),
+        "",
+        f"Updated: {payload.get('updated_at', RUN_STARTED_AT)}",
+        f"Heartbeat: {payload.get('system_heartbeat', {}).get('message', '')}",
         "",
         "HEADLINE",
         payload.get("headline", ""),
@@ -587,7 +563,12 @@ def build_latest_report_text(payload: dict[str, Any]) -> str:
         section = payload.get("sections", {}).get(key)
         if not section:
             continue
+
         parts.append(format_label(key).upper())
+        parts.append(section.get("headline", ""))
+        parts.append(section.get("snapshot", ""))
+        parts.append(f"Last checked: {section.get('last_checked', RUN_STARTED_AT)}")
+        parts.append("")
         parts.append(section.get("content", ""))
         parts.append("")
 
@@ -603,6 +584,7 @@ def build_substack_post(payload: dict[str, Any]) -> str:
         "",
         "Key Storylines",
     ]
+
     for line in payload.get("key_storylines", []):
         parts.append(f"- {line}")
 
@@ -614,17 +596,6 @@ def build_substack_post(payload: dict[str, Any]) -> str:
             continue
         parts.append(format_label(key))
         parts.append(section.get("content", ""))
-        advanced = section.get("advanced")
-        if advanced:
-            parts.append("")
-            parts.append(f"{format_label(key)} Advanced")
-            adv_sections = advanced.get("sections", {})
-            for adv_key, adv_values in adv_sections.items():
-                if not adv_values:
-                    continue
-                parts.append(adv_key.replace("_", " ").title())
-                for item in adv_values:
-                    parts.append(f"- {item}")
         parts.append("")
 
     parts.append(DISCLAIMER)
@@ -637,6 +608,7 @@ def build_telegram_post(payload: dict[str, Any]) -> str:
         payload.get("headline", ""),
         "",
     ]
+
     for line in payload.get("key_storylines", [])[:5]:
         lines.append(f"- {line}")
 
@@ -647,6 +619,7 @@ def build_telegram_post(payload: dict[str, Any]) -> str:
         f"Read more on Substack: {payload.get('substack_url', DEFAULT_SUBSTACK_URL)}",
         f"Follow on X: {payload.get('x_handle', DEFAULT_X_HANDLE)}",
     ]
+
     return safe_join_parts(lines)
 
 
@@ -659,6 +632,7 @@ def split_for_twitter(text: str, max_len: int = 275) -> list[str]:
 
     for para in paragraphs:
         candidate = f"{current}\n\n{para}".strip() if current else para
+
         if len(candidate) <= max_len:
             current = candidate
             continue
@@ -673,6 +647,7 @@ def split_for_twitter(text: str, max_len: int = 275) -> list[str]:
 
         words = para.split()
         temp = ""
+
         for word in words:
             candidate_word = f"{temp} {word}".strip()
             if len(candidate_word) <= max_len:
@@ -681,6 +656,7 @@ def split_for_twitter(text: str, max_len: int = 275) -> list[str]:
                 if temp:
                     chunks.append(temp)
                 temp = word
+
         if temp:
             current = temp
 
@@ -689,11 +665,13 @@ def split_for_twitter(text: str, max_len: int = 275) -> list[str]:
 
     total = len(chunks)
     numbered: list[str] = []
+
     for i, chunk in enumerate(chunks, start=1):
         prefix = f"{i}/{total} "
         if len(prefix) + len(chunk) > 280:
             chunk = chunk[: 280 - len(prefix) - 1].rstrip()
         numbered.append(prefix + chunk)
+
     return numbered
 
 
@@ -716,10 +694,6 @@ def build_twitter_thread(payload: dict[str, Any]) -> list[str]:
     return split_for_twitter(body)
 
 
-# =============================================================================
-# COPY / WEBSITE SYNC
-# =============================================================================
-
 def backup_previous_json() -> None:
     if OUTPUT_LATEST_JSON.exists():
         shutil.copy2(OUTPUT_LATEST_JSON, OUTPUT_PREVIOUS_JSON)
@@ -729,19 +703,11 @@ def backup_previous_json() -> None:
 def copy_file_if_exists(src: Path, dst: Path) -> bool:
     if not src.exists():
         return False
+
     dst.parent.mkdir(parents=True, exist_ok=True)
     shutil.copy2(src, dst)
     log(f"Copied: {src} -> {dst}")
     return True
-
-
-def copy_statcast_asset() -> bool:
-    for src in STATCAST_FILES:
-        if src.exists():
-            target = WEB_COPY_TARGETS["mlb_statcast_snapshot.svg"]
-            return copy_file_if_exists(src, target)
-    log("No Statcast SVG found to copy.")
-    return False
 
 
 def sync_website_files() -> list[Path]:
@@ -750,22 +716,48 @@ def sync_website_files() -> list[Path]:
     pairs = [
         (OUTPUT_LATEST_JSON, WEB_COPY_TARGETS["latest_report.json"]),
         (OUTPUT_LATEST_TXT, WEB_COPY_TARGETS["latest_report.txt"]),
-        (GLOBAL_REPORT_TXT, WEB_COPY_TARGETS["global_sports_report.txt"]),
+        (GLOBAL_REPORT_TXT, WEB_COPY_TARGETS["global_ai_report.txt"]),
     ]
 
     for src, dst in pairs:
         if copy_file_if_exists(src, dst):
             copied.append(dst)
 
-    if copy_statcast_asset():
-        copied.append(WEB_COPY_TARGETS["mlb_statcast_snapshot.svg"])
-
     return copied
 
 
-# =============================================================================
-# TELEGRAM / TWITTER
-# =============================================================================
+def split_for_telegram(text: str, max_len: int = 3900) -> list[str]:
+    text = clean_text(text)
+
+    if len(text) <= max_len:
+        return [text]
+
+    chunks: list[str] = []
+    current = ""
+
+    for para in text.split("\n\n"):
+        para = para.strip()
+        if not para:
+            continue
+
+        candidate = f"{current}\n\n{para}".strip() if current else para
+
+        if len(candidate) <= max_len:
+            current = candidate
+        else:
+            if current:
+                chunks.append(current)
+            current = para
+
+            while len(current) > max_len:
+                chunks.append(current[:max_len])
+                current = current[max_len:]
+
+    if current:
+        chunks.append(current)
+
+    return chunks
+
 
 def send_telegram_message(text: str) -> bool:
     token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
@@ -799,35 +791,6 @@ def send_telegram_message(text: str) -> bool:
     return ok
 
 
-def split_for_telegram(text: str, max_len: int = 3900) -> list[str]:
-    text = clean_text(text)
-    if len(text) <= max_len:
-        return [text]
-
-    chunks: list[str] = []
-    current = ""
-
-    for para in text.split("\n\n"):
-        para = para.strip()
-        if not para:
-            continue
-        candidate = f"{current}\n\n{para}".strip() if current else para
-        if len(candidate) <= max_len:
-            current = candidate
-        else:
-            if current:
-                chunks.append(current)
-            current = para
-            while len(current) > max_len:
-                chunks.append(current[:max_len])
-                current = current[max_len:]
-
-    if current:
-        chunks.append(current)
-
-    return chunks
-
-
 def send_twitter_thread(parts: list[str]) -> bool:
     api_key = os.getenv("TWITTER_API_KEY", "").strip()
     api_secret = os.getenv("TWITTER_API_SECRET", "").strip()
@@ -847,6 +810,7 @@ def send_twitter_thread(parts: list[str]) -> bool:
         )
 
         reply_to = None
+
         for idx, part in enumerate(parts, start=1):
             response = client.create_tweet(
                 text=part,
@@ -865,15 +829,7 @@ def send_twitter_thread(parts: list[str]) -> bool:
         return False
 
 
-# =============================================================================
-# OPTIONAL WEBSITE GIT SYNC
-# =============================================================================
-
 def maybe_run_website_git_sync() -> bool:
-    """
-    Optional.
-    Only runs if WEBSITE_AUTO_GIT=1 in .env.
-    """
     if os.getenv("WEBSITE_AUTO_GIT", "0").strip() != "1":
         log("Website git sync skipped.")
         return False
@@ -883,8 +839,8 @@ def maybe_run_website_git_sync() -> bool:
         return False
 
     commands = [
-        ["git", "add", "public/latest_report.json", "public/latest_report.txt", "public/global_sports_report.txt", "public/mlb_statcast_snapshot.svg"],
-        ["git", "commit", "-m", f"GSR auto-update {now_et().strftime('%Y-%m-%d %H:%M:%S ET')}"],
+        ["git", "add", "public/latest_report.json", "public/latest_report.txt", "public/global_ai_report.txt"],
+        ["git", "commit", "-m", f"Global AI Report auto-update {now_et().strftime('%Y-%m-%d %H:%M:%S ET')}"],
         ["git", "pull", "--rebase"],
         ["git", "push", "origin", "master"],
     ]
@@ -898,34 +854,34 @@ def maybe_run_website_git_sync() -> bool:
                 text=True,
                 check=False,
             )
+
             if result.stdout.strip():
                 log(result.stdout.strip())
+
             if result.stderr.strip():
                 log(result.stderr.strip())
+
         return True
+
     except Exception as exc:
         log(f"Website git sync exception: {exc}")
         return False
 
 
-# =============================================================================
-# MAIN
-# =============================================================================
-
 def main() -> int:
-    log("Starting distribution build.")
-    load_environment()
+    log("Starting Global AI Report distribution build.")
+    log(f"[HEARTBEAT] Run ID: {RUN_ID}")
 
+    load_environment()
     backup_previous_json()
 
     reports = load_reports()
-    advanced = load_advanced_reports()
 
     if not reports:
-        log("FATAL ERROR: No report files were loaded.")
+        log("FATAL ERROR: No AI report files were loaded.")
         return 1
 
-    payload = build_latest_report_payload(reports, advanced)
+    payload = build_latest_report_payload(reports)
 
     latest_report_text = build_latest_report_text(payload)
     substack_post = build_substack_post(payload)
@@ -937,9 +893,7 @@ def main() -> int:
     write_text_file(OUTPUT_SUBSTACK, substack_post)
     write_text_file(OUTPUT_TELEGRAM, telegram_post)
     write_text_file(OUTPUT_TWITTER, "\n\n---\n\n".join(twitter_parts))
-
-    if not GLOBAL_REPORT_TXT.exists():
-        write_text_file(GLOBAL_REPORT_TXT, latest_report_text)
+    write_text_file(GLOBAL_REPORT_TXT, latest_report_text)
 
     copied_files = sync_website_files()
 
@@ -948,14 +902,15 @@ def main() -> int:
     website_git_ok = maybe_run_website_git_sync()
 
     log("==============================================")
-    log("DISTRIBUTION SUMMARY")
+    log("GLOBAL AI REPORT DISTRIBUTION SUMMARY")
     log("==============================================")
-    log("Files Written: 5")
+    log("Files Written: 6")
     log(f" - {OUTPUT_SUBSTACK.name}")
     log(f" - {OUTPUT_TELEGRAM.name}")
     log(f" - {OUTPUT_TWITTER.name}")
     log(f" - {OUTPUT_LATEST_TXT.name}")
     log(f" - {OUTPUT_LATEST_JSON.name}")
+    log(f" - {GLOBAL_REPORT_TXT.name}")
 
     log(f"Website Sync Copies: {len(copied_files)}")
     for path in copied_files:
@@ -964,11 +919,13 @@ def main() -> int:
     log(f"Telegram OK: {telegram_ok}")
     log(f"X OK: {twitter_ok}")
     log(f"Website Auto-Deploy OK: {website_git_ok}")
-
+    log("Heartbeat active")
+    log("Forced freshness active")
     log("NO CRITICAL ERRORS DETECTED")
     log("==============================================")
-    log("DISTRIBUTION BUILD COMPLETE")
+    log("GLOBAL AI REPORT DISTRIBUTION BUILD COMPLETE")
     log("==============================================")
+
     return 0
 
 
