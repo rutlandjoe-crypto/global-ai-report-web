@@ -1,24 +1,51 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Is xAI a neocloud now?",
-  "snapshot": "xAI's real business may be more about building data centers than training AI models.",
-  "updated_at": "2026-05-07 05:26:46 AM ET",
-  "generated_at": "2026-05-07 05:26:46 AM ET",
+  "headline": "Five architects of the AI economy explain where the wheels are coming off",
+  "snapshot": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture...",
+  "updated_at": "2026-05-07 07:25:47 AM ET",
+  "generated_at": "2026-05-07 07:25:47 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 5,
-    "editor_fresh_items": 31,
-    "public_fallback_items": 35,
-    "stale_or_blocked_items": 44,
+    "live_fresh_items": 3,
+    "editor_fresh_items": 30,
+    "public_fallback_items": 34,
+    "stale_or_blocked_items": 46,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-07 05:26:46 AM ET"
+    "last_checked": "2026-05-07 07:25:47 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
+      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "snapshot": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+      "key_data": [
+        "Key people or organizations: Apple, Siri",
+        "Specific figures mentioned: $250M, $250 million",
+        "Story focus: Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
+        "Source context: Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal, safety or regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies, users and enterprise adoption."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Apple.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 06 May 2026 15:12:49 +0000",
+      "age_hours": "20.22",
+      "freshness_status": "stale",
+      "editorial_score": "118",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Is xAI a neocloud now?",
       "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
@@ -40,9 +67,35 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 06 May 2026 21:32:55 +0000",
-      "age_hours": "11.90",
-      "freshness_status": "fresh",
-      "editorial_score": "151",
+      "age_hours": "13.88",
+      "freshness_status": "stale",
+      "editorial_score": "121",
+      "urgency": ""
+    },
+    {
+      "headline": "US government increases AI suppliers and rethinks Anthropic's role",
+      "url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+      "snapshot": "The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft, Reflection AI (which has yet to release a publicly-available model), Amazon, and Nvidia that mean their products can be used on...",
+      "key_data": [
+        "Key people or organizations: US, Anthropic, Pentagon, Microsoft",
+        "Story focus: US government increases AI suppliers and rethinks Anthropic's role",
+        "Source context: The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft,..."
+      ],
+      "why_it_matters": [
+        "This points to the infrastructure and institutional race behind AI growth.",
+        "Editors can frame the story around power, procurement, capacity and competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from US.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 06 May 2026 12:23:00 +0000",
+      "age_hours": "23.05",
+      "freshness_status": "stale",
+      "editorial_score": "114",
       "urgency": ""
     },
     {
@@ -66,37 +119,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 07 May 2026 05:25:10 +0000",
-      "age_hours": "4.03",
+      "age_hours": "6.01",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
-    },
-    {
-      "headline": "Snap says its $400M deal with Perplexity 'amicably ended'",
-      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-      "snapshot": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-      "key_data": [
-        "Key people or organizations: Snap, Perplexity, November, Snapchat",
-        "Specific figures mentioned: $400M",
-        "Story focus: Snap says its $400M deal with Perplexity 'amicably ended'",
-        "Source context: The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat."
-      ],
-      "why_it_matters": [
-        "This is part of the broader AI adoption story across business and technology.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from Snap.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 06 May 2026 21:43:24 +0000",
-      "age_hours": "11.72",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": "WATCH"
     },
     {
       "headline": "Musk's biggest loyalist became his biggest liability",
@@ -119,35 +145,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-06T19:37:02-04:00",
-      "age_hours": "9.83",
+      "age_hours": "11.81",
       "freshness_status": "fresh",
       "editorial_score": "64",
-      "urgency": ""
-    },
-    {
-      "headline": "Barry Diller trusts Sam Altman. But 'trust is irrelevant' as AGI nears, he says.",
-      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-      "snapshot": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-      "key_data": [
-        "Key people or organizations: Barry Diller, Sam Altman, But, AGI",
-        "Story focus: Barry Diller trusts Sam Altman. But 'trust is irrelevant' as AGI nears, he says.",
-        "Source context: Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms and model providers.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from Barry Diller.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 06 May 2026 21:57:56 +0000",
-      "age_hours": "11.48",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
       "urgency": ""
     }
   ],
@@ -173,9 +173,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 06 May 2026 21:32:55 +0000",
-      "age_hours": "11.90",
-      "freshness_status": "fresh",
-      "editorial_score": "151",
+      "age_hours": "13.88",
+      "freshness_status": "stale",
+      "editorial_score": "121",
       "urgency": ""
     },
     {
@@ -200,7 +200,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 06 May 2026 15:12:49 +0000",
-      "age_hours": "18.23",
+      "age_hours": "20.22",
       "freshness_status": "stale",
       "editorial_score": "118",
       "urgency": "DEVELOPING"
@@ -226,7 +226,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 06 May 2026 12:23:00 +0000",
-      "age_hours": "21.06",
+      "age_hours": "23.05",
       "freshness_status": "stale",
       "editorial_score": "114",
       "urgency": ""
@@ -253,7 +253,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 06 May 2026 17:20:34 +0000",
-      "age_hours": "16.10",
+      "age_hours": "18.09",
       "freshness_status": "stale",
       "editorial_score": "96",
       "urgency": "WATCH"
@@ -279,44 +279,18 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 06 May 2026 10:00:00 +0000",
-      "age_hours": "23.45",
+      "age_hours": "25.43",
       "freshness_status": "stale",
       "editorial_score": "80",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Is xAI a neocloud now?",
     "Five architects of the AI economy explain where the wheels are coming off",
-    "Snap says its $400M deal with Perplexity 'amicably ended'"
+    "Musk's biggest loyalist became his biggest liability",
+    "AI helping ease the UK's NHS burden"
   ],
   "sections": [
-    {
-      "headline": "Is xAI a neocloud now?",
-      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-      "snapshot": "xAI's real business may be more about building data centers than training AI models.",
-      "key_data": [
-        "Key people or organizations: Is",
-        "Story focus: Is xAI a neocloud now?",
-        "Source context: xAI's real business may be more about building data centers than training AI models."
-      ],
-      "why_it_matters": [
-        "This points to the infrastructure and institutional race behind AI growth.",
-        "Editors can frame the story around power, procurement, capacity and competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from Is.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 06 May 2026 21:32:55 +0000",
-      "age_hours": "11.90",
-      "freshness_status": "fresh",
-      "editorial_score": "151",
-      "urgency": ""
-    },
     {
       "headline": "Five architects of the AI economy explain where the wheels are coming off",
       "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
@@ -338,37 +312,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 07 May 2026 05:25:10 +0000",
-      "age_hours": "4.03",
+      "age_hours": "6.01",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
-    },
-    {
-      "headline": "Snap says its $400M deal with Perplexity 'amicably ended'",
-      "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-      "snapshot": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-      "key_data": [
-        "Key people or organizations: Snap, Perplexity, November, Snapchat",
-        "Specific figures mentioned: $400M",
-        "Story focus: Snap says its $400M deal with Perplexity 'amicably ended'",
-        "Source context: The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat."
-      ],
-      "why_it_matters": [
-        "This is part of the broader AI adoption story across business and technology.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from Snap.",
-        "Track whether competitors, regulators or enterprise customers respond."
-      ],
-      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 06 May 2026 21:43:24 +0000",
-      "age_hours": "11.72",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": "WATCH"
     },
     {
       "headline": "Musk's biggest loyalist became his biggest liability",
@@ -391,35 +338,115 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-06T19:37:02-04:00",
-      "age_hours": "9.83",
+      "age_hours": "11.81",
       "freshness_status": "fresh",
       "editorial_score": "64",
       "urgency": ""
     },
     {
-      "headline": "Barry Diller trusts Sam Altman. But 'trust is irrelevant' as AGI nears, he says.",
-      "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-      "snapshot": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+      "headline": "AI helping ease the UK's NHS burden",
+      "url": "https://www.artificialintelligence-news.com/news/ai-in-the-nhs-helping-ease-doctors-burdens/",
+      "snapshot": "The words \"pressure\" and \"NHS\" go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any time soon. As NHS England continues the struggle to reduce its 7.25 million waiting list, new policies are being introduced to...",
       "key_data": [
-        "Key people or organizations: Barry Diller, Sam Altman, But, AGI",
-        "Story focus: Barry Diller trusts Sam Altman. But 'trust is irrelevant' as AGI nears, he says.",
-        "Source context: Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails."
+        "Key people or organizations: UK, NHS, As NHS England",
+        "Specific figures mentioned: 7.25",
+        "Story focus: AI helping ease the UK's NHS burden",
+        "Source context: The words \"pressure\" and \"NHS\" go hand in hand in the UK and unfortunately there is no sign of a reduction in the strain the institution suffers any..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms and model providers.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This is part of the broader AI adoption story across business and technology.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from Barry Diller.",
+        "Watch for follow-up statements from UK.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Monitor for follow-up reporting and broader trend connection.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 07 May 2026 09:35:00 +0000",
+      "age_hours": "1.85",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "Is xAI a neocloud now?",
+      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "snapshot": "xAI's real business may be more about building data centers than training AI models.",
+      "key_data": [
+        "Key people or organizations: Is",
+        "Story focus: Is xAI a neocloud now?",
+        "Source context: xAI's real business may be more about building data centers than training AI models."
+      ],
+      "why_it_matters": [
+        "This points to the infrastructure and institutional race behind AI growth.",
+        "Editors can frame the story around power, procurement, capacity and competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Is.",
         "Track whether competitors, regulators or enterprise customers respond."
       ],
       "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 06 May 2026 21:57:56 +0000",
-      "age_hours": "11.48",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
+      "published": "Wed, 06 May 2026 21:32:55 +0000",
+      "age_hours": "13.88",
+      "freshness_status": "stale",
+      "editorial_score": "121",
+      "urgency": ""
+    },
+    {
+      "headline": "Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
+      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "snapshot": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
+      "key_data": [
+        "Key people or organizations: Apple, Siri",
+        "Specific figures mentioned: $250M, $250 million",
+        "Story focus: Apple to pay $250M to settle lawsuit over Siri's delayed AI features",
+        "Source context: Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into legal, safety or regulatory scrutiny.",
+        "Editors should watch how policy pressure affects companies, users and enterprise adoption."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from Apple.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Developing story with elevated newsroom urgency.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 06 May 2026 15:12:49 +0000",
+      "age_hours": "20.22",
+      "freshness_status": "stale",
+      "editorial_score": "118",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "US government increases AI suppliers and rethinks Anthropic's role",
+      "url": "https://www.artificialintelligence-news.com/news/us-government-increases-ai-in-defence-suppliers-roster-and-rethinks-anthropics-role/",
+      "snapshot": "The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft, Reflection AI (which has yet to release a publicly-available model), Amazon, and Nvidia that mean their products can be used on...",
+      "key_data": [
+        "Key people or organizations: US, Anthropic, Pentagon, Microsoft",
+        "Story focus: US government increases AI suppliers and rethinks Anthropic's role",
+        "Source context: The US administration has added four more AI companies to its roster of favoured suppliers, with the Pentagon signing agreements with Microsoft,..."
+      ],
+      "why_it_matters": [
+        "This points to the infrastructure and institutional race behind AI growth.",
+        "Editors can frame the story around power, procurement, capacity and competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements from US.",
+        "Track whether competitors, regulators or enterprise customers respond."
+      ],
+      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 06 May 2026 12:23:00 +0000",
+      "age_hours": "23.05",
+      "freshness_status": "stale",
+      "editorial_score": "114",
       "urgency": ""
     }
   ],
