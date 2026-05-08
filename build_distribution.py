@@ -13,6 +13,8 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any
 
+from editorial_intelligence import normalize_payload
+
 try:
     from zoneinfo import ZoneInfo
 except Exception:
@@ -533,7 +535,7 @@ def build_latest_report_payload(reports: dict[str, dict[str, Any]]) -> dict[str,
         if key in reports:
             payload["sections"][key] = reports[key]
 
-    return payload
+    return normalize_payload(payload, "ai")
 
 
 def build_latest_report_text(payload: dict[str, Any]) -> str:
@@ -941,6 +943,21 @@ def load_reports_from_previous_latest() -> dict[str, dict[str, Any]]:
     return reports
 
 
+def load_previous_live_payload() -> dict[str, Any] | None:
+    for path in [OUTPUT_PREVIOUS_JSON, OUTPUT_LATEST_JSON]:
+        data = read_json_file(path)
+        if isinstance(data, dict) and isinstance(data.get("live_newsroom"), list) and data.get("live_newsroom"):
+            data["updated_at"] = RUN_STARTED_AT
+            data["generated_at"] = RUN_STARTED_AT
+            data["published_at"] = RUN_STARTED_AT
+            data["last_checked"] = RUN_STARTED_AT
+            data["last_pipeline_run"] = RUN_STARTED_AT
+            data["freshness_status"] = "carried_forward_live_newsroom"
+            log(f"Recovered carried-forward AI live newsroom payload from {path.name}.")
+            return normalize_payload(data, "ai")
+    return None
+
+
 def build_minimum_live_reports() -> dict[str, dict[str, Any]]:
     """Last-resort live heartbeat sections when no input files or prior JSON exist."""
     reports: dict[str, dict[str, Any]] = {}
@@ -994,8 +1011,26 @@ def main() -> int:
 
     reports = load_reports()
 
+    carried_payload = None
+
     if not reports:
         log("WARNING: No fresh AI report files were loaded. Attempting to preserve previous live AI sections.")
+        carried_payload = load_previous_live_payload()
+        if carried_payload:
+            latest_report_text = build_latest_report_text(carried_payload)
+            substack_post = build_substack_post(carried_payload)
+            telegram_post = build_telegram_post(carried_payload)
+            twitter_parts = build_twitter_thread(carried_payload)
+
+            write_json_file(OUTPUT_LATEST_JSON, carried_payload)
+            write_text_file(OUTPUT_LATEST_TXT, latest_report_text)
+            write_text_file(OUTPUT_SUBSTACK, substack_post)
+            write_text_file(OUTPUT_TELEGRAM, telegram_post)
+            write_text_file(OUTPUT_TWITTER, "\n\n---\n\n".join(twitter_parts))
+            write_text_file(GLOBAL_REPORT_TXT, latest_report_text)
+            sync_website_files()
+            log("GLOBAL AI REPORT DISTRIBUTION BUILD COMPLETE")
+            return 0
         reports = load_reports_from_previous_latest()
 
     if not reports:
