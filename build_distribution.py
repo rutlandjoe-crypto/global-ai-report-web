@@ -868,6 +868,123 @@ def maybe_run_website_git_sync() -> bool:
         return False
 
 
+
+def refresh_carried_forward_section(key: str, section: dict[str, Any]) -> dict[str, Any]:
+    """Reuse a previous live section when this run lacks upstream input files.
+
+    This keeps the site deployable and honest: the card is marked as carried forward,
+    the heartbeat is fresh, and the payload does not pretend that a new upstream AI
+    source file was present.
+    """
+    label = format_label(key)
+    refreshed = dict(section)
+
+    headline = clean_text(refreshed.get("headline") or refreshed.get("title") or f"{label} signals carried forward")
+    snapshot = clean_text(refreshed.get("snapshot") or refreshed.get("summary") or headline)
+    content = clean_text(refreshed.get("content") or snapshot)
+
+    refreshed.update({
+        "title": label,
+        "headline": headline,
+        "snapshot": snapshot,
+        "content": append_heartbeat_to_content(content, label),
+        "source_file": clean_text(refreshed.get("source_file") or "previous_latest_report.json"),
+        "source_updated_at": clean_text(refreshed.get("source_updated_at") or refreshed.get("updated_at") or RUN_STARTED_AT),
+        "updated_at": RUN_STARTED_AT,
+        "generated_at": RUN_STARTED_AT,
+        "published_at": RUN_STARTED_AT,
+        "last_checked": RUN_STARTED_AT,
+        "last_pipeline_run": RUN_STARTED_AT,
+        "freshness_status": "carried_forward_pending_upstream",
+        "heartbeat": {
+            "status": "checked",
+            "run_id": RUN_ID,
+            "checked_at": RUN_STARTED_AT,
+            "checked_at_iso": RUN_ISO,
+            "message": f"{label} checked by GSR Network at {RUN_STARTED_AT}; previous live section carried forward because no upstream AI input file was present.",
+        },
+    })
+
+    return refreshed
+
+
+def load_reports_from_previous_latest() -> dict[str, dict[str, Any]]:
+    """Recover report sections from the last good latest_report JSON.
+
+    GitHub Actions can occasionally run the distribution step without the upstream
+    generated ai_report/technology_report/business_report/policy_report/research_report
+    files. In that case, keep the site live and mark the sections clearly rather than
+    failing the whole morning run.
+    """
+    reports: dict[str, dict[str, Any]] = {}
+
+    candidate_paths = [OUTPUT_PREVIOUS_JSON, OUTPUT_LATEST_JSON]
+
+    for path in candidate_paths:
+        data = read_json_file(path)
+        if not isinstance(data, dict):
+            continue
+
+        sections = data.get("sections")
+        if not isinstance(sections, dict):
+            continue
+
+        for key in SECTION_ORDER:
+            section = sections.get(key)
+            if isinstance(section, dict):
+                reports[key] = refresh_carried_forward_section(key, section)
+
+        if reports:
+            log(f"Recovered {len(reports)} carried-forward AI section(s) from {path.name}.")
+            break
+
+    return reports
+
+
+def build_minimum_live_reports() -> dict[str, dict[str, Any]]:
+    """Last-resort live heartbeat sections when no input files or prior JSON exist."""
+    reports: dict[str, dict[str, Any]] = {}
+
+    fallback_snapshots = {
+        "ai": "Global AI Report completed a live pipeline heartbeat, but no upstream AI source file was available during this run.",
+        "technology": "Technology signals were checked by the GSR Network pipeline, but no upstream technology source file was available during this run.",
+        "business": "AI business signals were checked by the GSR Network pipeline, but no upstream business source file was available during this run.",
+        "policy": "AI policy signals were checked by the GSR Network pipeline, but no upstream policy source file was available during this run.",
+        "research": "AI research signals were checked by the GSR Network pipeline, but no upstream research source file was available during this run.",
+    }
+
+    for key in SECTION_ORDER:
+        label = format_label(key)
+        snapshot = fallback_snapshots[key]
+        reports[key] = {
+            "title": label,
+            "source_file": "system_heartbeat_fallback",
+            "source_updated_at": RUN_STARTED_AT,
+            "updated_at": RUN_STARTED_AT,
+            "generated_at": RUN_STARTED_AT,
+            "published_at": RUN_STARTED_AT,
+            "last_checked": RUN_STARTED_AT,
+            "last_pipeline_run": RUN_STARTED_AT,
+            "headline": f"{label} pipeline heartbeat completed",
+            "snapshot": snapshot,
+            "content": append_heartbeat_to_content(snapshot, label),
+            "key_storylines": [
+                f"{label}: upstream input file missing during this run.",
+                f"System heartbeat: Global AI Report checked this section at {RUN_STARTED_AT}.",
+            ],
+            "freshness_status": "system_heartbeat_no_upstream_input",
+            "heartbeat": {
+                "status": "checked",
+                "run_id": RUN_ID,
+                "checked_at": RUN_STARTED_AT,
+                "checked_at_iso": RUN_ISO,
+                "message": f"{label} checked by GSR Network at {RUN_STARTED_AT}; no upstream input file was present.",
+            },
+        }
+
+    log("Built last-resort AI heartbeat sections because no source files or previous JSON sections were available.")
+    return reports
+
 def main() -> int:
     log("Starting Global AI Report distribution build.")
     log(f"[HEARTBEAT] Run ID: {RUN_ID}")
@@ -878,8 +995,12 @@ def main() -> int:
     reports = load_reports()
 
     if not reports:
-        log("FATAL ERROR: No AI report files were loaded.")
-        return 1
+        log("WARNING: No fresh AI report files were loaded. Attempting to preserve previous live AI sections.")
+        reports = load_reports_from_previous_latest()
+
+    if not reports:
+        log("WARNING: No previous AI sections were available. Building minimum live heartbeat sections instead of failing the run.")
+        reports = build_minimum_live_reports()
 
     payload = build_latest_report_payload(reports)
 
