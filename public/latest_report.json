@@ -1,83 +1,515 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "AI newsroom monitoring continues",
-  "snapshot": "The AI newsroom is monitoring major technology, model, infrastructure, regulatory and enterprise adoption feeds. No higher-priority live lead has overtaken the board on this run.",
-  "updated_at": "2026-05-03 09:32:41 PM ET",
-  "generated_at": "2026-05-03 09:32:41 PM ET",
+  "headline": "Nvidia has already committed $40B to equity AI deals this year",
+  "snapshot": "Nvidia continues to be a big investor in the AI ecosystem. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+  "updated_at": "2026-05-09 12:57:18 PM ET",
+  "generated_at": "2026-05-09 12:57:18 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 36,
-    "live_fresh_items": 2,
-    "editor_fresh_items": 6,
-    "public_fallback_items": 17,
-    "stale_or_blocked_items": 34,
+    "total_items_checked": 48,
+    "live_fresh_items": 1,
+    "editor_fresh_items": 12,
+    "public_fallback_items": 31,
+    "stale_or_blocked_items": 47,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-03 09:32:41 PM ET"
+    "last_checked": "2026-05-09 12:57:18 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "AI newsroom monitoring continues",
-      "url": "#",
-      "snapshot": "The AI newsroom is monitoring major technology, model, infrastructure, regulatory and enterprise adoption feeds. No higher-priority live lead has overtaken the board on this run.",
+      "headline": "Nvidia has already committed $40B to equity AI deals this year",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "snapshot": "Nvidia continues to be a big investor in the AI ecosystem. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: No",
-        "Story focus: AI newsroom monitoring continues",
-        "Source context: The AI newsroom is monitoring major technology, model, infrastructure, regulatory and enterprise adoption feeds. No higher-priority live lead has..."
+        "Key people or organizations: Nvidia",
+        "Specific figures mentioned: $40B",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia has already committed $40B to equity AI deals this year"
       ],
       "why_it_matters": [
-        "This is part of the broader AI adoption story across business and technology.",
-        "Editors should separate real market movement from promotional noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from No.",
-        "Track whether competitors, regulators or enterprise customers respond."
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
-      "source_feed": "editorial-monitoring",
-      "published": "2026-05-03 09:32:41 PM ET",
-      "age_hours": "0.00",
-      "freshness_status": "monitoring",
-      "editorial_score": "0",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 09 May 2026 14:43:30 +0000",
+      "age_hours": "2.23",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Microsoft was worried OpenAI would run off to Amazon and 'shit-talk' Azure",
+      "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+      "snapshot": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: Microsoft, OpenAI, Amazon, Azure",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft was worried OpenAI would run off to Amazon and 'shit-talk' Azure",
+        "Source context: When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-08T11:25:02-04:00",
+      "age_hours": "25.54",
+      "freshness_status": "stale",
+      "editorial_score": "80",
+      "urgency": ""
+    },
+    {
+      "headline": "The \"people's airline\" and the enterprise AI gold rush",
+      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "snapshot": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it's becoming clear... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Everyone, OpenAI, SAP, German AI",
+        "Specific figures mentioned: $1B",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The \"people's airline\" and the enterprise AI gold rush"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Everyone.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 08 May 2026 15:46:17 +0000",
+      "age_hours": "25.18",
+      "freshness_status": "stale",
+      "editorial_score": "66",
+      "urgency": ""
+    },
+    {
+      "headline": "Nanoleaf bets its future on robots, red light therapy, and AI",
+      "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+      "snapshot": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two...",
+      "key_data": [
+        "Key people or organizations: Nanoleaf, Smart, While, Govee",
+        "Story focus: Nanoleaf bets its future on robots, red light therapy, and AI",
+        "Source context: Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nanoleaf.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-08T08:15:00-04:00",
+      "age_hours": "28.70",
+      "freshness_status": "stale",
+      "editorial_score": "52",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "snapshot": "Massive new data centers are the physical foundation for tech companies' hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: All, Massive, But",
+        "AI desk signal: chip, data center",
+        "Story focus: All the latest updates on AI data centers",
+        "Source context: Massive new data centers are the physical foundation for tech companies' hopes and dreams for AI. But the rush to expand warehouses full of..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from All.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-08T14:45:08-04:00",
+      "age_hours": "22.20",
+      "freshness_status": "stale",
+      "editorial_score": "42",
       "urgency": ""
     }
   ],
-  "editor_signals": [],
+  "editor_signals": [
+    {
+      "headline": "AI signal: Nvidia has already committed $40B to equity AI deals this year",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "snapshot": "Nvidia continues to be a big investor in the AI ecosystem. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nvidia",
+        "Specific figures mentioned: $40B",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 09 May 2026 14:43:30 +0000",
+      "age_hours": "2.23",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "AI signal: Microsoft was worried OpenAI would run off to Amazon and 'shit-talk' Azure",
+      "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+      "snapshot": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: Microsoft, OpenAI, Amazon, Azure",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal",
+        "Source context: When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-08T11:25:02-04:00",
+      "age_hours": "25.54",
+      "freshness_status": "stale",
+      "editorial_score": "80",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: The \"people's airline\" and the enterprise AI gold rush",
+      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "snapshot": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it's becoming clear... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Everyone, OpenAI, SAP, German AI",
+        "Specific figures mentioned: $1B",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Everyone.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 08 May 2026 15:46:17 +0000",
+      "age_hours": "25.18",
+      "freshness_status": "stale",
+      "editorial_score": "66",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: Nanoleaf bets its future on robots, red light therapy, and AI",
+      "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+      "snapshot": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two...",
+      "key_data": [
+        "Key people or organizations: Nanoleaf, Smart, While, Govee",
+        "Story focus: AI signal",
+        "Source context: Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nanoleaf.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-08T08:15:00-04:00",
+      "age_hours": "28.70",
+      "freshness_status": "stale",
+      "editorial_score": "52",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "AI signal: All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "snapshot": "Massive new data centers are the physical foundation for tech companies' hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: All, Massive, But",
+        "AI desk signal: chip, data center",
+        "Story focus: AI signal",
+        "Source context: Massive new data centers are the physical foundation for tech companies' hopes and dreams for AI. But the rush to expand warehouses full of..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from All.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-08T14:45:08-04:00",
+      "age_hours": "22.20",
+      "freshness_status": "stale",
+      "editorial_score": "42",
+      "urgency": ""
+    }
+  ],
   "key_storylines": [
-    "AI newsroom monitoring continues"
+    "Nvidia has already committed $40B to equity AI deals this year",
+    "Microsoft was worried OpenAI would run off to Amazon and 'shit-talk' Azure",
+    "The \"people's airline\" and the enterprise AI gold rush"
   ],
   "sections": [
     {
-      "headline": "AI newsroom monitoring continues",
-      "url": "#",
-      "snapshot": "The AI newsroom is monitoring major technology, model, infrastructure, regulatory and enterprise adoption feeds. No higher-priority live lead has overtaken the board on this run.",
+      "headline": "Nvidia has already committed $40B to equity AI deals this year",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "snapshot": "Nvidia continues to be a big investor in the AI ecosystem. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: No",
-        "Story focus: AI newsroom monitoring continues",
-        "Source context: The AI newsroom is monitoring major technology, model, infrastructure, regulatory and enterprise adoption feeds. No higher-priority live lead has..."
+        "Key people or organizations: Nvidia",
+        "Specific figures mentioned: $40B",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia has already committed $40B to equity AI deals this year"
       ],
       "why_it_matters": [
-        "This is part of the broader AI adoption story across business and technology.",
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 09 May 2026 14:43:30 +0000",
+      "age_hours": "2.23",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Microsoft was worried OpenAI would run off to Amazon and 'shit-talk' Azure",
+      "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+      "snapshot": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: Microsoft, OpenAI, Amazon, Azure",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft was worried OpenAI would run off to Amazon and 'shit-talk' Azure",
+        "Source context: When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-08T11:25:02-04:00",
+      "age_hours": "25.54",
+      "freshness_status": "stale",
+      "editorial_score": "80",
+      "urgency": ""
+    },
+    {
+      "headline": "The \"people's airline\" and the enterprise AI gold rush",
+      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "snapshot": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it's becoming clear... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Everyone, OpenAI, SAP, German AI",
+        "Specific figures mentioned: $1B",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The \"people's airline\" and the enterprise AI gold rush"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Everyone.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 08 May 2026 15:46:17 +0000",
+      "age_hours": "25.18",
+      "freshness_status": "stale",
+      "editorial_score": "66",
+      "urgency": ""
+    },
+    {
+      "headline": "Nanoleaf bets its future on robots, red light therapy, and AI",
+      "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+      "snapshot": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two...",
+      "key_data": [
+        "Key people or organizations: Nanoleaf, Smart, While, Govee",
+        "Story focus: Nanoleaf bets its future on robots, red light therapy, and AI",
+        "Source context: Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nanoleaf.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-08T08:15:00-04:00",
+      "age_hours": "28.70",
+      "freshness_status": "stale",
+      "editorial_score": "52",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "snapshot": "Massive new data centers are the physical foundation for tech companies' hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: All, Massive, But",
+        "AI desk signal: chip, data center",
+        "Story focus: All the latest updates on AI data centers",
+        "Source context: Massive new data centers are the physical foundation for tech companies' hopes and dreams for AI. But the rush to expand warehouses full of..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from All.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-08T14:45:08-04:00",
+      "age_hours": "22.20",
+      "freshness_status": "stale",
+      "editorial_score": "42",
+      "urgency": ""
+    },
+    {
+      "headline": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "snapshot": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+      "key_data": [
+        "Key people or organizations: Cloudflare, CEO Matthew Prince",
+        "Specific figures mentioned: 1, 100",
+        "Story focus: Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+        "Source context: Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from No.",
-        "Track whether competitors, regulators or enterprise customers respond."
+        "Watch for follow-up statements, product details or customer evidence from Cloudflare.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure, model competition or enterprise adoption angle.",
-      "source_feed": "editorial-monitoring",
-      "published": "2026-05-03 09:32:41 PM ET",
-      "age_hours": "0.00",
-      "freshness_status": "monitoring",
-      "editorial_score": "0",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 08 May 2026 18:33:21 +0000",
+      "age_hours": "22.40",
+      "freshness_status": "stale",
+      "editorial_score": "32",
       "urgency": ""
     }
   ],
+  "editorial_brain": {
+    "status": "active",
+    "version": "v4.0-cross-vertical-editorial-intelligence",
+    "language_upgrade": "active",
+    "placeholder_guard": "active",
+    "contextual_snapshot_engine": "active",
+    "vertical_analysis_modes": {
+      "ai": "enterprise, infrastructure, model competition, regulation and capital allocation",
+      "politics": "policy, institutional power, courts, elections, geopolitics and governing consequences",
+      "entertainment": "streaming strategy, studio economics, music business, gaming IP and creator economy"
+    }
+  },
   "schema": {
-    "version": "gsr-network-v3.5-vetted-leads-no-public-labels",
+    "version": "gsr-network-v4.0-cross-vertical-editorial-intelligence",
     "required_story_fields": [
       "headline",
       "url",
@@ -89,11 +521,27 @@
       "urgency",
       "published",
       "age_hours",
-      "freshness_status"
+      "freshness_status",
+      "source_name"
     ],
     "spotlight_fields": [
       "live_newsroom",
       "editor_signals"
+    ],
+    "editorial_guards": [
+      "AI public lead should use a real vetted story whenever available",
+      "Monitoring language is blocked from normal public snapshots",
+      "Source diversity guard prevents one feed from dominating the page",
+      "Authority scoring favors major AI companies, models, infrastructure, policy and enterprise movement",
+      "Entertainment scoring favors recognizable studios, platforms, talent, box office, streaming, music, gaming and creator-economy signals",
+      "Entertainment fallback language is blocked from normal public leads when verified stories exist",
+      "Topic deduplication prevents repeated stories from filling the same public page",
+      "Minimum-card logic attempts to fill each vertical with a healthy newsroom mix when enough vetted stories exist",
+      "Cross-vertical editorial intelligence adds business, policy, market, audience and institutional context",
+      "AI cards emphasize infrastructure, model competition, regulation, capital allocation and enterprise impact",
+      "Politics cards emphasize power, policy, courts, elections, geopolitics and governing consequences",
+      "Entertainment cards emphasize streaming strategy, studio economics, music business, gaming IP and creator-economy signals",
+      "Public snapshots are expanded into contextual newsroom analysis when source text is too thin or mechanical"
     ]
   }
 }
