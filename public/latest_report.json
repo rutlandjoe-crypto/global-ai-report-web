@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Nvidia has already committed $40B to equity AI deals this year",
   "snapshot": "Nvidia continues to be a big investor in the AI ecosystem. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-05-09 12:57:18 PM ET",
-  "generated_at": "2026-05-09 12:57:18 PM ET",
+  "updated_at": "2026-05-09 07:38:00 PM ET",
+  "generated_at": "2026-05-09 07:38:00 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 48,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 12,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 13,
     "public_fallback_items": 31,
-    "stale_or_blocked_items": 47,
+    "stale_or_blocked_items": 46,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-09 12:57:18 PM ET"
+    "last_checked": "2026-05-09 07:38:00 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 09 May 2026 14:43:30 +0000",
-      "age_hours": "2.23",
+      "age_hours": "8.91",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": "WATCH"
@@ -73,7 +73,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-08T11:25:02-04:00",
-      "age_hours": "25.54",
+      "age_hours": "32.22",
       "freshness_status": "stale",
       "editorial_score": "80",
       "urgency": ""
@@ -103,9 +103,37 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 08 May 2026 15:46:17 +0000",
-      "age_hours": "25.18",
+      "age_hours": "31.86",
       "freshness_status": "stale",
       "editorial_score": "66",
+      "urgency": ""
+    },
+    {
+      "headline": "So you've heard these AI terms and nodded along; let's fix that",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "snapshot": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "key_data": [
+        "Key people or organizations: So",
+        "Story focus: So you've heard these AI terms and nodded along; let's fix that",
+        "Source context: The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from So.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 09 May 2026 21:45:00 +0000",
+      "age_hours": "1.88",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
       "urgency": ""
     },
     {
@@ -131,39 +159,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-08T08:15:00-04:00",
-      "age_hours": "28.70",
+      "age_hours": "35.38",
       "freshness_status": "stale",
       "editorial_score": "52",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "All the latest updates on AI data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "snapshot": "Massive new data centers are the physical foundation for tech companies' hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: All, Massive, But",
-        "AI desk signal: chip, data center",
-        "Story focus: All the latest updates on AI data centers",
-        "Source context: Massive new data centers are the physical foundation for tech companies' hopes and dreams for AI. But the rush to expand warehouses full of..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from All.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-08T14:45:08-04:00",
-      "age_hours": "22.20",
-      "freshness_status": "stale",
-      "editorial_score": "42",
-      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -192,7 +191,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 09 May 2026 14:43:30 +0000",
-      "age_hours": "2.23",
+      "age_hours": "8.91",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": "WATCH"
@@ -221,7 +220,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-08T11:25:02-04:00",
-      "age_hours": "25.54",
+      "age_hours": "32.22",
       "freshness_status": "stale",
       "editorial_score": "80",
       "urgency": ""
@@ -251,9 +250,37 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 08 May 2026 15:46:17 +0000",
-      "age_hours": "25.18",
+      "age_hours": "31.86",
       "freshness_status": "stale",
       "editorial_score": "66",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: So you've heard these AI terms and nodded along; let's fix that",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "snapshot": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "key_data": [
+        "Key people or organizations: So",
+        "Story focus: AI signal",
+        "Source context: The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from So.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 09 May 2026 21:45:00 +0000",
+      "age_hours": "1.88",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
       "urgency": ""
     },
     {
@@ -279,45 +306,16 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-08T08:15:00-04:00",
-      "age_hours": "28.70",
+      "age_hours": "35.38",
       "freshness_status": "stale",
       "editorial_score": "52",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "AI signal: All the latest updates on AI data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "snapshot": "Massive new data centers are the physical foundation for tech companies' hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: All, Massive, But",
-        "AI desk signal: chip, data center",
-        "Story focus: AI signal",
-        "Source context: Massive new data centers are the physical foundation for tech companies' hopes and dreams for AI. But the rush to expand warehouses full of..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from All.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-08T14:45:08-04:00",
-      "age_hours": "22.20",
-      "freshness_status": "stale",
-      "editorial_score": "42",
-      "urgency": ""
     }
   ],
   "key_storylines": [
     "Nvidia has already committed $40B to equity AI deals this year",
-    "Microsoft was worried OpenAI would run off to Amazon and 'shit-talk' Azure",
-    "The \"people's airline\" and the enterprise AI gold rush"
+    "So you've heard these AI terms and nodded along; let's fix that",
+    "Microsoft was worried OpenAI would run off to Amazon and 'shit-talk' Azure"
   ],
   "sections": [
     {
@@ -345,10 +343,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 09 May 2026 14:43:30 +0000",
-      "age_hours": "2.23",
+      "age_hours": "8.91",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "So you've heard these AI terms and nodded along; let's fix that",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "snapshot": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "key_data": [
+        "Key people or organizations: So",
+        "Story focus: So you've heard these AI terms and nodded along; let's fix that",
+        "Source context: The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from So.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 09 May 2026 21:45:00 +0000",
+      "age_hours": "1.88",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
     },
     {
       "headline": "Microsoft was worried OpenAI would run off to Amazon and 'shit-talk' Azure",
@@ -374,7 +400,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-08T11:25:02-04:00",
-      "age_hours": "25.54",
+      "age_hours": "32.22",
       "freshness_status": "stale",
       "editorial_score": "80",
       "urgency": ""
@@ -404,7 +430,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 08 May 2026 15:46:17 +0000",
-      "age_hours": "25.18",
+      "age_hours": "31.86",
       "freshness_status": "stale",
       "editorial_score": "66",
       "urgency": ""
@@ -432,7 +458,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-08T08:15:00-04:00",
-      "age_hours": "28.70",
+      "age_hours": "35.38",
       "freshness_status": "stale",
       "editorial_score": "52",
       "urgency": "WATCH"
@@ -461,38 +487,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-08T14:45:08-04:00",
-      "age_hours": "22.20",
+      "age_hours": "28.88",
       "freshness_status": "stale",
       "editorial_score": "42",
-      "urgency": ""
-    },
-    {
-      "headline": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-      "snapshot": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-      "key_data": [
-        "Key people or organizations: Cloudflare, CEO Matthew Prince",
-        "Specific figures mentioned: 1, 100",
-        "Story focus: Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-        "Source context: Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Cloudflare.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 08 May 2026 18:33:21 +0000",
-      "age_hours": "22.40",
-      "freshness_status": "stale",
-      "editorial_score": "32",
       "urgency": ""
     }
   ],
