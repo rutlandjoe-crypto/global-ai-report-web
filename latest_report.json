@@ -1,177 +1,192 @@
 {
-  "title": "Global AI Report",
-  "vertical": "AI",
-  "headline": "Google Expands Gemini AI Across Workspace as Enterprise Race Intensifies",
-  "snapshot": "Google is pushing deeper AI integration into its core business tools, signaling an aggressive move against Microsoft and OpenAI. The enterprise AI race is shifting from experimentation to full deployment.",
-  "updated_at": "2026-05-08 06:40:22 PM ET",
-  "generated_at": "2026-05-08 06:40:22 PM ET",
+  "title": "GSR Network",
+  "site": "GSR Network",
+  "vertical": "Network",
+  "headline": "GSR Network Live Editorial Intelligence Dashboard",
+  "snapshot": "A unified real-time editorial intelligence layer across sports, AI, politics, entertainment and betting.",
+  "generated_at": "2026-05-09 07:45:00 PM ET",
+  "updated_at": "2026-05-09 07:45:00 PM ET",
+  "published_at": "2026-05-09 07:45:00 PM ET",
+  "source_mode": "standardized_public_schema",
+  "freshness_status": "current",
+
   "key_storylines": [
-    "Google integrates Gemini across Docs, Sheets and Gmail",
-    "Enterprise AI adoption accelerates across sectors",
-    "Microsoft and OpenAI continue enterprise push",
-    "AI competition centers on productivity ecosystems"
+    "Sports coverage is moving beyond scores into matchup context, advanced metrics and reporter angles.",
+    "AI coverage is tracking the enterprise shift from model hype to deployment, governance and infrastructure.",
+    "Politics coverage is focused on policy pressure, legislative action and institutional consequences.",
+    "Entertainment coverage is monitoring film, television, streaming, gaming, media business and audience signals.",
+    "Betting coverage is framing odds, implied probability and market movement as editorial intelligence."
   ],
-  "live_newsroom": [
+
+  "homepage_cards": [
     {
-      "label": "AI Industry Lead",
-      "headline": "Google Expands Gemini Integration Across Workspace Platform",
-      "summary": "Google is embedding Gemini more deeply into its productivity suite as the enterprise AI race becomes a battle over workplace ecosystems.",
-      "url": "https://workspace.google.com/",
+      "id": "sports-lead",
+      "key": "sports-lead",
+      "category": "Sports",
+      "label": "Sports Editorial Signal",
+      "headline": "Sports Board Shows Strong Value in Matchup Context and Advanced Reporting Layers",
+      "summary": "The sports layer is now positioned to move beyond schedule and score updates by surfacing probable starters, efficiency indicators, live-game leverage and reporter-ready angles.",
+      "url": "https://globalsportsreport.com",
+      "source_name": "Global Sports Report",
+      "published_at": "2026-05-09 07:45:00 PM ET",
       "key_data": [
-        "Company / organization: Google",
-        "Category: AI Industry Lead",
-        "Product / model / tool: Gemini",
-        "Affected users: customers, developers, creators or enterprise users"
+        "MLB coverage can surface probable starters, Statcast signals and late-window leverage.",
+        "NBA coverage can use pace, net rating, shot efficiency and rotation pressure.",
+        "NFL coverage can use EPA/play, draft context and team-building signals.",
+        "WNBA should be added as a priority sports expansion."
       ],
       "why_it_matters": [
-        "Enterprise adoption moves the story from experimentation into budgets, procurement and daily workflow impact"
+        "Sports readers, reporters, fantasy players and betting audiences need context, not just final scores.",
+        "Advanced framing helps separate real editorial signal from schedule noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from Google, customers, regulators or competitors",
-        "Track launch timing, developer reaction, enterprise uptake, security details and policy response"
+        "Track WNBA integration.",
+        "Monitor whether cards display key data, why-it-matters and what-to-watch fields.",
+        "Prioritize matchup flags and advanced metrics where reliable data exists."
+      ],
+      "story_angles": [
+        "How late-night sports windows create newsroom value.",
+        "Where advanced metrics improve game previews and recap framing."
       ]
     },
     {
-      "label": "Enterprise AI Watch",
-      "headline": "Corporate AI Adoption Moves Into Full Deployment Phase",
-      "summary": "Companies are shifting from pilot programs toward broader AI rollouts tied to revenue, productivity and efficiency metrics.",
-      "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "id": "ai-lead",
+      "key": "ai-lead",
+      "category": "AI",
+      "label": "AI Enterprise Signal",
+      "headline": "Enterprise AI Coverage Moves From Demo Mode to Deployment Mode",
+      "summary": "The AI layer is strongest when it explains how companies, developers, regulators and enterprise customers are turning AI systems into daily infrastructure.",
+      "url": "https://globalaireport.news",
+      "source_name": "Global AI Report",
+      "published_at": "2026-05-09 07:45:00 PM ET",
       "key_data": [
-        "Category: Enterprise AI Watch"
+        "Enterprise AI adoption is moving from pilots into workflow deployment.",
+        "AI competition is increasingly tied to productivity ecosystems.",
+        "Regulation, safety and governance are becoming core business factors."
       ],
       "why_it_matters": [
-        "Enterprise adoption moves the story from experimentation into budgets, procurement and daily workflow impact"
+        "The AI market is now being judged by deployment, trust, measurable value and enterprise integration.",
+        "Reporters need help tracking the business impact behind product announcements."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from the company, customers, regulators or competitors",
-        "Track launch timing, developer reaction, enterprise uptake, security details and policy response"
+        "Watch Microsoft, Google, OpenAI, Nvidia and major enterprise software providers.",
+        "Track customer adoption, pricing, security concerns and regulatory action."
+      ],
+      "story_angles": [
+        "Enterprise AI as infrastructure.",
+        "The shift from model capability to business utility."
       ]
     },
     {
-      "label": "Policy & Regulation",
-      "headline": "Global Regulators Intensify Oversight of AI Systems",
-      "summary": "Governments are increasing scrutiny of AI safety, transparency, bias and accountability as adoption spreads across business and public life.",
-      "url": "https://hai.stanford.edu/",
+      "id": "politics-lead",
+      "key": "politics-lead",
+      "category": "Politics",
+      "label": "Politics Policy Signal",
+      "headline": "Washington Coverage Centers on Budget Pressure, Policy Stakes and Institutional Response",
+      "summary": "The politics layer should frame public-sector developments through lawmakers, agencies, courts, campaigns, deadlines and consequences for affected communities.",
+      "url": "https://globalpoliticsreport.com",
+      "source_name": "Global Politics Report",
+      "published_at": "2026-05-09 07:45:00 PM ET",
       "key_data": [
-        "Category: Policy & Regulation",
-        "Regulation / legal / security angle: present"
+        "Budget negotiations remain a central Washington storyline.",
+        "Policy fights can shift agency action, public spending and legislative leverage.",
+        "Coverage should identify the next vote, filing, hearing, ruling or official statement."
       ],
       "why_it_matters": [
-        "The legal or safety angle can change product strategy, deployment risk and public trust in AI systems"
+        "Political stories matter most when readers understand the policy consequence, not just the partisan conflict.",
+        "Structured politics cards can help reporters track what changed, who is affected and what happens next."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from the company, customers, regulators or competitors",
-        "Track launch timing, developer reaction, enterprise uptake, security details and policy response"
+        "Track official statements, committee action, court filings and agency decisions.",
+        "Watch responses from lawmakers, campaigns, courts and affected voters."
+      ],
+      "story_angles": [
+        "Budget pressure as governing test.",
+        "Policy consequences beyond the headline fight."
       ]
     },
     {
-      "label": "AI Market Signals",
-      "headline": "AI Investment and Hiring Trends Show Continued Growth",
-      "summary": "AI infrastructure, engineering talent and company restructuring remain major signals of where the sector is heading next.",
-      "url": "https://www.nvidia.com/en-us/news/",
+      "id": "entertainment-lead",
+      "key": "entertainment-lead",
+      "category": "Entertainment",
+      "label": "Entertainment Industry Signal",
+      "headline": "Entertainment Coverage Tracks Film, TV, Streaming, Gaming and Media Business Signals",
+      "summary": "The entertainment layer should convert live industry headlines into cleaner context around audience attention, studio movement, platform strategy, talent leverage and media business impact.",
+      "url": "https://globalentertainmentreport.com",
+      "source_name": "Global Entertainment Report",
+      "published_at": "2026-05-09 07:45:00 PM ET",
       "key_data": [
-        "Category: AI Market Signals"
+        "Entertainment coverage spans film, television, streaming, gaming, awards, media and celebrity business.",
+        "Public cards should never expose RSS counts, feed audits or internal pipeline diagnostics.",
+        "The strongest stories should explain why a headline matters to studios, platforms, creators or audiences."
       ],
       "why_it_matters": [
-        "The market signal points to capacity, capital spending and competitive positioning behind the AI buildout"
+        "Entertainment readers need more than headline aggregation; they need industry meaning.",
+        "Cleaner public-facing language makes the site feel like a publication, not a backend monitor."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements from the company, customers, regulators or competitors",
-        "Track launch timing, developer reaction, enterprise uptake, security details and policy response"
+        "Replace internal pipeline language with editorial summaries.",
+        "Improve generic why-it-matters copy with story-specific business and audience context.",
+        "Track studio movement, platform response, box office trends and audience reaction."
+      ],
+      "story_angles": [
+        "Streaming competition as media-business signal.",
+        "Box office and audience behavior as industry indicators."
+      ]
+    },
+    {
+      "id": "betting-lead",
+      "key": "betting-lead",
+      "category": "Betting",
+      "label": "Betting Market Signal",
+      "headline": "Betting Coverage Should Explain What Odds Mean, Not Just Display Lines",
+      "summary": "The betting layer is strongest when it translates odds, implied probability, market movement and matchup context into clear editorial intelligence for betting-focused readers.",
+      "url": "https://globalbettingreport.com",
+      "source_name": "Global Betting Report",
+      "published_at": "2026-05-09 07:45:00 PM ET",
+      "key_data": [
+        "Moneylines should be paired with implied probability.",
+        "Spread and total movement should be explained in plain language.",
+        "Cards should identify the market, the favorite, the risk and the context."
+      ],
+      "why_it_matters": [
+        "Betting readers need interpretation, not raw odds alone.",
+        "Market context creates stronger value for sportsbook, fantasy and sports-media audiences."
+      ],
+      "what_to_watch": [
+        "Track line movement, injury news, starting lineups and late market shifts.",
+        "Separate useful betting signal from shallow pick-style content.",
+        "Keep card structure clean: game, market, implied probability, why it matters and what to watch."
+      ],
+      "story_angles": [
+        "How market movement reflects changing game expectations.",
+        "Where betting context overlaps with fantasy and injury reporting."
       ]
     }
   ],
-  "editor_signals": [
-    {
-      "label": "Editor Signal",
-      "headline": "Enterprise AI Is Moving From Demo Mode to Deployment Mode",
-      "summary": "The strongest AI storyline is no longer just model capability. It is whether companies can turn AI into reliable, governed, measurable workplace infrastructure.",
-      "key_data": [
-        "Category: Editor Signal",
-        "Product / model / tool: model",
-        "Affected users: customers, developers, creators or enterprise users"
-      ],
-      "why_it_matters": [
-        "The product signal matters for platform competition, developer adoption and enterprise workflow decisions"
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements from the company, customers, regulators or competitors",
-        "Track launch timing, developer reaction, enterprise uptake, security details and policy response"
-      ]
-    }
-  ],
-  "stories": [
-    {
-      "label": "AI Industry Lead",
-      "headline": "Google Expands Gemini Integration Across Workspace Platform",
-      "summary": "Google is pushing Gemini deeper into Workspace as enterprise AI competition intensifies.",
-      "url": "https://workspace.google.com/",
-      "key_data": [
-        "Gemini AI now embedded in core Google Workspace tools",
-        "Move targets enterprise productivity market dominance",
-        "Positions Google directly against Microsoft Copilot"
-      ],
-      "why_it_matters": [
-        "Google is using Workspace distribution to compete for enterprise AI adoption."
-      ],
-      "what_to_watch": [
-        "Watch customer adoption, pricing changes and Microsoft’s Copilot response."
-      ]
-    },
-    {
-      "label": "Enterprise AI Watch",
-      "headline": "Corporate AI Adoption Moves Into Full Deployment Phase",
-      "summary": "Companies are moving from AI pilots to larger rollouts tied to measurable business outcomes.",
-      "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
-      "key_data": [
-        "Companies shifting from pilot programs to full rollout",
-        "AI tools increasingly tied to revenue and efficiency metrics",
-        "Enterprise demand driving rapid model development"
-      ],
-      "why_it_matters": [
-        "The AI market is being judged more by business impact than hype."
-      ],
-      "what_to_watch": [
-        "Track earnings commentary, workforce impact and enterprise governance concerns."
-      ]
-    },
-    {
-      "label": "Policy & Regulation",
-      "headline": "Global Regulators Intensify Oversight of AI Systems",
-      "summary": "AI regulation is becoming a major factor for companies deploying models across high-risk sectors.",
-      "url": "https://hai.stanford.edu/",
-      "key_data": [
-        "EU AI Act enforcement framework advances",
-        "U.S. lawmakers push for transparency requirements",
-        "Focus remains on safety, bias and accountability"
-      ],
-      "why_it_matters": [
-        "Policy decisions may determine how quickly AI systems are deployed and where they face restrictions."
-      ],
-      "what_to_watch": [
-        "Watch enforcement rules, company disclosures and legal challenges."
-      ]
-    },
-    {
-      "label": "AI Market Signals",
-      "headline": "AI Investment and Hiring Trends Show Continued Growth",
-      "summary": "Funding, hiring and infrastructure demand continue to define the AI business cycle.",
-      "url": "https://www.nvidia.com/en-us/news/",
-      "key_data": [
-        "Venture funding flows into AI infrastructure startups",
-        "Hiring demand rises for machine learning engineers",
-        "Companies restructure around AI-first strategies"
-      ],
-      "why_it_matters": [
-        "Investment and hiring show where companies expect AI value to materialize."
-      ],
-      "what_to_watch": [
-        "Monitor AI infrastructure funding, chip demand and enterprise hiring patterns."
-      ]
-    }
-  ],
-  "published_at": "2026-05-08 06:40:22 PM ET",
-  "last_checked": "2026-05-08 06:40:22 PM ET",
-  "last_pipeline_run": "2026-05-08 06:40:22 PM ET",
-  "freshness_status": "carried_forward_live_newsroom"
+
+  "live_newsroom": [],
+  "editor_signals": [],
+  "stories": [],
+
+  "metadata": {
+    "schema_version": "gsr_universal_v1",
+    "public_render_fields": [
+      "headline",
+      "summary",
+      "key_data",
+      "why_it_matters",
+      "what_to_watch",
+      "story_angles",
+      "source_name",
+      "published_at"
+    ],
+    "hide_from_public_cards": [
+      "feed_audit",
+      "internal_notes",
+      "raw_content",
+      "pipeline_logs",
+      "fallback_note"
+    ]
+  }
 }
