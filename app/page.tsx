@@ -27,11 +27,11 @@ const TOOLKIT = [
 ];
 
 const GSR_NETWORK = [
-  ["Sports", "https://globalsportsreport.com"],
-  ["AI", "https://globalaireport.news"],
-  ["Politics", "https://globalpoliticsreport.com"],
-  ["Entertainment", "https://globalentertainmentreport.com"],
-  ["Betting", "https://globalbettingreport.com"],
+  ["Sports", "https://www.globalsportsreport.com"],
+  ["AI", "https://www.globalaireport.news"],
+  ["Politics", "https://www.globalpoliticsreport.com"],
+  ["Entertainment", "https://www.globalentertainmentreport.com"],
+  ["Betting", "https://www.globalbettingreport.com"],
 ];
 
 const BAD_CONTENT_PHRASES = [
