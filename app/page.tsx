@@ -162,24 +162,24 @@ function normalizeStory(story: AnyObj, index: number): AnyObj {
       cleanText(story.headline) ||
       cleanText(story.title) ||
       cleanText(story.name) ||
-      `AI Storyline ${index + 1}`,
+      `AI Development ${index + 1}`,
     title:
       cleanText(story.title) ||
       cleanText(story.headline) ||
       cleanText(story.name) ||
-      `AI Storyline ${index + 1}`,
+      `AI Development ${index + 1}`,
     summary:
       cleanText(story.summary) ||
       cleanText(story.snapshot) ||
       cleanText(story.description) ||
       cleanText(story.body) ||
-      "AI development flagged for newsroom monitoring.",
+      "Editors are tracking how this AI development may affect companies, policy, infrastructure or research.",
     snapshot:
       cleanText(story.snapshot) ||
       cleanText(story.summary) ||
       cleanText(story.description) ||
       cleanText(story.body) ||
-      "AI development flagged for newsroom monitoring.",
+      "Editors are tracking how this AI development may affect companies, policy, infrastructure or research.",
     key_data: asList(story.key_data || story.keyData || story.data || story.metrics).slice(0, 8),
     why_it_matters: asList(story.why_it_matters || story.whyItMatters || story.why).slice(0, 6),
     what_to_watch: asList(story.what_to_watch || story.whatToWatch || story.watch).slice(0, 8),
@@ -260,7 +260,7 @@ function storyTitle(story: AnyObj, index: number): string {
     cleanText(story.headline) ||
     cleanText(story.title) ||
     cleanText(story.name) ||
-    `AI Storyline ${index + 1}`
+    `AI Development ${index + 1}`
   );
 }
 
@@ -275,7 +275,7 @@ function storySummary(story: AnyObj): string {
     cleanText(story.snapshot) ||
     cleanText(story.description) ||
     cleanText(story.body) ||
-    "AI development flagged for newsroom monitoring."
+    "Editors are tracking how this AI development may affect companies, policy, infrastructure or research."
   );
 }
 
@@ -304,7 +304,7 @@ function LineList({ items }: { items: string[] }) {
   if (!safe.length) {
     return (
       <p className="text-sm leading-6 text-slate-700">
-        Monitoring verified AI developments for the next clean newsroom update.
+        The next update will surface the clearest AI developments across companies, policy, infrastructure and research.
       </p>
     );
   }
@@ -377,7 +377,7 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
       <div className="mt-4 grid gap-3 md:grid-cols-2 xl:grid-cols-4">
         <div className="rounded-xl bg-slate-50 p-3">
           <p className="mb-2 text-xs font-black uppercase text-slate-600">Key Data</p>
-          <LineList items={keyData.length ? keyData : ["Latest verified AI signal attached for newsroom review."]} />
+          <LineList items={keyData.length ? keyData : ["The clearest available signal will appear here as the story develops."]} />
         </div>
 
         <div className="rounded-xl bg-slate-50 p-3">
@@ -392,7 +392,7 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
 
         <div className="rounded-xl bg-slate-50 p-3">
           <p className="mb-2 text-xs font-black uppercase text-slate-600">Story Angles</p>
-          <LineList items={angles.length ? angles : ["Identify the strongest enterprise, policy, infrastructure or competitive angle behind the signal."]} />
+          <LineList items={angles.length ? angles : ["The strongest AI stories usually connect a company move, technical shift, policy response or business consequence."]} />
         </div>
       </div>
     </article>
