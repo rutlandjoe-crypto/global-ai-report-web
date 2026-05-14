@@ -1,93 +1,34 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Alexa is moving into Amazon.com",
-  "snapshot": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-05-13 09:31:31 AM ET",
-  "generated_at": "2026-05-13 09:31:31 AM ET",
+  "headline": "Musk's xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+  "snapshot": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+  "updated_at": "2026-05-14 01:47:21 AM ET",
+  "generated_at": "2026-05-14 01:47:21 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
-    "max_public_backup_age_hours": 72,
-    "total_items_checked": 37,
-    "live_fresh_items": 4,
-    "editor_fresh_items": 25,
-    "public_backup_items": 30,
-    "stale_or_blocked_items": 33,
+    "max_public_fallback_age_hours": 72,
+    "total_items_checked": 49,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 24,
+    "public_fallback_items": 36,
+    "stale_or_blocked_items": 44,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-13 09:31:31 AM ET"
+    "last_checked": "2026-05-14 01:47:21 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Alexa is moving into Amazon.com",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-      "snapshot": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Musk's xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+      "snapshot": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Names involved: Alexa, Amazon, Alexa Plus, LLM",
-        "AI signal: model, llm, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Alexa is moving into Amazon.com",
-        "Context: Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Alexa.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/feed/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-13T09:00:00-04:00",
-      "age_hours": "0.53",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-      "snapshot": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Names involved: Adaption, AutoScientist",
-        "AI signal: model, enterprise",
-        "Story focus: Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-        "Context: Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Adaption.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 13 May 2026 12:11:33 +0000",
-      "age_hours": "1.33",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": ""
-    },
-    {
-      "headline": "Data centers are coming for rural America",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
-      "snapshot": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently. In 2023, the 1.4 million-square-foot facility was purchased... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Names involved: Data, America, At, Androscoggin",
-        "Key number: 67, 1, 500, 2020",
-        "AI signal: chip, data center",
-        "Story focus: Data centers are coming for rural America",
-        "Context: At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp..."
+        "Key people or organizations: Musk, Mississippi, Gas, Colossus",
+        "Specific figures mentioned: 50, 2",
+        "AI desk signal: chip, data center, enterprise, lawsuit",
+        "Story focus: Musk's xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+        "Source context: Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants. The larger angle..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -95,244 +36,150 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Data.",
+        "Watch for follow-up statements, product details or customer evidence from Musk.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/feed/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-13T05:00:00-04:00",
-      "age_hours": "4.53",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 13 May 2026 19:49:42 +0000",
+      "age_hours": "9.96",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "140",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Microsoft's Edge Copilot update uses AI to pull information from across your tabs",
+      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+      "snapshot": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Microsoft, Edge Copilot, Microsoft Edge, Copilot AI",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft's Edge Copilot update uses AI to pull information from across your tabs",
+        "Source context: Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-13T18:04:28-04:00",
+      "age_hours": "7.71",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Poppy debuts a proactive AI assistant to help organize your digital life",
-      "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-      "snapshot": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what's happening in your life.",
+      "headline": "Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "snapshot": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Names involved: Poppy",
-        "Story focus: Poppy debuts a proactive AI assistant to help organize your digital life",
-        "Context: Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on..."
+        "Key people or organizations: Anthropic, Cat Wu, Claude Code, Cowork",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+        "Source context: The head of product for Claude Code and Cowork says that the next big step for AI is proactivity. The competitive question is whether this changes..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Poppy.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 13 May 2026 13:27:09 +0000",
-      "age_hours": "0.07",
+      "published": "Wed, 13 May 2026 19:28:06 +0000",
+      "age_hours": "10.32",
       "freshness_status": "fresh",
-      "editorial_score": "36",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "Notion just turned its workspace into a hub for AI agents",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "snapshot": "Notion's new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Notion",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Notion just turned its workspace into a hub for AI agents",
+        "Source context: Notion's new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Notion.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 13 May 2026 21:45:09 +0000",
+      "age_hours": "8.04",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Mark Zuckerberg announces 'completely private' encrypted Meta AI chat",
+      "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+      "snapshot": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Mark Zuckerberg, Meta AI, Meta CEO Mark Zuckerberg, Incognito Chat",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Mark Zuckerberg announces 'completely private' encrypted Meta AI chat",
+        "Source context: Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\"..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mark Zuckerberg.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-13T12:45:43-04:00",
+      "age_hours": "13.03",
+      "freshness_status": "stale",
+      "editorial_score": "80",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Alexa is moving into Amazon.com carries AI industry consequence",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-      "snapshot": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "AI signal: Musk's xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+      "snapshot": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Names involved: Alexa, Amazon, Alexa Plus, LLM",
-        "AI signal: model, llm, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Alexa is moving into Amazon.com carries AI industry consequence",
-        "Context: Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Alexa.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/feed/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-13T09:00:00-04:00",
-      "age_hours": "0.53",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals carries AI industry consequence",
-      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-      "snapshot": "Vapi says its enterprise business has grown tenfold since early 2025 as companies shift customer support and sales calls to AI agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Names involved: Vapi, Amazon Ring",
-        "Key number: $500M, 40, 2025",
-        "AI signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals carries AI industry consequence"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Vapi.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 12 May 2026 11:30:00 +0000",
-      "age_hours": "26.03",
-      "freshness_status": "stale",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Sam Altman says Elon Musk's mind games were damaging OpenAI carries AI industry consequence",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-      "snapshot": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Brockman and former chief scientist Ilya Sutskever to rank researchers by their... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Names involved: Sam Altman, Elon Musk, OpenAI, OpenAI CEO Sam Altman",
-        "AI signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Sam Altman says Elon Musk's mind games were damaging OpenAI carries AI industry consequence",
-        "Context: OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI,..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/feed/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-12T13:34:09-04:00",
-      "age_hours": "19.96",
-      "freshness_status": "stale",
-      "editorial_score": "106",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves carries AI industry consequence",
-      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-      "snapshot": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Names involved: Adaption, AutoScientist",
-        "AI signal: model, enterprise",
-        "Story focus: Adaption aims big with AutoScientist, an AI tool that helps models train themselves carries AI industry consequence",
-        "Context: Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Adaption.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 13 May 2026 12:11:33 +0000",
-      "age_hours": "1.33",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Alexa is moving into Amazon.com",
-    "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-    "Data centers are coming for rural America"
-  ],
-  "sections": [
-    {
-      "headline": "Alexa is moving into Amazon.com",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-      "snapshot": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Names involved: Alexa, Amazon, Alexa Plus, LLM",
-        "AI signal: model, llm, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Alexa is moving into Amazon.com",
-        "Context: Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Alexa.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/feed/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-13T09:00:00-04:00",
-      "age_hours": "0.53",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-      "snapshot": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Names involved: Adaption, AutoScientist",
-        "AI signal: model, enterprise",
-        "Story focus: Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-        "Context: Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Adaption.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 13 May 2026 12:11:33 +0000",
-      "age_hours": "1.33",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": ""
-    },
-    {
-      "headline": "Data centers are coming for rural America",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
-      "snapshot": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to close permanently. In 2023, the 1.4 million-square-foot facility was purchased... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Names involved: Data, America, At, Androscoggin",
-        "Key number: 67, 1, 500, 2020",
-        "AI signal: chip, data center",
-        "Story focus: Data centers are coming for rural America",
-        "Context: At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp..."
+        "Key people or organizations: Musk, Mississippi, Gas, Colossus",
+        "Specific figures mentioned: 50, 2",
+        "AI desk signal: chip, data center, enterprise, lawsuit",
+        "Story focus: AI signal",
+        "Source context: Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants. The larger angle..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -340,45 +187,322 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Data.",
+        "Watch for follow-up statements, product details or customer evidence from Musk.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/feed/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-13T05:00:00-04:00",
-      "age_hours": "4.53",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 13 May 2026 19:49:42 +0000",
+      "age_hours": "9.96",
       "freshness_status": "fresh",
-      "editorial_score": "78",
+      "editorial_score": "140",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "AI signal: Microsoft's Edge Copilot update uses AI to pull information from across your tabs",
+      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+      "snapshot": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Microsoft, Edge Copilot, Microsoft Edge, Copilot AI",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal",
+        "Source context: Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-13T18:04:28-04:00",
+      "age_hours": "7.71",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Poppy debuts a proactive AI assistant to help organize your digital life",
-      "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-      "snapshot": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what's happening in your life.",
+      "headline": "AI signal: Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "snapshot": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Names involved: Poppy",
-        "Story focus: Poppy debuts a proactive AI assistant to help organize your digital life",
-        "Context: Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on..."
+        "Key people or organizations: Anthropic, Cat Wu, Claude Code, Cowork",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal",
+        "Source context: The head of product for Claude Code and Cowork says that the next big step for AI is proactivity. The competitive question is whether this changes..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Poppy.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 13 May 2026 13:27:09 +0000",
-      "age_hours": "0.07",
+      "published": "Wed, 13 May 2026 19:28:06 +0000",
+      "age_hours": "10.32",
       "freshness_status": "fresh",
-      "editorial_score": "36",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: Notion just turned its workspace into a hub for AI agents",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "snapshot": "Notion's new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Notion",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: AI signal",
+        "Source context: Notion's new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Notion.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 13 May 2026 21:45:09 +0000",
+      "age_hours": "8.04",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: Mark Zuckerberg announces 'completely private' encrypted Meta AI chat",
+      "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+      "snapshot": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Mark Zuckerberg, Meta AI, Meta CEO Mark Zuckerberg, Incognito Chat",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal",
+        "Source context: Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\"..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mark Zuckerberg.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-13T12:45:43-04:00",
+      "age_hours": "13.03",
+      "freshness_status": "stale",
+      "editorial_score": "80",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Musk's xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "Microsoft's Edge Copilot update uses AI to pull information from across your tabs",
+    "Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are"
+  ],
+  "sections": [
+    {
+      "headline": "Musk's xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+      "snapshot": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Musk, Mississippi, Gas, Colossus",
+        "Specific figures mentioned: 50, 2",
+        "AI desk signal: chip, data center, enterprise, lawsuit",
+        "Story focus: Musk's xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+        "Source context: Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants. The larger angle..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Musk.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 13 May 2026 19:49:42 +0000",
+      "age_hours": "9.96",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Microsoft's Edge Copilot update uses AI to pull information from across your tabs",
+      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+      "snapshot": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot questions about what's in your tabs, compare the products you're looking at,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Microsoft, Edge Copilot, Microsoft Edge, Copilot AI",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft's Edge Copilot update uses AI to pull information from across your tabs",
+        "Source context: Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-13T18:04:28-04:00",
+      "age_hours": "7.71",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+      "snapshot": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Cat Wu, Claude Code, Cowork",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+        "Source context: The head of product for Claude Code and Cowork says that the next big step for AI is proactivity. The competitive question is whether this changes..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 13 May 2026 19:28:06 +0000",
+      "age_hours": "10.32",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "Notion just turned its workspace into a hub for AI agents",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "snapshot": "Notion's new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Notion",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Notion just turned its workspace into a hub for AI agents",
+        "Source context: Notion's new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Notion.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 13 May 2026 21:45:09 +0000",
+      "age_hours": "8.04",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Mark Zuckerberg announces 'completely private' encrypted Meta AI chat",
+      "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+      "snapshot": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Mark Zuckerberg, Meta AI, Meta CEO Mark Zuckerberg, Incognito Chat",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Mark Zuckerberg announces 'completely private' encrypted Meta AI chat",
+        "Source context: Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\"..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mark Zuckerberg.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-13T12:45:43-04:00",
+      "age_hours": "13.03",
+      "freshness_status": "stale",
+      "editorial_score": "80",
+      "urgency": ""
+    },
+    {
+      "headline": "Clio's $500M milestone arrives just as Anthropic ups the ante",
+      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "snapshot": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Clio, Anthropic, Legal, ARR",
+        "Specific figures mentioned: $500M, $500 million",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Clio's $500M milestone arrives just as Anthropic ups the ante"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Clio.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 14 May 2026 05:24:39 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
@@ -386,7 +510,7 @@
     "status": "active",
     "version": "v4.0-cross-vertical-editorial-intelligence",
     "language_upgrade": "active",
-    "public_language_guard": "active",
+    "placeholder_guard": "active",
     "contextual_snapshot_engine": "active",
     "vertical_analysis_modes": {
       "ai": "enterprise, infrastructure, model competition, regulation and capital allocation",
@@ -420,7 +544,7 @@
       "Source diversity guard prevents one feed from dominating the page",
       "Authority scoring favors major AI companies, models, infrastructure, policy and enterprise movement",
       "Entertainment scoring favors recognizable studios, platforms, talent, box office, streaming, music, gaming and creator-economy signals",
-      "Entertainment backup source language is blocked from normal public leads when verified stories exist",
+      "Entertainment fallback language is blocked from normal public leads when verified stories exist",
       "Topic deduplication prevents repeated stories from filling the same public page",
       "Minimum-card logic attempts to fill each vertical with a healthy newsroom mix when enough vetted stories exist",
       "Cross-vertical editorial intelligence adds business, policy, market, audience and institutional context",
