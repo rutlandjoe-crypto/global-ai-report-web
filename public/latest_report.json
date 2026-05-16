@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "ArXiv will ban researchers who upload papers full of AI slop",
-  "snapshot": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-  "updated_at": "2026-05-16 03:46:42 AM ET",
-  "generated_at": "2026-05-16 03:46:42 AM ET",
+  "headline": "YouTube is expanding its AI deepfake detection tool to all adult users",
+  "snapshot": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube...",
+  "updated_at": "2026-05-16 05:19:38 AM ET",
+  "generated_at": "2026-05-16 05:19:38 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 2,
-    "editor_fresh_items": 20,
+    "live_fresh_items": 1,
+    "editor_fresh_items": 18,
     "public_fallback_items": 34,
-    "stale_or_blocked_items": 47,
+    "stale_or_blocked_items": 48,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-16 03:46:42 AM ET"
+    "last_checked": "2026-05-16 05:19:38 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,38 +43,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 15 May 2026 16:00:00 +0000",
-      "age_hours": "15.78",
+      "age_hours": "17.33",
       "freshness_status": "stale",
       "editorial_score": "120",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "ArXiv will ban researchers who upload papers full of AI slop",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "snapshot": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-      "key_data": [
-        "Key people or organizations: ArXiv, If, LLM",
-        "AI desk signal: llm",
-        "Story focus: ArXiv will ban researchers who upload papers full of AI slop",
-        "Source context: ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ArXiv.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-15T16:38:19-04:00",
-      "age_hours": "11.14",
-      "freshness_status": "fresh",
-      "editorial_score": "104",
       "urgency": "DEVELOPING"
     },
     {
@@ -101,7 +72,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-15T12:00:00-04:00",
-      "age_hours": "15.78",
+      "age_hours": "17.33",
       "freshness_status": "stale",
       "editorial_score": "94",
       "urgency": "DEVELOPING"
@@ -131,7 +102,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-15T13:09:16-04:00",
-      "age_hours": "14.62",
+      "age_hours": "16.17",
       "freshness_status": "stale",
       "editorial_score": "120",
       "urgency": ""
@@ -161,9 +132,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 15 May 2026 14:00:00 +0000",
-      "age_hours": "17.78",
+      "age_hours": "19.33",
       "freshness_status": "stale",
       "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "Osaurus brings both local and cloud AI models to your Mac",
+      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "snapshot": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users' memory, files, and tools on their own hardware. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Osaurus, Mac",
+        "AI desk signal: model, enterprise",
+        "Story focus: Osaurus brings both local and cloud AI models to your Mac",
+        "Source context: Osaurus￼ combines local and cloud AI models in a Mac app that keeps users' memory, files, and tools on their own hardware. The competitive question..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Osaurus.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 15 May 2026 12:19:48 +0000",
+      "age_hours": "21.00",
+      "freshness_status": "stale",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
@@ -193,7 +193,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-15T13:09:16-04:00",
-      "age_hours": "14.62",
+      "age_hours": "16.17",
       "freshness_status": "stale",
       "editorial_score": "120",
       "urgency": ""
@@ -222,38 +222,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 15 May 2026 16:00:00 +0000",
-      "age_hours": "15.78",
+      "age_hours": "17.33",
       "freshness_status": "stale",
       "editorial_score": "120",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "AI signal: ArXiv will ban researchers who upload papers full of AI slop",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "snapshot": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-      "key_data": [
-        "Key people or organizations: ArXiv, If, LLM",
-        "AI desk signal: llm",
-        "Story focus: AI signal",
-        "Source context: ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ArXiv.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-15T16:38:19-04:00",
-      "age_hours": "11.14",
-      "freshness_status": "fresh",
-      "editorial_score": "104",
       "urgency": "DEVELOPING"
     },
     {
@@ -281,7 +252,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 15 May 2026 14:00:00 +0000",
-      "age_hours": "17.78",
+      "age_hours": "19.33",
       "freshness_status": "stale",
       "editorial_score": "98",
       "urgency": ""
@@ -310,47 +281,47 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-15T12:00:00-04:00",
-      "age_hours": "15.78",
+      "age_hours": "17.33",
       "freshness_status": "stale",
       "editorial_score": "94",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "AI signal: Osaurus brings both local and cloud AI models to your Mac",
+      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "snapshot": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users' memory, files, and tools on their own hardware. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Osaurus, Mac",
+        "AI desk signal: model, enterprise",
+        "Story focus: AI signal",
+        "Source context: Osaurus￼ combines local and cloud AI models in a Mac app that keeps users' memory, files, and tools on their own hardware. The competitive question..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Osaurus.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 15 May 2026 12:19:48 +0000",
+      "age_hours": "21.00",
+      "freshness_status": "stale",
+      "editorial_score": "84",
+      "urgency": ""
     }
   ],
   "key_storylines": [
-    "ArXiv will ban researchers who upload papers full of AI slop",
     "YouTube is expanding its AI deepfake detection tool to all adult users",
-    "AI radio hosts demonstrate why AI can't be trusted alone"
+    "AI radio hosts demonstrate why AI can't be trusted alone",
+    "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts"
   ],
   "sections": [
-    {
-      "headline": "ArXiv will ban researchers who upload papers full of AI slop",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "snapshot": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-      "key_data": [
-        "Key people or organizations: ArXiv, If, LLM",
-        "AI desk signal: llm",
-        "Story focus: ArXiv will ban researchers who upload papers full of AI slop",
-        "Source context: ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ArXiv.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-15T16:38:19-04:00",
-      "age_hours": "11.14",
-      "freshness_status": "fresh",
-      "editorial_score": "104",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "YouTube is expanding its AI deepfake detection tool to all adult users",
       "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
@@ -375,7 +346,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-15T18:25:00-04:00",
-      "age_hours": "9.36",
+      "age_hours": "10.91",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -405,7 +376,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-15T13:09:16-04:00",
-      "age_hours": "14.62",
+      "age_hours": "16.17",
       "freshness_status": "stale",
       "editorial_score": "120",
       "urgency": ""
@@ -434,7 +405,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 15 May 2026 16:00:00 +0000",
-      "age_hours": "15.78",
+      "age_hours": "17.33",
       "freshness_status": "stale",
       "editorial_score": "120",
       "urgency": "DEVELOPING"
@@ -464,7 +435,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 15 May 2026 14:00:00 +0000",
-      "age_hours": "17.78",
+      "age_hours": "19.33",
       "freshness_status": "stale",
       "editorial_score": "98",
       "urgency": ""
@@ -493,10 +464,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-15T12:00:00-04:00",
-      "age_hours": "15.78",
+      "age_hours": "17.33",
       "freshness_status": "stale",
       "editorial_score": "94",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Osaurus brings both local and cloud AI models to your Mac",
+      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "snapshot": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users' memory, files, and tools on their own hardware. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Osaurus, Mac",
+        "AI desk signal: model, enterprise",
+        "Story focus: Osaurus brings both local and cloud AI models to your Mac",
+        "Source context: Osaurus￼ combines local and cloud AI models in a Mac app that keeps users' memory, files, and tools on their own hardware. The competitive question..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Osaurus.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 15 May 2026 12:19:48 +0000",
+      "age_hours": "21.00",
+      "freshness_status": "stale",
+      "editorial_score": "84",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
