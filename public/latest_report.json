@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "The haves and have nots of the AI gold rush",
-  "snapshot": "The vibes around the current AI boom aren't great, even in the tech industry.",
-  "updated_at": "2026-05-17 04:05:50 AM ET",
-  "generated_at": "2026-05-17 04:05:50 AM ET",
+  "headline": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+  "snapshot": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+  "updated_at": "2026-05-17 06:17:00 AM ET",
+  "generated_at": "2026-05-17 06:17:00 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 6,
-    "public_fallback_items": 31,
-    "stale_or_blocked_items": 48,
+    "total_items_checked": 37,
+    "live_fresh_items": 0,
+    "editor_fresh_items": 5,
+    "public_fallback_items": 29,
+    "stale_or_blocked_items": 37,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-17 04:05:50 AM ET"
+    "last_checked": "2026-05-17 06:17:00 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,38 +43,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 16 May 2026 18:54:28 +0000",
-      "age_hours": "13.19",
+      "age_hours": "15.38",
       "freshness_status": "stale",
       "editorial_score": "92",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "ArXiv will ban researchers who upload papers full of AI slop",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "snapshot": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-      "key_data": [
-        "Key people or organizations: ArXiv, If, LLM",
-        "AI desk signal: llm",
-        "Story focus: ArXiv will ban researchers who upload papers full of AI slop",
-        "Source context: ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ArXiv.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-15T16:38:19-04:00",
-      "age_hours": "35.46",
-      "freshness_status": "stale",
-      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -102,7 +73,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 16 May 2026 15:33:33 +0000",
-      "age_hours": "16.54",
+      "age_hours": "18.72",
       "freshness_status": "stale",
       "editorial_score": "62",
       "urgency": ""
@@ -129,9 +100,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 16 May 2026 20:17:16 +0000",
-      "age_hours": "11.81",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
+      "age_hours": "14.00",
+      "freshness_status": "stale",
+      "editorial_score": "24",
       "urgency": ""
     },
     {
@@ -158,7 +129,36 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-16T11:37:05-04:00",
-      "age_hours": "16.48",
+      "age_hours": "18.67",
+      "freshness_status": "stale",
+      "editorial_score": "24",
+      "urgency": ""
+    },
+    {
+      "headline": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "snapshot": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube...",
+      "key_data": [
+        "Key people or organizations: YouTube",
+        "Specific figures mentioned: 18",
+        "Story focus: YouTube is expanding its AI deepfake detection tool to all adult users",
+        "Source context: YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from YouTube.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-15T18:25:00-04:00",
+      "age_hours": "35.87",
       "freshness_status": "stale",
       "editorial_score": "24",
       "urgency": ""
@@ -189,38 +189,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 16 May 2026 18:54:28 +0000",
-      "age_hours": "13.19",
+      "age_hours": "15.38",
       "freshness_status": "stale",
       "editorial_score": "92",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "AI signal: ArXiv will ban researchers who upload papers full of AI slop",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "snapshot": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-      "key_data": [
-        "Key people or organizations: ArXiv, If, LLM",
-        "AI desk signal: llm",
-        "Story focus: AI signal",
-        "Source context: ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ArXiv.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-15T16:38:19-04:00",
-      "age_hours": "35.46",
-      "freshness_status": "stale",
-      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -248,36 +219,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 16 May 2026 15:33:33 +0000",
-      "age_hours": "16.54",
+      "age_hours": "18.72",
       "freshness_status": "stale",
       "editorial_score": "62",
-      "urgency": ""
-    },
-    {
-      "headline": "AI signal: The haves and have nots of the AI gold rush",
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "snapshot": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "key_data": [
-        "Story focus: AI signal",
-        "Source context: The vibes around the current AI boom aren't great, even in the tech industry."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 16 May 2026 20:17:16 +0000",
-      "age_hours": "11.81",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     },
     {
@@ -304,24 +248,46 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-16T11:37:05-04:00",
-      "age_hours": "16.48",
+      "age_hours": "18.67",
       "freshness_status": "stale",
       "editorial_score": "24",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "The haves and have nots of the AI gold rush",
-    "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-    "ArXiv will ban researchers who upload papers full of AI slop"
-  ],
-  "sections": [
+    },
     {
-      "headline": "The haves and have nots of the AI gold rush",
+      "headline": "AI signal: YouTube is expanding its AI deepfake detection tool to all adult users",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "snapshot": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube...",
+      "key_data": [
+        "Key people or organizations: YouTube",
+        "Specific figures mentioned: 18",
+        "Story focus: AI signal",
+        "Source context: YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from YouTube.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-15T18:25:00-04:00",
+      "age_hours": "35.87",
+      "freshness_status": "stale",
+      "editorial_score": "24",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: The haves and have nots of the AI gold rush",
       "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
       "snapshot": "The vibes around the current AI boom aren't great, even in the tech industry.",
       "key_data": [
-        "Story focus: The haves and have nots of the AI gold rush",
+        "Story focus: AI signal",
         "Source context: The vibes around the current AI boom aren't great, even in the tech industry."
       ],
       "why_it_matters": [
@@ -338,11 +304,17 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 16 May 2026 20:17:16 +0000",
-      "age_hours": "11.81",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
+      "age_hours": "14.00",
+      "freshness_status": "stale",
+      "editorial_score": "24",
       "urgency": ""
-    },
+    }
+  ],
+  "key_storylines": [
+    "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "OpenAI co-founder Greg Brockman takes charge of product strategy"
+  ],
+  "sections": [
     {
       "headline": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
       "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
@@ -367,38 +339,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 16 May 2026 18:54:28 +0000",
-      "age_hours": "13.19",
+      "age_hours": "15.38",
       "freshness_status": "stale",
       "editorial_score": "92",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "ArXiv will ban researchers who upload papers full of AI slop",
-      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-      "snapshot": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-      "key_data": [
-        "Key people or organizations: ArXiv, If, LLM",
-        "AI desk signal: llm",
-        "Story focus: ArXiv will ban researchers who upload papers full of AI slop",
-        "Source context: ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ArXiv.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-15T16:38:19-04:00",
-      "age_hours": "35.46",
-      "freshness_status": "stale",
-      "editorial_score": "74",
       "urgency": "DEVELOPING"
     },
     {
@@ -426,67 +369,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 16 May 2026 15:33:33 +0000",
-      "age_hours": "16.54",
+      "age_hours": "18.72",
       "freshness_status": "stale",
       "editorial_score": "62",
-      "urgency": ""
-    },
-    {
-      "headline": "Sony tries to explain that its AI Camera Assistant doesn't suck",
-      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-      "snapshot": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera...",
-      "key_data": [
-        "Key people or organizations: Sony, Xperia, XIII, Point",
-        "Specific figures mentioned: 1",
-        "Story focus: Sony tries to explain that its AI Camera Assistant doesn't suck",
-        "Source context: After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sony.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-16T11:37:05-04:00",
-      "age_hours": "16.48",
-      "freshness_status": "stale",
-      "editorial_score": "24",
-      "urgency": ""
-    },
-    {
-      "headline": "YouTube is expanding its AI deepfake detection tool to all adult users",
-      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-      "snapshot": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube...",
-      "key_data": [
-        "Key people or organizations: YouTube",
-        "Specific figures mentioned: 18",
-        "Story focus: YouTube is expanding its AI deepfake detection tool to all adult users",
-        "Source context: YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from YouTube.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-15T18:25:00-04:00",
-      "age_hours": "33.68",
-      "freshness_status": "stale",
-      "editorial_score": "24",
       "urgency": ""
     }
   ],
