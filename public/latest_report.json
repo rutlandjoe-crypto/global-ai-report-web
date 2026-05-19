@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
-  "snapshot": "President Trump flew to Beijing, brought Jensen Huang along at the last minute, and left two days later, telling reporters that \"something could happen\" on chip exports. Nothing did. Not a single Nvidia H200 has shipped to China since Trump first authorised the sales in... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-  "updated_at": "2026-05-19 10:27:00 AM ET",
-  "generated_at": "2026-05-19 10:27:00 AM ET",
+  "headline": "OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
+  "snapshot": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can...",
+  "updated_at": "2026-05-19 01:33:08 PM ET",
+  "generated_at": "2026-05-19 01:33:08 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 47,
-    "live_fresh_items": 2,
-    "editor_fresh_items": 11,
-    "public_fallback_items": 22,
-    "stale_or_blocked_items": 45,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 14,
+    "public_fallback_items": 23,
+    "stale_or_blocked_items": 42,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-19 10:27:00 AM ET"
+    "last_checked": "2026-05-19 01:33:08 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-18T13:49:49-04:00",
-      "age_hours": "20.62",
+      "age_hours": "23.72",
       "freshness_status": "stale",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "snapshot": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Andrej Karpathy, Anthropic, Pre",
+        "AI desk signal: model, chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
+        "Source context: Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 19 May 2026 15:43:04 +0000",
+      "age_hours": "1.83",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
+      "urgency": ""
     },
     {
       "headline": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
@@ -73,7 +103,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 18 May 2026 21:29:31 +0000",
-      "age_hours": "16.96",
+      "age_hours": "20.06",
       "freshness_status": "stale",
       "editorial_score": "106",
       "urgency": ""
@@ -103,7 +133,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Tue, 19 May 2026 10:00:00 +0000",
-      "age_hours": "4.45",
+      "age_hours": "7.55",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": "WATCH"
@@ -133,43 +163,43 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-19T06:30:00-04:00",
-      "age_hours": "3.95",
+      "age_hours": "7.05",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "snapshot": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
-      "key_data": [
-        "Key people or organizations: Anthropic, OpenAI, Google, Cloudflare",
-        "Specific figures mentioned: 2022",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 18 May 2026 19:27:52 +0000",
-      "age_hours": "18.99",
-      "freshness_status": "stale",
-      "editorial_score": "86",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "AI signal: OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "snapshot": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Andrej Karpathy, Anthropic, Pre",
+        "AI desk signal: model, chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal",
+        "Source context: Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 19 May 2026 15:43:04 +0000",
+      "age_hours": "1.83",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
+      "urgency": ""
+    },
     {
       "headline": "AI signal: All of the updates from Elon Musk and Sam Altman's battle over OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
@@ -195,7 +225,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-18T13:49:49-04:00",
-      "age_hours": "20.62",
+      "age_hours": "23.72",
       "freshness_status": "stale",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -224,7 +254,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 18 May 2026 21:29:31 +0000",
-      "age_hours": "16.96",
+      "age_hours": "20.06",
       "freshness_status": "stale",
       "editorial_score": "106",
       "urgency": ""
@@ -254,7 +284,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Tue, 19 May 2026 10:00:00 +0000",
-      "age_hours": "4.45",
+      "age_hours": "7.55",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": "WATCH"
@@ -284,48 +314,48 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-19T06:30:00-04:00",
-      "age_hours": "3.95",
+      "age_hours": "7.05",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "AI signal: Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "snapshot": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
-      "key_data": [
-        "Key people or organizations: Anthropic, OpenAI, Google, Cloudflare",
-        "Specific figures mentioned: 2022",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI signal"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 18 May 2026 19:27:52 +0000",
-      "age_hours": "18.99",
-      "freshness_status": "stale",
-      "editorial_score": "86",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
     "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
-    "Gemini is in danger of going full Copilot",
-    "All of the updates from Elon Musk and Sam Altman's battle over OpenAI"
+    "Gemini is in danger of going full Copilot"
   ],
   "sections": [
+    {
+      "headline": "OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
+      "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "snapshot": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Andrej Karpathy, Anthropic, Pre",
+        "AI desk signal: model, chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team",
+        "Source context: Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 19 May 2026 15:43:04 +0000",
+      "age_hours": "1.83",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
+      "urgency": ""
+    },
     {
       "headline": "The Nvidia H200 China deal survived the Trump-Xi summit–just not in the way anyone expected",
       "url": "https://www.artificialintelligence-news.com/news/nvidia-h200-china-deal-stalled-trump-xi-summit-2026/",
@@ -351,7 +381,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Tue, 19 May 2026 10:00:00 +0000",
-      "age_hours": "4.45",
+      "age_hours": "7.55",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": "WATCH"
@@ -381,9 +411,37 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-19T06:30:00-04:00",
-      "age_hours": "3.95",
+      "age_hours": "7.05",
       "freshness_status": "fresh",
       "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "An AI announcer mispronounced and skipped names during a graduation",
+      "url": "https://www.theverge.com/tech/933653/ai-graduation-commencement-glendale-community-college",
+      "snapshot": "The use of AI-powered tools to announce students as they walk on stage during graduation and commencement ceremonies has grown in popularity over the past few years, but it's not always succeeding at the one job it's there for. Many schools have switched to these systems as a...",
+      "key_data": [
+        "Key people or organizations: An AI, Many",
+        "Story focus: An AI announcer mispronounced and skipped names during a graduation",
+        "Source context: The use of AI-powered tools to announce students as they walk on stage during graduation and commencement ceremonies has grown in popularity over the..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from An AI.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-19T11:51:20-04:00",
+      "age_hours": "1.70",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
       "urgency": ""
     },
     {
@@ -411,7 +469,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-18T13:49:49-04:00",
-      "age_hours": "20.62",
+      "age_hours": "23.72",
       "freshness_status": "stale",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -440,69 +498,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 18 May 2026 21:29:31 +0000",
-      "age_hours": "16.96",
+      "age_hours": "20.06",
       "freshness_status": "stale",
       "editorial_score": "106",
       "urgency": ""
-    },
-    {
-      "headline": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "snapshot": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
-      "key_data": [
-        "Key people or organizations: Anthropic, OpenAI, Google, Cloudflare",
-        "Specific figures mentioned: 2022",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 18 May 2026 19:27:52 +0000",
-      "age_hours": "18.99",
-      "freshness_status": "stale",
-      "editorial_score": "86",
-      "urgency": ""
-    },
-    {
-      "headline": "Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
-      "url": "https://www.artificialintelligence-news.com/news/amazon-alexa-for-shopping-rufus-ai-assistant/",
-      "snapshot": "Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The assistant can answer product questions, compare items, track prices, and support shopping reminders. It can also handle scheduled...",
-      "key_data": [
-        "Key people or organizations: Amazon, Alexa, Shopping, Rufus",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon launches Alexa for Shopping as Rufus moves behind the scenes",
-        "Source context: Amazon has introduced Alexa for Shopping, combining its Rufus shopping chatbot with Alexa+ across its app, website, and Echo Show devices. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Mon, 18 May 2026 10:00:00 +0000",
-      "age_hours": "28.45",
-      "freshness_status": "stale",
-      "editorial_score": "72",
-      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
