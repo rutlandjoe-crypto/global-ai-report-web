@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-  "snapshot": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-  "updated_at": "2026-05-20 05:46:44 PM ET",
-  "generated_at": "2026-05-20 05:46:44 PM ET",
+  "headline": "OpenAI barrels toward IPO that may happen in September",
+  "snapshot": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+  "updated_at": "2026-05-20 07:03:23 PM ET",
+  "generated_at": "2026-05-20 07:03:23 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 48,
-    "live_fresh_items": 17,
+    "total_items_checked": 49,
+    "live_fresh_items": 20,
     "editor_fresh_items": 33,
-    "public_fallback_items": 35,
-    "stale_or_blocked_items": 31,
+    "public_fallback_items": 36,
+    "stale_or_blocked_items": 29,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-20 05:46:44 PM ET"
+    "last_checked": "2026-05-20 07:03:23 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 20 May 2026 17:24:24 +0000",
-      "age_hours": "4.37",
+      "age_hours": "5.65",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-      "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-      "snapshot": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Alibaba, US",
-        "AI desk signal: model, agent, chip",
-        "Story focus: Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-        "Source context: Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Alibaba.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Wed, 20 May 2026 10:00:00 +0000",
-      "age_hours": "11.78",
-      "freshness_status": "fresh",
-      "editorial_score": "160",
-      "urgency": ""
     },
     {
       "headline": "If Google can't make AI agents useful, maybe no one can",
@@ -103,7 +74,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-20T09:24:22-04:00",
-      "age_hours": "8.37",
+      "age_hours": "9.65",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -133,9 +104,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-20T12:00:00-04:00",
-      "age_hours": "5.78",
+      "age_hours": "7.06",
       "freshness_status": "fresh",
       "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Musk's xAI is being sued over its data center generators — now it's buying $2.8B more",
+      "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "snapshot": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Musk, Elon Musk, SpaceX, IPO",
+        "Specific figures mentioned: $2.8B, $2.8 billion",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Musk's xAI is being sued over its data center generators — now it's buying $2.8B more",
+        "Source context: Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing. The larger..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Musk.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 20 May 2026 21:55:49 +0000",
+      "age_hours": "1.13",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
       "urgency": ""
     },
     {
@@ -163,7 +164,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 20 May 2026 20:28:27 +0000",
-      "age_hours": "1.30",
+      "age_hours": "2.58",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -194,70 +195,10 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 20 May 2026 10:00:00 +0000",
-      "age_hours": "11.78",
-      "freshness_status": "fresh",
-      "editorial_score": "160",
-      "urgency": ""
-    },
-    {
-      "headline": "AI signal: Agentic app coding gets an upgrade with Google's release of Android CLI",
-      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-      "snapshot": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI's Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle...",
-      "key_data": [
-        "Key people or organizations: Agentic, Google, Android CLI, Android",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI signal",
-        "Source context: Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI's Codex, allowing..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Agentic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 19 May 2026 17:45:00 +0000",
-      "age_hours": "28.03",
+      "age_hours": "13.06",
       "freshness_status": "stale",
-      "editorial_score": "132",
+      "editorial_score": "130",
       "urgency": ""
-    },
-    {
-      "headline": "AI signal: With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "snapshot": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform...",
-      "key_data": [
-        "Key people or organizations: Flash, Google, Gemini, It",
-        "Specific figures mentioned: 3.5",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI signal"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Flash.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 19 May 2026 17:51:30 +0000",
-      "age_hours": "27.92",
-      "freshness_status": "stale",
-      "editorial_score": "126",
-      "urgency": "WATCH"
     },
     {
       "headline": "AI signal: Google's Genie world model can now simulate real streets with Street View",
@@ -284,10 +225,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 19 May 2026 17:51:39 +0000",
-      "age_hours": "27.92",
+      "age_hours": "29.20",
       "freshness_status": "stale",
       "editorial_score": "124",
       "urgency": ""
+    },
+    {
+      "headline": "AI signal: OpenAI barrels toward IPO that may happen in September",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "snapshot": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: OpenAI, IPO, September, Elon Musk",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal",
+        "Source context: A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 20 May 2026 17:24:24 +0000",
+      "age_hours": "5.65",
+      "freshness_status": "fresh",
+      "editorial_score": "122",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "AI signal: If Google can't make AI agents useful, maybe no one can",
@@ -314,47 +285,48 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-20T09:24:22-04:00",
-      "age_hours": "8.37",
+      "age_hours": "9.65",
       "freshness_status": "fresh",
       "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: Google Search's AI evolution includes more ads",
+      "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+      "snapshot": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one. The update comes just one day... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google Search, Google, Search, Now",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal",
+        "Source context: Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google Search.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-20T12:00:00-04:00",
+      "age_hours": "7.06",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
     "OpenAI barrels toward IPO that may happen in September",
-    "If Google can't make AI agents useful, maybe no one can"
+    "If Google can't make AI agents useful, maybe no one can",
+    "Google Search's AI evolution includes more ads"
   ],
   "sections": [
-    {
-      "headline": "Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-      "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-      "snapshot": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Alibaba, US",
-        "AI desk signal: model, agent, chip",
-        "Story focus: Alibaba is designing AI chips around agents, and that changes what the race is actually about",
-        "Source context: Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Alibaba.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Wed, 20 May 2026 10:00:00 +0000",
-      "age_hours": "11.78",
-      "freshness_status": "fresh",
-      "editorial_score": "160",
-      "urgency": ""
-    },
     {
       "headline": "OpenAI barrels toward IPO that may happen in September",
       "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
@@ -380,7 +352,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 20 May 2026 17:24:24 +0000",
-      "age_hours": "4.37",
+      "age_hours": "5.65",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -410,7 +382,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-20T09:24:22-04:00",
-      "age_hours": "8.37",
+      "age_hours": "9.65",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -440,9 +412,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-20T12:00:00-04:00",
-      "age_hours": "5.78",
+      "age_hours": "7.06",
       "freshness_status": "fresh",
       "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Musk's xAI is being sued over its data center generators — now it's buying $2.8B more",
+      "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "snapshot": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Musk, Elon Musk, SpaceX, IPO",
+        "Specific figures mentioned: $2.8B, $2.8 billion",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Musk's xAI is being sued over its data center generators — now it's buying $2.8B more",
+        "Source context: Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing. The larger..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Musk.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 20 May 2026 21:55:49 +0000",
+      "age_hours": "1.13",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
       "urgency": ""
     },
     {
@@ -470,39 +472,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 20 May 2026 20:28:27 +0000",
-      "age_hours": "1.30",
+      "age_hours": "2.58",
       "freshness_status": "fresh",
       "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Stability AI releases a new audio model that can create 6-minute songs",
-      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "snapshot": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Stability AI, Stability Audio",
-        "Specific figures mentioned: 6, 3.0",
-        "AI desk signal: model, enterprise",
-        "Story focus: Stability AI releases a new audio model that can create 6-minute songs",
-        "Source context: Stability Audio 3.0 small model can run on-device and generate two-minute long tracks. The competitive question is whether this changes the model..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Stability AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 20 May 2026 15:00:00 +0000",
-      "age_hours": "6.78",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
       "urgency": ""
     },
     {
@@ -530,7 +502,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-20T12:41:40-04:00",
-      "age_hours": "5.08",
+      "age_hours": "6.36",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
