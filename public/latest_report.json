@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Jensen Huang says he's found a 'brand new' $200B market for Nvidia",
   "snapshot": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-05-21 02:00:14 AM ET",
-  "generated_at": "2026-05-21 02:00:14 AM ET",
+  "updated_at": "2026-05-21 05:29:36 AM ET",
+  "generated_at": "2026-05-21 05:29:36 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 11,
-    "editor_fresh_items": 32,
-    "public_fallback_items": 36,
-    "stale_or_blocked_items": 38,
+    "live_fresh_items": 9,
+    "editor_fresh_items": 28,
+    "public_fallback_items": 37,
+    "stale_or_blocked_items": 40,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-21 02:00:14 AM ET"
+    "last_checked": "2026-05-21 05:29:36 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 21 May 2026 00:28:31 +0000",
-      "age_hours": "5.53",
+      "age_hours": "9.02",
       "freshness_status": "fresh",
       "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Nvidia's Vera chip is the US$200 billion bet Jensen Huang doesn't want you to overlook",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+      "snapshot": "The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be. When Nvidia reported Q1 revenue of US$81.62 billion on Wednesday, beating analyst estimates of US$78.86 billion, and guided Q2 at US$91 billion–well above Wall Street's US$86.84 billion... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Nvidia, Vera, US, Jensen Huang",
+        "Specific figures mentioned: $200 billion, $81.62 billion, $78.86 billion, $91 billion",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia's Vera chip is the US$200 billion bet Jensen Huang doesn't want you to overlook"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 21 May 2026 08:00:00 +0000",
+      "age_hours": "1.49",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
       "urgency": ""
     },
     {
@@ -74,21 +104,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 20 May 2026 21:55:49 +0000",
-      "age_hours": "8.07",
+      "age_hours": "11.56",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "snapshot": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Meta lays off thousands of employees to offset AI investments",
+      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "snapshot": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: OpenAI",
-        "Specific figures mentioned: 80, 1946",
+        "Key people or organizations: Meta, In, Business Insider",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI claims it solved an 80-year-old math problem — for real this time"
+        "Story focus: Meta lays off thousands of employees to offset AI investments",
+        "Source context: Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -96,27 +126,28 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 20 May 2026 20:28:27 +0000",
-      "age_hours": "9.53",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-21T05:20:46-04:00",
+      "age_hours": "0.15",
       "freshness_status": "fresh",
-      "editorial_score": "102",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
-      "headline": "In SpaceX's IPO, Elon Musk is a risk factor",
-      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-      "snapshot": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often...",
+      "headline": "xAI burned $6.4B last year — SpaceX's IPO filing shows why the spending is far from over",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "snapshot": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
       "key_data": [
-        "Key people or organizations: In SpaceX, IPO, Elon Musk, It",
-        "Story focus: In SpaceX's IPO, Elon Musk is a risk factor",
-        "Source context: The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals..."
+        "Key people or organizations: SpaceX, IPO, Grok, Elon Musk",
+        "Specific figures mentioned: $6.4B, $6.4 billion, 2025",
+        "Story focus: xAI burned $6.4B last year — SpaceX's IPO filing shows why the spending is far from over",
+        "Source context: SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -124,47 +155,17 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from In SpaceX.",
+        "Watch for follow-up statements, product details or customer evidence from SpaceX.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-20T23:42:45-04:00",
-      "age_hours": "2.29",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 20 May 2026 22:26:08 +0000",
+      "age_hours": "11.06",
       "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "'Solve all diseases,' you say?",
-      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
-      "snapshot": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Solve, Optimizer, Verge, Victoria Song",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: 'Solve all diseases,' you say?",
-        "Source context: This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Solve.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-20T17:06:35-04:00",
-      "age_hours": "8.89",
-      "freshness_status": "fresh",
-      "editorial_score": "51",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
@@ -172,7 +173,7 @@
     {
       "headline": "AI signal: Alibaba is designing AI chips around agents, and that changes what the race is actually about",
       "url": "https://www.artificialintelligence-news.com/news/alibaba-zhenwu-m890-ai-agent-chip-roadmap/",
-      "snapshot": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack, not just filling a gap left by US export... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "snapshot": "Alibaba has unveiled a new AI processor built specifically for AI agents, pairing the chip announcement with a multi-year silicon roadmap and a new large language model, signalling that the company is building an integrated AI stack rather than just filling a gap left by US... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
         "Key people or organizations: Alibaba, US",
         "AI desk signal: model, agent, chip",
@@ -193,7 +194,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 20 May 2026 10:00:00 +0000",
-      "age_hours": "20.00",
+      "age_hours": "23.49",
       "freshness_status": "stale",
       "editorial_score": "130",
       "urgency": ""
@@ -223,9 +224,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 21 May 2026 00:28:31 +0000",
-      "age_hours": "5.53",
+      "age_hours": "9.02",
       "freshness_status": "fresh",
       "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: Nvidia's Vera chip is the US$200 billion bet Jensen Huang doesn't want you to overlook",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+      "snapshot": "The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be. When Nvidia reported Q1 revenue of US$81.62 billion on Wednesday, beating analyst estimates of US$78.86 billion, and guided Q2 at US$91 billion–well above Wall Street's US$86.84 billion... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Nvidia, Vera, US, Jensen Huang",
+        "Specific figures mentioned: $200 billion, $81.62 billion, $78.86 billion, $91 billion",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 21 May 2026 08:00:00 +0000",
+      "age_hours": "1.49",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
       "urgency": ""
     },
     {
@@ -253,51 +284,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 20 May 2026 21:55:49 +0000",
-      "age_hours": "8.07",
+      "age_hours": "11.56",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "AI signal: OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "snapshot": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "AI signal: OpenAI barrels toward IPO that may happen in September",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "snapshot": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: OpenAI",
-        "Specific figures mentioned: 80, 1946",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI signal"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 20 May 2026 20:28:27 +0000",
-      "age_hours": "9.53",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "AI signal: If Google can't make AI agents useful, maybe no one can",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-      "snapshot": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, thanks largely to the viral open-source AI agent platform OpenClaw. And among... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: If Google, For, Over, OpenClaw",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: OpenAI, IPO, September, Elon Musk",
+        "AI desk signal: lawsuit",
         "Market context: major AI platform or infrastructure player involved",
         "Story focus: AI signal",
-        "Source context: For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over..."
+        "Source context: A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -305,24 +306,24 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from If Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-20T09:24:22-04:00",
-      "age_hours": "16.60",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 20 May 2026 17:24:24 +0000",
+      "age_hours": "16.09",
       "freshness_status": "stale",
-      "editorial_score": "90",
-      "urgency": ""
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Jensen Huang says he's found a 'brand new' $200B market for Nvidia",
-    "Musk's xAI is being sued over its data center generators — now it's buying $2.8B more",
-    "OpenAI claims it solved an 80-year-old math problem — for real this time"
+    "Nvidia's Vera chip is the US$200 billion bet Jensen Huang doesn't want you to overlook",
+    "Musk's xAI is being sued over its data center generators — now it's buying $2.8B more"
   ],
   "sections": [
     {
@@ -350,9 +351,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 21 May 2026 00:28:31 +0000",
-      "age_hours": "5.53",
+      "age_hours": "9.02",
       "freshness_status": "fresh",
       "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Nvidia's Vera chip is the US$200 billion bet Jensen Huang doesn't want you to overlook",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-vera-chip-200-billion-market/",
+      "snapshot": "The Nvidia Vera chip is rarely the headline when earnings beat estimates, but it should be. When Nvidia reported Q1 revenue of US$81.62 billion on Wednesday, beating analyst estimates of US$78.86 billion, and guided Q2 at US$91 billion–well above Wall Street's US$86.84 billion... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Nvidia, Vera, US, Jensen Huang",
+        "Specific figures mentioned: $200 billion, $81.62 billion, $78.86 billion, $91 billion",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia's Vera chip is the US$200 billion bet Jensen Huang doesn't want you to overlook"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 21 May 2026 08:00:00 +0000",
+      "age_hours": "1.49",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
       "urgency": ""
     },
     {
@@ -380,21 +411,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 20 May 2026 21:55:49 +0000",
-      "age_hours": "8.07",
+      "age_hours": "11.56",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "snapshot": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Meta lays off thousands of employees to offset AI investments",
+      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "snapshot": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: OpenAI",
-        "Specific figures mentioned: 80, 1946",
+        "Key people or organizations: Meta, In, Business Insider",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI claims it solved an 80-year-old math problem — for real this time"
+        "Story focus: Meta lays off thousands of employees to offset AI investments",
+        "Source context: Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -402,17 +433,46 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-21T05:20:46-04:00",
+      "age_hours": "0.15",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "xAI burned $6.4B last year — SpaceX's IPO filing shows why the spending is far from over",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "snapshot": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
+      "key_data": [
+        "Key people or organizations: SpaceX, IPO, Grok, Elon Musk",
+        "Specific figures mentioned: $6.4B, $6.4 billion, 2025",
+        "Story focus: xAI burned $6.4B last year — SpaceX's IPO filing shows why the spending is far from over",
+        "Source context: SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from SpaceX.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 20 May 2026 20:28:27 +0000",
-      "age_hours": "9.53",
+      "published": "Wed, 20 May 2026 22:26:08 +0000",
+      "age_hours": "11.06",
       "freshness_status": "fresh",
-      "editorial_score": "102",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -438,70 +498,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-20T23:42:45-04:00",
-      "age_hours": "2.29",
+      "age_hours": "5.78",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
-    },
-    {
-      "headline": "'Solve all diseases,' you say?",
-      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
-      "snapshot": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's issue is a special early edition tied to The Verge's Google I/O coverage.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Solve, Optimizer, Verge, Victoria Song",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: 'Solve all diseases,' you say?",
-        "Source context: This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Solve.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-20T17:06:35-04:00",
-      "age_hours": "8.89",
-      "freshness_status": "fresh",
-      "editorial_score": "51",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic will pay xAI $1.25B per month for compute",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "snapshot": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, Elon Musk, Now",
-        "Specific figures mentioned: $1.25B",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic will pay xAI $1.25B per month for compute"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 20 May 2026 21:29:22 +0000",
-      "age_hours": "8.51",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
