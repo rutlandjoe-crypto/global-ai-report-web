@@ -1,24 +1,52 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Ferrari is using IBM's AI to create F1 superfans",
-  "snapshot": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-  "updated_at": "2026-05-23 09:52:25 PM ET",
-  "generated_at": "2026-05-23 09:52:25 PM ET",
+  "headline": "Google's new anything-to-anything AI model is wild",
+  "snapshot": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-05-24 01:51:29 AM ET",
+  "generated_at": "2026-05-24 01:51:29 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 14,
+    "live_fresh_items": 0,
+    "editor_fresh_items": 8,
     "public_fallback_items": 33,
-    "stale_or_blocked_items": 48,
+    "stale_or_blocked_items": 49,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-23 09:52:25 PM ET"
+    "last_checked": "2026-05-24 01:51:29 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "snapshot": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "key_data": [
+        "Key people or organizations: People, NTSB",
+        "Story focus: AI is being used to resurrect the voices of dead pilots",
+        "Source context: People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from People.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 22 May 2026 23:03:33 +0000",
+      "age_hours": "30.80",
+      "freshness_status": "stale",
+      "editorial_score": "46",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Google's new anything-to-anything AI model is wild",
       "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
@@ -44,67 +72,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-23T07:00:00-04:00",
-      "age_hours": "14.87",
+      "age_hours": "18.86",
       "freshness_status": "stale",
       "editorial_score": "96",
-      "urgency": ""
-    },
-    {
-      "headline": "We tried Google's AI glasses and they're almost there",
-      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-      "snapshot": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: We, Google, Android XR, Gemini",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: We tried Google's AI glasses and they're almost there",
-        "Source context: Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from We.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 22 May 2026 15:37:15 +0000",
-      "age_hours": "34.25",
-      "freshness_status": "stale",
-      "editorial_score": "62",
-      "urgency": ""
-    },
-    {
-      "headline": "Ferrari is using IBM's AI to create F1 superfans",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "snapshot": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-      "key_data": [
-        "Key people or organizations: Ferrari, IBM, Scuderia Ferrari HP, TechCrunch",
-        "Story focus: Ferrari is using IBM's AI to create F1 superfans",
-        "Source context: IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ferrari.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 23 May 2026 15:08:00 +0000",
-      "age_hours": "10.74",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     },
     {
@@ -132,21 +102,50 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-22T16:39:54-04:00",
-      "age_hours": "29.21",
+      "age_hours": "33.19",
       "freshness_status": "stale",
       "editorial_score": "54",
       "urgency": ""
     },
     {
-      "headline": "You can no longer Google the word 'disregard'",
-      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "snapshot": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "snapshot": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: You, Google",
+        "Key people or organizations: Elon Musk, Earth, Elon Muks, SpaceX",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Elon Musk has given up on solar power (on Earth)",
+        "Source context: Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 23 May 2026 13:00:00 +0000",
+      "age_hours": "16.86",
+      "freshness_status": "stale",
+      "editorial_score": "50",
+      "urgency": ""
+    },
+    {
+      "headline": "Google goes for the glitter with disco-ball icons: 'Are y'all sure you still want this?'",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "snapshot": "You can now disco ball-ify your entire Pixel home screen, says Google. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google, Are, You, Pixel",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: You can no longer Google the word 'disregard'",
-        "Source context: After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface. The competitive question is whether this changes..."
+        "Story focus: Google goes for the glitter with disco-ball icons",
+        "Source context: You can now disco ball-ify your entire Pixel home screen, says Google. The competitive question is whether this changes the model race, enterprise..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -154,17 +153,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from You.",
+        "Watch for follow-up statements, product details or customer evidence from Google.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 22 May 2026 16:16:48 +0000",
-      "age_hours": "33.59",
+      "published": "Fri, 22 May 2026 21:02:36 +0000",
+      "age_hours": "32.81",
       "freshness_status": "stale",
-      "editorial_score": "54",
+      "editorial_score": "46",
       "urgency": ""
     }
   ],
@@ -194,39 +193,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-23T07:00:00-04:00",
-      "age_hours": "14.87",
+      "age_hours": "18.86",
       "freshness_status": "stale",
       "editorial_score": "96",
-      "urgency": ""
-    },
-    {
-      "headline": "AI signal: We tried Google's AI glasses and they're almost there",
-      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-      "snapshot": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: We, Google, Android XR, Gemini",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI signal",
-        "Source context: Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from We.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 22 May 2026 15:37:15 +0000",
-      "age_hours": "34.25",
-      "freshness_status": "stale",
-      "editorial_score": "62",
       "urgency": ""
     },
     {
@@ -254,19 +223,48 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-22T16:39:54-04:00",
-      "age_hours": "29.21",
+      "age_hours": "33.19",
       "freshness_status": "stale",
       "editorial_score": "54",
       "urgency": ""
     },
     {
-      "headline": "AI signal: Ferrari is using IBM's AI to create F1 superfans",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "snapshot": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "headline": "AI signal: Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "snapshot": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Ferrari, IBM, Scuderia Ferrari HP, TechCrunch",
+        "Key people or organizations: Elon Musk, Earth, Elon Muks, SpaceX",
+        "AI desk signal: chip, data center, enterprise",
         "Story focus: AI signal",
-        "Source context: IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
+        "Source context: Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 23 May 2026 13:00:00 +0000",
+      "age_hours": "16.86",
+      "freshness_status": "stale",
+      "editorial_score": "50",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "snapshot": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "key_data": [
+        "Key people or organizations: People, NTSB",
+        "Story focus: AI signal",
+        "Source context: People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -274,29 +272,29 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ferrari.",
+        "Watch for follow-up statements, product details or customer evidence from People.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sat, 23 May 2026 15:08:00 +0000",
-      "age_hours": "10.74",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
+      "published": "Fri, 22 May 2026 23:03:33 +0000",
+      "age_hours": "30.80",
+      "freshness_status": "stale",
+      "editorial_score": "46",
+      "urgency": "BREAKING"
     },
     {
-      "headline": "AI signal: You can no longer Google the word 'disregard'",
-      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "snapshot": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "AI signal: Google goes for the glitter with disco-ball icons",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "snapshot": "You can now disco ball-ify your entire Pixel home screen, says Google. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: You, Google",
+        "Key people or organizations: Google, You, Pixel",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
         "Story focus: AI signal",
-        "Source context: After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface. The competitive question is whether this changes..."
+        "Source context: You can now disco ball-ify your entire Pixel home screen, says Google. The competitive question is whether this changes the model race, enterprise..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -304,54 +302,26 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from You.",
+        "Watch for follow-up statements, product details or customer evidence from Google.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 22 May 2026 16:16:48 +0000",
-      "age_hours": "33.59",
+      "published": "Fri, 22 May 2026 21:02:36 +0000",
+      "age_hours": "32.81",
       "freshness_status": "stale",
-      "editorial_score": "54",
+      "editorial_score": "46",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Ferrari is using IBM's AI to create F1 superfans",
     "Google's new anything-to-anything AI model is wild",
-    "We tried Google's AI glasses and they're almost there"
+    "Google's AI search is so broken it can 'disregard' what you're looking for",
+    "Elon Musk has given up on solar power (on Earth)"
   ],
   "sections": [
-    {
-      "headline": "Ferrari is using IBM's AI to create F1 superfans",
-      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-      "snapshot": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-      "key_data": [
-        "Key people or organizations: Ferrari, IBM, Scuderia Ferrari HP, TechCrunch",
-        "Story focus: Ferrari is using IBM's AI to create F1 superfans",
-        "Source context: IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ferrari.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 23 May 2026 15:08:00 +0000",
-      "age_hours": "10.74",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
     {
       "headline": "Google's new anything-to-anything AI model is wild",
       "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
@@ -377,39 +347,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-23T07:00:00-04:00",
-      "age_hours": "14.87",
+      "age_hours": "18.86",
       "freshness_status": "stale",
       "editorial_score": "96",
-      "urgency": ""
-    },
-    {
-      "headline": "We tried Google's AI glasses and they're almost there",
-      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-      "snapshot": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: We, Google, Android XR, Gemini",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: We tried Google's AI glasses and they're almost there",
-        "Source context: Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from We.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 22 May 2026 15:37:15 +0000",
-      "age_hours": "34.25",
-      "freshness_status": "stale",
-      "editorial_score": "62",
       "urgency": ""
     },
     {
@@ -437,49 +377,48 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-22T16:39:54-04:00",
-      "age_hours": "29.21",
+      "age_hours": "33.19",
       "freshness_status": "stale",
       "editorial_score": "54",
       "urgency": ""
     },
     {
-      "headline": "You can no longer Google the word 'disregard'",
-      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "snapshot": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "snapshot": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: You, Google",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: You can no longer Google the word 'disregard'",
-        "Source context: After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface. The competitive question is whether this changes..."
+        "Key people or organizations: Elon Musk, Earth, Elon Muks, SpaceX",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Elon Musk has given up on solar power (on Earth)",
+        "Source context: Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from You.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 22 May 2026 16:16:48 +0000",
-      "age_hours": "33.59",
+      "published": "Sat, 23 May 2026 13:00:00 +0000",
+      "age_hours": "16.86",
       "freshness_status": "stale",
-      "editorial_score": "54",
+      "editorial_score": "50",
       "urgency": ""
     },
     {
-      "headline": "Elon, stop trying to make Grok happen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
-      "snapshot": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barely appears in federal records of how the US government used AI last year. It's...",
+      "headline": "AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "snapshot": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
       "key_data": [
-        "Key people or organizations: Elon, Grok, There, Elon Musk",
-        "Story focus: Elon, stop trying to make Grok happen",
-        "Source context: There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway..."
+        "Key people or organizations: People, NTSB",
+        "Story focus: AI is being used to resurrect the voices of dead pilots",
+        "Source context: People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -487,17 +426,47 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Elon.",
+        "Watch for follow-up statements, product details or customer evidence from People.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-22T13:17:06-04:00",
-      "age_hours": "32.59",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 22 May 2026 23:03:33 +0000",
+      "age_hours": "30.80",
       "freshness_status": "stale",
-      "editorial_score": "24",
+      "editorial_score": "46",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Google goes for the glitter with disco-ball icons: 'Are y'all sure you still want this?'",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "snapshot": "You can now disco ball-ify your entire Pixel home screen, says Google. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google, Are, You, Pixel",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google goes for the glitter with disco-ball icons",
+        "Source context: You can now disco ball-ify your entire Pixel home screen, says Google. The competitive question is whether this changes the model race, enterprise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 22 May 2026 21:02:36 +0000",
+      "age_hours": "32.81",
+      "freshness_status": "stale",
+      "editorial_score": "46",
       "urgency": ""
     }
   ],
