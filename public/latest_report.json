@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "This startup is betting India's gig economy can train the world's robots",
-  "snapshot": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining...",
-  "updated_at": "2026-05-26 05:25:45 PM ET",
-  "generated_at": "2026-05-26 05:25:45 PM ET",
+  "headline": "DuckDuckGo installs are up 30% as users reject being 'force-fed' Google's AI Search",
+  "snapshot": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-05-26 07:00:13 PM ET",
+  "generated_at": "2026-05-26 07:00:13 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 37,
+    "total_items_checked": 49,
     "live_fresh_items": 8,
-    "editor_fresh_items": 13,
-    "public_fallback_items": 16,
-    "stale_or_blocked_items": 29,
+    "editor_fresh_items": 15,
+    "public_fallback_items": 19,
+    "stale_or_blocked_items": 41,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-26 05:25:45 PM ET"
+    "last_checked": "2026-05-26 07:00:13 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,9 +42,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-26T08:46:03-04:00",
-      "age_hours": "8.66",
+      "age_hours": "10.24",
       "freshness_status": "fresh",
       "editorial_score": "66",
+      "urgency": ""
+    },
+    {
+      "headline": "DuckDuckGo installs are up 30% as users reject being 'force-fed' Google's AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "snapshot": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: DuckDuckGo, Google, Search",
+        "Specific figures mentioned: 30%, 2026",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: DuckDuckGo installs are up 30% as users reject being 'force-fed' Google's AI Search"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from DuckDuckGo.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 26 May 2026 22:32:56 +0000",
+      "age_hours": "0.45",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -71,7 +101,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 26 May 2026 16:00:00 +0000",
-      "age_hours": "5.43",
+      "age_hours": "7.00",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -101,7 +131,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 26 May 2026 18:33:01 +0000",
-      "age_hours": "2.88",
+      "age_hours": "4.45",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -131,41 +161,43 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-26T10:00:00-04:00",
-      "age_hours": "7.43",
+      "age_hours": "9.00",
       "freshness_status": "fresh",
       "editorial_score": "62",
-      "urgency": ""
-    },
-    {
-      "headline": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-      "snapshot": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
-      "key_data": [
-        "Key people or organizations: Universal Music Group, TikTok, For, UMG",
-        "Story focus: Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-        "Source context: For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Universal Music Group.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 26 May 2026 14:55:05 +0000",
-      "age_hours": "6.51",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "AI signal: DuckDuckGo installs are up 30% as users reject being 'force-fed' Google's AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "snapshot": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: DuckDuckGo, Google, Search",
+        "Specific figures mentioned: 30%, 2026",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from DuckDuckGo.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 26 May 2026 22:32:56 +0000",
+      "age_hours": "0.45",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
     {
       "headline": "AI signal: This startup is betting India's gig economy can train the world's robots",
       "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
@@ -190,7 +222,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 26 May 2026 16:00:00 +0000",
-      "age_hours": "5.43",
+      "age_hours": "7.00",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -220,37 +252,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 26 May 2026 18:33:01 +0000",
-      "age_hours": "2.88",
+      "age_hours": "4.45",
       "freshness_status": "fresh",
       "editorial_score": "82",
-      "urgency": ""
-    },
-    {
-      "headline": "AI signal: What ClickUp's mass layoff tells us about the future of work",
-      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-      "snapshot": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: AI signal",
-        "Source context: The nine-year-old startup is replacing hundreds of employees with thousands of AI agents. The competitive question is whether this changes the model..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 25 May 2026 16:00:00 +0000",
-      "age_hours": "29.43",
-      "freshness_status": "stale",
-      "editorial_score": "68",
       "urgency": ""
     },
     {
@@ -276,7 +280,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-26T08:46:03-04:00",
-      "age_hours": "8.66",
+      "age_hours": "10.24",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": ""
@@ -304,18 +308,48 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-25T11:05:07-04:00",
-      "age_hours": "30.34",
+      "age_hours": "31.92",
       "freshness_status": "stale",
       "editorial_score": "64",
       "urgency": "WATCH"
     }
   ],
   "key_storylines": [
+    "DuckDuckGo installs are up 30% as users reject being 'force-fed' Google's AI Search",
     "This startup is betting India's gig economy can train the world's robots",
-    "OpenRouter more than doubles valuation to $1.3B in a year",
-    "Nobody wants to tell me why they only listen to their own Suno slop"
+    "OpenRouter more than doubles valuation to $1.3B in a year"
   ],
   "sections": [
+    {
+      "headline": "DuckDuckGo installs are up 30% as users reject being 'force-fed' Google's AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "snapshot": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: DuckDuckGo, Google, Search",
+        "Specific figures mentioned: 30%, 2026",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: DuckDuckGo installs are up 30% as users reject being 'force-fed' Google's AI Search"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from DuckDuckGo.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 26 May 2026 22:32:56 +0000",
+      "age_hours": "0.45",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
     {
       "headline": "This startup is betting India's gig economy can train the world's robots",
       "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
@@ -340,7 +374,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 26 May 2026 16:00:00 +0000",
-      "age_hours": "5.43",
+      "age_hours": "7.00",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -370,7 +404,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 26 May 2026 18:33:01 +0000",
-      "age_hours": "2.88",
+      "age_hours": "4.45",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -398,7 +432,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-26T08:46:03-04:00",
-      "age_hours": "8.66",
+      "age_hours": "10.24",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": ""
@@ -428,20 +462,20 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-26T10:00:00-04:00",
-      "age_hours": "7.43",
+      "age_hours": "9.00",
       "freshness_status": "fresh",
       "editorial_score": "62",
       "urgency": ""
     },
     {
-      "headline": "Uber president says AI spending is getting 'harder to justify'",
-      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-      "snapshot": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the...",
+      "headline": "AI warfare is already here",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+      "snapshot": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in...",
       "key_data": [
-        "Key people or organizations: Uber, In, Rapid Response, Andrew Macdonald",
-        "Specific figures mentioned: 2026",
-        "Story focus: Uber president says AI spending is getting 'harder to justify'",
-        "Source context: After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns..."
+        "Key people or organizations: Certain Conventional Weapons, United Nations, Geneva, November",
+        "Specific figures mentioned: 2017",
+        "Story focus: AI warfare is already here",
+        "Source context: The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -449,46 +483,18 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Uber.",
+        "Watch for follow-up statements, product details or customer evidence from Certain Conventional Weapons.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-05-26T05:55:09-04:00",
-      "age_hours": "11.51",
+      "published": "2026-05-26T08:00:00-04:00",
+      "age_hours": "11.00",
       "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-      "snapshot": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
-      "key_data": [
-        "Key people or organizations: Universal Music Group, TikTok, For, UMG",
-        "Story focus: Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-        "Source context: For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Universal Music Group.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 26 May 2026 14:55:05 +0000",
-      "age_hours": "6.51",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
+      "editorial_score": "51",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
