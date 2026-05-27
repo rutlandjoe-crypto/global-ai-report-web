@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-  "snapshot": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader \"Meta One\" subscription brand. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-05-27 03:12:10 PM ET",
-  "generated_at": "2026-05-27 03:12:10 PM ET",
+  "headline": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+  "snapshot": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+  "updated_at": "2026-05-27 05:32:49 PM ET",
+  "generated_at": "2026-05-27 05:32:49 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 46,
-    "live_fresh_items": 19,
-    "editor_fresh_items": 28,
-    "public_fallback_items": 30,
-    "stale_or_blocked_items": 27,
+    "total_items_checked": 47,
+    "live_fresh_items": 21,
+    "editor_fresh_items": 30,
+    "public_fallback_items": 31,
+    "stale_or_blocked_items": 26,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-27 03:12:10 PM ET"
+    "last_checked": "2026-05-27 05:32:49 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 27 May 2026 14:15:00 +0000",
-      "age_hours": "4.95",
+      "age_hours": "7.30",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "snapshot": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: In, Amazon, Snowflake, AWS",
+        "Specific figures mentioned: $6B",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from In.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 27 May 2026 20:10:00 +0000",
+      "age_hours": "1.38",
+      "freshness_status": "fresh",
+      "editorial_score": "152",
+      "urgency": "WATCH"
     },
     {
       "headline": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
@@ -74,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 27 May 2026 18:00:00 +0000",
-      "age_hours": "1.20",
+      "age_hours": "3.55",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "WATCH"
@@ -104,7 +134,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 27 May 2026 13:12:06 +0000",
-      "age_hours": "6.00",
+      "age_hours": "8.35",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -133,42 +163,43 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-27T10:36:10-04:00",
-      "age_hours": "4.60",
+      "age_hours": "6.94",
       "freshness_status": "fresh",
       "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "ElevenLabs' new music-generation model can switch genres mid-track",
-      "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
-      "snapshot": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: ElevenLabs",
-        "AI desk signal: model, enterprise",
-        "Story focus: ElevenLabs' new music-generation model can switch genres mid-track",
-        "Source context: ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track. The competitive question is whether this..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ElevenLabs.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 27 May 2026 14:14:10 +0000",
-      "age_hours": "4.97",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "AI signal: In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "snapshot": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: In, Amazon, Snowflake, AWS",
+        "Specific figures mentioned: $6B",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from In.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 27 May 2026 20:10:00 +0000",
+      "age_hours": "1.38",
+      "freshness_status": "fresh",
+      "editorial_score": "152",
+      "urgency": "WATCH"
+    },
     {
       "headline": "AI signal: Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
       "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
@@ -194,7 +225,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 27 May 2026 18:00:00 +0000",
-      "age_hours": "1.20",
+      "age_hours": "3.55",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "WATCH"
@@ -224,7 +255,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 27 May 2026 14:15:00 +0000",
-      "age_hours": "4.95",
+      "age_hours": "7.30",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": "DEVELOPING"
@@ -254,7 +285,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 27 May 2026 13:12:06 +0000",
-      "age_hours": "6.00",
+      "age_hours": "8.35",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -283,48 +314,48 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-27T10:36:10-04:00",
-      "age_hours": "4.60",
+      "age_hours": "6.94",
       "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "AI signal: DuckDuckGo installs are up 30% as users reject being 'force-fed' Google's AI Search",
-      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-      "snapshot": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: DuckDuckGo, Google, Search",
-        "Specific figures mentioned: 30%, 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI signal"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from DuckDuckGo.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 26 May 2026 22:32:56 +0000",
-      "age_hours": "20.65",
-      "freshness_status": "stale",
       "editorial_score": "90",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
     "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-    "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-    "Google folds Display Ads into AI-first Demand Gen platform"
+    "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup"
   ],
   "sections": [
+    {
+      "headline": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "snapshot": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: In, Amazon, Snowflake, AWS",
+        "Specific figures mentioned: $6B",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from In.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 27 May 2026 20:10:00 +0000",
+      "age_hours": "1.38",
+      "freshness_status": "fresh",
+      "editorial_score": "152",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
       "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
@@ -350,7 +381,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 27 May 2026 18:00:00 +0000",
-      "age_hours": "1.20",
+      "age_hours": "3.55",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "WATCH"
@@ -380,7 +411,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 27 May 2026 14:15:00 +0000",
-      "age_hours": "4.95",
+      "age_hours": "7.30",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": "DEVELOPING"
@@ -410,7 +441,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 27 May 2026 13:12:06 +0000",
-      "age_hours": "6.00",
+      "age_hours": "8.35",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -439,38 +470,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-27T10:36:10-04:00",
-      "age_hours": "4.60",
+      "age_hours": "6.94",
       "freshness_status": "fresh",
       "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "ElevenLabs' new music-generation model can switch genres mid-track",
-      "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
-      "snapshot": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: ElevenLabs",
-        "AI desk signal: model, enterprise",
-        "Story focus: ElevenLabs' new music-generation model can switch genres mid-track",
-        "Source context: ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track. The competitive question is whether this..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ElevenLabs.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 27 May 2026 14:14:10 +0000",
-      "age_hours": "4.97",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
       "urgency": ""
     },
     {
@@ -498,7 +500,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-27T11:40:00-04:00",
-      "age_hours": "3.54",
+      "age_hours": "5.88",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -528,7 +530,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-27T09:00:00-04:00",
-      "age_hours": "6.20",
+      "age_hours": "8.55",
       "freshness_status": "fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -556,7 +558,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 27 May 2026 12:38:44 +0000",
-      "age_hours": "6.56",
+      "age_hours": "8.90",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
