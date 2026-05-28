@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "CNN sues Perplexity over 'verbatim' copycat articles",
   "snapshot": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday, also alleges that Perplexity provides users with information locked behind... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-05-28 12:51:03 PM ET",
-  "generated_at": "2026-05-28 12:51:03 PM ET",
+  "updated_at": "2026-05-28 03:32:35 PM ET",
+  "generated_at": "2026-05-28 03:32:35 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 18,
+    "live_fresh_items": 22,
     "editor_fresh_items": 34,
     "public_fallback_items": 35,
-    "stale_or_blocked_items": 31,
+    "stale_or_blocked_items": 27,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-28 12:51:03 PM ET"
+    "last_checked": "2026-05-28 03:32:35 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,39 +43,70 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T10:08:36-04:00",
-      "age_hours": "2.71",
+      "age_hours": "5.40",
       "freshness_status": "fresh",
       "editorial_score": "162",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Has the hunt for AI compute uncovered the next Cerebras?",
-      "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-      "snapshot": "General Compute is betting SambaNova will be the next breakout chipmaker. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "snapshot": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Has, Cerebras, General Compute, SambaNova",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Has the hunt for AI compute uncovered the next Cerebras?",
-        "Source context: General Compute is betting SambaNova will be the next breakout chipmaker. The larger angle is AI infrastructure: compute capacity, chip access and..."
+        "Key people or organizations: Anthropic, Opus, Dynamic Workflows",
+        "Specific figures mentioned: 4.8",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic releases Opus 4.8 with new 'dynamic workflow' tool"
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Has.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 13:00:00 +0000",
-      "age_hours": "3.85",
+      "published": "Thu, 28 May 2026 17:00:09 +0000",
+      "age_hours": "2.54",
       "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": "DEVELOPING"
+      "editorial_score": "156",
+      "urgency": ""
+    },
+    {
+      "headline": "Claude's new model is more 'honest' when it messes up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "snapshot": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Claude, Anthropic, Claude Opus, According",
+        "Specific figures mentioned: 4.8",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude's new model is more 'honest' when it messes up"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-28T13:00:00-04:00",
+      "age_hours": "2.54",
+      "freshness_status": "fresh",
+      "editorial_score": "144",
+      "urgency": ""
     },
     {
       "headline": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
@@ -101,7 +132,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 28 May 2026 15:35:43 +0000",
-      "age_hours": "1.26",
+      "age_hours": "3.95",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -131,40 +162,10 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 28 May 2026 14:55:43 +0000",
-      "age_hours": "1.92",
+      "age_hours": "4.61",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
-    },
-    {
-      "headline": "How long is Anthropic's lease with SpaceX? Opinions vary.",
-      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-      "snapshot": "Elon Musk is publicly reframing xAI's massive Anthropic compute deal as short-term and cancellable, despite SpaceX's own S-1 filing describing payments through May 2029. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, SpaceX, Opinions, Elon Musk",
-        "Specific figures mentioned: 1, 2029",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: How long is Anthropic's lease with SpaceX? Opinions vary."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 15:36:00 +0000",
-      "age_hours": "1.25",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
@@ -192,10 +193,70 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T10:08:36-04:00",
-      "age_hours": "2.71",
+      "age_hours": "5.40",
       "freshness_status": "fresh",
       "editorial_score": "162",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "AI signal: Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "snapshot": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Opus, Dynamic Workflows",
+        "Specific figures mentioned: 4.8",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 28 May 2026 17:00:09 +0000",
+      "age_hours": "2.54",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: Claude's new model is more 'honest' when it messes up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "snapshot": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Claude, Anthropic, Claude Opus, According",
+        "Specific figures mentioned: 4.8",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-28T13:00:00-04:00",
+      "age_hours": "2.54",
+      "freshness_status": "fresh",
+      "editorial_score": "144",
+      "urgency": ""
     },
     {
       "headline": "AI signal: Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
@@ -221,7 +282,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 28 May 2026 15:35:43 +0000",
-      "age_hours": "1.26",
+      "age_hours": "3.95",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -251,75 +312,16 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 27 May 2026 20:10:00 +0000",
-      "age_hours": "20.68",
+      "age_hours": "23.38",
       "freshness_status": "stale",
       "editorial_score": "122",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "AI signal: Google Pay preps for AI agents with Universal Commerce Protocol",
-      "url": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
-      "snapshot": "Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents. The latest updates introduce the Universal Commerce Protocol and a new server architecture, positioning Google Pay as a central clearinghouse for purchases executed by... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Google Pay, Universal Commerce Protocol",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI signal",
-        "Source context: Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents. The latest updates introduce the Universal..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google Pay.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 28 May 2026 14:55:43 +0000",
-      "age_hours": "1.92",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "AI signal: Has the hunt for AI compute uncovered the next Cerebras?",
-      "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-      "snapshot": "General Compute is betting SambaNova will be the next breakout chipmaker. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Has, Cerebras, General Compute, SambaNova",
-        "AI desk signal: chip, enterprise",
-        "Story focus: AI signal",
-        "Source context: General Compute is betting SambaNova will be the next breakout chipmaker. The larger angle is AI infrastructure: compute capacity, chip access and..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Has.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 13:00:00 +0000",
-      "age_hours": "3.85",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "CNN sues Perplexity over 'verbatim' copycat articles",
-    "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-    "Google Pay preps for AI agents with Universal Commerce Protocol"
+    "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
+    "Claude's new model is more 'honest' when it messes up"
   ],
   "sections": [
     {
@@ -346,10 +348,70 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T10:08:36-04:00",
-      "age_hours": "2.71",
+      "age_hours": "5.40",
       "freshness_status": "fresh",
       "editorial_score": "162",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "snapshot": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Opus, Dynamic Workflows",
+        "Specific figures mentioned: 4.8",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic releases Opus 4.8 with new 'dynamic workflow' tool"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 28 May 2026 17:00:09 +0000",
+      "age_hours": "2.54",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": ""
+    },
+    {
+      "headline": "Claude's new model is more 'honest' when it messes up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "snapshot": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Claude, Anthropic, Claude Opus, According",
+        "Specific figures mentioned: 4.8",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude's new model is more 'honest' when it messes up"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-28T13:00:00-04:00",
+      "age_hours": "2.54",
+      "freshness_status": "fresh",
+      "editorial_score": "144",
+      "urgency": ""
     },
     {
       "headline": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
@@ -375,7 +437,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 28 May 2026 15:35:43 +0000",
-      "age_hours": "1.26",
+      "age_hours": "3.95",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -405,50 +467,21 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 28 May 2026 14:55:43 +0000",
-      "age_hours": "1.92",
+      "age_hours": "4.61",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
     },
     {
-      "headline": "Has the hunt for AI compute uncovered the next Cerebras?",
-      "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-      "snapshot": "General Compute is betting SambaNova will be the next breakout chipmaker. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "snapshot": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Has, Cerebras, General Compute, SambaNova",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Has the hunt for AI compute uncovered the next Cerebras?",
-        "Source context: General Compute is betting SambaNova will be the next breakout chipmaker. The larger angle is AI infrastructure: compute capacity, chip access and..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Has.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 13:00:00 +0000",
-      "age_hours": "3.85",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "How long is Anthropic's lease with SpaceX? Opinions vary.",
-      "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-      "snapshot": "Elon Musk is publicly reframing xAI's massive Anthropic compute deal as short-term and cancellable, despite SpaceX's own S-1 filing describing payments through May 2029. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, SpaceX, Opinions, Elon Musk",
-        "Specific figures mentioned: 1, 2029",
+        "Key people or organizations: Anthropic, Billion, IPO, Series",
+        "Specific figures mentioned: $65 Billion, 1, $65 billion, $965 billion",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: How long is Anthropic's lease with SpaceX? Opinions vary."
+        "Story focus: Anthropic raises $65 Billion, nears $1T valuation ahead of IPO"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -463,11 +496,11 @@
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 15:36:00 +0000",
-      "age_hours": "1.25",
+      "published": "Thu, 28 May 2026 18:52:51 +0000",
+      "age_hours": "0.66",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": "WATCH"
+      "editorial_score": "102",
+      "urgency": ""
     },
     {
       "headline": "These new iOS 27 renders hint at Siri's big redesign",
@@ -494,38 +527,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T10:33:31-04:00",
-      "age_hours": "2.29",
+      "age_hours": "4.98",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
-    },
-    {
-      "headline": "YouTube will let you ask AI to make a custom video feed",
-      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
-      "snapshot": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin...",
-      "key_data": [
-        "Key people or organizations: YouTube, In",
-        "Story focus: YouTube will let you ask AI to make a custom video feed",
-        "Source context: YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from YouTube.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-28T04:49:07-04:00",
-      "age_hours": "8.03",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
-      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
