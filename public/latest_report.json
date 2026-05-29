@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "This chip startup just raised $135M on a bet that AI's biggest bottleneck isn't compute — it's memory",
   "snapshot": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-05-29 09:54:37 AM ET",
-  "generated_at": "2026-05-29 09:54:37 AM ET",
+  "updated_at": "2026-05-29 01:25:54 PM ET",
+  "generated_at": "2026-05-29 01:25:54 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 48,
-    "live_fresh_items": 4,
+    "total_items_checked": 37,
+    "live_fresh_items": 8,
     "editor_fresh_items": 30,
-    "public_fallback_items": 34,
-    "stale_or_blocked_items": 44,
+    "public_fallback_items": 30,
+    "stale_or_blocked_items": 29,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-29 09:54:37 AM ET"
+    "last_checked": "2026-05-29 01:25:54 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,70 +43,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T10:08:36-04:00",
-      "age_hours": "23.77",
+      "age_hours": "27.29",
       "freshness_status": "stale",
       "editorial_score": "132",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "snapshot": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, Opus, Dynamic Workflows",
-        "Specific figures mentioned: 4.8",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic releases Opus 4.8 with new 'dynamic workflow' tool"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 17:00:09 +0000",
-      "age_hours": "20.91",
-      "freshness_status": "stale",
-      "editorial_score": "126",
-      "urgency": ""
-    },
-    {
-      "headline": "Claude's new model is more 'honest' when it messes up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "snapshot": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Claude, Anthropic, Claude Opus, According",
-        "Specific figures mentioned: 4.8",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Claude's new model is more 'honest' when it messes up"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Claude.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-28T13:00:00-04:00",
-      "age_hours": "20.91",
-      "freshness_status": "stale",
-      "editorial_score": "114",
-      "urgency": ""
     },
     {
       "headline": "This chip startup just raised $135M on a bet that AI's biggest bottleneck isn't compute — it's memory",
@@ -133,9 +73,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 12:00:00 +0000",
-      "age_hours": "1.91",
+      "age_hours": "5.43",
       "freshness_status": "fresh",
       "editorial_score": "96",
+      "urgency": ""
+    },
+    {
+      "headline": "Cognition's Scott Wu says AI coding agents shouldn't replace humans",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "snapshot": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Cognition, Scott Wu, Devin, But",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Cognition's Scott Wu says AI coding agents shouldn't replace humans",
+        "Source context: Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Cognition.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 29 May 2026 16:13:47 +0000",
+      "age_hours": "1.20",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -162,9 +131,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-29T07:58:40-04:00",
-      "age_hours": "1.93",
+      "age_hours": "5.45",
       "freshness_status": "fresh",
       "editorial_score": "88",
+      "urgency": ""
+    },
+    {
+      "headline": "Adobe's conversational AI agent is a mediocre design intern",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "snapshot": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Adobe, They, So",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Adobe's conversational AI agent is a mediocre design intern",
+        "Source context: AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Adobe.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-29T06:00:00-04:00",
+      "age_hours": "7.43",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
       "urgency": ""
     }
   ],
@@ -193,7 +191,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T10:08:36-04:00",
-      "age_hours": "23.77",
+      "age_hours": "27.29",
       "freshness_status": "stale",
       "editorial_score": "132",
       "urgency": "DEVELOPING"
@@ -223,7 +221,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 28 May 2026 17:00:09 +0000",
-      "age_hours": "20.91",
+      "age_hours": "24.43",
       "freshness_status": "stale",
       "editorial_score": "126",
       "urgency": ""
@@ -253,7 +251,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T13:00:00-04:00",
-      "age_hours": "20.91",
+      "age_hours": "24.43",
       "freshness_status": "stale",
       "editorial_score": "114",
       "urgency": ""
@@ -283,7 +281,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 12:00:00 +0000",
-      "age_hours": "1.91",
+      "age_hours": "5.43",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
@@ -312,7 +310,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 28 May 2026 15:35:43 +0000",
-      "age_hours": "22.32",
+      "age_hours": "25.84",
       "freshness_status": "stale",
       "editorial_score": "94",
       "urgency": "WATCH"
@@ -320,8 +318,8 @@
   ],
   "key_storylines": [
     "This chip startup just raised $135M on a bet that AI's biggest bottleneck isn't compute — it's memory",
-    "This AI startup will clean your home for free to train future robots",
-    "Adobe's conversational AI agent is a mediocre design intern"
+    "Cognition's Scott Wu says AI coding agents shouldn't replace humans",
+    "This AI startup will clean your home for free to train future robots"
   ],
   "sections": [
     {
@@ -349,9 +347,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 12:00:00 +0000",
-      "age_hours": "1.91",
+      "age_hours": "5.43",
       "freshness_status": "fresh",
       "editorial_score": "96",
+      "urgency": ""
+    },
+    {
+      "headline": "Cognition's Scott Wu says AI coding agents shouldn't replace humans",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "snapshot": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Cognition, Scott Wu, Devin, But",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Cognition's Scott Wu says AI coding agents shouldn't replace humans",
+        "Source context: Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Cognition.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 29 May 2026 16:13:47 +0000",
+      "age_hours": "1.20",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -378,7 +405,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-29T07:58:40-04:00",
-      "age_hours": "1.93",
+      "age_hours": "5.45",
       "freshness_status": "fresh",
       "editorial_score": "88",
       "urgency": ""
@@ -407,9 +434,37 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-29T06:00:00-04:00",
-      "age_hours": "3.91",
+      "age_hours": "7.43",
       "freshness_status": "fresh",
       "editorial_score": "72",
+      "urgency": ""
+    },
+    {
+      "headline": "Kiwibit's AI-powered bird feeder is my new backyard buddy",
+      "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "snapshot": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+      "key_data": [
+        "Key people or organizations: Kiwibit, If",
+        "Story focus: Kiwibit's AI-powered bird feeder is my new backyard buddy",
+        "Source context: If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Kiwibit.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 29 May 2026 13:00:00 +0000",
+      "age_hours": "4.43",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
       "urgency": ""
     },
     {
@@ -436,70 +491,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T10:08:36-04:00",
-      "age_hours": "23.77",
+      "age_hours": "27.29",
       "freshness_status": "stale",
       "editorial_score": "132",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "snapshot": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, Opus, Dynamic Workflows",
-        "Specific figures mentioned: 4.8",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic releases Opus 4.8 with new 'dynamic workflow' tool"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 17:00:09 +0000",
-      "age_hours": "20.91",
-      "freshness_status": "stale",
-      "editorial_score": "126",
-      "urgency": ""
-    },
-    {
-      "headline": "Claude's new model is more 'honest' when it messes up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "snapshot": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Claude, Anthropic, Claude Opus, According",
-        "Specific figures mentioned: 4.8",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Claude's new model is more 'honest' when it messes up"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Claude.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-28T13:00:00-04:00",
-      "age_hours": "20.91",
-      "freshness_status": "stale",
-      "editorial_score": "114",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
