@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "The internet is being rebuilt for machines",
-  "snapshot": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-05-29 02:03:05 AM ET",
-  "generated_at": "2026-05-29 02:03:05 AM ET",
+  "headline": "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point",
+  "snapshot": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+  "updated_at": "2026-05-29 06:38:05 AM ET",
+  "generated_at": "2026-05-29 06:38:05 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 6,
-    "editor_fresh_items": 30,
-    "public_fallback_items": 35,
-    "stale_or_blocked_items": 43,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 29,
+    "public_fallback_items": 34,
+    "stale_or_blocked_items": 47,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-29 02:03:05 AM ET"
+    "last_checked": "2026-05-29 06:38:05 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,108 +43,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T10:08:36-04:00",
-      "age_hours": "15.91",
+      "age_hours": "20.49",
       "freshness_status": "stale",
       "editorial_score": "132",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Just like gold and oil, we'll soon be able to trade AI token futures",
-      "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-      "snapshot": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "snapshot": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Just, Large",
-        "Story focus: Just like gold and oil, we'll soon be able to trade AI token futures",
-        "Source context: Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Just.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 18:32:25 +0000",
-      "age_hours": "11.51",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "The internet is being rebuilt for machines",
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "snapshot": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: As AI, AWS, Cloudflare",
+        "Key people or organizations: Anthropic, Opus, Dynamic Workflows",
+        "Specific figures mentioned: 4.8",
         "AI desk signal: model, agent, enterprise",
-        "Story focus: The internet is being rebuilt for machines",
-        "Source context: As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from As AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 21:24:01 +0000",
-      "age_hours": "8.65",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft 365 Copilot gets a speed boost and cleaner design",
-      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
-      "snapshot": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Microsoft, Copilot, As",
-        "Specific figures mentioned: 365",
-        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft 365 Copilot gets a speed boost and cleaner design"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-28T16:14:07-04:00",
-      "age_hours": "9.82",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "snapshot": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, IPO, Series",
-        "Specific figures mentioned: $65 billion, 1, $965 billion",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic raises $65 billion, nears $1T valuation ahead of IPO"
+        "Story focus: Anthropic releases Opus 4.8 with new 'dynamic workflow' tool"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -159,10 +72,99 @@
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 18:52:51 +0000",
-      "age_hours": "11.17",
+      "published": "Thu, 28 May 2026 17:00:09 +0000",
+      "age_hours": "17.63",
+      "freshness_status": "stale",
+      "editorial_score": "126",
+      "urgency": ""
+    },
+    {
+      "headline": "Claude's new model is more 'honest' when it messes up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "snapshot": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Claude, Anthropic, Claude Opus, According",
+        "Specific figures mentioned: 4.8",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude's new model is more 'honest' when it messes up"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-28T13:00:00-04:00",
+      "age_hours": "17.63",
+      "freshness_status": "stale",
+      "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "snapshot": "Sesame's new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Sesame, Oculus",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+        "Source context: Sesame's new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Sesame.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 28 May 2026 15:35:43 +0000",
+      "age_hours": "19.04",
+      "freshness_status": "stale",
+      "editorial_score": "94",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "snapshot": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "key_data": [
+        "Key people or organizations: Glean",
+        "Specific figures mentioned: $300M",
+        "AI desk signal: enterprise",
+        "Story focus: Glean's top line crosses $300M as AI budget-cutting becomes its major selling point",
+        "Source context: The enterprise AI search startup tripled its annual revenue even as tech giants entered the category. The business angle is capital allocation:..."
+      ],
+      "why_it_matters": [
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Glean.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 29 May 2026 00:44:37 +0000",
+      "age_hours": "9.89",
       "freshness_status": "fresh",
-      "editorial_score": "102",
+      "editorial_score": "80",
       "urgency": ""
     }
   ],
@@ -191,7 +193,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T10:08:36-04:00",
-      "age_hours": "15.91",
+      "age_hours": "20.49",
       "freshness_status": "stale",
       "editorial_score": "132",
       "urgency": "DEVELOPING"
@@ -221,40 +223,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 28 May 2026 17:00:09 +0000",
-      "age_hours": "13.05",
+      "age_hours": "17.63",
       "freshness_status": "stale",
       "editorial_score": "126",
       "urgency": ""
-    },
-    {
-      "headline": "AI signal: In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-      "snapshot": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: In, Amazon, Snowflake, AWS",
-        "Specific figures mentioned: $6B",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI signal"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from In.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 27 May 2026 20:10:00 +0000",
-      "age_hours": "33.88",
-      "freshness_status": "stale",
-      "editorial_score": "122",
-      "urgency": "WATCH"
     },
     {
       "headline": "AI signal: Claude's new model is more 'honest' when it messes up",
@@ -281,20 +253,20 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T13:00:00-04:00",
-      "age_hours": "13.05",
+      "age_hours": "17.63",
       "freshness_status": "stale",
       "editorial_score": "114",
       "urgency": ""
     },
     {
-      "headline": "AI signal: The internet is being rebuilt for machines",
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "snapshot": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "AI signal: Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "snapshot": "Sesame's new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: As AI, AWS, Cloudflare",
+        "Key people or organizations: Sesame, Oculus",
         "AI desk signal: model, agent, enterprise",
         "Story focus: AI signal",
-        "Source context: As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by..."
+        "Source context: Sesame's new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -302,115 +274,56 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from As AI.",
+        "Watch for follow-up statements, product details or customer evidence from Sesame.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 21:24:01 +0000",
-      "age_hours": "8.65",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
+      "published": "Thu, 28 May 2026 15:35:43 +0000",
+      "age_hours": "19.04",
+      "freshness_status": "stale",
+      "editorial_score": "94",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "AI signal: Google Pay preps for AI agents with Universal Commerce Protocol",
+      "url": "https://www.artificialintelligence-news.com/news/google-pay-ai-agents-universal-commerce-protocol/",
+      "snapshot": "Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents. The latest updates introduce the Universal Commerce Protocol and a new server architecture, positioning Google Pay as a central clearinghouse for purchases executed by... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google Pay, Universal Commerce Protocol",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal",
+        "Source context: Google Pay is overhauling its payment infrastructure for an impending wave of transactions from AI agents. The latest updates introduce the Universal..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google Pay.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 28 May 2026 14:55:43 +0000",
+      "age_hours": "19.71",
+      "freshness_status": "stale",
+      "editorial_score": "90",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "The internet is being rebuilt for machines",
-    "Microsoft 365 Copilot gets a speed boost and cleaner design",
-    "Anthropic raises $65 billion, nears $1T valuation ahead of IPO"
+    "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point",
+    "Adobe's conversational AI agent is a mediocre design intern",
+    "CNN sues Perplexity over 'verbatim' copycat articles"
   ],
   "sections": [
-    {
-      "headline": "The internet is being rebuilt for machines",
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "snapshot": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: As AI, AWS, Cloudflare",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The internet is being rebuilt for machines",
-        "Source context: As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from As AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 21:24:01 +0000",
-      "age_hours": "8.65",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft 365 Copilot gets a speed boost and cleaner design",
-      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
-      "snapshot": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Microsoft, Copilot, As",
-        "Specific figures mentioned: 365",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft 365 Copilot gets a speed boost and cleaner design"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-28T16:14:07-04:00",
-      "age_hours": "9.82",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "snapshot": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, IPO, Series",
-        "Specific figures mentioned: $65 billion, 1, $965 billion",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic raises $65 billion, nears $1T valuation ahead of IPO"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 18:52:51 +0000",
-      "age_hours": "11.17",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
     {
       "headline": "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point",
       "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
@@ -436,9 +349,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 00:44:37 +0000",
-      "age_hours": "5.31",
+      "age_hours": "9.89",
       "freshness_status": "fresh",
       "editorial_score": "80",
+      "urgency": ""
+    },
+    {
+      "headline": "Adobe's conversational AI agent is a mediocre design intern",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "snapshot": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Adobe, They, So",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Adobe's conversational AI agent is a mediocre design intern",
+        "Source context: AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Adobe.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-29T06:00:00-04:00",
+      "age_hours": "0.63",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
       "urgency": ""
     },
     {
@@ -465,38 +407,99 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-28T10:08:36-04:00",
-      "age_hours": "15.91",
+      "age_hours": "20.49",
       "freshness_status": "stale",
       "editorial_score": "132",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Just like gold and oil, we'll soon be able to trade AI token futures",
-      "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-      "snapshot": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+      "snapshot": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Just, Large",
-        "Story focus: Just like gold and oil, we'll soon be able to trade AI token futures",
-        "Source context: Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a..."
+        "Key people or organizations: Anthropic, Opus, Dynamic Workflows",
+        "Specific figures mentioned: 4.8",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic releases Opus 4.8 with new 'dynamic workflow' tool"
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Just.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 18:32:25 +0000",
-      "age_hours": "11.51",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": "DEVELOPING"
+      "published": "Thu, 28 May 2026 17:00:09 +0000",
+      "age_hours": "17.63",
+      "freshness_status": "stale",
+      "editorial_score": "126",
+      "urgency": ""
+    },
+    {
+      "headline": "Claude's new model is more 'honest' when it messes up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "snapshot": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Claude, Anthropic, Claude Opus, According",
+        "Specific figures mentioned: 4.8",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude's new model is more 'honest' when it messes up"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-28T13:00:00-04:00",
+      "age_hours": "17.63",
+      "freshness_status": "stale",
+      "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
+      "snapshot": "Sesame's new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Sesame, Oculus",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
+        "Source context: Sesame's new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Sesame.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 28 May 2026 15:35:43 +0000",
+      "age_hours": "19.04",
+      "freshness_status": "stale",
+      "editorial_score": "94",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
