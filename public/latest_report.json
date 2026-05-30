@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Coders are refusing to work without AI — and that could come back to bite them",
-  "snapshot": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-  "updated_at": "2026-05-30 05:10:08 AM ET",
-  "generated_at": "2026-05-30 05:10:08 AM ET",
+  "headline": "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+  "snapshot": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for...",
+  "updated_at": "2026-05-30 07:11:52 AM ET",
+  "generated_at": "2026-05-30 07:11:52 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 48,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 17,
+    "live_fresh_items": 0,
+    "editor_fresh_items": 16,
     "public_fallback_items": 35,
-    "stale_or_blocked_items": 47,
+    "stale_or_blocked_items": 48,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-30 05:10:08 AM ET"
+    "last_checked": "2026-05-30 07:11:52 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 17:27:13 +0000",
-      "age_hours": "15.72",
+      "age_hours": "17.74",
       "freshness_status": "stale",
       "editorial_score": "158",
       "urgency": "WATCH"
@@ -74,38 +74,9 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Fri, 29 May 2026 16:24:58 +0000",
-      "age_hours": "16.75",
+      "age_hours": "18.78",
       "freshness_status": "stale",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "The internet is being rebuilt for machines",
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "snapshot": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: As AI, AWS, Cloudflare",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The internet is being rebuilt for machines",
-        "Source context: As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from As AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 21:24:01 +0000",
-      "age_hours": "35.77",
-      "freshness_status": "stale",
-      "editorial_score": "76",
       "urgency": ""
     },
     {
@@ -133,9 +104,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 12:00:00 +0000",
-      "age_hours": "21.17",
+      "age_hours": "23.20",
       "freshness_status": "stale",
       "editorial_score": "66",
+      "urgency": ""
+    },
+    {
+      "headline": "What happens when companies become too AI-pilled?",
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "snapshot": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of \"AI psychosis.\" Indeed, ClickUp recently cut 22% of its workforce for AI...",
+      "key_data": [
+        "Key people or organizations: Box, Aaron Levie, Indeed, ClickUp",
+        "Specific figures mentioned: 22%",
+        "Story focus: What happens when companies become too AI-pilled?",
+        "Source context: The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Box.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 29 May 2026 17:57:05 +0000",
+      "age_hours": "17.25",
+      "freshness_status": "stale",
+      "editorial_score": "60",
       "urgency": ""
     },
     {
@@ -162,7 +162,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-29T07:58:40-04:00",
-      "age_hours": "21.19",
+      "age_hours": "23.22",
       "freshness_status": "stale",
       "editorial_score": "58",
       "urgency": ""
@@ -194,7 +194,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 17:27:13 +0000",
-      "age_hours": "15.72",
+      "age_hours": "17.74",
       "freshness_status": "stale",
       "editorial_score": "158",
       "urgency": "WATCH"
@@ -224,38 +224,9 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Fri, 29 May 2026 16:24:58 +0000",
-      "age_hours": "16.75",
+      "age_hours": "18.78",
       "freshness_status": "stale",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "AI signal: The internet is being rebuilt for machines",
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "snapshot": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: As AI, AWS, Cloudflare",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: AI signal",
-        "Source context: As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from As AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 21:24:01 +0000",
-      "age_hours": "35.77",
-      "freshness_status": "stale",
-      "editorial_score": "76",
       "urgency": ""
     },
     {
@@ -283,9 +254,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 12:00:00 +0000",
-      "age_hours": "21.17",
+      "age_hours": "23.20",
       "freshness_status": "stale",
       "editorial_score": "66",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: What happens when companies become too AI-pilled?",
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "snapshot": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of \"AI psychosis.\" Indeed, ClickUp recently cut 22% of its workforce for AI...",
+      "key_data": [
+        "Key people or organizations: Box, Aaron Levie, Indeed, ClickUp",
+        "Specific figures mentioned: 22%",
+        "Story focus: AI signal",
+        "Source context: The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Box.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 29 May 2026 17:57:05 +0000",
+      "age_hours": "17.25",
+      "freshness_status": "stale",
+      "editorial_score": "60",
       "urgency": ""
     },
     {
@@ -312,46 +312,18 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-05-29T07:58:40-04:00",
-      "age_hours": "21.19",
+      "age_hours": "23.22",
       "freshness_status": "stale",
       "editorial_score": "58",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Coders are refusing to work without AI — and that could come back to bite them",
     "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-    "Scaling safe enterprise AI with OpenAI governance frameworks"
+    "Scaling safe enterprise AI with OpenAI governance frameworks",
+    "This chip startup just raised $135M on a bet that AI's biggest bottleneck isn't compute — it's memory"
   ],
   "sections": [
-    {
-      "headline": "Coders are refusing to work without AI — and that could come back to bite them",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "snapshot": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-      "key_data": [
-        "Key people or organizations: Coders, While AI, And",
-        "Story focus: Coders are refusing to work without AI — and that could come back to bite them",
-        "Source context: While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Coders.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 29 May 2026 22:14:22 +0000",
-      "age_hours": "10.93",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
     {
       "headline": "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
       "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
@@ -377,7 +349,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 17:27:13 +0000",
-      "age_hours": "15.72",
+      "age_hours": "17.74",
       "freshness_status": "stale",
       "editorial_score": "158",
       "urgency": "WATCH"
@@ -407,67 +379,9 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Fri, 29 May 2026 16:24:58 +0000",
-      "age_hours": "16.75",
+      "age_hours": "18.78",
       "freshness_status": "stale",
       "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "The internet is being rebuilt for machines",
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "snapshot": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: As AI, AWS, Cloudflare",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The internet is being rebuilt for machines",
-        "Source context: As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from As AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 21:24:01 +0000",
-      "age_hours": "35.77",
-      "freshness_status": "stale",
-      "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "This AI startup will clean your home for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "snapshot": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Shift",
-        "AI desk signal: chip",
-        "Story focus: This AI startup will clean your home for free to train future robots",
-        "Source context: AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Shift.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-29T07:58:40-04:00",
-      "age_hours": "21.19",
-      "freshness_status": "stale",
-      "editorial_score": "58",
       "urgency": ""
     },
     {
@@ -495,9 +409,125 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 12:00:00 +0000",
-      "age_hours": "21.17",
+      "age_hours": "23.20",
       "freshness_status": "stale",
       "editorial_score": "66",
+      "urgency": ""
+    },
+    {
+      "headline": "What happens when companies become too AI-pilled?",
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "snapshot": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of \"AI psychosis.\" Indeed, ClickUp recently cut 22% of its workforce for AI...",
+      "key_data": [
+        "Key people or organizations: Box, Aaron Levie, Indeed, ClickUp",
+        "Specific figures mentioned: 22%",
+        "Story focus: What happens when companies become too AI-pilled?",
+        "Source context: The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Box.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 29 May 2026 17:57:05 +0000",
+      "age_hours": "17.25",
+      "freshness_status": "stale",
+      "editorial_score": "60",
+      "urgency": ""
+    },
+    {
+      "headline": "This AI startup will clean your home for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "snapshot": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, tidy, and wash, and use that footage to train robots. Shift announced the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Shift",
+        "AI desk signal: chip",
+        "Story focus: This AI startup will clean your home for free to train future robots",
+        "Source context: AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Shift.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-29T07:58:40-04:00",
+      "age_hours": "23.22",
+      "freshness_status": "stale",
+      "editorial_score": "58",
+      "urgency": ""
+    },
+    {
+      "headline": "Adobe's conversational AI agent is a mediocre design intern",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "snapshot": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable result. So I was pleasantly surprised by Adobe's latest take on an AI image... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Adobe, They, So",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Adobe's conversational AI agent is a mediocre design intern",
+        "Source context: AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Adobe.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-29T06:00:00-04:00",
+      "age_hours": "25.20",
+      "freshness_status": "stale",
+      "editorial_score": "42",
+      "urgency": ""
+    },
+    {
+      "headline": "Tech companies desperately want to film you doing chores",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "snapshot": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Tech, Shift, New Yorkers, It",
+        "AI desk signal: chip",
+        "Story focus: Tech companies desperately want to film you doing chores",
+        "Source context: This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well,..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Tech.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-29T13:37:43-04:00",
+      "age_hours": "17.57",
+      "freshness_status": "stale",
+      "editorial_score": "40",
       "urgency": ""
     }
   ],
