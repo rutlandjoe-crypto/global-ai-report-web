@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-  "snapshot": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, per Axios. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for...",
-  "updated_at": "2026-05-29 10:53:44 PM ET",
-  "generated_at": "2026-05-29 10:53:44 PM ET",
+  "headline": "Coders are refusing to work without AI — and that could come back to bite them",
+  "snapshot": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+  "updated_at": "2026-05-30 02:15:05 AM ET",
+  "generated_at": "2026-05-30 02:15:05 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 48,
-    "live_fresh_items": 7,
-    "editor_fresh_items": 29,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 21,
     "public_fallback_items": 35,
-    "stale_or_blocked_items": 41,
+    "stale_or_blocked_items": 46,
     "unknown_date_items": 0,
-    "last_checked": "2026-05-29 10:53:44 PM ET"
+    "last_checked": "2026-05-30 02:15:05 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 17:27:13 +0000",
-      "age_hours": "9.44",
-      "freshness_status": "fresh",
-      "editorial_score": "188",
+      "age_hours": "12.80",
+      "freshness_status": "stale",
+      "editorial_score": "158",
       "urgency": "WATCH"
     },
     {
@@ -74,49 +74,20 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Fri, 29 May 2026 16:24:58 +0000",
-      "age_hours": "10.48",
-      "freshness_status": "fresh",
-      "editorial_score": "138",
+      "age_hours": "13.84",
+      "freshness_status": "stale",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "What happens when companies become too AI-pilled?",
-      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "snapshot": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of \"AI psychosis.\" Indeed, ClickUp recently cut 22% of its workforce for AI...",
+      "headline": "The internet is being rebuilt for machines",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "snapshot": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Box, Aaron Levie, Indeed, ClickUp",
-        "Specific figures mentioned: 22%",
-        "Story focus: What happens when companies become too AI-pilled?",
-        "Source context: The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Box.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 29 May 2026 17:57:05 +0000",
-      "age_hours": "8.94",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Cognition's Scott Wu says AI coding agents shouldn't replace humans",
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-      "snapshot": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Cognition, Scott Wu, Devin, But",
+        "Key people or organizations: As AI, AWS, Cloudflare",
         "AI desk signal: model, agent, enterprise",
-        "Story focus: Cognition's Scott Wu says AI coding agents shouldn't replace humans",
-        "Source context: Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human..."
+        "Story focus: The internet is being rebuilt for machines",
+        "Source context: As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -124,46 +95,75 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Cognition.",
+        "Watch for follow-up statements, product details or customer evidence from As AI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 29 May 2026 16:13:47 +0000",
-      "age_hours": "10.67",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
+      "published": "Thu, 28 May 2026 21:24:01 +0000",
+      "age_hours": "32.85",
+      "freshness_status": "stale",
+      "editorial_score": "76",
       "urgency": ""
     },
     {
-      "headline": "Tech companies desperately want to film you doing chores",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
-      "snapshot": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "snapshot": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Tech, Shift, New Yorkers, It",
-        "AI desk signal: chip",
-        "Story focus: Tech companies desperately want to film you doing chores",
-        "Source context: This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well,..."
+        "Key people or organizations: Microsoft, Copilot, As",
+        "Specific figures mentioned: 365",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft 365 Copilot gets a speed boost and cleaner design"
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Tech.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-05-29T13:37:43-04:00",
-      "age_hours": "9.27",
+      "published": "2026-05-28T16:14:07-04:00",
+      "age_hours": "34.02",
+      "freshness_status": "stale",
+      "editorial_score": "72",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Coders are refusing to work without AI — and that could come back to bite them",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "snapshot": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "key_data": [
+        "Key people or organizations: Coders, While AI, And",
+        "Story focus: Coders are refusing to work without AI — and that could come back to bite them",
+        "Source context: While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Coders.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 29 May 2026 22:14:22 +0000",
+      "age_hours": "8.01",
       "freshness_status": "fresh",
-      "editorial_score": "70",
+      "editorial_score": "54",
       "urgency": ""
     }
   ],
@@ -193,9 +193,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 17:27:13 +0000",
-      "age_hours": "9.44",
-      "freshness_status": "fresh",
-      "editorial_score": "188",
+      "age_hours": "12.80",
+      "freshness_status": "stale",
+      "editorial_score": "158",
       "urgency": "WATCH"
     },
     {
@@ -223,19 +223,78 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Fri, 29 May 2026 16:24:58 +0000",
-      "age_hours": "10.48",
-      "freshness_status": "fresh",
-      "editorial_score": "138",
+      "age_hours": "13.84",
+      "freshness_status": "stale",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "AI signal: Anthropic releases Opus 4.8 with new 'dynamic workflow' tool",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-      "snapshot": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "AI signal: The internet is being rebuilt for machines",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "snapshot": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Anthropic, Opus, Dynamic Workflows",
-        "Specific figures mentioned: 4.8",
+        "Key people or organizations: As AI, AWS, Cloudflare",
         "AI desk signal: model, agent, enterprise",
+        "Story focus: AI signal",
+        "Source context: As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from As AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 28 May 2026 21:24:01 +0000",
+      "age_hours": "32.85",
+      "freshness_status": "stale",
+      "editorial_score": "76",
+      "urgency": ""
+    },
+    {
+      "headline": "AI signal: Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "snapshot": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Microsoft, Copilot, As",
+        "Specific figures mentioned: 365",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI signal"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-28T16:14:07-04:00",
+      "age_hours": "34.02",
+      "freshness_status": "stale",
+      "editorial_score": "72",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "AI signal: Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "snapshot": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, IPO, Series",
+        "Specific figures mentioned: $65 billion, 1, $965 billion",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
         "Story focus: AI signal"
       ],
@@ -252,78 +311,75 @@
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 17:00:09 +0000",
-      "age_hours": "33.89",
+      "published": "Thu, 28 May 2026 18:52:51 +0000",
+      "age_hours": "35.37",
       "freshness_status": "stale",
-      "editorial_score": "126",
+      "editorial_score": "72",
       "urgency": ""
-    },
-    {
-      "headline": "AI signal: Claude's new model is more 'honest' when it messes up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "snapshot": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making claims that they can't support.\" But it notes that \"a general problem with AI... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Claude, Anthropic, Claude Opus, According",
-        "Specific figures mentioned: 4.8",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI signal"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Claude.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-28T13:00:00-04:00",
-      "age_hours": "33.90",
-      "freshness_status": "stale",
-      "editorial_score": "114",
-      "urgency": ""
-    },
-    {
-      "headline": "AI signal: Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "snapshot": "Sesame's new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Sesame, Oculus",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: AI signal",
-        "Source context: Sesame's new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sesame.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 28 May 2026 15:35:43 +0000",
-      "age_hours": "35.30",
-      "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
-    "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-    "Scaling safe enterprise AI with OpenAI governance frameworks",
-    "What happens when companies become too AI-pilled?"
+    "Coders are refusing to work without AI — and that could come back to bite them",
+    "So you've heard these AI terms and nodded along; let's fix that",
+    "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M"
   ],
   "sections": [
+    {
+      "headline": "Coders are refusing to work without AI — and that could come back to bite them",
+      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
+      "snapshot": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
+      "key_data": [
+        "Key people or organizations: Coders, While AI, And",
+        "Story focus: Coders are refusing to work without AI — and that could come back to bite them",
+        "Source context: While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Coders.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 29 May 2026 22:14:22 +0000",
+      "age_hours": "8.01",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "So you've heard these AI terms and nodded along; let's fix that",
+      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "snapshot": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "key_data": [
+        "Key people or organizations: So",
+        "Story focus: So you've heard these AI terms and nodded along; let's fix that",
+        "Source context: The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from So.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 29 May 2026 18:49:19 +0000",
+      "age_hours": "11.43",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
     {
       "headline": "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
       "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
@@ -349,9 +405,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 29 May 2026 17:27:13 +0000",
-      "age_hours": "9.44",
-      "freshness_status": "fresh",
-      "editorial_score": "188",
+      "age_hours": "12.80",
+      "freshness_status": "stale",
+      "editorial_score": "158",
       "urgency": "WATCH"
     },
     {
@@ -379,49 +435,21 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Fri, 29 May 2026 16:24:58 +0000",
-      "age_hours": "10.48",
-      "freshness_status": "fresh",
-      "editorial_score": "138",
+      "age_hours": "13.84",
+      "freshness_status": "stale",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "What happens when companies become too AI-pilled?",
-      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "snapshot": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of \"AI psychosis.\" Indeed, ClickUp recently cut 22% of its workforce for AI...",
+      "headline": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "snapshot": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable and structured responses that are easier to scan, according to Microsoft. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Box, Aaron Levie, Indeed, ClickUp",
-        "Specific figures mentioned: 22%",
-        "Story focus: What happens when companies become too AI-pilled?",
-        "Source context: The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Box.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 29 May 2026 17:57:05 +0000",
-      "age_hours": "8.94",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Cognition's Scott Wu says AI coding agents shouldn't replace humans",
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-      "snapshot": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Cognition, Scott Wu, Devin, But",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Cognition's Scott Wu says AI coding agents shouldn't replace humans",
-        "Source context: Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human..."
+        "Key people or organizations: Microsoft, Copilot, As",
+        "Specific figures mentioned: 365",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft 365 Copilot gets a speed boost and cleaner design"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -429,74 +457,46 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Cognition.",
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-28T16:14:07-04:00",
+      "age_hours": "34.02",
+      "freshness_status": "stale",
+      "editorial_score": "72",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "The internet is being rebuilt for machines",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "snapshot": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: As AI, AWS, Cloudflare",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: The internet is being rebuilt for machines",
+        "Source context: As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from As AI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 29 May 2026 16:13:47 +0000",
-      "age_hours": "10.67",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Tech companies desperately want to film you doing chores",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
-      "snapshot": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get the appeal. But there's a catch. There's always a catch. In exchange for the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Tech, Shift, New Yorkers, It",
-        "AI desk signal: chip",
-        "Story focus: Tech companies desperately want to film you doing chores",
-        "Source context: This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well,..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Tech.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-29T13:37:43-04:00",
-      "age_hours": "9.27",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
-    },
-    {
-      "headline": "Coders are refusing to work without AI — and that could come back to bite them",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "snapshot": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them.",
-      "key_data": [
-        "Key people or organizations: Coders, While AI, And",
-        "Story focus: Coders are refusing to work without AI — and that could come back to bite them",
-        "Source context: While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Coders.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 29 May 2026 22:14:22 +0000",
-      "age_hours": "4.66",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
+      "published": "Thu, 28 May 2026 21:24:01 +0000",
+      "age_hours": "32.85",
+      "freshness_status": "stale",
+      "editorial_score": "76",
       "urgency": ""
     }
   ],
