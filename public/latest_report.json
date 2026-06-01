@@ -1,53 +1,111 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Erin Brockovich takes aim at data center secrecy",
-  "snapshot": "Environmental activist Erin Brockovich has a new mission. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-06-01 04:19:00 AM ET",
-  "generated_at": "2026-06-01 04:19:00 AM ET",
+  "headline": "Microsoft to unveil new AI models and Windows improvements at Build",
+  "snapshot": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues... The competitive question is whether this changes the model race, enterprise integrations or...",
+  "updated_at": "2026-06-01 10:48:43 AM ET",
+  "generated_at": "2026-06-01 10:48:43 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 4,
-    "public_fallback_items": 27,
-    "stale_or_blocked_items": 48,
+    "total_items_checked": 37,
+    "live_fresh_items": 3,
+    "editor_fresh_items": 6,
+    "public_fallback_items": 20,
+    "stale_or_blocked_items": 34,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-01 04:19:00 AM ET"
+    "last_checked": "2026-06-01 10:48:43 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "snapshot": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Microsoft to unveil new AI models and Windows improvements at Build",
+      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "snapshot": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: SoftBank, French",
-        "Specific figures mentioned: 75, 5",
-        "AI desk signal: chip, data center, enterprise",
-        "Story focus: SoftBank says it will invest up to €75 billion to build French data centers",
-        "Source context: The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity. The larger angle is AI infrastructure:..."
+        "Key people or organizations: Microsoft, Windows, Build, San Francisco",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft to unveil new AI models and Windows improvements at Build",
+        "Source context: Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SoftBank.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 30 May 2026 21:45:00 +0000",
-      "age_hours": "34.57",
-      "freshness_status": "stale",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T10:39:03-04:00",
+      "age_hours": "0.16",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "AI is blowing up music. How should the Grammys handle it?",
+      "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+      "snapshot": "Today I'm talking with Harvey Mason Jr., who is CEO of the Recording Academy — that's the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would...",
+      "key_data": [
+        "Key people or organizations: Grammys, Today, Harvey Mason Jr, CEO",
+        "Specific figures mentioned: 2024",
+        "Story focus: AI is blowing up music. How should the Grammys handle it?",
+        "Source context: Today I'm talking with Harvey Mason Jr., who is CEO of the Recording Academy — that's the outfit that puts on the Grammy Awards. I last talked to..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Grammys.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T10:30:00-04:00",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "62",
+      "urgency": ""
+    },
+    {
+      "headline": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+      "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+      "snapshot": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription....",
+      "key_data": [
+        "Key people or organizations: Strava, API, TechCrunch, Developers",
+        "Specific figures mentioned: $11.99",
+        "Story focus: Strava blames zero-code AI apps and scrapers as it tightens API access",
+        "Source context: The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Strava.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T10:06:44-04:00",
+      "age_hours": "0.70",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
     },
     {
       "headline": "Erin Brockovich takes aim at data center secrecy",
@@ -73,9 +131,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 31 May 2026 21:05:14 +0000",
-      "age_hours": "11.23",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
+      "age_hours": "17.72",
+      "freshness_status": "stale",
+      "editorial_score": "42",
       "urgency": ""
     },
     {
@@ -101,36 +159,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 31 May 2026 15:30:00 +0000",
-      "age_hours": "16.82",
-      "freshness_status": "stale",
-      "editorial_score": "24",
-      "urgency": ""
-    },
-    {
-      "headline": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-      "snapshot": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called...",
-      "key_data": [
-        "Key people or organizations: Bitcoin, It, Slack",
-        "Specific figures mentioned: 4, 20",
-        "Story focus: I went looking for the AI weed vape that gives you Bitcoin for smoking",
-        "Source context: The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Bitcoin.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-31T09:00:00-04:00",
-      "age_hours": "19.32",
+      "age_hours": "23.31",
       "freshness_status": "stale",
       "editorial_score": "24",
       "urgency": ""
@@ -138,34 +167,92 @@
   ],
   "editor_signals": [
     {
-      "headline": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "snapshot": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Microsoft to unveil new AI models and Windows improvements at Build",
+      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "snapshot": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: SoftBank, French",
-        "Specific figures mentioned: 75, 5",
-        "AI desk signal: chip, data center, enterprise",
-        "Story focus: SoftBank says it will invest up to €75 billion to build French data centers",
-        "Source context: The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity. The larger angle is AI infrastructure:..."
+        "Key people or organizations: Microsoft, Windows, Build, San Francisco",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft to unveil new AI models and Windows improvements at Build",
+        "Source context: Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SoftBank.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 30 May 2026 21:45:00 +0000",
-      "age_hours": "34.57",
-      "freshness_status": "stale",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T10:39:03-04:00",
+      "age_hours": "0.16",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "AI is blowing up music. How should the Grammys handle it?",
+      "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+      "snapshot": "Today I'm talking with Harvey Mason Jr., who is CEO of the Recording Academy — that's the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would...",
+      "key_data": [
+        "Key people or organizations: Grammys, Today, Harvey Mason Jr, CEO",
+        "Specific figures mentioned: 2024",
+        "Story focus: AI is blowing up music. How should the Grammys handle it?",
+        "Source context: Today I'm talking with Harvey Mason Jr., who is CEO of the Recording Academy — that's the outfit that puts on the Grammy Awards. I last talked to..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Grammys.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T10:30:00-04:00",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "62",
+      "urgency": ""
+    },
+    {
+      "headline": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+      "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+      "snapshot": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription....",
+      "key_data": [
+        "Key people or organizations: Strava, API, TechCrunch, Developers",
+        "Specific figures mentioned: $11.99",
+        "Story focus: Strava blames zero-code AI apps and scrapers as it tightens API access",
+        "Source context: The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Strava.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T10:06:44-04:00",
+      "age_hours": "0.70",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
     },
     {
       "headline": "Erin Brockovich takes aim at data center secrecy",
@@ -191,38 +278,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 31 May 2026 21:05:14 +0000",
-      "age_hours": "11.23",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-      "snapshot": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called...",
-      "key_data": [
-        "Key people or organizations: Bitcoin, It, Slack",
-        "Specific figures mentioned: 4, 20",
-        "Story focus: I went looking for the AI weed vape that gives you Bitcoin for smoking",
-        "Source context: The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Bitcoin.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-31T09:00:00-04:00",
-      "age_hours": "19.32",
+      "age_hours": "17.72",
       "freshness_status": "stale",
-      "editorial_score": "24",
+      "editorial_score": "42",
       "urgency": ""
     },
     {
@@ -248,18 +306,106 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 31 May 2026 15:30:00 +0000",
-      "age_hours": "16.82",
+      "age_hours": "23.31",
       "freshness_status": "stale",
       "editorial_score": "24",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Erin Brockovich takes aim at data center secrecy",
-    "SoftBank says it will invest up to €75 billion to build French data centers",
-    "I went looking for the AI weed vape that gives you Bitcoin for smoking"
+    "Microsoft to unveil new AI models and Windows improvements at Build",
+    "AI is blowing up music. How should the Grammys handle it?",
+    "Strava blames zero-code AI apps and scrapers as it tightens API access"
   ],
   "sections": [
+    {
+      "headline": "Microsoft to unveil new AI models and Windows improvements at Build",
+      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "snapshot": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Microsoft, Windows, Build, San Francisco",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft to unveil new AI models and Windows improvements at Build",
+        "Source context: Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T10:39:03-04:00",
+      "age_hours": "0.16",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "AI is blowing up music. How should the Grammys handle it?",
+      "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+      "snapshot": "Today I'm talking with Harvey Mason Jr., who is CEO of the Recording Academy — that's the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI would upend the music industry, but still not exactly clear how that would...",
+      "key_data": [
+        "Key people or organizations: Grammys, Today, Harvey Mason Jr, CEO",
+        "Specific figures mentioned: 2024",
+        "Story focus: AI is blowing up music. How should the Grammys handle it?",
+        "Source context: Today I'm talking with Harvey Mason Jr., who is CEO of the Recording Academy — that's the outfit that puts on the Grammy Awards. I last talked to..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Grammys.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T10:30:00-04:00",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "62",
+      "urgency": ""
+    },
+    {
+      "headline": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+      "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+      "snapshot": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app using Strava's data now need to pay for a flat $11.99 / month subscription....",
+      "key_data": [
+        "Key people or organizations: Strava, API, TechCrunch, Developers",
+        "Specific figures mentioned: $11.99",
+        "Story focus: Strava blames zero-code AI apps and scrapers as it tightens API access",
+        "Source context: The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Strava.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T10:06:44-04:00",
+      "age_hours": "0.70",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
     {
       "headline": "Erin Brockovich takes aim at data center secrecy",
       "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
@@ -284,68 +430,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 31 May 2026 21:05:14 +0000",
-      "age_hours": "11.23",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "snapshot": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: SoftBank, French",
-        "Specific figures mentioned: 75, 5",
-        "AI desk signal: chip, data center, enterprise",
-        "Story focus: SoftBank says it will invest up to €75 billion to build French data centers",
-        "Source context: The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity. The larger angle is AI infrastructure:..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SoftBank.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 30 May 2026 21:45:00 +0000",
-      "age_hours": "34.57",
+      "age_hours": "17.72",
       "freshness_status": "stale",
-      "editorial_score": "74",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-      "snapshot": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called...",
-      "key_data": [
-        "Key people or organizations: Bitcoin, It, Slack",
-        "Specific figures mentioned: 4, 20",
-        "Story focus: I went looking for the AI weed vape that gives you Bitcoin for smoking",
-        "Source context: The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Bitcoin.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-05-31T09:00:00-04:00",
-      "age_hours": "19.32",
-      "freshness_status": "stale",
-      "editorial_score": "24",
+      "editorial_score": "42",
       "urgency": ""
     },
     {
@@ -371,7 +458,36 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 31 May 2026 15:30:00 +0000",
-      "age_hours": "16.82",
+      "age_hours": "23.31",
+      "freshness_status": "stale",
+      "editorial_score": "24",
+      "urgency": ""
+    },
+    {
+      "headline": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "snapshot": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called...",
+      "key_data": [
+        "Key people or organizations: Bitcoin, It, Slack",
+        "Specific figures mentioned: 4, 20",
+        "Story focus: I went looking for the AI weed vape that gives you Bitcoin for smoking",
+        "Source context: The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Bitcoin.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-05-31T09:00:00-04:00",
+      "age_hours": "25.81",
       "freshness_status": "stale",
       "editorial_score": "24",
       "urgency": ""
