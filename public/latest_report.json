@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-  "snapshot": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-  "updated_at": "2026-06-02 01:20:58 AM ET",
-  "generated_at": "2026-06-02 01:20:58 AM ET",
+  "headline": "Alphabet plans to raise $80B to pay for AI buildout",
+  "snapshot": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company's available supply,\" Alphabet said in its statement.",
+  "updated_at": "2026-06-02 05:57:05 AM ET",
+  "generated_at": "2026-06-02 05:57:05 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 7,
-    "editor_fresh_items": 17,
-    "public_fallback_items": 27,
-    "stale_or_blocked_items": 42,
+    "total_items_checked": 37,
+    "live_fresh_items": 1,
+    "editor_fresh_items": 14,
+    "public_fallback_items": 25,
+    "stale_or_blocked_items": 36,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-02 01:20:58 AM ET"
+    "last_checked": "2026-06-02 05:57:05 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,222 +44,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 01 Jun 2026 20:03:40 +0000",
-      "age_hours": "9.29",
-      "freshness_status": "fresh",
-      "editorial_score": "168",
+      "age_hours": "13.89",
+      "freshness_status": "stale",
+      "editorial_score": "138",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-      "snapshot": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Nvidia, CPU, PCs, Microsoft",
-        "Specific figures mentioned: $200B",
-        "AI desk signal: agent, chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 01 Jun 2026 21:35:00 +0000",
-      "age_hours": "7.77",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "Gemini's new AI agent is about as good as Google's demo",
-      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-      "snapshot": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Gemini, Google, Gemini Spark, But",
-        "Specific figures mentioned: 24, 7",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Gemini's new AI agent is about as good as Google's demo"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Gemini.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-01T16:00:00-04:00",
-      "age_hours": "9.35",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": ""
-    },
-    {
-      "headline": "This could be Windows' M1 moment — but expect it to cost a ton",
-      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-      "snapshot": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Windows, Nvidia, RTX Spark, Apple",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: This could be Windows' M1 moment — but expect it to cost a ton",
-        "Source context: Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Windows.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-01T16:02:31-04:00",
-      "age_hours": "9.31",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta's own AI was exploited to hijack Instagram accounts",
-      "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-      "snapshot": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Meta, Instagram, Media, In",
-        "Specific figures mentioned: 404",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's own AI was exploited to hijack Instagram accounts"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-01T15:20:47-04:00",
-      "age_hours": "10.00",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-      "snapshot": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Florida, OpenAI, Sam Altman, Florida State University",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-        "Source context: The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. The story matters..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Florida.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 01 Jun 2026 20:03:40 +0000",
-      "age_hours": "9.29",
-      "freshness_status": "fresh",
-      "editorial_score": "168",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-      "snapshot": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Nvidia, CPU, PCs, Microsoft",
-        "Specific figures mentioned: $200B",
-        "AI desk signal: agent, chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 01 Jun 2026 21:35:00 +0000",
-      "age_hours": "7.77",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "Gemini's new AI agent is about as good as Google's demo",
-      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-      "snapshot": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Gemini, Google, Gemini Spark, But",
-        "Specific figures mentioned: 24, 7",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Gemini's new AI agent is about as good as Google's demo"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Gemini.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-01T16:00:00-04:00",
-      "age_hours": "9.35",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": ""
     },
     {
       "headline": "Microsoft to unveil new AI models and Windows improvements at Build",
@@ -286,7 +74,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-01T10:39:03-04:00",
-      "age_hours": "14.70",
+      "age_hours": "19.30",
       "freshness_status": "stale",
       "editorial_score": "106",
       "urgency": ""
@@ -316,47 +104,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 01 Jun 2026 16:36:55 +0000",
-      "age_hours": "12.73",
+      "age_hours": "17.34",
       "freshness_status": "stale",
       "editorial_score": "105",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-    "Gemini's new AI agent is about as good as Google's demo"
-  ],
-  "sections": [
-    {
-      "headline": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-      "snapshot": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Florida, OpenAI, Sam Altman, Florida State University",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-        "Source context: The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. The story matters..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Florida.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 01 Jun 2026 20:03:40 +0000",
-      "age_hours": "9.29",
-      "freshness_status": "fresh",
-      "editorial_score": "168",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
@@ -383,9 +134,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 01 Jun 2026 21:35:00 +0000",
-      "age_hours": "7.77",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
+      "age_hours": "12.37",
+      "freshness_status": "stale",
+      "editorial_score": "98",
       "urgency": ""
     },
     {
@@ -413,51 +164,53 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-01T16:00:00-04:00",
-      "age_hours": "9.35",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
+      "age_hours": "13.95",
+      "freshness_status": "stale",
+      "editorial_score": "80",
       "urgency": ""
-    },
+    }
+  ],
+  "editor_signals": [
     {
-      "headline": "This could be Windows' M1 moment — but expect it to cost a ton",
-      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-      "snapshot": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "snapshot": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Windows, Nvidia, RTX Spark, Apple",
-        "AI desk signal: chip, nvidia",
+        "Key people or organizations: Florida, OpenAI, Sam Altman, Florida State University",
+        "AI desk signal: lawsuit",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: This could be Windows' M1 moment — but expect it to cost a ton",
-        "Source context: Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips..."
+        "Story focus: Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+        "Source context: The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. The story matters..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Windows.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Florida.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-01T16:02:31-04:00",
-      "age_hours": "9.31",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": ""
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 01 Jun 2026 20:03:40 +0000",
+      "age_hours": "13.89",
+      "freshness_status": "stale",
+      "editorial_score": "138",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Meta's own AI was exploited to hijack Instagram accounts",
-      "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-      "snapshot": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's chatbot to switch the email associated with someone else's profile and then... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Microsoft to unveil new AI models and Windows improvements at Build",
+      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "snapshot": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Meta, Instagram, Media, In",
-        "Specific figures mentioned: 404",
+        "Key people or organizations: Microsoft, Windows, Build, San Francisco",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's own AI was exploited to hijack Instagram accounts"
+        "Story focus: Microsoft to unveil new AI models and Windows improvements at Build",
+        "Source context: Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -465,19 +218,116 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-06-01T15:20:47-04:00",
-      "age_hours": "10.00",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
+      "published": "2026-06-01T10:39:03-04:00",
+      "age_hours": "19.30",
+      "freshness_status": "stale",
+      "editorial_score": "106",
       "urgency": ""
     },
+    {
+      "headline": "Anthropic files to go public",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "snapshot": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic files to go public",
+        "Source context: Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 01 Jun 2026 16:36:55 +0000",
+      "age_hours": "17.34",
+      "freshness_status": "stale",
+      "editorial_score": "105",
+      "urgency": ""
+    },
+    {
+      "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "snapshot": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nvidia, CPU, PCs, Microsoft",
+        "Specific figures mentioned: $200B",
+        "AI desk signal: agent, chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 01 Jun 2026 21:35:00 +0000",
+      "age_hours": "12.37",
+      "freshness_status": "stale",
+      "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "Gemini's new AI agent is about as good as Google's demo",
+      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "snapshot": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Gemini, Google, Gemini Spark, But",
+        "Specific figures mentioned: 24, 7",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Gemini's new AI agent is about as good as Google's demo"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T16:00:00-04:00",
+      "age_hours": "13.95",
+      "freshness_status": "stale",
+      "editorial_score": "80",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Alphabet plans to raise $80B to pay for AI buildout",
+    "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+    "Microsoft to unveil new AI models and Windows improvements at Build"
+  ],
+  "sections": [
     {
       "headline": "Alphabet plans to raise $80B to pay for AI buildout",
       "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
@@ -503,9 +353,159 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 01 Jun 2026 22:55:09 +0000",
-      "age_hours": "6.43",
+      "age_hours": "11.03",
       "freshness_status": "fresh",
       "editorial_score": "72",
+      "urgency": ""
+    },
+    {
+      "headline": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "snapshot": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Florida, OpenAI, Sam Altman, Florida State University",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+        "Source context: The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. The story matters..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Florida.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 01 Jun 2026 20:03:40 +0000",
+      "age_hours": "13.89",
+      "freshness_status": "stale",
+      "editorial_score": "138",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Microsoft to unveil new AI models and Windows improvements at Build",
+      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "snapshot": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers Conference, and I can't remember a more pivotal moment. As Microsoft continues... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Microsoft, Windows, Build, San Francisco",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft to unveil new AI models and Windows improvements at Build",
+        "Source context: Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T10:39:03-04:00",
+      "age_hours": "19.30",
+      "freshness_status": "stale",
+      "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic files to go public",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "snapshot": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic files to go public",
+        "Source context: Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 01 Jun 2026 16:36:55 +0000",
+      "age_hours": "17.34",
+      "freshness_status": "stale",
+      "editorial_score": "105",
+      "urgency": ""
+    },
+    {
+      "headline": "Gemini's new AI agent is about as good as Google's demo",
+      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "snapshot": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Gemini, Google, Gemini Spark, But",
+        "Specific figures mentioned: 24, 7",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Gemini's new AI agent is about as good as Google's demo"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-01T16:00:00-04:00",
+      "age_hours": "13.95",
+      "freshness_status": "stale",
+      "editorial_score": "80",
+      "urgency": ""
+    },
+    {
+      "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "snapshot": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nvidia, CPU, PCs, Microsoft",
+        "Specific figures mentioned: $200B",
+        "AI desk signal: agent, chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 01 Jun 2026 21:35:00 +0000",
+      "age_hours": "12.37",
+      "freshness_status": "stale",
+      "editorial_score": "98",
       "urgency": ""
     }
   ],
