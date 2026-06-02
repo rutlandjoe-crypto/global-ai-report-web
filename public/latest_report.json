@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI launches new Codex tools for white-collar work",
   "snapshot": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app, each of the new tools bundles integrations, instructions, and context to... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-06-02 01:59:04 PM ET",
-  "generated_at": "2026-06-02 01:59:04 PM ET",
+  "updated_at": "2026-06-02 04:37:55 PM ET",
+  "generated_at": "2026-06-02 04:37:55 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 37,
-    "live_fresh_items": 10,
-    "editor_fresh_items": 23,
-    "public_fallback_items": 26,
-    "stale_or_blocked_items": 27,
+    "total_items_checked": 48,
+    "live_fresh_items": 22,
+    "editor_fresh_items": 32,
+    "public_fallback_items": 33,
+    "stale_or_blocked_items": 26,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-02 01:59:04 PM ET"
+    "last_checked": "2026-06-02 04:37:55 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,20 +43,49 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 02 Jun 2026 16:00:00 +0000",
-      "age_hours": "1.98",
+      "age_hours": "4.63",
       "freshness_status": "fresh",
       "editorial_score": "164",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Amazon faces class action lawsuit over Ring facial recognition feature",
+      "headline": "Trump signs executive order to review AI models before they're released",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "snapshot": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as...",
+      "key_data": [
+        "Key people or organizations: Trump, President Donald Trump",
+        "AI desk signal: model, enterprise",
+        "Story focus: Trump signs executive order to review AI models before they're released",
+        "Source context: President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Trump.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-02T14:33:42-04:00",
+      "age_hours": "2.07",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon faces class action lawsuit over Ring facial-recognition feature",
       "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
       "snapshot": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
         "Key people or organizations: Amazon, Ring, Seattle, Virginia",
         "AI desk signal: lawsuit",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon faces class action lawsuit over Ring facial recognition feature",
+        "Story focus: Amazon faces class action lawsuit over Ring facial-recognition feature",
         "Source context: The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby..."
       ],
       "why_it_matters": [
@@ -73,99 +102,69 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 02 Jun 2026 17:47:28 +0000",
-      "age_hours": "0.19",
+      "age_hours": "2.84",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Microsoft created the mini Surface dev box that Qualcomm couldn't",
-      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
-      "snapshot": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new Arm-based RTX Spark chips, just like the Surface Laptop Ultra, and is... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Microsoft offers devs a better way to control AI agent behavior",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "snapshot": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Microsoft, Surface, Qualcomm, Surface Laptop Ultra",
-        "AI desk signal: chip, nvidia",
+        "Key people or organizations: Microsoft",
+        "AI desk signal: agent",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft created the mini Surface dev box that Qualcomm couldn't",
-        "Source context: Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new..."
+        "Story focus: Microsoft offers devs a better way to control AI agent behavior",
+        "Source context: The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files. The story..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
         "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-02T12:30:00-04:00",
-      "age_hours": "1.48",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft's Project Solara is an OS for AI agent gadgets",
-      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-      "snapshot": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows. Microsoft demonstrated two... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Microsoft, Project Solara, OS, Build",
-        "Specific figures mentioned: 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft's Project Solara is an OS for AI agent gadgets"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-02T13:31:02-04:00",
-      "age_hours": "0.47",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "ZeroDrift raises $10M to protect AI models from themselves",
-      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "snapshot": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: ZeroDrift",
-        "Specific figures mentioned: $10M",
-        "AI desk signal: model, enterprise",
-        "Story focus: ZeroDrift raises $10M to protect AI models from themselves",
-        "Source context: A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ZeroDrift.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 02 Jun 2026 12:32:59 +0000",
-      "age_hours": "5.43",
+      "published": "Tue, 02 Jun 2026 18:00:00 +0000",
+      "age_hours": "2.63",
       "freshness_status": "fresh",
-      "editorial_score": "106",
+      "editorial_score": "130",
+      "urgency": ""
+    },
+    {
+      "headline": "Microsoft's first advanced reasoning AI is here",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "snapshot": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Microsoft, Build, MAI, Thinking",
+        "Specific figures mentioned: 2026, 1",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft's first advanced reasoning AI is here"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-02T14:12:44-04:00",
+      "age_hours": "2.42",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
       "urgency": ""
     }
   ],
@@ -194,20 +193,49 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 02 Jun 2026 16:00:00 +0000",
-      "age_hours": "1.98",
+      "age_hours": "4.63",
       "freshness_status": "fresh",
       "editorial_score": "164",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Amazon faces class action lawsuit over Ring facial recognition feature",
+      "headline": "Trump signs executive order to review AI models before they're released",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "snapshot": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as...",
+      "key_data": [
+        "Key people or organizations: Trump, President Donald Trump",
+        "AI desk signal: model, enterprise",
+        "Story focus: Trump signs executive order to review AI models before they're released",
+        "Source context: President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Trump.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-02T14:33:42-04:00",
+      "age_hours": "2.07",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon faces class action lawsuit over Ring facial-recognition feature",
       "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
       "snapshot": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
         "Key people or organizations: Amazon, Ring, Seattle, Virginia",
         "AI desk signal: lawsuit",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon faces class action lawsuit over Ring facial recognition feature",
+        "Story focus: Amazon faces class action lawsuit over Ring facial-recognition feature",
         "Source context: The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby..."
       ],
       "why_it_matters": [
@@ -224,7 +252,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 02 Jun 2026 17:47:28 +0000",
-      "age_hours": "0.19",
+      "age_hours": "2.84",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -254,51 +282,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 01 Jun 2026 20:03:40 +0000",
-      "age_hours": "21.92",
+      "age_hours": "24.57",
       "freshness_status": "stale",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Microsoft created the mini Surface dev box that Qualcomm couldn't",
-      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
-      "snapshot": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new Arm-based RTX Spark chips, just like the Surface Laptop Ultra, and is... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Microsoft's first advanced reasoning AI is here",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "snapshot": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Microsoft, Surface, Qualcomm, Surface Laptop Ultra",
-        "AI desk signal: chip, nvidia",
+        "Key people or organizations: Microsoft, Build, MAI, Thinking",
+        "Specific figures mentioned: 2026, 1",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft created the mini Surface dev box that Qualcomm couldn't",
-        "Source context: Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-02T12:30:00-04:00",
-      "age_hours": "1.48",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft's Project Solara is an OS for AI agent gadgets",
-      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-      "snapshot": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows. Microsoft demonstrated two... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Microsoft, Project Solara, OS, Build",
-        "Specific figures mentioned: 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft's Project Solara is an OS for AI agent gadgets"
+        "Story focus: Microsoft's first advanced reasoning AI is here"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -313,17 +311,17 @@
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-06-02T13:31:02-04:00",
-      "age_hours": "0.47",
+      "published": "2026-06-02T14:12:44-04:00",
+      "age_hours": "2.42",
       "freshness_status": "fresh",
-      "editorial_score": "120",
+      "editorial_score": "128",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "OpenAI launches new Codex tools for white-collar work",
-    "Amazon faces class action lawsuit over Ring facial recognition feature",
-    "Microsoft created the mini Surface dev box that Qualcomm couldn't"
+    "Trump signs executive order to review AI models before they're released",
+    "Amazon faces class action lawsuit over Ring facial-recognition feature"
   ],
   "sections": [
     {
@@ -350,20 +348,49 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 02 Jun 2026 16:00:00 +0000",
-      "age_hours": "1.98",
+      "age_hours": "4.63",
       "freshness_status": "fresh",
       "editorial_score": "164",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Amazon faces class action lawsuit over Ring facial recognition feature",
+      "headline": "Trump signs executive order to review AI models before they're released",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "snapshot": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promote secure innovation and strengthen the cybersecurity of critical... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as...",
+      "key_data": [
+        "Key people or organizations: Trump, President Donald Trump",
+        "AI desk signal: model, enterprise",
+        "Story focus: Trump signs executive order to review AI models before they're released",
+        "Source context: President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Trump.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-02T14:33:42-04:00",
+      "age_hours": "2.07",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon faces class action lawsuit over Ring facial-recognition feature",
       "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
       "snapshot": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
         "Key people or organizations: Amazon, Ring, Seattle, Virginia",
         "AI desk signal: lawsuit",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon faces class action lawsuit over Ring facial recognition feature",
+        "Story focus: Amazon faces class action lawsuit over Ring facial-recognition feature",
         "Source context: The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby..."
       ],
       "why_it_matters": [
@@ -380,10 +407,70 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 02 Jun 2026 17:47:28 +0000",
-      "age_hours": "0.19",
+      "age_hours": "2.84",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Microsoft offers devs a better way to control AI agent behavior",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "snapshot": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Microsoft",
+        "AI desk signal: agent",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft offers devs a better way to control AI agent behavior",
+        "Source context: The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files. The story..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 02 Jun 2026 18:00:00 +0000",
+      "age_hours": "2.63",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": ""
+    },
+    {
+      "headline": "Microsoft's first advanced reasoning AI is here",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "snapshot": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its initial in-house models last year - before then, it had relied on OpenAI's... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Microsoft, Build, MAI, Thinking",
+        "Specific figures mentioned: 2026, 1",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft's first advanced reasoning AI is here"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-02T14:12:44-04:00",
+      "age_hours": "2.42",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": ""
     },
     {
       "headline": "Microsoft created the mini Surface dev box that Qualcomm couldn't",
@@ -410,51 +497,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-02T12:30:00-04:00",
-      "age_hours": "1.48",
+      "age_hours": "4.13",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": ""
     },
     {
-      "headline": "Microsoft's Project Solara is an OS for AI agent gadgets",
-      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-      "snapshot": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven experiences.\" It's built on Android, not Windows. Microsoft demonstrated two... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Anthropic IPO filing marks AI maturing into enterprise utility",
+      "url": "https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/",
+      "snapshot": "Anthropic's IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model developers operating in private markets have prioritised rapid iteration and maximum compute performance over predictable billing... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Microsoft, Project Solara, OS, Build",
-        "Specific figures mentioned: 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft's Project Solara is an OS for AI agent gadgets"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-02T13:31:02-04:00",
-      "age_hours": "0.47",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "ZeroDrift raises $10M to protect AI models from themselves",
-      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "snapshot": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: ZeroDrift",
-        "Specific figures mentioned: $10M",
+        "Key people or organizations: Anthropic IPO, Anthropic, IPO, Model",
         "AI desk signal: model, enterprise",
-        "Story focus: ZeroDrift raises $10M to protect AI models from themselves",
-        "Source context: A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. The..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic IPO filing marks AI maturing into enterprise utility",
+        "Source context: Anthropic's IPO filing marks the maturation of generative AI from a research-heavy venture phase into a stabilised enterprise utility. Model..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -462,46 +519,45 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ZeroDrift.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic IPO.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 02 Jun 2026 12:32:59 +0000",
-      "age_hours": "5.43",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Tue, 02 Jun 2026 18:04:03 +0000",
+      "age_hours": "2.56",
       "freshness_status": "fresh",
-      "editorial_score": "106",
+      "editorial_score": "128",
       "urgency": ""
     },
     {
-      "headline": "Gemini Spark is the most impressive and terrifying AI experience I've had yet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-      "snapshot": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "GitHub Copilot users see token-based price hikes",
+      "url": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
+      "snapshot": "Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more or less would a pay-a-you-use AI cost an organisation or individual compared to a flat-rate, monthly subscription? Just a day...",
       "key_data": [
-        "Key people or organizations: Gemini Spark, According, Just",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Gemini Spark is the most impressive and terrifying AI experience I've had yet",
-        "Source context: According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all..."
+        "Key people or organizations: GitHub Copilot, Since, April, Just",
+        "Story focus: GitHub Copilot users see token-based price hikes",
+        "Source context: Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Gemini Spark.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from GitHub Copilot.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-02T08:38:08-04:00",
-      "age_hours": "5.35",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Tue, 02 Jun 2026 11:09:00 +0000",
+      "age_hours": "9.48",
       "freshness_status": "fresh",
-      "editorial_score": "102",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
