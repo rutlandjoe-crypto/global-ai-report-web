@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Alphabet plans to raise $80B to pay for AI buildout",
-  "snapshot": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company's available supply,\" Alphabet said in its statement.",
-  "updated_at": "2026-06-02 05:57:05 AM ET",
-  "generated_at": "2026-06-02 05:57:05 AM ET",
+  "headline": "ZeroDrift raises $10M to protect AI models from themselves",
+  "snapshot": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-06-02 09:46:27 AM ET",
+  "generated_at": "2026-06-02 09:46:27 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 37,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 14,
-    "public_fallback_items": 25,
-    "stale_or_blocked_items": 36,
+    "total_items_checked": 49,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 20,
+    "public_fallback_items": 28,
+    "stale_or_blocked_items": 45,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-02 05:57:05 AM ET"
+    "last_checked": "2026-06-02 09:46:27 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 01 Jun 2026 20:03:40 +0000",
-      "age_hours": "13.89",
+      "age_hours": "17.71",
       "freshness_status": "stale",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "ZeroDrift raises $10M to protect AI models from themselves",
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "snapshot": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: ZeroDrift",
+        "Specific figures mentioned: $10M",
+        "AI desk signal: model, enterprise",
+        "Story focus: ZeroDrift raises $10M to protect AI models from themselves",
+        "Source context: A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ZeroDrift.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 02 Jun 2026 12:32:59 +0000",
+      "age_hours": "1.22",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": ""
     },
     {
       "headline": "Microsoft to unveil new AI models and Windows improvements at Build",
@@ -74,81 +104,20 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-01T10:39:03-04:00",
-      "age_hours": "19.30",
+      "age_hours": "23.12",
       "freshness_status": "stale",
       "editorial_score": "106",
       "urgency": ""
     },
     {
-      "headline": "Anthropic files to go public",
-      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "snapshot": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Gemini Spark is the most impressive and terrifying AI experience I've had yet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "snapshot": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Anthropic",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic files to go public",
-        "Source context: Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 01 Jun 2026 16:36:55 +0000",
-      "age_hours": "17.34",
-      "freshness_status": "stale",
-      "editorial_score": "105",
-      "urgency": ""
-    },
-    {
-      "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-      "snapshot": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Nvidia, CPU, PCs, Microsoft",
-        "Specific figures mentioned: $200B",
-        "AI desk signal: agent, chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 01 Jun 2026 21:35:00 +0000",
-      "age_hours": "12.37",
-      "freshness_status": "stale",
-      "editorial_score": "98",
-      "urgency": ""
-    },
-    {
-      "headline": "Gemini's new AI agent is about as good as Google's demo",
-      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-      "snapshot": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Gemini, Google, Gemini Spark, But",
-        "Specific figures mentioned: 24, 7",
+        "Key people or organizations: Gemini Spark, According, Just",
         "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Gemini's new AI agent is about as good as Google's demo"
+        "Story focus: Gemini Spark is the most impressive and terrifying AI experience I've had yet",
+        "Source context: According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -156,17 +125,45 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Gemini.",
+        "Watch for follow-up statements, product details or customer evidence from Gemini Spark.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-06-01T16:00:00-04:00",
-      "age_hours": "13.95",
-      "freshness_status": "stale",
-      "editorial_score": "80",
+      "published": "2026-06-02T08:38:08-04:00",
+      "age_hours": "1.14",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    },
+    {
+      "headline": "GitHub Copilot users see token-based price hikes",
+      "url": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
+      "snapshot": "Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more or less would a pay-a-you-use AI cost an organisation or individual compared to a flat-rate, monthly subscription? Just a day...",
+      "key_data": [
+        "Key people or organizations: GitHub Copilot, Since, April, Just",
+        "Story focus: GitHub Copilot users see token-based price hikes",
+        "Source context: Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from GitHub Copilot.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Tue, 02 Jun 2026 11:09:00 +0000",
+      "age_hours": "2.62",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
@@ -196,7 +193,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 01 Jun 2026 20:03:40 +0000",
-      "age_hours": "13.89",
+      "age_hours": "17.71",
       "freshness_status": "stale",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
@@ -226,8 +223,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-01T10:39:03-04:00",
-      "age_hours": "19.30",
+      "age_hours": "23.12",
       "freshness_status": "stale",
+      "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "ZeroDrift raises $10M to protect AI models from themselves",
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "snapshot": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: ZeroDrift",
+        "Specific figures mentioned: $10M",
+        "AI desk signal: model, enterprise",
+        "Story focus: ZeroDrift raises $10M to protect AI models from themselves",
+        "Source context: A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ZeroDrift.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 02 Jun 2026 12:32:59 +0000",
+      "age_hours": "1.22",
+      "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
     },
@@ -256,51 +283,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 01 Jun 2026 16:36:55 +0000",
-      "age_hours": "17.34",
+      "age_hours": "21.16",
       "freshness_status": "stale",
       "editorial_score": "105",
       "urgency": ""
     },
     {
-      "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-      "snapshot": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Gemini Spark is the most impressive and terrifying AI experience I've had yet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "snapshot": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Nvidia, CPU, PCs, Microsoft",
-        "Specific figures mentioned: $200B",
-        "AI desk signal: agent, chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 01 Jun 2026 21:35:00 +0000",
-      "age_hours": "12.37",
-      "freshness_status": "stale",
-      "editorial_score": "98",
-      "urgency": ""
-    },
-    {
-      "headline": "Gemini's new AI agent is about as good as Google's demo",
-      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-      "snapshot": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Gemini, Google, Gemini Spark, But",
-        "Specific figures mentioned: 24, 7",
+        "Key people or organizations: Gemini Spark, According, Just",
         "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Gemini's new AI agent is about as good as Google's demo"
+        "Story focus: Gemini Spark is the most impressive and terrifying AI experience I've had yet",
+        "Source context: According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -308,36 +304,93 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Gemini.",
+        "Watch for follow-up statements, product details or customer evidence from Gemini Spark.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-06-01T16:00:00-04:00",
-      "age_hours": "13.95",
-      "freshness_status": "stale",
-      "editorial_score": "80",
+      "published": "2026-06-02T08:38:08-04:00",
+      "age_hours": "1.14",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Alphabet plans to raise $80B to pay for AI buildout",
-    "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "Microsoft to unveil new AI models and Windows improvements at Build"
+    "ZeroDrift raises $10M to protect AI models from themselves",
+    "Gemini Spark is the most impressive and terrifying AI experience I've had yet",
+    "GitHub Copilot users see token-based price hikes"
   ],
   "sections": [
     {
-      "headline": "Alphabet plans to raise $80B to pay for AI buildout",
-      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-      "snapshot": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company's available supply,\" Alphabet said in its statement.",
+      "headline": "ZeroDrift raises $10M to protect AI models from themselves",
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "snapshot": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Alphabet",
-        "Specific figures mentioned: $80B",
-        "AI desk signal: enterprise",
-        "Story focus: Alphabet plans to raise $80B to pay for AI buildout",
-        "Source context: \"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the..."
+        "Key people or organizations: ZeroDrift",
+        "Specific figures mentioned: $10M",
+        "AI desk signal: model, enterprise",
+        "Story focus: ZeroDrift raises $10M to protect AI models from themselves",
+        "Source context: A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ZeroDrift.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 02 Jun 2026 12:32:59 +0000",
+      "age_hours": "1.22",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "Gemini Spark is the most impressive and terrifying AI experience I've had yet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "snapshot": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will exhaustively search travel options, read up on all the fun things to do,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Gemini Spark, According, Just",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Gemini Spark is the most impressive and terrifying AI experience I've had yet",
+        "Source context: According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gemini Spark.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-02T08:38:08-04:00",
+      "age_hours": "1.14",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    },
+    {
+      "headline": "GitHub Copilot users see token-based price hikes",
+      "url": "https://www.artificialintelligence-news.com/news/github-copilots-billing-changes-users-see-use-based-price-hikes/",
+      "snapshot": "Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more or less would a pay-a-you-use AI cost an organisation or individual compared to a flat-rate, monthly subscription? Just a day...",
+      "key_data": [
+        "Key people or organizations: GitHub Copilot, Since, April, Just",
+        "Story focus: GitHub Copilot users see token-based price hikes",
+        "Source context: Since its announcement in April this year, the proposed changes to billing methods on GitHub Copilot were a source of much speculation: how much more..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -345,17 +398,46 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Alphabet.",
+        "Watch for follow-up statements, product details or customer evidence from GitHub Copilot.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Tue, 02 Jun 2026 11:09:00 +0000",
+      "age_hours": "2.62",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "snapshot": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "key_data": [
+        "Key people or organizations: Rocket, Impulse, Engineering, Impulse Space",
+        "Specific figures mentioned: $500 million",
+        "Story focus: Rocket engine startup Impulse raises $500 million to hire people, not AI",
+        "Source context: Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo. The business angle is capital allocation:..."
+      ],
+      "why_it_matters": [
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Rocket.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 01 Jun 2026 22:55:09 +0000",
-      "age_hours": "11.03",
+      "published": "Tue, 02 Jun 2026 12:00:00 +0000",
+      "age_hours": "1.77",
       "freshness_status": "fresh",
-      "editorial_score": "72",
+      "editorial_score": "62",
       "urgency": ""
     },
     {
@@ -383,7 +465,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 01 Jun 2026 20:03:40 +0000",
-      "age_hours": "13.89",
+      "age_hours": "17.71",
       "freshness_status": "stale",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
@@ -413,99 +495,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-01T10:39:03-04:00",
-      "age_hours": "19.30",
+      "age_hours": "23.12",
       "freshness_status": "stale",
       "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic files to go public",
-      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "snapshot": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic files to go public",
-        "Source context: Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 01 Jun 2026 16:36:55 +0000",
-      "age_hours": "17.34",
-      "freshness_status": "stale",
-      "editorial_score": "105",
-      "urgency": ""
-    },
-    {
-      "headline": "Gemini's new AI agent is about as good as Google's demo",
-      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-      "snapshot": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Gemini, Google, Gemini Spark, But",
-        "Specific figures mentioned: 24, 7",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Gemini's new AI agent is about as good as Google's demo"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Gemini.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-01T16:00:00-04:00",
-      "age_hours": "13.95",
-      "freshness_status": "stale",
-      "editorial_score": "80",
-      "urgency": ""
-    },
-    {
-      "headline": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-      "snapshot": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Nvidia, CPU, PCs, Microsoft",
-        "Specific figures mentioned: $200B",
-        "AI desk signal: agent, chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 01 Jun 2026 21:35:00 +0000",
-      "age_hours": "12.37",
-      "freshness_status": "stale",
-      "editorial_score": "98",
       "urgency": ""
     }
   ],
