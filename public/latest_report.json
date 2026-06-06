@@ -1,24 +1,54 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Meta made its own AI-generated clickbait news feed",
-  "snapshot": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of clickbait-style stories for you to read. But the topics, images, and text are... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-06-06 04:07:57 PM ET",
-  "generated_at": "2026-06-06 04:07:57 PM ET",
+  "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+  "snapshot": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-06-06 05:52:09 PM ET",
+  "generated_at": "2026-06-06 05:52:09 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 37,
-    "live_fresh_items": 6,
-    "editor_fresh_items": 15,
-    "public_fallback_items": 29,
-    "stale_or_blocked_items": 31,
+    "live_fresh_items": 7,
+    "editor_fresh_items": 16,
+    "public_fallback_items": 30,
+    "stale_or_blocked_items": 30,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-06 04:07:57 PM ET"
+    "last_checked": "2026-06-06 05:52:09 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "snapshot": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Lockdown Mode, Even, ChatGPT",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+        "Source context: Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "age_hours": "1.33",
+      "freshness_status": "fresh",
+      "editorial_score": "118",
+      "urgency": ""
+    },
     {
       "headline": "The Trump administration might take an equity stake in OpenAI",
       "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
@@ -44,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 06 Jun 2026 16:17:21 +0000",
-      "age_hours": "3.84",
+      "age_hours": "5.58",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": "WATCH"
@@ -74,7 +104,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-06T10:00:00-04:00",
-      "age_hours": "6.13",
+      "age_hours": "7.87",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -104,37 +134,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 06 Jun 2026 18:13:36 +0000",
-      "age_hours": "1.91",
+      "age_hours": "3.64",
       "freshness_status": "fresh",
       "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "Sriram Krishnan is leaving his role as White House AI advisor",
-      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "snapshot": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Sriram Krishnan, White House AI, Krishnan, Trump",
-        "Story focus: Sriram Krishnan is leaving his role as White House AI advisor",
-        "Source context: Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy. The story matters because AI is moving deeper into legal and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sriram Krishnan.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 06 Jun 2026 17:42:15 +0000",
-      "age_hours": "2.43",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
       "urgency": ""
     },
     {
@@ -162,13 +164,43 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-06T11:05:00-04:00",
-      "age_hours": "5.05",
+      "age_hours": "6.79",
       "freshness_status": "fresh",
       "editorial_score": "64",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "snapshot": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Lockdown Mode, Even, ChatGPT",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+        "Source context: Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "age_hours": "1.33",
+      "freshness_status": "fresh",
+      "editorial_score": "118",
+      "urgency": ""
+    },
     {
       "headline": "Meta made its own AI-generated clickbait news feed",
       "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
@@ -194,7 +226,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-06T10:00:00-04:00",
-      "age_hours": "6.13",
+      "age_hours": "7.87",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -224,7 +256,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 06 Jun 2026 16:17:21 +0000",
-      "age_hours": "3.84",
+      "age_hours": "5.58",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": "WATCH"
@@ -253,7 +285,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-05T11:25:10-04:00",
-      "age_hours": "28.71",
+      "age_hours": "30.45",
       "freshness_status": "stale",
       "editorial_score": "76",
       "urgency": "DEVELOPING"
@@ -283,48 +315,48 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 06 Jun 2026 18:13:36 +0000",
-      "age_hours": "1.91",
+      "age_hours": "3.64",
       "freshness_status": "fresh",
       "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "The mayor of Shelbyville, Indiana, says only people who live in 'shitty houses' oppose data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
-      "snapshot": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Shelbyville, Indiana, And, Scott Furgeson",
-        "Specific figures mentioned: $2 billion",
-        "AI desk signal: chip, data center",
-        "Story focus: The mayor of Shelbyville, Indiana, says only people who live in 'shitty houses' oppose data center",
-        "Source context: A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Shelbyville.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-06T11:05:00-04:00",
-      "age_hours": "5.05",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
     "Meta made its own AI-generated clickbait news feed",
-    "The Trump administration might take an equity stake in OpenAI",
-    "What to expect from WWDC 2026: Siri's highly anticipated revamp and Apple Intelligence updates"
+    "The Trump administration might take an equity stake in OpenAI"
   ],
   "sections": [
+    {
+      "headline": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "snapshot": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Lockdown Mode, Even, ChatGPT",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+        "Source context: Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "age_hours": "1.33",
+      "freshness_status": "fresh",
+      "editorial_score": "118",
+      "urgency": ""
+    },
     {
       "headline": "Meta made its own AI-generated clickbait news feed",
       "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
@@ -350,7 +382,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-06T10:00:00-04:00",
-      "age_hours": "6.13",
+      "age_hours": "7.87",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -380,7 +412,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 06 Jun 2026 16:17:21 +0000",
-      "age_hours": "3.84",
+      "age_hours": "5.58",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": "WATCH"
@@ -410,7 +442,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 06 Jun 2026 18:13:36 +0000",
-      "age_hours": "1.91",
+      "age_hours": "3.64",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": ""
@@ -440,35 +472,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-06T11:05:00-04:00",
-      "age_hours": "5.05",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
-      "urgency": ""
-    },
-    {
-      "headline": "Sriram Krishnan is leaving his role as White House AI advisor",
-      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "snapshot": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Sriram Krishnan, White House AI, Krishnan, Trump",
-        "Story focus: Sriram Krishnan is leaving his role as White House AI advisor",
-        "Source context: Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy. The story matters because AI is moving deeper into legal and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sriram Krishnan.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 06 Jun 2026 17:42:15 +0000",
-      "age_hours": "2.43",
+      "age_hours": "6.79",
       "freshness_status": "fresh",
       "editorial_score": "64",
       "urgency": ""
@@ -497,7 +501,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-06T08:00:00-04:00",
-      "age_hours": "8.13",
+      "age_hours": "9.87",
       "freshness_status": "fresh",
       "editorial_score": "59",
       "urgency": ""
