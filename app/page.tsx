@@ -103,13 +103,13 @@ function cleanText(value: any): string {
   }
 
   return String(value)
-    .replace(/â€”/g, "—")
-    .replace(/â€“/g, "–")
-    .replace(/â€˜/g, "'")
-    .replace(/â€™/g, "'")
-    .replace(/â€œ/g, '"')
-    .replace(/â€�/g, '"')
-    .replace(/Â/g, "")
+    .replace(/Ã¢â‚¬â€/g, "â€”")
+    .replace(/Ã¢â‚¬â€œ/g, "â€“")
+    .replace(/Ã¢â‚¬Ëœ/g, "'")
+    .replace(/Ã¢â‚¬â„¢/g, "'")
+    .replace(/Ã¢â‚¬Å“/g, '"')
+    .replace(/Ã¢â‚¬ï¿½/g, '"')
+    .replace(/Ã‚/g, "")
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -399,6 +399,43 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
   );
 }
 
+
+function SponsorPlacementBlock() {
+  return (
+    <section className="mx-auto max-w-7xl px-5 py-3">
+      <div className="rounded-2xl border border-black/10 bg-white/90 p-5 shadow-sm">
+        <p className="text-xs font-black uppercase tracking-[0.25em] text-neutral-500">
+          Partner Spotlight
+        </p>
+        <h2 className="mt-2 text-xl font-black text-neutral-950">
+          Partnership opportunities are available across the GSR Network.
+        </h2>
+        <p className="mt-2 max-w-3xl text-sm leading-6 text-neutral-700">
+          Reach readers through clean, clearly labeled placements across Sports, Betting, AI, Politics and Entertainment — built around journalistic integrity.
+        </p>
+      </div>
+    </section>
+  );
+}
+
+function AdvertiseWithGsrBlock() {
+  return (
+    <section className="mx-auto max-w-7xl px-5 py-6">
+      <div className="rounded-2xl border border-black/10 bg-white/90 p-5 shadow-sm">
+        <p className="text-xs font-black uppercase tracking-[0.25em] text-neutral-500">
+          Advertise With GSR Network
+        </p>
+        <h2 className="mt-2 text-xl font-black text-neutral-950">
+          Sponsorship, partnership, affiliate and custom campaign opportunities are open.
+        </h2>
+        <p className="mt-2 max-w-3xl text-sm leading-6 text-neutral-700">
+          GSR Network offers clearly labeled placements for brands, events, data companies, media partners and vertical-specific advertisers across all five platforms.
+        </p>
+      </div>
+    </section>
+  );
+}
+
 export default async function Page() {
   const report = await readReport();
 
@@ -493,6 +530,27 @@ export default async function Page() {
         </div>
       </div>
 
+      <div className="border-b border-neutral-800 bg-neutral-950 text-white">
+        <div className="mx-auto flex max-w-7xl flex-wrap items-center gap-3 px-5 py-2 text-xs font-bold uppercase tracking-wide">
+          <span className="text-neutral-400">Follow GSR:</span>
+          <a href="https://www.youtube.com/@TheGSRNetwork" target="_blank" rel="noopener noreferrer" className="text-white hover:text-sky-300">
+            YouTube
+          </a>
+          <span className="text-neutral-600">•</span>
+          <a href="https://open.spotify.com/show/033twUpbE3ukspgx0T3XNq?si=CilT1aEXRJ2OEFTMdtvF2A" target="_blank" rel="noopener noreferrer" className="text-white hover:text-sky-300">
+            Spotify
+          </a>
+          <span className="text-neutral-600">•</span>
+          <a href="https://www.tiktok.com/@thegsrnetwork" target="_blank" rel="noopener noreferrer" className="text-white hover:text-sky-300">
+            TikTok
+          </a>
+          <span className="text-neutral-600">•</span>
+          <a href="https://gsr-network-news.beehiiv.com/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-sky-300">
+            Beehiiv
+          </a>
+        </div>
+      </div>
+
       <header className="border-b border-slate-300 bg-white">
         <div className="mx-auto grid max-w-7xl gap-6 px-5 py-8 lg:grid-cols-[1.2fr_0.8fr]">
           <div>
@@ -521,6 +579,8 @@ export default async function Page() {
           <NewsroomBriefing items={liveItems} />
         </div>
       </header>
+      <SponsorPlacementBlock />
+
 
       <section className="mx-auto grid max-w-7xl gap-6 px-5 py-6 lg:grid-cols-[0.75fr_1.25fr]">
         <aside className="space-y-6">
@@ -563,11 +623,13 @@ export default async function Page() {
           ))}
         </section>
       </section>
+      <AdvertiseWithGsrBlock />
+
 
       <footer className="border-t border-slate-300 bg-white">
         <div className="mx-auto max-w-7xl px-5 py-6">
           <p className="text-sm font-medium text-slate-700">
-            © {new Date().getFullYear()} {SITE.name}. {SITE.tagline}
+            Â© {new Date().getFullYear()} {SITE.name}. {SITE.tagline}
           </p>
           <p className="mt-2 max-w-4xl text-sm leading-6 text-slate-500">
             {SITE.descriptor}
@@ -578,3 +640,5 @@ export default async function Page() {
     </main>
   );
 }
+
+
