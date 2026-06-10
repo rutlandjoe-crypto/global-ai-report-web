@@ -1,24 +1,53 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Microsoft restricts Claude Fable for employees over data retention concerns",
-  "snapshot": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-06-10 04:02:37 PM ET",
-  "generated_at": "2026-06-10 04:02:37 PM ET",
+  "headline": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+  "snapshot": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+  "updated_at": "2026-06-10 06:44:39 PM ET",
+  "generated_at": "2026-06-10 06:44:39 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 16,
-    "editor_fresh_items": 34,
+    "live_fresh_items": 17,
+    "editor_fresh_items": 32,
     "public_fallback_items": 36,
-    "stale_or_blocked_items": 33,
+    "stale_or_blocked_items": 32,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-10 04:02:37 PM ET"
+    "last_checked": "2026-06-10 06:44:39 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "snapshot": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Grok, SpaceX, IPO",
+        "AI desk signal: lawsuit",
+        "Story focus: xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "Source context: A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Grok.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 10 Jun 2026 22:31:19 +0000",
+      "age_hours": "0.22",
+      "freshness_status": "fresh",
+      "editorial_score": "178",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Microsoft restricts Claude Fable for employees over data retention concerns",
       "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
@@ -44,7 +73,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T12:50:23-04:00",
-      "age_hours": "3.20",
+      "age_hours": "5.90",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
@@ -74,7 +103,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T14:43:34-04:00",
-      "age_hours": "1.32",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "WATCH"
@@ -103,7 +132,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 14:31:30 +0000",
-      "age_hours": "5.52",
+      "age_hours": "8.22",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": "WATCH"
@@ -133,43 +162,42 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "age_hours": "5.04",
+      "age_hours": "7.74",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "snapshot": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Jedify, Norwest, Capital VC, Cerca Partners",
-        "Specific figures mentioned: $24M",
-        "AI desk signal: model, agent, enterprise, funding",
-        "Story focus: Jedify raises $24M to help companies arm AI agents with context on their business",
-        "Source context: The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jedify.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 10 Jun 2026 13:33:09 +0000",
-      "age_hours": "6.49",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": "WATCH"
     }
   ],
   "editor_signals": [
+    {
+      "headline": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "snapshot": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Grok, SpaceX, IPO",
+        "AI desk signal: lawsuit",
+        "Story focus: xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "Source context: A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Grok.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 10 Jun 2026 22:31:19 +0000",
+      "age_hours": "0.22",
+      "freshness_status": "fresh",
+      "editorial_score": "178",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Microsoft restricts Claude Fable for employees over data retention concerns",
       "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
@@ -195,7 +223,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T12:50:23-04:00",
-      "age_hours": "3.20",
+      "age_hours": "5.90",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
@@ -225,7 +253,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T14:43:34-04:00",
-      "age_hours": "1.32",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "WATCH"
@@ -255,7 +283,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-09T13:00:00-04:00",
-      "age_hours": "27.04",
+      "age_hours": "29.74",
       "freshness_status": "stale",
       "editorial_score": "124",
       "urgency": ""
@@ -285,47 +313,47 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "age_hours": "5.04",
+      "age_hours": "7.74",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
-    },
+    }
+  ],
+  "key_storylines": [
+    "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+    "Microsoft restricts Claude Fable for employees over data retention concerns",
+    "Claude Fable won't answer basic biology questions"
+  ],
+  "sections": [
     {
-      "headline": "Warner Music acquires AI attribution startup Sureel AI",
-      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "snapshot": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "snapshot": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Warner Music, Sureel AI, Through, WMG",
-        "AI desk signal: model, chip, enterprise",
-        "Story focus: Warner Music acquires AI attribution startup Sureel AI",
-        "Source context: Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models. The larger angle..."
+        "Key people or organizations: Grok, SpaceX, IPO",
+        "AI desk signal: lawsuit",
+        "Story focus: xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "Source context: A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Warner Music.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Grok.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 10 Jun 2026 14:31:30 +0000",
-      "age_hours": "5.52",
+      "published": "Wed, 10 Jun 2026 22:31:19 +0000",
+      "age_hours": "0.22",
       "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": "WATCH"
-    }
-  ],
-  "key_storylines": [
-    "Microsoft restricts Claude Fable for employees over data retention concerns",
-    "Claude Fable won't answer basic biology questions",
-    "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in"
-  ],
-  "sections": [
+      "editorial_score": "178",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Microsoft restricts Claude Fable for employees over data retention concerns",
       "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
@@ -351,7 +379,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T12:50:23-04:00",
-      "age_hours": "3.20",
+      "age_hours": "5.90",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
@@ -381,7 +409,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T14:43:34-04:00",
-      "age_hours": "1.32",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "WATCH"
@@ -411,7 +439,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "age_hours": "5.04",
+      "age_hours": "7.74",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -440,39 +468,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 14:31:30 +0000",
-      "age_hours": "5.52",
+      "age_hours": "8.22",
       "freshness_status": "fresh",
       "editorial_score": "118",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "snapshot": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Jedify, Norwest, Capital VC, Cerca Partners",
-        "Specific figures mentioned: $24M",
-        "AI desk signal: model, agent, enterprise, funding",
-        "Story focus: Jedify raises $24M to help companies arm AI agents with context on their business",
-        "Source context: The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jedify.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 10 Jun 2026 13:33:09 +0000",
-      "age_hours": "6.49",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
@@ -500,7 +498,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T13:20:36-04:00",
-      "age_hours": "2.70",
+      "age_hours": "5.40",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -530,39 +528,9 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 10 Jun 2026 11:00:00 +0000",
-      "age_hours": "9.04",
+      "age_hours": "11.74",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "McDonald's tests Google-backed AI drive-thru ordering system",
-      "url": "https://www.artificialintelligence-news.com/news/mcdonalds-ai-drive-thru-google-archiq/",
-      "snapshot": "McDonald's is testing a new AI system that can take drive-thru orders and support restaurant operations. The system, called ArchIQ and nicknamed \"Archy,\" was introduced during the company's Worldwide convention, according to Restaurant Business. It is being tested at five... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: McDonald, Google, ArchIQ, Archy",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: McDonald's tests Google-backed AI drive-thru ordering system",
-        "Source context: McDonald's is testing a new AI system that can take drive-thru orders and support restaurant operations. The system, called ArchIQ and nicknamed..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from McDonald.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Wed, 10 Jun 2026 10:00:00 +0000",
-      "age_hours": "10.04",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
       "urgency": ""
     }
   ],
