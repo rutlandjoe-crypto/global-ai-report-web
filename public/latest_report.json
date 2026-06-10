@@ -3,8 +3,8 @@
   "vertical": "AI",
   "headline": "Microsoft restricts Claude Fable for employees over data retention concerns",
   "snapshot": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-06-10 01:47:22 PM ET",
-  "generated_at": "2026-06-10 01:47:22 PM ET",
+  "updated_at": "2026-06-10 04:02:37 PM ET",
+  "generated_at": "2026-06-10 04:02:37 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
@@ -16,7 +16,7 @@
     "public_fallback_items": 36,
     "stale_or_blocked_items": 33,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-10 01:47:22 PM ET"
+    "last_checked": "2026-06-10 04:02:37 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T12:50:23-04:00",
-      "age_hours": "0.95",
+      "age_hours": "3.20",
       "freshness_status": "fresh",
       "editorial_score": "150",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Claude Fable won't answer basic biology questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "snapshot": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Claude Fable, Anthropic, But, Instead",
+        "Specific figures mentioned: 5",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude Fable won't answer basic biology questions"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude Fable.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-10T14:43:34-04:00",
+      "age_hours": "1.32",
+      "freshness_status": "fresh",
+      "editorial_score": "142",
       "urgency": "WATCH"
     },
     {
@@ -73,7 +103,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 14:31:30 +0000",
-      "age_hours": "3.26",
+      "age_hours": "5.52",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": "WATCH"
@@ -103,7 +133,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "age_hours": "2.79",
+      "age_hours": "5.04",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -133,40 +163,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 13:33:09 +0000",
-      "age_hours": "4.24",
+      "age_hours": "6.49",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Google won't just admit it's feeding YouTube creators to its music AI",
-      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-      "snapshot": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suing Google, claiming that it illegally used songs they uploaded to YouTube to... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Google, YouTube, If, Lyria",
-        "AI desk signal: chip",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google won't just admit it's feeding YouTube creators to its music AI",
-        "Source context: If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-10T13:20:36-04:00",
-      "age_hours": "0.45",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -195,9 +195,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T12:50:23-04:00",
-      "age_hours": "0.95",
+      "age_hours": "3.20",
       "freshness_status": "fresh",
       "editorial_score": "150",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Claude Fable won't answer basic biology questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "snapshot": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Claude Fable, Anthropic, But, Instead",
+        "Specific figures mentioned: 5",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude Fable won't answer basic biology questions"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude Fable.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-10T14:43:34-04:00",
+      "age_hours": "1.32",
+      "freshness_status": "fresh",
+      "editorial_score": "142",
       "urgency": "WATCH"
     },
     {
@@ -225,7 +255,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-09T13:00:00-04:00",
-      "age_hours": "24.79",
+      "age_hours": "27.04",
       "freshness_status": "stale",
       "editorial_score": "124",
       "urgency": ""
@@ -255,7 +285,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "age_hours": "2.79",
+      "age_hours": "5.04",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -284,46 +314,16 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 14:31:30 +0000",
-      "age_hours": "3.26",
+      "age_hours": "5.52",
       "freshness_status": "fresh",
       "editorial_score": "118",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Jedify raises $24M to help companies arm AI agents with context on their business",
-      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "snapshot": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Jedify, Norwest, Capital VC, Cerca Partners",
-        "Specific figures mentioned: $24M",
-        "AI desk signal: model, agent, enterprise, funding",
-        "Story focus: Jedify raises $24M to help companies arm AI agents with context on their business",
-        "Source context: The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jedify.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 10 Jun 2026 13:33:09 +0000",
-      "age_hours": "4.24",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": "WATCH"
     }
   ],
   "key_storylines": [
     "Microsoft restricts Claude Fable for employees over data retention concerns",
-    "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-    "Warner Music acquires AI attribution startup Sureel AI"
+    "Claude Fable won't answer basic biology questions",
+    "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in"
   ],
   "sections": [
     {
@@ -351,9 +351,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T12:50:23-04:00",
-      "age_hours": "0.95",
+      "age_hours": "3.20",
       "freshness_status": "fresh",
       "editorial_score": "150",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Claude Fable won't answer basic biology questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "snapshot": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biology questions - the kind you'd expect a high schooler to handle. Instead, it... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Claude Fable, Anthropic, But, Instead",
+        "Specific figures mentioned: 5",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude Fable won't answer basic biology questions"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude Fable.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-10T14:43:34-04:00",
+      "age_hours": "1.32",
+      "freshness_status": "fresh",
+      "editorial_score": "142",
       "urgency": "WATCH"
     },
     {
@@ -381,7 +411,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "age_hours": "2.79",
+      "age_hours": "5.04",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -410,7 +440,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 14:31:30 +0000",
-      "age_hours": "3.26",
+      "age_hours": "5.52",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": "WATCH"
@@ -440,7 +470,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 13:33:09 +0000",
-      "age_hours": "4.24",
+      "age_hours": "6.49",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "WATCH"
@@ -470,7 +500,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T13:20:36-04:00",
-      "age_hours": "0.45",
+      "age_hours": "2.70",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -500,39 +530,9 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 10 Jun 2026 11:00:00 +0000",
-      "age_hours": "6.79",
+      "age_hours": "9.04",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-      "url": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-      "snapshot": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words, Microsoft vice chair and president Brad Smith addressed the recent spate of... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Microsoft, New, In, Brad Smith",
-        "Specific figures mentioned: 3, 100",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft, like, totally gets why students are booing AI-pilled graduation speakers"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-10T13:45:11-04:00",
-      "age_hours": "0.04",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -560,7 +560,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 10 Jun 2026 10:00:00 +0000",
-      "age_hours": "7.79",
+      "age_hours": "10.04",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
