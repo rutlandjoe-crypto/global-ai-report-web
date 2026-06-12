@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Amazon's data centers used 2.5 billion gallons of water last year",
   "snapshot": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With concerns about water consumption and energy use a focus of new AI data center... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-  "updated_at": "2026-06-11 08:10:55 PM ET",
-  "generated_at": "2026-06-11 08:10:55 PM ET",
+  "updated_at": "2026-06-12 01:22:53 AM ET",
+  "generated_at": "2026-06-12 01:22:53 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 6,
-    "editor_fresh_items": 28,
-    "public_fallback_items": 36,
-    "stale_or_blocked_items": 43,
+    "total_items_checked": 37,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 17,
+    "public_fallback_items": 30,
+    "stale_or_blocked_items": 32,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-11 08:10:55 PM ET"
+    "last_checked": "2026-06-12 01:22:53 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,40 +43,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 22:31:19 +0000",
-      "age_hours": "25.66",
+      "age_hours": "30.86",
       "freshness_status": "stale",
       "editorial_score": "148",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Microsoft restricts Claude Fable for employees over data retention concerns",
-      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-      "snapshot": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "snapshot": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Microsoft, Claude Fable, Anthropic, Mythos",
-        "Specific figures mentioned: 5",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Fresh, Amazon, Companies, Debt",
+        "Specific figures mentioned: $17.5B",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft restricts Claude Fable for employees over data retention concerns"
+        "Story focus: Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+        "Source context: Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing. The story matters because AI is moving..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Fresh.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-10T12:50:23-04:00",
-      "age_hours": "31.34",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 10 Jun 2026 20:19:31 +0000",
+      "age_hours": "33.06",
       "freshness_status": "stale",
-      "editorial_score": "120",
-      "urgency": "WATCH"
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Claude Fable won't answer basic biology questions",
@@ -103,7 +103,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T14:43:34-04:00",
-      "age_hours": "29.46",
+      "age_hours": "34.66",
       "freshness_status": "stale",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -133,40 +133,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-11T13:26:57-04:00",
-      "age_hours": "6.73",
+      "age_hours": "11.93",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "snapshot": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Theker just raised $85M to build the factory robot that doesn't specialize in anything",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "snapshot": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
       "key_data": [
-        "Key people or organizations: Datadog, Niteshift, Big AI, It",
-        "Specific figures mentioned: $7 million",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-        "Source context: AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not..."
+        "Key people or organizations: Theker, Unlike, Boston Dynamics",
+        "Specific figures mentioned: $85M",
+        "Story focus: Theker just raised $85M to build the factory robot that doesn't specialize in anything",
+        "Source context: Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Datadog.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Theker.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "age_hours": "33.18",
-      "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": "WATCH"
+      "published": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "age_hours": "3.58",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -194,40 +193,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 22:31:19 +0000",
-      "age_hours": "25.66",
+      "age_hours": "30.86",
       "freshness_status": "stale",
       "editorial_score": "148",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Microsoft restricts Claude Fable for employees over data retention concerns",
-      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-      "snapshot": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Microsoft, Claude Fable, Anthropic, Mythos",
-        "Specific figures mentioned: 5",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft restricts Claude Fable for employees over data retention concerns"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-10T12:50:23-04:00",
-      "age_hours": "31.34",
-      "freshness_status": "stale",
-      "editorial_score": "120",
-      "urgency": "WATCH"
     },
     {
       "headline": "Claude Fable won't answer basic biology questions",
@@ -254,7 +223,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T14:43:34-04:00",
-      "age_hours": "29.46",
+      "age_hours": "34.66",
       "freshness_status": "stale",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -284,21 +253,51 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-11T13:26:57-04:00",
-      "age_hours": "6.73",
+      "age_hours": "11.93",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "snapshot": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "snapshot": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Datadog, Niteshift, Big AI, It",
-        "Specific figures mentioned: $7 million",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-        "Source context: AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not..."
+        "Key people or organizations: Fresh, Amazon, Companies, Debt",
+        "Specific figures mentioned: $17.5B",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+        "Source context: Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing. The story matters because AI is moving..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Fresh.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 10 Jun 2026 20:19:31 +0000",
+      "age_hours": "33.06",
+      "freshness_status": "stale",
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "snapshot": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The company says it is reversing course and will be more transparent about when the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Claude Fable",
+        "Specific figures mentioned: 5",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic apologizes for invisible Claude Fable guardrails"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -306,24 +305,24 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Datadog.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "age_hours": "33.18",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-11T07:40:43-04:00",
+      "age_hours": "17.70",
       "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": "WATCH"
+      "editorial_score": "80",
+      "urgency": ""
     }
   ],
   "key_storylines": [
     "Amazon's data centers used 2.5 billion gallons of water last year",
-    "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
-    "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims"
+    "Theker just raised $85M to build the factory robot that doesn't specialize in anything",
+    "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world"
   ],
   "sections": [
     {
@@ -351,20 +350,20 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-11T13:26:57-04:00",
-      "age_hours": "6.73",
+      "age_hours": "11.93",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
-      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "snapshot": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music.",
+      "headline": "Theker just raised $85M to build the factory robot that doesn't specialize in anything",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "snapshot": "Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured.",
       "key_data": [
-        "Key people or organizations: Deezer, Spotify, Apple Music",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Deezer's new tool can identify AI music from Spotify, Apple Music, and others",
-        "Source context: Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music."
+        "Key people or organizations: Theker, Unlike, Boston Dynamics",
+        "Specific figures mentioned: $85M",
+        "Story focus: Theker just raised $85M to build the factory robot that doesn't specialize in anything",
+        "Source context: Unlike humanoid robots designed around a fixed form — think Boston Dynamics — Theker's machines are built to be reconfigured."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -372,17 +371,46 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Deezer.",
+        "Watch for follow-up statements, product details or customer evidence from Theker.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 11 Jun 2026 16:36:20 +0000",
-      "age_hours": "7.58",
+      "published": "Fri, 12 Jun 2026 01:48:07 +0000",
+      "age_hours": "3.58",
       "freshness_status": "fresh",
-      "editorial_score": "84",
+      "editorial_score": "72",
+      "urgency": ""
+    },
+    {
+      "headline": "Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "snapshot": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "key_data": [
+        "Key people or organizations: Jeff Bezos, Prometheus",
+        "Specific figures mentioned: $12B, $41 billion",
+        "Story focus: Jeff Bezos's Prometheus raises $12B to build an 'artificial general engineer' for the physical world",
+        "Source context: The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion. The business angle is capital..."
+      ],
+      "why_it_matters": [
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Jeff Bezos.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 12 Jun 2026 01:04:38 +0000",
+      "age_hours": "4.30",
+      "freshness_status": "fresh",
+      "editorial_score": "62",
       "urgency": ""
     },
     {
@@ -409,40 +437,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 10 Jun 2026 22:31:19 +0000",
-      "age_hours": "25.66",
+      "age_hours": "30.86",
       "freshness_status": "stale",
       "editorial_score": "148",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Microsoft restricts Claude Fable for employees over data retention concerns",
-      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-      "snapshot": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for employees because of Anthropic's new data retention requirements. While... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Microsoft, Claude Fable, Anthropic, Mythos",
-        "Specific figures mentioned: 5",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft restricts Claude Fable for employees over data retention concerns"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-10T12:50:23-04:00",
-      "age_hours": "31.34",
-      "freshness_status": "stale",
-      "editorial_score": "120",
-      "urgency": "WATCH"
     },
     {
       "headline": "Claude Fable won't answer basic biology questions",
@@ -469,40 +467,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-10T14:43:34-04:00",
-      "age_hours": "29.46",
+      "age_hours": "34.66",
       "freshness_status": "stale",
       "editorial_score": "112",
       "urgency": "WATCH"
     },
     {
-      "headline": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "snapshot": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+      "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+      "snapshot": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Datadog, Niteshift, Big AI, It",
-        "Specific figures mentioned: $7 million",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-        "Source context: AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not..."
+        "Key people or organizations: Fresh, Amazon, Companies, Debt",
+        "Specific figures mentioned: $17.5B",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+        "Source context: Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing. The story matters because AI is moving..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Datadog.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Fresh.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 10 Jun 2026 15:00:00 +0000",
-      "age_hours": "33.18",
+      "published": "Wed, 10 Jun 2026 20:19:31 +0000",
+      "age_hours": "33.06",
       "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": "WATCH"
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
