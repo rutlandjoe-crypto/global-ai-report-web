@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "The US banned Anthropic's Fable 5 release, but the numbers don't seem to care",
   "snapshot": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails. Cybersecurity researchers have since signed an... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-06-19 05:59:32 PM ET",
-  "generated_at": "2026-06-19 05:59:32 PM ET",
+  "updated_at": "2026-06-19 06:54:36 PM ET",
+  "generated_at": "2026-06-19 06:54:36 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
+    "total_items_checked": 37,
     "live_fresh_items": 6,
-    "editor_fresh_items": 27,
-    "public_fallback_items": 36,
-    "stale_or_blocked_items": 43,
+    "editor_fresh_items": 24,
+    "public_fallback_items": 30,
+    "stale_or_blocked_items": 31,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-19 05:59:32 PM ET"
+    "last_checked": "2026-06-19 06:54:36 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 16:01:03 +0000",
-      "age_hours": "5.97",
+      "age_hours": "6.89",
       "freshness_status": "fresh",
       "editorial_score": "186",
       "urgency": "DEVELOPING"
@@ -74,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 16:08:17 +0000",
-      "age_hours": "5.85",
+      "age_hours": "6.77",
       "freshness_status": "fresh",
       "editorial_score": "160",
       "urgency": "DEVELOPING"
@@ -103,40 +103,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 15:23:28 +0000",
-      "age_hours": "6.60",
+      "age_hours": "7.52",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "SAP and Google Cloud deploy agentic commerce architecture",
-      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
-      "snapshot": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: SAP, Google Cloud, However",
-        "Specific figures mentioned: 78, 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: SAP and Google Cloud deploy agentic commerce architecture"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SAP.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 19 Jun 2026 14:02:20 +0000",
-      "age_hours": "7.95",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
     },
     {
       "headline": "The film about Sam Altman has been dropped by Amazon MGM",
@@ -163,9 +133,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-19T10:15:29-04:00",
-      "age_hours": "7.73",
+      "age_hours": "8.65",
       "freshness_status": "fresh",
       "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn't work",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "snapshot": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic's cybersecurity model Mythos. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Encryption, Mythos, History, For",
+        "Specific figures mentioned: 30",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Encryption, spyware, and now Mythos"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Encryption.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 19 Jun 2026 22:40:14 +0000",
+      "age_hours": "0.24",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
       "urgency": ""
     }
   ],
@@ -195,7 +195,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 16:01:03 +0000",
-      "age_hours": "5.97",
+      "age_hours": "6.89",
       "freshness_status": "fresh",
       "editorial_score": "186",
       "urgency": "DEVELOPING"
@@ -225,7 +225,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 16:08:17 +0000",
-      "age_hours": "5.85",
+      "age_hours": "6.77",
       "freshness_status": "fresh",
       "editorial_score": "160",
       "urgency": "DEVELOPING"
@@ -255,21 +255,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 18 Jun 2026 18:22:13 +0000",
-      "age_hours": "27.62",
+      "age_hours": "28.54",
       "freshness_status": "stale",
       "editorial_score": "140",
       "urgency": ""
     },
     {
-      "headline": "SAP and Google Cloud deploy agentic commerce architecture",
-      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
-      "snapshot": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "The film about Sam Altman has been dropped by Amazon MGM",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "snapshot": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: SAP, Google Cloud, However",
-        "Specific figures mentioned: 78, 2026",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: Sam Altman, Amazon MGM, Luca Guadagnino, OpenAI CEO Sam Altman",
+        "Specific figures mentioned: 2023",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: SAP and Google Cloud deploy agentic commerce architecture"
+        "Story focus: The film about Sam Altman has been dropped by Amazon MGM"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -277,54 +277,54 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SAP.",
+        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 19 Jun 2026 14:02:20 +0000",
-      "age_hours": "7.95",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-19T10:15:29-04:00",
+      "age_hours": "8.65",
       "freshness_status": "fresh",
-      "editorial_score": "128",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "HSBC expands AI banking partnership with Google Cloud",
-      "url": "https://www.artificialintelligence-news.com/news/hsbc-google-cloud-ai-partnership/",
-      "snapshot": "HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations. Announced at Google Cloud Summit London 2026, the agreement covers work in wealth management, financial crime risk management, and... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "headline": "Amazon employees say they're facing termination for backing data center limits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "snapshot": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discrimination over political speech. Now, they're accusing their employer of breaking... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: HSBC, Google Cloud, Announced, Google Cloud Summit London",
-        "Specific figures mentioned: 2026",
+        "Key people or organizations: Amazon, Seattle City Council, Now",
+        "AI desk signal: chip, data center",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: HSBC expands AI banking partnership with Google Cloud",
-        "Source context: HSBC has entered a multi-year partnership with Google Cloud to develop and deploy artificial intelligence tools across its global operations...."
+        "Story focus: Amazon employees say they're facing termination for backing data center limits",
+        "Source context: When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from HSBC.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 18 Jun 2026 10:00:00 +0000",
-      "age_hours": "35.99",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-18T12:00:00-04:00",
+      "age_hours": "30.91",
       "freshness_status": "stale",
-      "editorial_score": "102",
-      "urgency": "DEVELOPING"
+      "editorial_score": "76",
+      "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
     "The US banned Anthropic's Fable 5 release, but the numbers don't seem to care",
     "Is the US government's Anthropic ban accidentally helping the brand?",
-    "SAP and Google Cloud deploy agentic commerce architecture"
+    "The film about Sam Altman has been dropped by Amazon MGM"
   ],
   "sections": [
     {
@@ -352,7 +352,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 16:01:03 +0000",
-      "age_hours": "5.97",
+      "age_hours": "6.89",
       "freshness_status": "fresh",
       "editorial_score": "186",
       "urgency": "DEVELOPING"
@@ -382,40 +382,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 16:08:17 +0000",
-      "age_hours": "5.85",
+      "age_hours": "6.77",
       "freshness_status": "fresh",
       "editorial_score": "160",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "SAP and Google Cloud deploy agentic commerce architecture",
-      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
-      "snapshot": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: SAP, Google Cloud, However",
-        "Specific figures mentioned: 78, 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: SAP and Google Cloud deploy agentic commerce architecture"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SAP.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 19 Jun 2026 14:02:20 +0000",
-      "age_hours": "7.95",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
     },
     {
       "headline": "The film about Sam Altman has been dropped by Amazon MGM",
@@ -442,7 +412,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-19T10:15:29-04:00",
-      "age_hours": "7.73",
+      "age_hours": "8.65",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -471,37 +441,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 15:23:28 +0000",
-      "age_hours": "6.60",
+      "age_hours": "7.52",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "The CEO of Allbirds' new AI biz has a plan, but no employees",
-      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "snapshot": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "headline": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn't work",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "snapshot": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic's cybersecurity model Mythos. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Allbirds, Call",
-        "Story focus: The CEO of Allbirds' new AI biz has a plan, but no employees",
-        "Source context: Call it a startup with a sole founder and a very large seed round, but what's next is less clear. The business angle is capital allocation: investors..."
+        "Key people or organizations: Encryption, Mythos, History, For",
+        "Specific figures mentioned: 30",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Encryption, spyware, and now Mythos"
       ],
       "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Allbirds.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Encryption.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 19 Jun 2026 13:00:00 +0000",
-      "age_hours": "8.99",
+      "published": "Fri, 19 Jun 2026 22:40:14 +0000",
+      "age_hours": "0.24",
       "freshness_status": "fresh",
-      "editorial_score": "62",
+      "editorial_score": "72",
       "urgency": ""
     }
   ],
