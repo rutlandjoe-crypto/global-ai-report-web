@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "The US banned Anthropic's Fable 5 release, but the numbers don't seem to care",
-  "snapshot": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails. Cybersecurity researchers have since signed an... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-06-19 07:55:26 PM ET",
-  "generated_at": "2026-06-19 07:55:26 PM ET",
+  "headline": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+  "snapshot": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic's cybersecurity model Mythos. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-06-20 02:13:17 AM ET",
+  "generated_at": "2026-06-20 02:13:17 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 7,
-    "editor_fresh_items": 27,
+    "live_fresh_items": 1,
+    "editor_fresh_items": 16,
     "public_fallback_items": 36,
-    "stale_or_blocked_items": 42,
+    "stale_or_blocked_items": 48,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-19 07:55:26 PM ET"
+    "last_checked": "2026-06-20 02:13:17 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 16:01:03 +0000",
-      "age_hours": "7.91",
-      "freshness_status": "fresh",
-      "editorial_score": "186",
+      "age_hours": "14.20",
+      "freshness_status": "stale",
+      "editorial_score": "156",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,160 +74,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 16:08:17 +0000",
-      "age_hours": "7.79",
-      "freshness_status": "fresh",
-      "editorial_score": "160",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Billionaire Ambani wants AI in every call, app, and home",
-      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "snapshot": "Reliance is weaving AI into telecom services used by more than 500 million people. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Billionaire Ambani, Reliance",
-        "Specific figures mentioned: 500",
-        "Story focus: Billionaire Ambani wants AI in every call, app, and home",
-        "Source context: Reliance is weaving AI into telecom services used by more than 500 million people. The story matters because AI is moving deeper into legal and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Billionaire Ambani.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 19 Jun 2026 15:23:28 +0000",
-      "age_hours": "8.53",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "SAP and Google Cloud deploy agentic commerce architecture",
-      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
-      "snapshot": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: SAP, Google Cloud, However",
-        "Specific figures mentioned: 78, 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: SAP and Google Cloud deploy agentic commerce architecture"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SAP.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 19 Jun 2026 14:02:20 +0000",
-      "age_hours": "9.89",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "The film about Sam Altman has been dropped by Amazon MGM",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "snapshot": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Sam Altman, Amazon MGM, Luca Guadagnino, OpenAI CEO Sam Altman",
-        "Specific figures mentioned: 2023",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The film about Sam Altman has been dropped by Amazon MGM"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-19T10:15:29-04:00",
-      "age_hours": "9.67",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "The US banned Anthropic's Fable 5 release, but the numbers don't seem to care",
-      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-      "snapshot": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails. Cybersecurity researchers have since signed an... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Anthropic, Fable, Just, US",
-        "Specific figures mentioned: 5",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The US banned Anthropic's Fable 5 release, but the numbers don't seem to care"
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 19 Jun 2026 16:01:03 +0000",
-      "age_hours": "7.91",
-      "freshness_status": "fresh",
-      "editorial_score": "186",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Is the US government's Anthropic ban accidentally helping the brand?",
-      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "snapshot": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails. Cybersecurity researchers have since signed an... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Is, US, Anthropic, Just",
-        "Specific figures mentioned: 5",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Is the US government's Anthropic ban accidentally helping the brand?"
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Is.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 19 Jun 2026 16:08:17 +0000",
-      "age_hours": "7.79",
-      "freshness_status": "fresh",
-      "editorial_score": "160",
+      "age_hours": "14.08",
+      "freshness_status": "stale",
+      "editorial_score": "130",
       "urgency": "DEVELOPING"
     },
     {
@@ -255,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 18 Jun 2026 18:22:13 +0000",
-      "age_hours": "29.55",
+      "age_hours": "35.85",
       "freshness_status": "stale",
       "editorial_score": "140",
       "urgency": ""
@@ -285,21 +134,21 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Fri, 19 Jun 2026 14:02:20 +0000",
-      "age_hours": "9.89",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
+      "age_hours": "16.18",
+      "freshness_status": "stale",
+      "editorial_score": "98",
       "urgency": ""
     },
     {
-      "headline": "The film about Sam Altman has been dropped by Amazon MGM",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "snapshot": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Barret Zoph is out at OpenAI again after just five months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "snapshot": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Sam Altman, Amazon MGM, Luca Guadagnino, OpenAI CEO Sam Altman",
-        "Specific figures mentioned: 2023",
+        "Key people or organizations: Barret Zoph, OpenAI, Five, Zoph",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The film about Sam Altman has been dropped by Amazon MGM"
+        "Story focus: Barret Zoph is out at OpenAI again after just five months",
+        "Source context: Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -307,26 +156,21 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
+        "Watch for follow-up statements, product details or customer evidence from Barret Zoph.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-06-19T10:15:29-04:00",
-      "age_hours": "9.67",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
+      "published": "2026-06-19T00:49:33-04:00",
+      "age_hours": "25.40",
+      "freshness_status": "stale",
+      "editorial_score": "72",
       "urgency": ""
     }
   ],
-  "key_storylines": [
-    "The US banned Anthropic's Fable 5 release, but the numbers don't seem to care",
-    "Is the US government's Anthropic ban accidentally helping the brand?",
-    "SAP and Google Cloud deploy agentic commerce architecture"
-  ],
-  "sections": [
+  "editor_signals": [
     {
       "headline": "The US banned Anthropic's Fable 5 release, but the numbers don't seem to care",
       "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
@@ -352,10 +196,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 16:01:03 +0000",
-      "age_hours": "7.91",
-      "freshness_status": "fresh",
-      "editorial_score": "186",
+      "age_hours": "14.20",
+      "freshness_status": "stale",
+      "editorial_score": "156",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "snapshot": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Amazon, Nvidia, AWS, CEO Andy Jassy",
+        "Specific figures mentioned: $50 billion",
+        "AI desk signal: chip, nvidia, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon hopes to challenge Nvidia more directly by selling its AI chips"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 18 Jun 2026 18:22:13 +0000",
+      "age_hours": "35.85",
+      "freshness_status": "stale",
+      "editorial_score": "140",
+      "urgency": ""
     },
     {
       "headline": "Is the US government's Anthropic ban accidentally helping the brand?",
@@ -382,9 +256,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 16:08:17 +0000",
-      "age_hours": "7.79",
-      "freshness_status": "fresh",
-      "editorial_score": "160",
+      "age_hours": "14.08",
+      "freshness_status": "stale",
+      "editorial_score": "130",
       "urgency": "DEVELOPING"
     },
     {
@@ -412,21 +286,21 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Fri, 19 Jun 2026 14:02:20 +0000",
-      "age_hours": "9.89",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
+      "age_hours": "16.18",
+      "freshness_status": "stale",
+      "editorial_score": "98",
       "urgency": ""
     },
     {
-      "headline": "The film about Sam Altman has been dropped by Amazon MGM",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "snapshot": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning Altman's termination and reinstatement as CEO, had been in the works for... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Barret Zoph is out at OpenAI again after just five months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "snapshot": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Sam Altman, Amazon MGM, Luca Guadagnino, OpenAI CEO Sam Altman",
-        "Specific figures mentioned: 2023",
+        "Key people or organizations: Barret Zoph, OpenAI, Five, Zoph",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The film about Sam Altman has been dropped by Amazon MGM"
+        "Story focus: Barret Zoph is out at OpenAI again after just five months",
+        "Source context: Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -434,58 +308,36 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
+        "Watch for follow-up statements, product details or customer evidence from Barret Zoph.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-06-19T10:15:29-04:00",
-      "age_hours": "9.67",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
+      "published": "2026-06-19T00:49:33-04:00",
+      "age_hours": "25.40",
+      "freshness_status": "stale",
+      "editorial_score": "72",
       "urgency": ""
-    },
+    }
+  ],
+  "key_storylines": [
+    "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+    "The US banned Anthropic's Fable 5 release, but the numbers don't seem to care",
+    "Amazon hopes to challenge Nvidia more directly by selling its AI chips"
+  ],
+  "sections": [
     {
-      "headline": "Billionaire Ambani wants AI in every call, app, and home",
-      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "snapshot": "Reliance is weaving AI into telecom services used by more than 500 million people. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Billionaire Ambani, Reliance",
-        "Specific figures mentioned: 500",
-        "Story focus: Billionaire Ambani wants AI in every call, app, and home",
-        "Source context: Reliance is weaving AI into telecom services used by more than 500 million people. The story matters because AI is moving deeper into legal and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Billionaire Ambani.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 19 Jun 2026 15:23:28 +0000",
-      "age_hours": "8.53",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn't work",
+      "headline": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
       "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
       "snapshot": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic's cybersecurity model Mythos. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Encryption, Mythos, History, For",
+        "Key people or organizations: Mythos, For, It, Anthropic",
         "Specific figures mentioned: 30",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Encryption, spyware, and now Mythos"
+        "Story focus: From PGP to Mythos"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -493,7 +345,7 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Encryption.",
+        "Watch for follow-up statements, product details or customer evidence from Mythos.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
@@ -501,10 +353,160 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 19 Jun 2026 22:40:14 +0000",
-      "age_hours": "1.25",
+      "age_hours": "7.55",
       "freshness_status": "fresh",
       "editorial_score": "72",
       "urgency": ""
+    },
+    {
+      "headline": "The US banned Anthropic's Fable 5 release, but the numbers don't seem to care",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "snapshot": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails. Cybersecurity researchers have since signed an... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Fable, Just, US",
+        "Specific figures mentioned: 5",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The US banned Anthropic's Fable 5 release, but the numbers don't seem to care"
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 19 Jun 2026 16:01:03 +0000",
+      "age_hours": "14.20",
+      "freshness_status": "stale",
+      "editorial_score": "156",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "snapshot": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Amazon, Nvidia, AWS, CEO Andy Jassy",
+        "Specific figures mentioned: $50 billion",
+        "AI desk signal: chip, nvidia, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon hopes to challenge Nvidia more directly by selling its AI chips"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 18 Jun 2026 18:22:13 +0000",
+      "age_hours": "35.85",
+      "freshness_status": "stale",
+      "editorial_score": "140",
+      "urgency": ""
+    },
+    {
+      "headline": "SAP and Google Cloud deploy agentic commerce architecture",
+      "url": "https://www.artificialintelligence-news.com/news/sap-and-google-cloud-deploy-agentic-commerce-architecture/",
+      "snapshot": "SAP and Google Cloud are deploying agentic commerce architecture to automate multi-agent marketing and retail operations at enterprise scale. SAP research indicates 78 percent of businesses consider AI essential for retaining customers in 2026. However, the same data reveals... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: SAP, Google Cloud, However",
+        "Specific figures mentioned: 78, 2026",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: SAP and Google Cloud deploy agentic commerce architecture"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from SAP.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 19 Jun 2026 14:02:20 +0000",
+      "age_hours": "16.18",
+      "freshness_status": "stale",
+      "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "Barret Zoph is out at OpenAI again after just five months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "snapshot": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder and CTO of Thinking Machines Lab, the competing AI company founded by former... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Barret Zoph, OpenAI, Five, Zoph",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Barret Zoph is out at OpenAI again after just five months",
+        "Source context: Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Barret Zoph.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-19T00:49:33-04:00",
+      "age_hours": "25.40",
+      "freshness_status": "stale",
+      "editorial_score": "72",
+      "urgency": ""
+    },
+    {
+      "headline": "Is the US government's Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "snapshot": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails. Cybersecurity researchers have since signed an... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: Is, US, Anthropic, Just",
+        "Specific figures mentioned: 5",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Is the US government's Anthropic ban accidentally helping the brand?"
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Is.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 19 Jun 2026 16:08:17 +0000",
+      "age_hours": "14.08",
+      "freshness_status": "stale",
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
