@@ -3,22 +3,52 @@
   "vertical": "AI",
   "headline": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
   "snapshot": "Sakana AI launched Fugu to orchestrate multi-agent operations and mitigate single-vendor dependency risks in enterprise deployments. Enterprises face operational vulnerabilities when relying entirely on monolithic AI APIs. Japanese AI firm Sakana AI designed Fugu as a response... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-06-22 01:21:13 PM ET",
-  "generated_at": "2026-06-22 01:21:13 PM ET",
+  "updated_at": "2026-06-22 04:26:38 PM ET",
+  "generated_at": "2026-06-22 04:26:38 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 5,
-    "editor_fresh_items": 7,
-    "public_fallback_items": 12,
-    "stale_or_blocked_items": 44,
+    "live_fresh_items": 10,
+    "editor_fresh_items": 12,
+    "public_fallback_items": 17,
+    "stale_or_blocked_items": 39,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-22 01:21:13 PM ET"
+    "last_checked": "2026-06-22 04:26:38 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Nvidia wants to cut data center water use, but that's not the same as fixing AI's water problem",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "snapshot": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nvidia, But",
+        "AI desk signal: chip, nvidia, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia wants to cut data center water use, but that's not the same as fixing AI's water problem",
+        "Source context: Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 22 Jun 2026 20:08:15 +0000",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": ""
+    },
     {
       "headline": "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
       "url": "https://www.artificialintelligence-news.com/news/mitigating-vendor-lock-in-sakana-ai-fugu-multi-agent-models/",
@@ -43,13 +73,43 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Mon, 22 Jun 2026 16:11:21 +0000",
-      "age_hours": "1.16",
+      "age_hours": "4.25",
       "freshness_status": "fresh",
       "editorial_score": "152",
       "urgency": "WATCH"
     },
     {
-      "headline": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+      "headline": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "snapshot": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Groq, Nvidia",
+        "Specific figures mentioned: $650M, $20B",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Groq.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 22 Jun 2026 20:13:58 +0000",
+      "age_hours": "0.21",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
       "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
       "snapshot": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale...",
       "key_data": [
@@ -57,7 +117,7 @@
         "Specific figures mentioned: $150 million, 1, 2026, 2029",
         "AI desk signal: chip, nvidia, data center",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: SpaceX inks compute deal with Reflection AI, an open-source AI lab"
+        "Story focus: SpaceX inks compute deal with Reflection AI, an open source AI lab"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -73,7 +133,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 22 Jun 2026 16:51:29 +0000",
-      "age_hours": "0.50",
+      "age_hours": "3.59",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
@@ -103,69 +163,9 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Mon, 22 Jun 2026 10:00:00 +0000",
-      "age_hours": "7.35",
+      "age_hours": "10.44",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "snapshot": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Trump, Anthropic, On, Equity",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: When the Trump administration cracks down on Anthropic, who benefits?",
-        "Source context: On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 21 Jun 2026 15:28:17 +0000",
-      "age_hours": "25.88",
-      "freshness_status": "stale",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "snapshot": "Siri's AI overhaul may have grabbed the headlines at WWDC, but some of Apple's most useful AI features are arriving elsewhere in iOS 27.",
-      "key_data": [
-        "Key people or organizations: Beyond Siri, Siri, WWDC, Apple",
-        "Specific figures mentioned: 27",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Beyond Siri",
-        "Source context: Siri's AI overhaul may have grabbed the headlines at WWDC, but some of Apple's most useful AI features are arriving elsewhere in iOS 27."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Beyond Siri.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 21 Jun 2026 14:40:28 +0000",
-      "age_hours": "26.68",
-      "freshness_status": "stale",
-      "editorial_score": "32",
       "urgency": ""
     }
   ],
@@ -194,13 +194,43 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Mon, 22 Jun 2026 16:11:21 +0000",
-      "age_hours": "1.16",
+      "age_hours": "4.25",
       "freshness_status": "fresh",
       "editorial_score": "152",
       "urgency": "WATCH"
     },
     {
-      "headline": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+      "headline": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "snapshot": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Groq, Nvidia",
+        "Specific figures mentioned: $650M, $20B",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Groq.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 22 Jun 2026 20:13:58 +0000",
+      "age_hours": "0.21",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
       "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
       "snapshot": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale...",
       "key_data": [
@@ -208,7 +238,7 @@
         "Specific figures mentioned: $150 million, 1, 2026, 2029",
         "AI desk signal: chip, nvidia, data center",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: SpaceX inks compute deal with Reflection AI, an open-source AI lab"
+        "Story focus: SpaceX inks compute deal with Reflection AI, an open source AI lab"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -224,10 +254,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 22 Jun 2026 16:51:29 +0000",
-      "age_hours": "0.50",
+      "age_hours": "3.59",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Nvidia wants to cut data center water use, but that's not the same as fixing AI's water problem",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "snapshot": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nvidia, But",
+        "AI desk signal: chip, nvidia, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia wants to cut data center water use, but that's not the same as fixing AI's water problem",
+        "Source context: Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 22 Jun 2026 20:08:15 +0000",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": ""
     },
     {
       "headline": "L'Oréal brings Maybelline virtual try-on to ChatGPT",
@@ -254,76 +314,16 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Mon, 22 Jun 2026 10:00:00 +0000",
-      "age_hours": "7.35",
+      "age_hours": "10.44",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "snapshot": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Trump, Anthropic, On, Equity",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: When the Trump administration cracks down on Anthropic, who benefits?",
-        "Source context: On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 21 Jun 2026 15:28:17 +0000",
-      "age_hours": "25.88",
-      "freshness_status": "stale",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "snapshot": "Siri's AI overhaul may have grabbed the headlines at WWDC, but some of Apple's most useful AI features are arriving elsewhere in iOS 27.",
-      "key_data": [
-        "Key people or organizations: Beyond Siri, Siri, WWDC, Apple",
-        "Specific figures mentioned: 27",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Beyond Siri",
-        "Source context: Siri's AI overhaul may have grabbed the headlines at WWDC, but some of Apple's most useful AI features are arriving elsewhere in iOS 27."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Beyond Siri.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 21 Jun 2026 14:40:28 +0000",
-      "age_hours": "26.68",
-      "freshness_status": "stale",
-      "editorial_score": "32",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "Mitigating vendor lock-in with Sakana AI Fugu multi-agent models",
-    "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
-    "L'Oréal brings Maybelline virtual try-on to ChatGPT"
+    "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal",
+    "SpaceX inks compute deal with Reflection AI, an open source AI lab"
   ],
   "sections": [
     {
@@ -350,13 +350,43 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Mon, 22 Jun 2026 16:11:21 +0000",
-      "age_hours": "1.16",
+      "age_hours": "4.25",
       "freshness_status": "fresh",
       "editorial_score": "152",
       "urgency": "WATCH"
     },
     {
-      "headline": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+      "headline": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal",
+      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "snapshot": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Groq, Nvidia",
+        "Specific figures mentioned: $650M, $20B",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Groq.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 22 Jun 2026 20:13:58 +0000",
+      "age_hours": "0.21",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
       "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
       "snapshot": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale...",
       "key_data": [
@@ -364,7 +394,7 @@
         "Specific figures mentioned: $150 million, 1, 2026, 2029",
         "AI desk signal: chip, nvidia, data center",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: SpaceX inks compute deal with Reflection AI, an open-source AI lab"
+        "Story focus: SpaceX inks compute deal with Reflection AI, an open source AI lab"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -380,10 +410,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 22 Jun 2026 16:51:29 +0000",
-      "age_hours": "0.50",
+      "age_hours": "3.59",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Nvidia wants to cut data center water use, but that's not the same as fixing AI's water problem",
+      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "snapshot": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nvidia, But",
+        "AI desk signal: chip, nvidia, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia wants to cut data center water use, but that's not the same as fixing AI's water problem",
+        "Source context: Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 22 Jun 2026 20:08:15 +0000",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": ""
     },
     {
       "headline": "L'Oréal brings Maybelline virtual try-on to ChatGPT",
@@ -410,51 +470,19 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Mon, 22 Jun 2026 10:00:00 +0000",
-      "age_hours": "7.35",
+      "age_hours": "10.44",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "snapshot": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "AI is cursing renters with the promise of impossible homes",
+      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "snapshot": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced...",
       "key_data": [
-        "Key people or organizations: Trump, Anthropic, On, Equity",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: When the Trump administration cracks down on Anthropic, who benefits?",
-        "Source context: On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 21 Jun 2026 15:28:17 +0000",
-      "age_hours": "25.88",
-      "freshness_status": "stale",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "snapshot": "Siri's AI overhaul may have grabbed the headlines at WWDC, but some of Apple's most useful AI features are arriving elsewhere in iOS 27.",
-      "key_data": [
-        "Key people or organizations: Beyond Siri, Siri, WWDC, Apple",
-        "Specific figures mentioned: 27",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Beyond Siri",
-        "Source context: Siri's AI overhaul may have grabbed the headlines at WWDC, but some of Apple's most useful AI features are arriving elsewhere in iOS 27."
+        "Key people or organizations: Joyce, New Yorker, But",
+        "Story focus: AI is cursing renters with the promise of impossible homes",
+        "Source context: Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -462,17 +490,17 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Beyond Siri.",
+        "Watch for follow-up statements, product details or customer evidence from Joyce.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 21 Jun 2026 14:40:28 +0000",
-      "age_hours": "26.68",
-      "freshness_status": "stale",
-      "editorial_score": "32",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-22T16:00:00-04:00",
+      "age_hours": "0.44",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
       "urgency": ""
     }
   ],
