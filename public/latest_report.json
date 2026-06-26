@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
   "snapshot": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-  "updated_at": "2026-06-25 08:01:21 PM ET",
-  "generated_at": "2026-06-25 08:01:21 PM ET",
+  "updated_at": "2026-06-26 01:00:07 AM ET",
+  "generated_at": "2026-06-26 01:00:07 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 9,
-    "editor_fresh_items": 29,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 23,
     "public_fallback_items": 35,
-    "stale_or_blocked_items": 40,
+    "stale_or_blocked_items": 45,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-25 08:01:21 PM ET"
+    "last_checked": "2026-06-26 01:00:07 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-25T17:57:06-04:00",
-      "age_hours": "2.07",
+      "age_hours": "7.05",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -74,39 +74,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 25 Jun 2026 23:34:39 +0000",
-      "age_hours": "0.45",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "146",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI reveals its first AI processor: Jalapeño",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "snapshot": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models, according to an announcement on Wednesday. Jalapeño is an ASIC... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Broadcom, ASIC",
-        "AI desk signal: model, chip",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI reveals its first AI processor",
-        "Source context: OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-24T10:36:47-04:00",
-      "age_hours": "33.41",
-      "freshness_status": "stale",
-      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -134,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 25 Jun 2026 20:19:25 +0000",
-      "age_hours": "3.70",
+      "age_hours": "8.68",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -164,9 +134,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 25 Jun 2026 17:38:27 +0000",
-      "age_hours": "6.38",
+      "age_hours": "11.36",
       "freshness_status": "fresh",
       "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "The math behind the OpenAI Jalapeño chip",
+      "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+      "snapshot": "OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Developed, Broadcom, ASIC",
+        "AI desk signal: chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The math behind the OpenAI Jalapeño chip",
+        "Source context: OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip...."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 25 Jun 2026 06:00:00 +0000",
+      "age_hours": "23.00",
+      "freshness_status": "stale",
+      "editorial_score": "88",
       "urgency": ""
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 25 Jun 2026 23:34:39 +0000",
-      "age_hours": "0.45",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -226,39 +226,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-25T17:57:06-04:00",
-      "age_hours": "2.07",
+      "age_hours": "7.05",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI reveals its first AI processor: Jalapeño",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "snapshot": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models, according to an announcement on Wednesday. Jalapeño is an ASIC... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Broadcom, ASIC",
-        "AI desk signal: model, chip",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI reveals its first AI processor",
-        "Source context: OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-24T10:36:47-04:00",
-      "age_hours": "33.41",
-      "freshness_status": "stale",
-      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -286,21 +256,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 25 Jun 2026 20:19:25 +0000",
-      "age_hours": "3.70",
+      "age_hours": "8.68",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
     },
     {
-      "headline": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "snapshot": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "snapshot": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: OpenAI, Broadcom, Named",
-        "AI desk signal: chip, enterprise",
+        "Key people or organizations: Anthropic, Claude, ChatGPT, Despite ChatGPT",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI unveils its first custom chip, built by Broadcom",
-        "Source context: Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems. The larger angle is AI..."
+        "Story focus: Anthropic's Claude is winning over paid consumers, a market owned by ChatGPT",
+        "Source context: Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows. The competitive..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 25 Jun 2026 17:38:27 +0000",
+      "age_hours": "11.36",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "The math behind the OpenAI Jalapeño chip",
+      "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+      "snapshot": "OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Developed, Broadcom, ASIC",
+        "AI desk signal: chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The math behind the OpenAI Jalapeño chip",
+        "Source context: OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip...."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -313,12 +313,12 @@
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 24 Jun 2026 14:54:46 +0000",
-      "age_hours": "33.11",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 25 Jun 2026 06:00:00 +0000",
+      "age_hours": "23.00",
       "freshness_status": "stale",
-      "editorial_score": "106",
+      "editorial_score": "88",
       "urgency": ""
     }
   ],
@@ -353,7 +353,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 25 Jun 2026 23:34:39 +0000",
-      "age_hours": "0.45",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -383,7 +383,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-25T17:57:06-04:00",
-      "age_hours": "2.07",
+      "age_hours": "7.05",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -413,7 +413,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 25 Jun 2026 20:19:25 +0000",
-      "age_hours": "3.70",
+      "age_hours": "8.68",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -443,21 +443,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 25 Jun 2026 17:38:27 +0000",
-      "age_hours": "6.38",
+      "age_hours": "11.36",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "OpenAI reveals its first AI processor: Jalapeño",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "snapshot": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed to power current and future large language models, according to an announcement on Wednesday. Jalapeño is an ASIC... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
+      "headline": "The math behind the OpenAI Jalapeño chip",
+      "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
+      "snapshot": "OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: OpenAI, Broadcom, ASIC",
-        "AI desk signal: model, chip",
+        "Key people or organizations: OpenAI, Developed, Broadcom, ASIC",
+        "AI desk signal: chip",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI reveals its first AI processor",
-        "Source context: OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is designed..."
+        "Story focus: The math behind the OpenAI Jalapeño chip",
+        "Source context: OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip...."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -470,43 +470,42 @@
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-24T10:36:47-04:00",
-      "age_hours": "33.41",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 25 Jun 2026 06:00:00 +0000",
+      "age_hours": "23.00",
       "freshness_status": "stale",
-      "editorial_score": "108",
+      "editorial_score": "88",
       "urgency": ""
     },
     {
-      "headline": "General Intuition's $2.3B bet that video games can train AI agents for the real world",
-      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "snapshot": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Congresswoman denies staff used AI to write defense funding amendment",
+      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "snapshot": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever drafted with AI.\" Luna issued the response after accounts on X began sharing... The business angle is capital allocation: investors and strategic buyers are still sorting which...",
       "key_data": [
-        "Key people or organizations: General Intuition",
-        "Specific figures mentioned: $2.3B, $320 million",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: General Intuition's $2.3B bet that video games can train AI agents for the real world",
-        "Source context: General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something..."
+        "Key people or organizations: Congresswoman, Rep, Anna Paulina Luna, FL",
+        "AI desk signal: funding",
+        "Story focus: Congresswoman denies staff used AI to write defense funding amendment",
+        "Source context: Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from General Intuition.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Congresswoman.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 25 Jun 2026 16:55:00 +0000",
-      "age_hours": "7.11",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": ""
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-24T15:36:46-04:00",
+      "age_hours": "33.39",
+      "freshness_status": "stale",
+      "editorial_score": "66",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
