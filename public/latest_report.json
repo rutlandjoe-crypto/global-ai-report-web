@@ -1,34 +1,64 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Anthropic's Mythos mess is only getting worse",
-  "snapshot": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-06-26 12:04:12 PM ET",
-  "generated_at": "2026-06-26 12:04:12 PM ET",
+  "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+  "snapshot": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+  "updated_at": "2026-06-26 02:19:30 PM ET",
+  "generated_at": "2026-06-26 02:19:30 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 3,
-    "editor_fresh_items": 16,
-    "public_fallback_items": 35,
-    "stale_or_blocked_items": 46,
+    "live_fresh_items": 7,
+    "editor_fresh_items": 19,
+    "public_fallback_items": 34,
+    "stale_or_blocked_items": 42,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-26 12:04:12 PM ET"
+    "last_checked": "2026-06-26 02:19:30 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "OpenAI will delay GPT-5.6 after Trump administration request",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "snapshot": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "snapshot": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: OpenAI, GPT, Trump, OpenAI CEO Sam Altman",
-        "Specific figures mentioned: 5.6",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: OpenAI, SpaceX, Nvidia, Broadcom",
+        "AI desk signal: chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI will delay GPT-5.6 after Trump administration request"
+        "Story focus: Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+        "Source context: Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 26 Jun 2026 17:43:22 +0000",
+      "age_hours": "0.60",
+      "freshness_status": "fresh",
+      "editorial_score": "168",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "snapshot": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: OpenAI, GPT, US AI, Less",
+        "Specific figures mentioned: 5.6, 24",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI unveils GPT-5.6 amid US AI regulatory drama"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -40,44 +70,74 @@
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-06-25T17:57:06-04:00",
-      "age_hours": "18.12",
-      "freshness_status": "stale",
-      "editorial_score": "94",
+      "published": "2026-06-26T13:00:00-04:00",
+      "age_hours": "1.33",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
       "urgency": ""
     },
     {
-      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "snapshot": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "OpenAI's Jalapeño chip is Big Tech's spiciest move away from Nvidia",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "snapshot": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: OpenAI, GPT, Trump",
-        "Specific figures mentioned: 5.6",
-        "AI desk signal: model",
+        "Key people or organizations: OpenAI, Big Tech, Nvidia, Broadcom",
+        "AI desk signal: chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The White House is asking OpenAI to slow roll the release of its new model over safety concerns"
+        "Story focus: OpenAI's Jalapeño chip is Big Tech's spiciest move away from Nvidia",
+        "Source context: Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
         "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 26 Jun 2026 14:00:00 +0000",
+      "age_hours": "4.33",
+      "freshness_status": "fresh",
+      "editorial_score": "150",
+      "urgency": ""
+    },
+    {
+      "headline": "It's not about Anthropic vs. OpenAI anymore",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "snapshot": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: It, Anthropic, OpenAI, Dealing",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: It's not about Anthropic vs. OpenAI anymore",
+        "Source context: AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from It.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 25 Jun 2026 23:34:39 +0000",
-      "age_hours": "16.49",
-      "freshness_status": "stale",
-      "editorial_score": "116",
-      "urgency": ""
+      "published": "Fri, 26 Jun 2026 16:24:47 +0000",
+      "age_hours": "1.91",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "WATCH"
     },
     {
       "headline": "Anthropic's Mythos mess is only getting worse",
@@ -104,173 +164,23 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-26T10:07:03-04:00",
-      "age_hours": "1.95",
+      "age_hours": "4.21",
       "freshness_status": "fresh",
       "editorial_score": "112",
-      "urgency": ""
-    },
-    {
-      "headline": "The math behind the OpenAI Jalapeño chip",
-      "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
-      "snapshot": "OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Developed, Broadcom, ASIC",
-        "AI desk signal: chip",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The math behind the OpenAI Jalapeño chip",
-        "Source context: OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip...."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 25 Jun 2026 06:00:00 +0000",
-      "age_hours": "34.07",
-      "freshness_status": "stale",
-      "editorial_score": "88",
-      "urgency": ""
-    },
-    {
-      "headline": "Patronus AI lands $50M to build 'digital worlds' that stress-test AI agents",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "snapshot": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Patronus AI, Agent, Meta AI",
-        "Specific figures mentioned: $50M",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Patronus AI lands $50M to build 'digital worlds' that stress-test AI agents"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Patronus AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 25 Jun 2026 20:19:25 +0000",
-      "age_hours": "19.75",
-      "freshness_status": "stale",
-      "editorial_score": "76",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "snapshot": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "snapshot": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: OpenAI, GPT, Trump",
-        "Specific figures mentioned: 5.6",
-        "AI desk signal: model",
+        "Key people or organizations: OpenAI, SpaceX, Nvidia, Broadcom",
+        "AI desk signal: chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The White House is asking OpenAI to slow roll the release of its new model over safety concerns"
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 25 Jun 2026 23:34:39 +0000",
-      "age_hours": "16.49",
-      "freshness_status": "stale",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic's Mythos mess is only getting worse",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "snapshot": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Anthropic, Mythos, It, Trump",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's Mythos mess is only getting worse",
-        "Source context: It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-26T10:07:03-04:00",
-      "age_hours": "1.95",
-      "freshness_status": "fresh",
-      "editorial_score": "112",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI will delay GPT-5.6 after Trump administration request",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "snapshot": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: OpenAI, GPT, Trump, OpenAI CEO Sam Altman",
-        "Specific figures mentioned: 5.6",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI will delay GPT-5.6 after Trump administration request"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-25T17:57:06-04:00",
-      "age_hours": "18.12",
-      "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "The math behind the OpenAI Jalapeño chip",
-      "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
-      "snapshot": "OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Developed, Broadcom, ASIC",
-        "AI desk signal: chip",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The math behind the OpenAI Jalapeño chip",
-        "Source context: OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip...."
+        "Story focus: Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+        "Source context: Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -283,24 +193,24 @@
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 25 Jun 2026 06:00:00 +0000",
-      "age_hours": "34.07",
-      "freshness_status": "stale",
-      "editorial_score": "88",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 26 Jun 2026 17:43:22 +0000",
+      "age_hours": "0.60",
+      "freshness_status": "fresh",
+      "editorial_score": "168",
       "urgency": ""
     },
     {
-      "headline": "Patronus AI lands $50M to build 'digital worlds' that stress-test AI agents",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "snapshot": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "snapshot": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
       "key_data": [
-        "Key people or organizations: Patronus AI, Agent, Meta AI",
-        "Specific figures mentioned: $50M",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: OpenAI, GPT, US AI, Less",
+        "Specific figures mentioned: 5.6, 24",
+        "AI desk signal: model",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Patronus AI lands $50M to build 'digital worlds' that stress-test AI agents"
+        "Story focus: OpenAI unveils GPT-5.6 amid US AI regulatory drama"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -308,26 +218,79 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Patronus AI.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-26T13:00:00-04:00",
+      "age_hours": "1.33",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI's Jalapeño chip is Big Tech's spiciest move away from Nvidia",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "snapshot": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Big Tech, Nvidia, Broadcom",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI's Jalapeño chip is Big Tech's spiciest move away from Nvidia",
+        "Source context: Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 26 Jun 2026 14:00:00 +0000",
+      "age_hours": "4.33",
+      "freshness_status": "fresh",
+      "editorial_score": "150",
+      "urgency": ""
+    },
+    {
+      "headline": "It's not about Anthropic vs. OpenAI anymore",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "snapshot": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: It, Anthropic, OpenAI, Dealing",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: It's not about Anthropic vs. OpenAI anymore",
+        "Source context: AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from It.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 25 Jun 2026 20:19:25 +0000",
-      "age_hours": "19.75",
-      "freshness_status": "stale",
-      "editorial_score": "76",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Anthropic's Mythos mess is only getting worse",
-    "SAP aligns commerce data for AI personalisation",
-    "The White House is asking OpenAI to slow roll the release of its new model over safety concerns"
-  ],
-  "sections": [
+      "published": "Fri, 26 Jun 2026 16:24:47 +0000",
+      "age_hours": "1.91",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Anthropic's Mythos mess is only getting worse",
       "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
@@ -353,7 +316,164 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-26T10:07:03-04:00",
-      "age_hours": "1.95",
+      "age_hours": "4.21",
+      "freshness_status": "fresh",
+      "editorial_score": "112",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+    "OpenAI's Jalapeño chip is Big Tech's spiciest move away from Nvidia"
+  ],
+  "sections": [
+    {
+      "headline": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "snapshot": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: OpenAI, SpaceX, Nvidia, Broadcom",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+        "Source context: Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 26 Jun 2026 17:43:22 +0000",
+      "age_hours": "0.60",
+      "freshness_status": "fresh",
+      "editorial_score": "168",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "snapshot": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limited preview of its new GPT 5.6 model suite: Sol, the flagship; Terra, a... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: OpenAI, GPT, US AI, Less",
+        "Specific figures mentioned: 5.6, 24",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI unveils GPT-5.6 amid US AI regulatory drama"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-26T13:00:00-04:00",
+      "age_hours": "1.33",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI's Jalapeño chip is Big Tech's spiciest move away from Nvidia",
+      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+      "snapshot": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Big Tech, Nvidia, Broadcom",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI's Jalapeño chip is Big Tech's spiciest move away from Nvidia",
+        "Source context: Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 26 Jun 2026 14:00:00 +0000",
+      "age_hours": "4.33",
+      "freshness_status": "fresh",
+      "editorial_score": "150",
+      "urgency": ""
+    },
+    {
+      "headline": "It's not about Anthropic vs. OpenAI anymore",
+      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "snapshot": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: It, Anthropic, OpenAI, Dealing",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: It's not about Anthropic vs. OpenAI anymore",
+        "Source context: AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from It.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 26 Jun 2026 16:24:47 +0000",
+      "age_hours": "1.91",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic's Mythos mess is only getting worse",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "snapshot": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage of executives to Washington, DC. But updates have been suspiciously lacking,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Mythos, It, Trump",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Mythos mess is only getting worse",
+        "Source context: It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-26T10:07:03-04:00",
+      "age_hours": "4.21",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": ""
@@ -382,129 +502,9 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Fri, 26 Jun 2026 12:55:48 +0000",
-      "age_hours": "3.14",
+      "age_hours": "5.40",
       "freshness_status": "fresh",
       "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "snapshot": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: OpenAI, GPT, Trump",
-        "Specific figures mentioned: 5.6",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The White House is asking OpenAI to slow roll the release of its new model over safety concerns"
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 25 Jun 2026 23:34:39 +0000",
-      "age_hours": "16.49",
-      "freshness_status": "stale",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI will delay GPT-5.6 after Trump administration request",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "snapshot": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO Sam Altman told employees Wednesday in a company Q&A that it would release... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: OpenAI, GPT, Trump, OpenAI CEO Sam Altman",
-        "Specific figures mentioned: 5.6",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI will delay GPT-5.6 after Trump administration request"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-25T17:57:06-04:00",
-      "age_hours": "18.12",
-      "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "The math behind the OpenAI Jalapeño chip",
-      "url": "https://www.artificialintelligence-news.com/news/openai-jalapeno-chip-inference-economics/",
-      "snapshot": "OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip. Developed in collaboration with Broadcom, the application-specific integrated circuit (ASIC) represents a direct attempt to... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Developed, Broadcom, ASIC",
-        "AI desk signal: chip",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The math behind the OpenAI Jalapeño chip",
-        "Source context: OpenAI's financial trajectory hinges heavily on infrastructure costs, a reality that drove the development of the new custom OpenAI Jalapeño chip...."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 25 Jun 2026 06:00:00 +0000",
-      "age_hours": "34.07",
-      "freshness_status": "stale",
-      "editorial_score": "88",
-      "urgency": ""
-    },
-    {
-      "headline": "Patronus AI lands $50M to build 'digital worlds' that stress-test AI agents",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "snapshot": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Patronus AI, Agent, Meta AI",
-        "Specific figures mentioned: $50M",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Patronus AI lands $50M to build 'digital worlds' that stress-test AI agents"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Patronus AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 25 Jun 2026 20:19:25 +0000",
-      "age_hours": "19.75",
-      "freshness_status": "stale",
-      "editorial_score": "76",
       "urgency": ""
     }
   ],
