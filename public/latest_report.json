@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-  "snapshot": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-06-28 04:07:44 PM ET",
-  "generated_at": "2026-06-28 04:07:44 PM ET",
+  "headline": "China's Z.ai claims it can match Mythos on cybersecurity",
+  "snapshot": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-06-28 05:50:23 PM ET",
+  "generated_at": "2026-06-28 05:50:23 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 37,
-    "live_fresh_items": 3,
-    "editor_fresh_items": 9,
-    "public_fallback_items": 22,
-    "stale_or_blocked_items": 34,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 11,
+    "public_fallback_items": 23,
+    "stale_or_blocked_items": 32,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-28 04:07:44 PM ET"
+    "last_checked": "2026-06-28 05:50:23 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 27 Jun 2026 12:00:00 +0000",
-      "age_hours": "32.13",
+      "age_hours": "33.84",
       "freshness_status": "stale",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "China's Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "snapshot": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: China, Mythos, Zhipu AI, GLM",
+        "Specific figures mentioned: 5.2",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: China's Z.ai claims it can match Mythos on cybersecurity"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from China.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-28T17:42:51-04:00",
+      "age_hours": "0.13",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": "WATCH"
     },
     {
       "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
@@ -74,7 +104,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-28T10:12:06-04:00",
-      "age_hours": "5.93",
+      "age_hours": "7.64",
       "freshness_status": "fresh",
       "editorial_score": "88",
       "urgency": "BREAKING"
@@ -102,7 +132,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 28 Jun 2026 19:05:39 +0000",
-      "age_hours": "1.03",
+      "age_hours": "2.75",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "BREAKING"
@@ -132,39 +162,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "age_hours": "5.13",
+      "age_hours": "6.84",
       "freshness_status": "fresh",
       "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Why is Apple asking me to pay more for Big Tech's AI obsession?",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "snapshot": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely...",
-      "key_data": [
-        "Key people or organizations: Apple, Big Tech, Tim Cook, MacBook Pro",
-        "Specific figures mentioned: 16, $300, 11, $599",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Why is Apple asking me to pay more for Big Tech's AI obsession?",
-        "Source context: Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-27T09:30:00-04:00",
-      "age_hours": "30.63",
-      "freshness_status": "stale",
-      "editorial_score": "54",
       "urgency": ""
     }
   ],
@@ -194,12 +194,42 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 27 Jun 2026 12:00:00 +0000",
-      "age_hours": "32.13",
+      "age_hours": "33.84",
       "freshness_status": "stale",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
     },
     {
+      "headline": "China's Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "snapshot": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: China, Mythos, Zhipu AI, GLM",
+        "Specific figures mentioned: 5.2",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: China's Z.ai claims it can match Mythos on cybersecurity"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from China.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-28T17:42:51-04:00",
+      "age_hours": "0.13",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": "WATCH"
+    },
+    {
       "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
       "snapshot": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But... The competitive question is whether this changes the model race, enterprise integrations or...",
@@ -224,7 +254,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-28T10:12:06-04:00",
-      "age_hours": "5.93",
+      "age_hours": "7.64",
       "freshness_status": "fresh",
       "editorial_score": "88",
       "urgency": "BREAKING"
@@ -254,76 +284,76 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "age_hours": "5.13",
+      "age_hours": "6.84",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
     },
     {
-      "headline": "Ford rehires 'gray beard' engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "snapshot": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\"",
+      "headline": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "snapshot": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists...",
       "key_data": [
-        "Key people or organizations: Ford, Mistakenly",
-        "Story focus: Ford rehires 'gray beard' engineers after AI falls short",
-        "Source context: \"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\""
+        "Key people or organizations: Suno, Spark, To",
+        "Story focus: Suno launches Spark incubator program to feed independent artists to its AI machine",
+        "Source context: Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ford.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 28 Jun 2026 19:05:39 +0000",
-      "age_hours": "1.03",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Why is Apple asking me to pay more for Big Tech's AI obsession?",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "snapshot": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely...",
-      "key_data": [
-        "Key people or organizations: Apple, Big Tech, Tim Cook, MacBook Pro",
-        "Specific figures mentioned: 16, $300, 11, $599",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Why is Apple asking me to pay more for Big Tech's AI obsession?",
-        "Source context: Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Suno.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-06-27T09:30:00-04:00",
-      "age_hours": "30.63",
-      "freshness_status": "stale",
-      "editorial_score": "54",
-      "urgency": ""
+      "published": "2026-06-28T16:27:36-04:00",
+      "age_hours": "1.38",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
+      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
+    "China's Z.ai claims it can match Mythos on cybersecurity",
     "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-    "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-    "Ford rehires 'gray beard' engineers after AI falls short"
+    "Why Wall Street thinks US memory maker Micron is the next Nvidia"
   ],
   "sections": [
+    {
+      "headline": "China's Z.ai claims it can match Mythos on cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "snapshot": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: China, Mythos, Zhipu AI, GLM",
+        "Specific figures mentioned: 5.2",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: China's Z.ai claims it can match Mythos on cybersecurity"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from China.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-28T17:42:51-04:00",
+      "age_hours": "0.13",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
@@ -349,7 +379,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-28T10:12:06-04:00",
-      "age_hours": "5.93",
+      "age_hours": "7.64",
       "freshness_status": "fresh",
       "editorial_score": "88",
       "urgency": "BREAKING"
@@ -379,10 +409,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "age_hours": "5.13",
+      "age_hours": "6.84",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
+    },
+    {
+      "headline": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "snapshot": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists...",
+      "key_data": [
+        "Key people or organizations: Suno, Spark, To",
+        "Story focus: Suno launches Spark incubator program to feed independent artists to its AI machine",
+        "Source context: Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Suno.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-28T16:27:36-04:00",
+      "age_hours": "1.38",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
+      "urgency": "WATCH"
     },
     {
       "headline": "Ford rehires 'gray beard' engineers after AI falls short",
@@ -407,7 +465,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 28 Jun 2026 19:05:39 +0000",
-      "age_hours": "1.03",
+      "age_hours": "2.75",
       "freshness_status": "fresh",
       "editorial_score": "74",
       "urgency": "BREAKING"
@@ -437,68 +495,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 27 Jun 2026 12:00:00 +0000",
-      "age_hours": "32.13",
+      "age_hours": "33.84",
       "freshness_status": "stale",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Why is Apple asking me to pay more for Big Tech's AI obsession?",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "snapshot": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $599 to $749. Even the HomePod Mini got a $30 bump to $129. Cook squarely...",
-      "key_data": [
-        "Key people or organizations: Apple, Big Tech, Tim Cook, MacBook Pro",
-        "Specific figures mentioned: 16, $300, 11, $599",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Why is Apple asking me to pay more for Big Tech's AI obsession?",
-        "Source context: Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-27T09:30:00-04:00",
-      "age_hours": "30.63",
-      "freshness_status": "stale",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Margaret Atwood says the problem with AI is 'garbage in, garbage out'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "snapshot": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these things, the issue of AI came up, and Atwood didn't mince words. According to...",
-      "key_data": [
-        "Key people or organizations: Margaret Atwood, Maraget Atwood, Tale, Babell Literary",
-        "Story focus: Margaret Atwood says the problem with AI is 'garbage in, garbage out'",
-        "Source context: Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Margaret Atwood.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-27T14:39:32-04:00",
-      "age_hours": "25.47",
-      "freshness_status": "stale",
-      "editorial_score": "24",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
