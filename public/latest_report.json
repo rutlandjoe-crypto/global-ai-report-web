@@ -1,122 +1,62 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "China's Z.ai claims it can match Mythos on cybersecurity",
-  "snapshot": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-06-29 08:19:32 AM ET",
-  "generated_at": "2026-06-29 08:19:32 AM ET",
+  "headline": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+  "snapshot": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+  "updated_at": "2026-06-29 12:30:19 PM ET",
+  "generated_at": "2026-06-29 12:30:19 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 37,
-    "live_fresh_items": 0,
-    "editor_fresh_items": 5,
-    "public_fallback_items": 21,
-    "stale_or_blocked_items": 37,
+    "total_items_checked": 49,
+    "live_fresh_items": 10,
+    "editor_fresh_items": 15,
+    "public_fallback_items": 27,
+    "stale_or_blocked_items": 39,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-29 08:19:32 AM ET"
+    "last_checked": "2026-06-29 12:30:19 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "China's Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "snapshot": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Lawmakers want to ban AI companies from selling your health data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "snapshot": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: China, Mythos, Zhipu AI, GLM",
-        "Specific figures mentioned: 5.2",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: China's Z.ai claims it can match Mythos on cybersecurity"
+        "Key people or organizations: Lawmakers, Americans, ChatGPT, Claude",
+        "Story focus: Lawmakers want to ban AI companies from selling your health data",
+        "Source context: A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from China.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-28T17:42:51-04:00",
-      "age_hours": "14.61",
-      "freshness_status": "stale",
-      "editorial_score": "108",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "snapshot": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Prosecutors, ChatGPT, Palisades, Jonathan Rinderknecht",
-        "Specific figures mentioned: 2025",
-        "AI desk signal: model, enterprise",
-        "Story focus: Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-        "Source context: Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Prosecutors.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-28T10:12:06-04:00",
-      "age_hours": "22.12",
-      "freshness_status": "stale",
-      "editorial_score": "58",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Ford rehires 'gray beard' engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "snapshot": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\"",
-      "key_data": [
-        "Key people or organizations: Ford, Mistakenly",
-        "Story focus: Ford rehires 'gray beard' engineers after AI falls short",
-        "Source context: \"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\""
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ford.",
+        "Watch for follow-up statements, product details or customer evidence from Lawmakers.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 28 Jun 2026 19:05:39 +0000",
-      "age_hours": "17.23",
-      "freshness_status": "stale",
-      "editorial_score": "44",
-      "urgency": "BREAKING"
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-29T12:00:00-04:00",
+      "age_hours": "0.51",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "snapshot": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "snapshot": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: US, Micron, Nvidia, Eager",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Why Wall Street thinks US memory maker Micron is the next Nvidia",
-        "Source context: Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron. The..."
+        "Key people or organizations: Robot, Tesla, Proception",
+        "Specific figures mentioned: $11M",
+        "AI desk signal: chip, enterprise",
+        "Story focus: Robot hand company settles Tesla trade secret suit and announces $11M raise",
+        "Source context: The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands. The larger..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -124,27 +64,29 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from US.",
+        "Watch for follow-up statements, product details or customer evidence from Robot.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "age_hours": "21.33",
-      "freshness_status": "stale",
-      "editorial_score": "54",
+      "published": "Mon, 29 Jun 2026 14:00:08 +0000",
+      "age_hours": "2.50",
+      "freshness_status": "fresh",
+      "editorial_score": "132",
       "urgency": ""
     },
     {
-      "headline": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "snapshot": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists...",
+      "headline": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+      "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
+      "snapshot": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Suno, Spark, To",
-        "Story focus: Suno launches Spark incubator program to feed independent artists to its AI machine",
-        "Source context: Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is..."
+        "Key people or organizations: ISC, Enterprise, Hamburg, Hardware",
+        "Specific figures mentioned: 2026",
+        "AI desk signal: model, enterprise",
+        "Story focus: xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+        "Source context: xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -152,22 +94,112 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Suno.",
+        "Watch for follow-up statements, product details or customer evidence from ISC.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-28T16:27:36-04:00",
-      "age_hours": "15.87",
-      "freshness_status": "stale",
-      "editorial_score": "50",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 29 Jun 2026 08:05:32 +0000",
+      "age_hours": "8.41",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+      "url": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
+      "snapshot": "New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership with Qualcomm and the launch of Halo, an on-device deepfake detection model for live video calls. Both announcements were made at... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Scam, Announces Qualcomm Partnership, Launches Halo Deepfake Detection, Model",
+        "Specific figures mentioned: 2026, 29",
+        "AI desk signal: model, enterprise",
+        "Story focus: Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+        "Source context: New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Scam.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 29 Jun 2026 07:57:38 +0000",
+      "age_hours": "8.54",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "HP accelerates enterprise workflows with OpenAI Frontier",
+      "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+      "snapshot": "HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026. Early pilot programs yielded verified operational gains in software... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: HP, OpenAI Frontier, February, Early",
+        "Specific figures mentioned: 2026",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: HP accelerates enterprise workflows with OpenAI Frontier"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from HP.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 29 Jun 2026 12:22:45 +0000",
+      "age_hours": "4.13",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "snapshot": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Robot, Tesla, Proception",
+        "Specific figures mentioned: $11M",
+        "AI desk signal: chip, enterprise",
+        "Story focus: Robot hand company settles Tesla trade secret suit and announces $11M raise",
+        "Source context: The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands. The larger..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Robot.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 29 Jun 2026 14:00:08 +0000",
+      "age_hours": "2.50",
+      "freshness_status": "fresh",
+      "editorial_score": "132",
+      "urgency": ""
+    },
+    {
       "headline": "China's Z.ai claims it can match Mythos on cybersecurity",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
       "snapshot": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has... The competitive question is whether this changes the model race, enterprise integrations or customer...",
@@ -192,21 +224,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-28T17:42:51-04:00",
-      "age_hours": "14.61",
+      "age_hours": "18.79",
       "freshness_status": "stale",
       "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
-      "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "snapshot": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+      "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
+      "snapshot": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Prosecutors, ChatGPT, Palisades, Jonathan Rinderknecht",
-        "Specific figures mentioned: 2025",
+        "Key people or organizations: ISC, Enterprise, Hamburg, Hardware",
+        "Specific figures mentioned: 2026",
         "AI desk signal: model, enterprise",
-        "Story focus: Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-        "Source context: Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA..."
+        "Story focus: xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+        "Source context: xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -214,57 +246,29 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Prosecutors.",
+        "Watch for follow-up statements, product details or customer evidence from ISC.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-28T10:12:06-04:00",
-      "age_hours": "22.12",
-      "freshness_status": "stale",
-      "editorial_score": "58",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "snapshot": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: US, Micron, Nvidia, Eager",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Why Wall Street thinks US memory maker Micron is the next Nvidia",
-        "Source context: Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron. The..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from US.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "age_hours": "21.33",
-      "freshness_status": "stale",
-      "editorial_score": "54",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 29 Jun 2026 08:05:32 +0000",
+      "age_hours": "8.41",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
-      "headline": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "snapshot": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists...",
+      "headline": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+      "url": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
+      "snapshot": "New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership with Qualcomm and the launch of Halo, an on-device deepfake detection model for live video calls. Both announcements were made at... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Suno, Spark, To",
-        "Story focus: Suno launches Spark incubator program to feed independent artists to its AI machine",
-        "Source context: Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is..."
+        "Key people or organizations: Scam, Announces Qualcomm Partnership, Launches Halo Deepfake Detection, Model",
+        "Specific figures mentioned: 2026, 29",
+        "AI desk signal: model, enterprise",
+        "Story focus: Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+        "Source context: New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -272,124 +276,64 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Suno.",
+        "Watch for follow-up statements, product details or customer evidence from Scam.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-28T16:27:36-04:00",
-      "age_hours": "15.87",
-      "freshness_status": "stale",
-      "editorial_score": "50",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 29 Jun 2026 07:57:38 +0000",
+      "age_hours": "8.54",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
-      "headline": "Ford rehires 'gray beard' engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "snapshot": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\"",
+      "headline": "Lawmakers want to ban AI companies from selling your health data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "snapshot": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Ford, Mistakenly",
-        "Story focus: Ford rehires 'gray beard' engineers after AI falls short",
-        "Source context: \"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\""
+        "Key people or organizations: Lawmakers, Americans, ChatGPT, Claude",
+        "Story focus: Lawmakers want to ban AI companies from selling your health data",
+        "Source context: A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ford.",
+        "Watch for follow-up statements, product details or customer evidence from Lawmakers.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 28 Jun 2026 19:05:39 +0000",
-      "age_hours": "17.23",
-      "freshness_status": "stale",
-      "editorial_score": "44",
-      "urgency": "BREAKING"
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-29T12:00:00-04:00",
+      "age_hours": "0.51",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "China's Z.ai claims it can match Mythos on cybersecurity",
-    "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-    "Why Wall Street thinks US memory maker Micron is the next Nvidia"
+    "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+    "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026"
   ],
   "sections": [
     {
-      "headline": "China's Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "snapshot": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "snapshot": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: China, Mythos, Zhipu AI, GLM",
-        "Specific figures mentioned: 5.2",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: China's Z.ai claims it can match Mythos on cybersecurity"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from China.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-28T17:42:51-04:00",
-      "age_hours": "14.61",
-      "freshness_status": "stale",
-      "editorial_score": "108",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "snapshot": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to location data from his iPhone, security camera footage, and witness testimony. But... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Prosecutors, ChatGPT, Palisades, Jonathan Rinderknecht",
-        "Specific figures mentioned: 2025",
-        "AI desk signal: model, enterprise",
-        "Story focus: Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-        "Source context: Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Prosecutors.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-28T10:12:06-04:00",
-      "age_hours": "22.12",
-      "freshness_status": "stale",
-      "editorial_score": "58",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "snapshot": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: US, Micron, Nvidia, Eager",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Why Wall Street thinks US memory maker Micron is the next Nvidia",
-        "Source context: Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron. The..."
+        "Key people or organizations: Robot, Tesla, Proception",
+        "Specific figures mentioned: $11M",
+        "AI desk signal: chip, enterprise",
+        "Story focus: Robot hand company settles Tesla trade secret suit and announces $11M raise",
+        "Source context: The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands. The larger..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -397,27 +341,29 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from US.",
+        "Watch for follow-up statements, product details or customer evidence from Robot.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sun, 28 Jun 2026 15:00:00 +0000",
-      "age_hours": "21.33",
-      "freshness_status": "stale",
-      "editorial_score": "54",
+      "published": "Mon, 29 Jun 2026 14:00:08 +0000",
+      "age_hours": "2.50",
+      "freshness_status": "fresh",
+      "editorial_score": "132",
       "urgency": ""
     },
     {
-      "headline": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "snapshot": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists that provides grants, mentorship, and marketing support. To apply, artists...",
+      "headline": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+      "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
+      "snapshot": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Suno, Spark, To",
-        "Story focus: Suno launches Spark incubator program to feed independent artists to its AI machine",
-        "Source context: Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is..."
+        "Key people or organizations: ISC, Enterprise, Hamburg, Hardware",
+        "Specific figures mentioned: 2026",
+        "AI desk signal: model, enterprise",
+        "Story focus: xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
+        "Source context: xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -425,46 +371,164 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Suno.",
+        "Watch for follow-up statements, product details or customer evidence from ISC.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-28T16:27:36-04:00",
-      "age_hours": "15.87",
-      "freshness_status": "stale",
-      "editorial_score": "50",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 29 Jun 2026 08:05:32 +0000",
+      "age_hours": "8.41",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+      "url": "https://www.artificialintelligence-news.com/news/scam-ai-announces-qualcomm-partnership-launches-halo-deepfake-detection-model-at-computex-2026/",
+      "snapshot": "New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership with Qualcomm and the launch of Halo, an on-device deepfake detection model for live video calls. Both announcements were made at... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Scam, Announces Qualcomm Partnership, Launches Halo Deepfake Detection, Model",
+        "Specific figures mentioned: 2026, 29",
+        "AI desk signal: model, enterprise",
+        "Story focus: Scam.ai Announces Qualcomm Partnership, Launches Halo Deepfake Detection Model at Computex 2026",
+        "Source context: New partnership brings on-device deepfake detection to video calls on desktop SAN FRANCISCO, June 29, 2026 — Scam.ai today announced a partnership..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Scam.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 29 Jun 2026 07:57:38 +0000",
+      "age_hours": "8.54",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
-      "headline": "Ford rehires 'gray beard' engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "snapshot": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\"",
+      "headline": "Lawmakers want to ban AI companies from selling your health data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "snapshot": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Ford, Mistakenly",
-        "Story focus: Ford rehires 'gray beard' engineers after AI falls short",
-        "Source context: \"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\""
+        "Key people or organizations: Lawmakers, Americans, ChatGPT, Claude",
+        "Story focus: Lawmakers want to ban AI companies from selling your health data",
+        "Source context: A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ford.",
+        "Watch for follow-up statements, product details or customer evidence from Lawmakers.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-29T12:00:00-04:00",
+      "age_hours": "0.51",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "HP accelerates enterprise workflows with OpenAI Frontier",
+      "url": "https://www.artificialintelligence-news.com/news/hp-accelerates-enterprise-workflows-openai-frontier/",
+      "snapshot": "HP has scaled its OpenAI Frontier integration across global operations to optimise enterprise workflows and accelerate output. The hardware manufacturer initiated testing of the platform in February 2026. Early pilot programs yielded verified operational gains in software... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: HP, OpenAI Frontier, February, Early",
+        "Specific figures mentioned: 2026",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: HP accelerates enterprise workflows with OpenAI Frontier"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from HP.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 29 Jun 2026 12:22:45 +0000",
+      "age_hours": "4.13",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    },
+    {
+      "headline": "Omen AI's plan to optimize data centers is all wet",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "snapshot": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Omen AI, Series",
+        "Specific figures mentioned: $31 million",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Omen AI's plan to optimize data centers is all wet",
+        "Source context: Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers. The larger angle is AI infrastructure:..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Omen AI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sun, 28 Jun 2026 19:05:39 +0000",
-      "age_hours": "17.23",
-      "freshness_status": "stale",
-      "editorial_score": "44",
-      "urgency": "BREAKING"
+      "published": "Mon, 29 Jun 2026 13:00:00 +0000",
+      "age_hours": "3.51",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "TIDAL cracks down on AI music by cutting off monetization",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "snapshot": "TIDAL's new policy will prevent AI-generated music from making money on its service. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: TIDAL",
+        "Story focus: TIDAL cracks down on AI music by cutting off monetization",
+        "Source context: TIDAL's new policy will prevent AI-generated music from making money on its service. The story matters because AI is moving deeper into legal and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from TIDAL.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 29 Jun 2026 16:29:04 +0000",
+      "age_hours": "0.02",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
