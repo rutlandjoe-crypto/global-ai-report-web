@@ -1,24 +1,54 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-  "snapshot": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-06-30 01:44:28 PM ET",
-  "generated_at": "2026-06-30 01:44:28 PM ET",
+  "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+  "snapshot": "Anthropic's Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+  "updated_at": "2026-06-30 03:26:18 PM ET",
+  "generated_at": "2026-06-30 03:26:18 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 37,
-    "live_fresh_items": 9,
-    "editor_fresh_items": 22,
-    "public_fallback_items": 29,
-    "stale_or_blocked_items": 28,
+    "live_fresh_items": 14,
+    "editor_fresh_items": 27,
+    "public_fallback_items": 30,
+    "stale_or_blocked_items": 23,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-30 01:44:28 PM ET"
+    "last_checked": "2026-06-30 03:26:18 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "snapshot": "Anthropic's Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Claude Sonnet, Opus, GPT",
+        "Specific figures mentioned: 5, 5.5",
+        "AI desk signal: model, agent",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic launches Claude Sonnet 5 as a cheaper way to run agents"
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 30 Jun 2026 18:00:00 +0000",
+      "age_hours": "1.44",
+      "freshness_status": "fresh",
+      "editorial_score": "190",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
       "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
@@ -44,50 +74,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "age_hours": "2.74",
+      "age_hours": "4.44",
       "freshness_status": "fresh",
       "editorial_score": "162",
       "urgency": "WATCH"
     },
     {
-      "headline": "Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "snapshot": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "snapshot": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Anthropic, Claude Science",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Nvidia, Etched, Nvidia AI",
+        "Specific figures mentioned: $5B, $1B, $1 billion",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
-        "Source context: Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce..."
+        "Story focus: Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip"
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 30 Jun 2026 17:00:00 +0000",
-      "age_hours": "0.74",
+      "published": "Tue, 30 Jun 2026 18:13:02 +0000",
+      "age_hours": "1.22",
       "freshness_status": "fresh",
-      "editorial_score": "118",
+      "editorial_score": "136",
       "urgency": ""
     },
     {
-      "headline": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "snapshot": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Google's NotebookLM can sum up your research in a TikTok-style clip",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "snapshot": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Crypto, OKX",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Crypto exchange OKX wants AI agents to hire and pay each other",
-        "Source context: OKX is bringing together payments, identity, and reputation into a marketplace for AI agents. The competitive question is whether this changes the..."
+        "Key people or organizations: Google, NotebookLM, TikTok, Google AI Ultra",
+        "Specific figures mentioned: 60",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google's NotebookLM can sum up your research in a TikTok-style clip"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -95,17 +126,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Crypto.",
+        "Watch for follow-up statements, product details or customer evidence from Google.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 30 Jun 2026 09:00:00 +0000",
-      "age_hours": "8.74",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-30T15:24:51-04:00",
+      "age_hours": "0.02",
       "freshness_status": "fresh",
-      "editorial_score": "90",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -133,42 +164,43 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-30T08:00:00-04:00",
-      "age_hours": "5.74",
+      "age_hours": "7.44",
       "freshness_status": "fresh",
       "editorial_score": "62",
-      "urgency": ""
-    },
-    {
-      "headline": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "snapshot": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not...",
-      "key_data": [
-        "Key people or organizations: Netflix, Gene Wilder, Willy Wonka, Wonka",
-        "Specific figures mentioned: 23",
-        "Story focus: Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-        "Source context: A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Netflix.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-30T13:19:15-04:00",
-      "age_hours": "0.42",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "snapshot": "Anthropic's Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Claude Sonnet, Opus, GPT",
+        "Specific figures mentioned: 5, 5.5",
+        "AI desk signal: model, agent",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic launches Claude Sonnet 5 as a cheaper way to run agents"
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 30 Jun 2026 18:00:00 +0000",
+      "age_hours": "1.44",
+      "freshness_status": "fresh",
+      "editorial_score": "190",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
       "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
@@ -194,51 +226,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "age_hours": "2.74",
+      "age_hours": "4.44",
       "freshness_status": "fresh",
       "editorial_score": "162",
       "urgency": "WATCH"
     },
     {
-      "headline": "Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "snapshot": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "snapshot": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Anthropic, Claude Science",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Nvidia, Etched, Nvidia AI",
+        "Specific figures mentioned: $5B, $1B, $1 billion",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
-        "Source context: Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 30 Jun 2026 17:00:00 +0000",
-      "age_hours": "0.74",
-      "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": ""
-    },
-    {
-      "headline": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "snapshot": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Robot, Tesla, Proception",
-        "Specific figures mentioned: $11M",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Robot hand company settles Tesla trade secret suit and announces $11M raise",
-        "Source context: The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands. The larger..."
+        "Story focus: Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -246,17 +248,47 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Robot.",
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 29 Jun 2026 14:00:08 +0000",
-      "age_hours": "27.74",
-      "freshness_status": "stale",
-      "editorial_score": "102",
+      "published": "Tue, 30 Jun 2026 18:13:02 +0000",
+      "age_hours": "1.22",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "Google's NotebookLM can sum up your research in a TikTok-style clip",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "snapshot": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Google, NotebookLM, TikTok, Google AI Ultra",
+        "Specific figures mentioned: 60",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google's NotebookLM can sum up your research in a TikTok-style clip"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-30T15:24:51-04:00",
+      "age_hours": "0.02",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -282,48 +314,48 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-29T12:00:00-04:00",
-      "age_hours": "25.74",
+      "age_hours": "27.44",
       "freshness_status": "stale",
       "editorial_score": "72",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "OpenAI is teasing new hardware… for Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-      "snapshot": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Codex, July, In",
-        "Specific figures mentioned: 15",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI is teasing new hardware… for Codex"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-29T14:52:03-04:00",
-      "age_hours": "22.87",
-      "freshness_status": "stale",
-      "editorial_score": "66",
-      "urgency": ""
     }
   ],
   "key_storylines": [
+    "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
     "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-    "Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
-    "Crypto exchange OKX wants AI agents to hire and pay each other"
+    "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip"
   ],
   "sections": [
+    {
+      "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "snapshot": "Anthropic's Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Claude Sonnet, Opus, GPT",
+        "Specific figures mentioned: 5, 5.5",
+        "AI desk signal: model, agent",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic launches Claude Sonnet 5 as a cheaper way to run agents"
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 30 Jun 2026 18:00:00 +0000",
+      "age_hours": "1.44",
+      "freshness_status": "fresh",
+      "editorial_score": "190",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
       "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
@@ -349,50 +381,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "age_hours": "2.74",
+      "age_hours": "4.44",
       "freshness_status": "fresh",
       "editorial_score": "162",
       "urgency": "WATCH"
     },
     {
-      "headline": "Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "snapshot": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "snapshot": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Anthropic, Claude Science",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Nvidia, Etched, Nvidia AI",
+        "Specific figures mentioned: $5B, $1B, $1 billion",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's Claude Science bets on workflow, not a new model, to win over scientists",
-        "Source context: Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce..."
+        "Story focus: Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip"
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 30 Jun 2026 17:00:00 +0000",
-      "age_hours": "0.74",
+      "published": "Tue, 30 Jun 2026 18:13:02 +0000",
+      "age_hours": "1.22",
       "freshness_status": "fresh",
-      "editorial_score": "118",
+      "editorial_score": "136",
       "urgency": ""
     },
     {
-      "headline": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "snapshot": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Google's NotebookLM can sum up your research in a TikTok-style clip",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "snapshot": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-second vertical AI clips based on the sources you upload to the app. The example... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Crypto, OKX",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Crypto exchange OKX wants AI agents to hire and pay each other",
-        "Source context: OKX is bringing together payments, identity, and reputation into a marketplace for AI agents. The competitive question is whether this changes the..."
+        "Key people or organizations: Google, NotebookLM, TikTok, Google AI Ultra",
+        "Specific figures mentioned: 60",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google's NotebookLM can sum up your research in a TikTok-style clip"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -400,17 +433,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Crypto.",
+        "Watch for follow-up statements, product details or customer evidence from Google.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 30 Jun 2026 09:00:00 +0000",
-      "age_hours": "8.74",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-30T15:24:51-04:00",
+      "age_hours": "0.02",
       "freshness_status": "fresh",
-      "editorial_score": "90",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -438,7 +471,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-30T08:00:00-04:00",
-      "age_hours": "5.74",
+      "age_hours": "7.44",
       "freshness_status": "fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -467,35 +500,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-30T13:19:15-04:00",
-      "age_hours": "0.42",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Libby will filter out AI content, kind of",
-      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "snapshot": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" says Marc DeBevoise, who took over as the new CEO of OverDrive last week....",
-      "key_data": [
-        "Key people or organizations: Libby, Lowpass, Janko Roettgers, Marc DeBevoise",
-        "Story focus: Libby will filter out AI content, kind of",
-        "Source context: This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Libby.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-30T11:30:00-04:00",
-      "age_hours": "2.24",
+      "age_hours": "2.12",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
