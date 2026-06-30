@@ -3,32 +3,60 @@
   "vertical": "AI",
   "headline": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
   "snapshot": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-06-30 05:24:13 AM ET",
-  "generated_at": "2026-06-30 05:24:13 AM ET",
+  "updated_at": "2026-06-30 08:02:49 AM ET",
+  "generated_at": "2026-06-30 08:02:49 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
+    "total_items_checked": 37,
     "live_fresh_items": 3,
-    "editor_fresh_items": 21,
-    "public_fallback_items": 31,
-    "stale_or_blocked_items": 46,
+    "editor_fresh_items": 14,
+    "public_fallback_items": 24,
+    "stale_or_blocked_items": 34,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-30 05:24:13 AM ET"
+    "last_checked": "2026-06-30 08:02:49 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "China's Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "snapshot": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Lawmakers want to ban AI companies from selling your health data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "snapshot": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: China, Mythos, Zhipu AI, GLM",
-        "Specific figures mentioned: 5.2",
+        "Key people or organizations: Lawmakers, Americans, ChatGPT, Claude",
+        "Story focus: Lawmakers want to ban AI companies from selling your health data",
+        "Source context: A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Lawmakers.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-29T12:00:00-04:00",
+      "age_hours": "20.05",
+      "freshness_status": "stale",
+      "editorial_score": "72",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI is teasing new hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "snapshot": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Codex, July, In",
+        "Specific figures mentioned: 15",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: China's Z.ai claims it can match Mythos on cybersecurity"
+        "Story focus: OpenAI is teasing new hardware… for Codex"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -36,18 +64,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from China.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-06-28T17:42:51-04:00",
-      "age_hours": "35.69",
+      "published": "2026-06-29T14:52:03-04:00",
+      "age_hours": "17.18",
       "freshness_status": "stale",
-      "editorial_score": "108",
-      "urgency": "WATCH"
+      "editorial_score": "66",
+      "urgency": ""
     },
     {
       "headline": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
@@ -73,7 +101,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 02:28:41 +0000",
-      "age_hours": "6.93",
+      "age_hours": "9.57",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -103,7 +131,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 29 Jun 2026 14:00:08 +0000",
-      "age_hours": "19.40",
+      "age_hours": "22.04",
       "freshness_status": "stale",
       "editorial_score": "102",
       "urgency": ""
@@ -132,39 +160,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 09:00:00 +0000",
-      "age_hours": "0.40",
+      "age_hours": "3.05",
       "freshness_status": "fresh",
       "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
-      "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
-      "snapshot": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: ISC, Enterprise, Hamburg, Hardware",
-        "Specific figures mentioned: 2026",
-        "AI desk signal: model, enterprise",
-        "Story focus: xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
-        "Source context: xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ISC.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Mon, 29 Jun 2026 08:05:32 +0000",
-      "age_hours": "25.31",
-      "freshness_status": "stale",
-      "editorial_score": "78",
       "urgency": ""
     }
   ],
@@ -193,39 +191,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 02:28:41 +0000",
-      "age_hours": "6.93",
+      "age_hours": "9.57",
       "freshness_status": "fresh",
       "editorial_score": "124",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "China's Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "snapshot": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: China, Mythos, Zhipu AI, GLM",
-        "Specific figures mentioned: 5.2",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: China's Z.ai claims it can match Mythos on cybersecurity"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from China.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-28T17:42:51-04:00",
-      "age_hours": "35.69",
-      "freshness_status": "stale",
-      "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
@@ -253,7 +221,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 29 Jun 2026 14:00:08 +0000",
-      "age_hours": "19.40",
+      "age_hours": "22.04",
       "freshness_status": "stale",
       "editorial_score": "102",
       "urgency": ""
@@ -282,21 +250,49 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 09:00:00 +0000",
-      "age_hours": "0.40",
+      "age_hours": "3.05",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
     },
     {
-      "headline": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
-      "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
-      "snapshot": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Lawmakers want to ban AI companies from selling your health data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "snapshot": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: ISC, Enterprise, Hamburg, Hardware",
-        "Specific figures mentioned: 2026",
+        "Key people or organizations: Lawmakers, Americans, ChatGPT, Claude",
+        "Story focus: Lawmakers want to ban AI companies from selling your health data",
+        "Source context: A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Lawmakers.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-29T12:00:00-04:00",
+      "age_hours": "20.05",
+      "freshness_status": "stale",
+      "editorial_score": "72",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI is teasing new hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "snapshot": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Codex, July, In",
+        "Specific figures mentioned: 15",
         "AI desk signal: model, enterprise",
-        "Story focus: xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
-        "Source context: xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI is teasing new hardware… for Codex"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -304,17 +300,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ISC.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Mon, 29 Jun 2026 08:05:32 +0000",
-      "age_hours": "25.31",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-29T14:52:03-04:00",
+      "age_hours": "17.18",
       "freshness_status": "stale",
-      "editorial_score": "78",
+      "editorial_score": "66",
       "urgency": ""
     }
   ],
@@ -348,7 +344,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 02:28:41 +0000",
-      "age_hours": "6.93",
+      "age_hours": "9.57",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -377,7 +373,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 09:00:00 +0000",
-      "age_hours": "0.40",
+      "age_hours": "3.05",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -406,21 +402,49 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 04:01:00 +0000",
-      "age_hours": "5.39",
+      "age_hours": "8.03",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
     },
     {
-      "headline": "China's Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "snapshot": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from Anthropic and OpenAI in other, more general tasks, it seems that China has... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Lawmakers want to ban AI companies from selling your health data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "snapshot": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: China, Mythos, Zhipu AI, GLM",
-        "Specific figures mentioned: 5.2",
+        "Key people or organizations: Lawmakers, Americans, ChatGPT, Claude",
+        "Story focus: Lawmakers want to ban AI companies from selling your health data",
+        "Source context: A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Lawmakers.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-29T12:00:00-04:00",
+      "age_hours": "20.05",
+      "freshness_status": "stale",
+      "editorial_score": "72",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI is teasing new hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "snapshot": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Codex, July, In",
+        "Specific figures mentioned: 15",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: China's Z.ai claims it can match Mythos on cybersecurity"
+        "Story focus: OpenAI is teasing new hardware… for Codex"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -428,47 +452,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from China.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-06-28T17:42:51-04:00",
-      "age_hours": "35.69",
+      "published": "2026-06-29T14:52:03-04:00",
+      "age_hours": "17.18",
       "freshness_status": "stale",
-      "editorial_score": "108",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
-      "url": "https://www.artificialintelligence-news.com/news/xfusion-scales-enterprise-ai-from-edge-workstations-to-liquid-cooled-data-centres/",
-      "snapshot": "xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise technology buyers attending the Hamburg exhibition sought practical production frameworks. Hardware selection processes regularly fail to... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: ISC, Enterprise, Hamburg, Hardware",
-        "Specific figures mentioned: 2026",
-        "AI desk signal: model, enterprise",
-        "Story focus: xFusion scales enterprise AI from edge workstations to liquid-cooled data centres",
-        "Source context: xFusion presented scalable enterprise AI computing models at ISC 2026, transitioning hardware from edge devices to data centres. Enterprise..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ISC.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Mon, 29 Jun 2026 08:05:32 +0000",
-      "age_hours": "25.31",
-      "freshness_status": "stale",
-      "editorial_score": "78",
+      "editorial_score": "66",
       "urgency": ""
     },
     {
@@ -496,7 +490,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 29 Jun 2026 14:00:08 +0000",
-      "age_hours": "19.40",
+      "age_hours": "22.04",
       "freshness_status": "stale",
       "editorial_score": "102",
       "urgency": ""
