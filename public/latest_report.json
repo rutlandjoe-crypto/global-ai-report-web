@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
   "snapshot": "Anthropic's Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-  "updated_at": "2026-06-30 07:00:45 PM ET",
-  "generated_at": "2026-06-30 07:00:45 PM ET",
+  "updated_at": "2026-06-30 10:00:24 PM ET",
+  "generated_at": "2026-06-30 10:00:24 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 37,
-    "live_fresh_items": 15,
-    "editor_fresh_items": 27,
-    "public_fallback_items": 30,
-    "stale_or_blocked_items": 22,
+    "total_items_checked": 49,
+    "live_fresh_items": 14,
+    "editor_fresh_items": 28,
+    "public_fallback_items": 36,
+    "stale_or_blocked_items": 35,
     "unknown_date_items": 0,
-    "last_checked": "2026-06-30 07:00:45 PM ET"
+    "last_checked": "2026-06-30 10:00:24 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 18:00:00 +0000",
-      "age_hours": "5.01",
+      "age_hours": "8.01",
       "freshness_status": "fresh",
       "editorial_score": "190",
       "urgency": "WATCH"
@@ -74,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "age_hours": "8.01",
+      "age_hours": "11.01",
       "freshness_status": "fresh",
       "editorial_score": "162",
       "urgency": "WATCH"
@@ -104,9 +104,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 18:13:02 +0000",
-      "age_hours": "4.80",
+      "age_hours": "7.79",
       "freshness_status": "fresh",
       "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "snapshot": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Department of Commerce has... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Fable, Trump, Claude Fable",
+        "Specific figures mentioned: 5",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's long-sidelined Fable 5 is greenlit to return"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-30T20:03:55-04:00",
+      "age_hours": "1.94",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -134,39 +164,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-30T15:24:51-04:00",
-      "age_hours": "3.60",
+      "age_hours": "6.59",
       "freshness_status": "fresh",
       "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Meet the lawyer who beat Elon Musk — twice",
-      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-      "snapshot": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Meet, Elon Musk, Watching Elon Musk, Bill Savitt",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meet the lawyer who beat Elon Musk — twice",
-        "Source context: Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meet.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-30T08:00:00-04:00",
-      "age_hours": "11.01",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
       "urgency": ""
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 18:00:00 +0000",
-      "age_hours": "5.01",
+      "age_hours": "8.01",
       "freshness_status": "fresh",
       "editorial_score": "190",
       "urgency": "WATCH"
@@ -226,7 +226,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "age_hours": "8.01",
+      "age_hours": "11.01",
       "freshness_status": "fresh",
       "editorial_score": "162",
       "urgency": "WATCH"
@@ -256,9 +256,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 18:13:02 +0000",
-      "age_hours": "4.80",
+      "age_hours": "7.79",
       "freshness_status": "fresh",
       "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "snapshot": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Department of Commerce has... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Fable, Trump, Claude Fable",
+        "Specific figures mentioned: 5",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's long-sidelined Fable 5 is greenlit to return"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-30T20:03:55-04:00",
+      "age_hours": "1.94",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -286,38 +316,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-30T15:24:51-04:00",
-      "age_hours": "3.60",
+      "age_hours": "6.59",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
-    },
-    {
-      "headline": "Lawmakers want to ban AI companies from selling your health data",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-      "snapshot": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Senator Elizabeth Warren (D-MA) and Representative Mary Gay Scanlon (D-PA) are... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Lawmakers, Americans, ChatGPT, Claude",
-        "Story focus: Lawmakers want to ban AI companies from selling your health data",
-        "Source context: A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Lawmakers.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-29T12:00:00-04:00",
-      "age_hours": "31.01",
-      "freshness_status": "stale",
-      "editorial_score": "72",
-      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
@@ -351,7 +353,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 18:00:00 +0000",
-      "age_hours": "5.01",
+      "age_hours": "8.01",
       "freshness_status": "fresh",
       "editorial_score": "190",
       "urgency": "WATCH"
@@ -381,7 +383,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "age_hours": "8.01",
+      "age_hours": "11.01",
       "freshness_status": "fresh",
       "editorial_score": "162",
       "urgency": "WATCH"
@@ -411,9 +413,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 18:13:02 +0000",
-      "age_hours": "4.80",
+      "age_hours": "7.79",
       "freshness_status": "fresh",
       "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "snapshot": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access tomorrow. Anthropic: We've received notice that the Department of Commerce has... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Fable, Trump, Claude Fable",
+        "Specific figures mentioned: 5",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's long-sidelined Fable 5 is greenlit to return"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-06-30T20:03:55-04:00",
+      "age_hours": "1.94",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -441,39 +473,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-30T15:24:51-04:00",
-      "age_hours": "3.60",
+      "age_hours": "6.59",
       "freshness_status": "fresh",
       "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Meet the lawyer who beat Elon Musk — twice",
-      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-      "snapshot": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Meet, Elon Musk, Watching Elon Musk, Bill Savitt",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meet the lawyer who beat Elon Musk — twice",
-        "Source context: Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meet.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-06-30T08:00:00-04:00",
-      "age_hours": "11.01",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
       "urgency": ""
     },
     {
@@ -500,7 +502,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-06-30T13:19:15-04:00",
-      "age_hours": "5.69",
+      "age_hours": "8.69",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
