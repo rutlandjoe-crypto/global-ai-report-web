@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-  "snapshot": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
-  "updated_at": "2026-07-01 07:59:33 PM ET",
-  "generated_at": "2026-07-01 07:59:33 PM ET",
+  "headline": "Cloudflare's new policy pushes AI companies to pay for publishers' content",
+  "snapshot": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
+  "updated_at": "2026-07-01 10:56:48 PM ET",
+  "generated_at": "2026-07-01 10:56:48 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 9,
-    "editor_fresh_items": 30,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 29,
     "public_fallback_items": 39,
-    "stale_or_blocked_items": 40,
+    "stale_or_blocked_items": 45,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-01 07:59:33 PM ET"
+    "last_checked": "2026-07-01 10:56:48 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,51 +44,49 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 01 Jul 2026 17:48:37 +0000",
-      "age_hours": "6.18",
+      "age_hours": "9.14",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "snapshot": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
+      "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "snapshot": "Anthropic's Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Meta, SpaceX, Amazon Web Services, Google Cloud",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Anthropic, Claude Sonnet, Opus, GPT",
+        "Specific figures mentioned: 5, 5.5",
+        "AI desk signal: model, agent",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta, like SpaceX, looks to turn excess AI compute into cash",
-        "Source context: Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big..."
+        "Story focus: Anthropic launches Claude Sonnet 5 as a cheaper way to run agents"
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 01 Jul 2026 13:43:07 +0000",
-      "age_hours": "10.27",
-      "freshness_status": "fresh",
-      "editorial_score": "152",
-      "urgency": ""
+      "published": "Tue, 30 Jun 2026 18:00:00 +0000",
+      "age_hours": "32.95",
+      "freshness_status": "stale",
+      "editorial_score": "160",
+      "urgency": "WATCH"
     },
     {
-      "headline": "Gemini Spark, Google's agentic assistant, is now available on Mac",
-      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "snapshot": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "snapshot": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
       "key_data": [
-        "Key people or organizations: Gemini Spark, Google, Mac",
-        "Specific figures mentioned: 24, 7",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Gemini Spark, Google's agentic assistant, is now available on Mac"
+        "Key people or organizations: Ashton Kutcher, Sound Ventures, VC, Morgan Beller",
+        "Story focus: Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+        "Source context: Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -96,48 +94,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Gemini Spark.",
+        "Watch for follow-up statements, product details or customer evidence from Ashton Kutcher.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 01 Jul 2026 14:20:19 +0000",
-      "age_hours": "9.65",
+      "published": "Wed, 01 Jul 2026 18:47:22 +0000",
+      "age_hours": "8.16",
       "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": ""
-    },
-    {
-      "headline": "Google built a great smart speaker, but Gemini isn't ready for it",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "snapshot": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Google, Gemini, Smart, Beyond",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google built a great smart speaker, but Gemini isn't ready for it",
-        "Source context: Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-01T08:00:00-04:00",
-      "age_hours": "11.99",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
+      "editorial_score": "80",
+      "urgency": "WATCH"
     },
     {
       "headline": "Deploying retail AI to scale personalisation and customer insight",
@@ -162,7 +130,35 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 01 Jul 2026 15:58:43 +0000",
-      "age_hours": "8.01",
+      "age_hours": "10.97",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "snapshot": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "key_data": [
+        "Key people or organizations: SpaceX, It",
+        "Story focus: SpaceX has an AI device prototype, and it sure sounds phone-ish",
+        "Source context: SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from SpaceX.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 01 Jul 2026 18:54:18 +0000",
+      "age_hours": "8.04",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -194,40 +190,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 18:00:00 +0000",
-      "age_hours": "29.99",
+      "age_hours": "32.95",
       "freshness_status": "stale",
       "editorial_score": "160",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "snapshot": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
-      "key_data": [
-        "Key people or organizations: Meta, SpaceX, Amazon Web Services, Google Cloud",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta, like SpaceX, looks to turn excess AI compute into cash",
-        "Source context: Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 01 Jul 2026 13:43:07 +0000",
-      "age_hours": "10.27",
-      "freshness_status": "fresh",
-      "editorial_score": "152",
-      "urgency": ""
     },
     {
       "headline": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
@@ -254,106 +220,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 30 Jun 2026 15:00:00 +0000",
-      "age_hours": "32.99",
+      "age_hours": "35.95",
       "freshness_status": "stale",
       "editorial_score": "132",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Bank of England reviews AI rules for agentic AI in finance",
-      "url": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
-      "snapshot": "The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and operations. Deputy Governor Sarah Breeden said existing regulatory frameworks were not designed for AI agents that can act... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-      "key_data": [
-        "Key people or organizations: Bank, England, Deputy Governor Sarah Breeden",
-        "AI desk signal: agent",
-        "Story focus: Bank of England reviews AI rules for agentic AI in finance",
-        "Source context: The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Bank.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Wed, 01 Jul 2026 10:00:00 +0000",
-      "age_hours": "13.99",
-      "freshness_status": "stale",
-      "editorial_score": "110",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Google built a great smart speaker, but Gemini isn't ready for it",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "snapshot": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Google, Gemini, Smart, Beyond",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google built a great smart speaker, but Gemini isn't ready for it",
-        "Source context: Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-01T08:00:00-04:00",
-      "age_hours": "11.99",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Meta, like SpaceX, looks to turn excess AI compute into cash",
-    "Cloudflare's new policy pushes AI companies to pay for publishers' content",
-    "Gemini Spark, Google's agentic assistant, is now available on Mac"
-  ],
-  "sections": [
-    {
-      "headline": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "snapshot": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
-      "key_data": [
-        "Key people or organizations: Meta, SpaceX, Amazon Web Services, Google Cloud",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta, like SpaceX, looks to turn excess AI compute into cash",
-        "Source context: Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 01 Jul 2026 13:43:07 +0000",
-      "age_hours": "10.27",
-      "freshness_status": "fresh",
-      "editorial_score": "152",
-      "urgency": ""
     },
     {
       "headline": "Cloudflare's new policy pushes AI companies to pay for publishers' content",
@@ -380,51 +250,50 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 01 Jul 2026 17:48:37 +0000",
-      "age_hours": "6.18",
+      "age_hours": "9.14",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Gemini Spark, Google's agentic assistant, is now available on Mac",
-      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "snapshot": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Bank of England reviews AI rules for agentic AI in finance",
+      "url": "https://www.artificialintelligence-news.com/news/bank-of-england-agentic-ai-finance-rules/",
+      "snapshot": "The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and operations. Deputy Governor Sarah Breeden said existing regulatory frameworks were not designed for AI agents that can act... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
       "key_data": [
-        "Key people or organizations: Gemini Spark, Google, Mac",
-        "Specific figures mentioned: 24, 7",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Gemini Spark, Google's agentic assistant, is now available on Mac"
+        "Key people or organizations: Bank, England, Deputy Governor Sarah Breeden",
+        "AI desk signal: agent",
+        "Story focus: Bank of England reviews AI rules for agentic AI in finance",
+        "Source context: The Bank of England is reviewing whether existing rules can cover the use of agentic AI in finance, including payments, trading, cybersecurity, and..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Gemini Spark.",
+        "Watch for follow-up statements, product details or customer evidence from Bank.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 01 Jul 2026 14:20:19 +0000",
-      "age_hours": "9.65",
-      "freshness_status": "fresh",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 01 Jul 2026 10:00:00 +0000",
+      "age_hours": "16.95",
+      "freshness_status": "stale",
       "editorial_score": "110",
-      "urgency": ""
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Google built a great smart speaker, but Gemini isn't ready for it",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "snapshot": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Anthropic deploys Claude Sonnet 5, Fable and Mythos restored",
+      "url": "https://www.artificialintelligence-news.com/news/anthropic-deploys-claude-sonnet-5-fable-and-mythos-restored/",
+      "snapshot": "Anthropic has launched Claude Sonnet 5 and restored access to its Fable and Mythos frontier models following a federal export control review. The decision marks the conclusion of an eighteen-day operational pause triggered by a US government export control directive on June... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Google, Gemini, Smart, Beyond",
+        "Key people or organizations: Anthropic, Claude Sonnet, Fable, Mythos",
+        "Specific figures mentioned: 5",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google built a great smart speaker, but Gemini isn't ready for it",
-        "Source context: Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've..."
+        "Story focus: Anthropic deploys Claude Sonnet 5, Fable and Mythos restored"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -432,17 +301,110 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-01T08:00:00-04:00",
-      "age_hours": "11.99",
-      "freshness_status": "fresh",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 01 Jul 2026 08:47:12 +0000",
+      "age_hours": "18.16",
+      "freshness_status": "stale",
       "editorial_score": "100",
+      "urgency": "WATCH"
+    }
+  ],
+  "key_storylines": [
+    "Cloudflare's new policy pushes AI companies to pay for publishers' content",
+    "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "SpaceX has an AI device prototype, and it sure sounds phone-ish"
+  ],
+  "sections": [
+    {
+      "headline": "Cloudflare's new policy pushes AI companies to pay for publishers' content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "snapshot": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
+      "key_data": [
+        "Key people or organizations: Cloudflare, September",
+        "Specific figures mentioned: 15",
+        "AI desk signal: agent, chip, enterprise",
+        "Story focus: Cloudflare's new policy pushes AI companies to pay for publishers' content",
+        "Source context: Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Cloudflare.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 01 Jul 2026 17:48:37 +0000",
+      "age_hours": "9.14",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "snapshot": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "key_data": [
+        "Key people or organizations: Ashton Kutcher, Sound Ventures, VC, Morgan Beller",
+        "Story focus: Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+        "Source context: Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ashton Kutcher.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 01 Jul 2026 18:47:22 +0000",
+      "age_hours": "8.16",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "snapshot": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "key_data": [
+        "Key people or organizations: SpaceX, It",
+        "Story focus: SpaceX has an AI device prototype, and it sure sounds phone-ish",
+        "Source context: SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from SpaceX.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 01 Jul 2026 18:54:18 +0000",
+      "age_hours": "8.04",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
       "urgency": ""
     },
     {
@@ -468,37 +430,39 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 01 Jul 2026 15:58:43 +0000",
-      "age_hours": "8.01",
+      "age_hours": "10.97",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
     },
     {
-      "headline": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "snapshot": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+      "headline": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "snapshot": "Anthropic's Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Ashton Kutcher, Sound Ventures, VC, Morgan Beller",
-        "Story focus: Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-        "Source context: Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the..."
+        "Key people or organizations: Anthropic, Claude Sonnet, Opus, GPT",
+        "Specific figures mentioned: 5, 5.5",
+        "AI desk signal: model, agent",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic launches Claude Sonnet 5 as a cheaper way to run agents"
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ashton Kutcher.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 01 Jul 2026 18:47:22 +0000",
-      "age_hours": "5.20",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
+      "published": "Tue, 30 Jun 2026 18:00:00 +0000",
+      "age_hours": "32.95",
+      "freshness_status": "stale",
+      "editorial_score": "160",
       "urgency": "WATCH"
     }
   ],
