@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "A behind-the-scenes look at Midjourney's medical scanner leaves many questions unanswered",
   "snapshot": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will... The business angle is capital allocation: investors and strategic buyers are still sorting which AI...",
-  "updated_at": "2026-07-03 02:55:40 PM ET",
-  "generated_at": "2026-07-03 02:55:40 PM ET",
+  "updated_at": "2026-07-03 04:06:46 PM ET",
+  "generated_at": "2026-07-03 04:06:46 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 37,
-    "live_fresh_items": 3,
-    "editor_fresh_items": 11,
-    "public_fallback_items": 26,
-    "stale_or_blocked_items": 34,
+    "total_items_checked": 49,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 13,
+    "public_fallback_items": 31,
+    "stale_or_blocked_items": 45,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-03 02:55:40 PM ET"
+    "last_checked": "2026-07-03 04:06:46 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-03T07:49:10-04:00",
-      "age_hours": "7.11",
+      "age_hours": "8.29",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": "WATCH"
@@ -72,21 +72,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 13:53:00 +0000",
-      "age_hours": "29.04",
+      "age_hours": "30.23",
       "freshness_status": "stale",
       "editorial_score": "104",
       "urgency": "WATCH"
     },
     {
-      "headline": "Anthropic is discussing a new custom chip with Samsung",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "snapshot": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+      "snapshot": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Anthropic, Samsung, OpenAI, Broadcom",
-        "AI desk signal: chip, enterprise",
+        "Key people or organizations: NVIDIA BioNeMo, Anthropic Claude Science, NVIDIA BioNeMo Agent Toolkit, Anthropic",
+        "AI desk signal: agent, chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic is discussing a new custom chip with Samsung",
-        "Source context: The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. The larger angle is AI infrastructure:..."
+        "Story focus: NVIDIA BioNeMo accelerates Anthropic Claude Science",
+        "Source context: Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -94,18 +94,18 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Watch for follow-up statements, product details or customer evidence from NVIDIA BioNeMo.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 02 Jul 2026 18:31:09 +0000",
-      "age_hours": "24.41",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 02 Jul 2026 14:38:01 +0000",
+      "age_hours": "29.48",
       "freshness_status": "stale",
-      "editorial_score": "96",
-      "urgency": ""
+      "editorial_score": "98",
+      "urgency": "WATCH"
     },
     {
       "headline": "Anthropic wants to develop its own drugs",
@@ -132,40 +132,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-03T09:56:52-04:00",
-      "age_hours": "4.98",
+      "age_hours": "6.16",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "snapshot": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "snapshot": "We've compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
       "key_data": [
-        "Key people or organizations: Meta, Pocket",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta quietly launches vibe-coded gaming app Pocket",
-        "Source context: Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts. The..."
+        "Key people or organizations: Chrome, Safari, We",
+        "Story focus: The browser wars aren't about search anymore — here are the best alternatives to Chrome and Safari",
+        "Source context: We've compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Chrome.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 02 Jul 2026 18:44:02 +0000",
-      "age_hours": "24.19",
-      "freshness_status": "stale",
-      "editorial_score": "80",
-      "urgency": "WATCH"
+      "published": "Fri, 03 Jul 2026 18:43:00 +0000",
+      "age_hours": "1.40",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -194,9 +192,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 13:53:00 +0000",
-      "age_hours": "29.04",
+      "age_hours": "30.23",
       "freshness_status": "stale",
       "editorial_score": "104",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+      "snapshot": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: NVIDIA BioNeMo, Anthropic Claude Science, NVIDIA BioNeMo Agent Toolkit, Anthropic",
+        "AI desk signal: agent, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: NVIDIA BioNeMo accelerates Anthropic Claude Science",
+        "Source context: Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from NVIDIA BioNeMo.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 02 Jul 2026 14:38:01 +0000",
+      "age_hours": "29.48",
+      "freshness_status": "stale",
+      "editorial_score": "98",
       "urgency": "WATCH"
     },
     {
@@ -224,7 +252,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 18:31:09 +0000",
-      "age_hours": "24.41",
+      "age_hours": "25.59",
       "freshness_status": "stale",
       "editorial_score": "96",
       "urgency": ""
@@ -252,7 +280,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-03T07:49:10-04:00",
-      "age_hours": "7.11",
+      "age_hours": "8.29",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": "WATCH"
@@ -282,40 +310,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-03T09:56:52-04:00",
-      "age_hours": "4.98",
+      "age_hours": "6.16",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
-    },
-    {
-      "headline": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "snapshot": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Meta, Pocket",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta quietly launches vibe-coded gaming app Pocket",
-        "Source context: Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 02 Jul 2026 18:44:02 +0000",
-      "age_hours": "24.19",
-      "freshness_status": "stale",
-      "editorial_score": "80",
-      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
@@ -347,7 +345,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-03T07:49:10-04:00",
-      "age_hours": "7.11",
+      "age_hours": "8.29",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": "WATCH"
@@ -377,7 +375,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-03T09:56:52-04:00",
-      "age_hours": "4.98",
+      "age_hours": "6.16",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -405,10 +403,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 03 Jul 2026 18:43:00 +0000",
-      "age_hours": "0.21",
+      "age_hours": "1.40",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
+    },
+    {
+      "headline": "Takeda signs US$600M AI drug discovery deal with Insilico",
+      "url": "https://www.artificialintelligence-news.com/news/takeda-insilico-ai-drug-discovery-deal/",
+      "snapshot": "Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese pharmaceutical company's therapeutic areas. The companies did not disclose which therapeutic areas or disease targets will be covered...",
+      "key_data": [
+        "Key people or organizations: Takeda, US, Insilico, Hong Kong",
+        "Specific figures mentioned: $600M",
+        "Story focus: Takeda signs US$600M AI drug discovery deal with Insilico",
+        "Source context: Takeda has entered a strategic collaboration with Hong Kong-based Insilico Medicine to use AI in early-stage drug discovery across the Japanese..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Takeda.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 03 Jul 2026 10:00:00 +0000",
+      "age_hours": "10.11",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": "WATCH"
     },
     {
       "headline": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
@@ -435,21 +462,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 13:53:00 +0000",
-      "age_hours": "29.04",
+      "age_hours": "30.23",
       "freshness_status": "stale",
       "editorial_score": "104",
       "urgency": "WATCH"
     },
     {
-      "headline": "Anthropic is discussing a new custom chip with Samsung",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "snapshot": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
+      "snapshot": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Anthropic, Samsung, OpenAI, Broadcom",
-        "AI desk signal: chip, enterprise",
+        "Key people or organizations: NVIDIA BioNeMo, Anthropic Claude Science, NVIDIA BioNeMo Agent Toolkit, Anthropic",
+        "AI desk signal: agent, chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic is discussing a new custom chip with Samsung",
-        "Source context: The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. The larger angle is AI infrastructure:..."
+        "Story focus: NVIDIA BioNeMo accelerates Anthropic Claude Science",
+        "Source context: Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -457,47 +484,17 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Watch for follow-up statements, product details or customer evidence from NVIDIA BioNeMo.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 02 Jul 2026 18:31:09 +0000",
-      "age_hours": "24.41",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 02 Jul 2026 14:38:01 +0000",
+      "age_hours": "29.48",
       "freshness_status": "stale",
-      "editorial_score": "96",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "snapshot": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Meta, Pocket",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta quietly launches vibe-coded gaming app Pocket",
-        "Source context: Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 02 Jul 2026 18:44:02 +0000",
-      "age_hours": "24.19",
-      "freshness_status": "stale",
-      "editorial_score": "80",
+      "editorial_score": "98",
       "urgency": "WATCH"
     }
   ],
