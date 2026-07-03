@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
   "snapshot": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-07-02 07:52:05 PM ET",
-  "generated_at": "2026-07-02 07:52:05 PM ET",
+  "updated_at": "2026-07-02 09:24:09 PM ET",
+  "generated_at": "2026-07-02 09:24:09 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 8,
-    "editor_fresh_items": 19,
-    "public_fallback_items": 32,
-    "stale_or_blocked_items": 41,
+    "total_items_checked": 37,
+    "live_fresh_items": 6,
+    "editor_fresh_items": 16,
+    "public_fallback_items": 27,
+    "stale_or_blocked_items": 31,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-02 07:52:05 PM ET"
+    "last_checked": "2026-07-02 09:24:09 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 13:53:00 +0000",
-      "age_hours": "9.98",
+      "age_hours": "11.52",
       "freshness_status": "fresh",
       "editorial_score": "134",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
-      "snapshot": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: NVIDIA BioNeMo, Anthropic Claude Science, NVIDIA BioNeMo Agent Toolkit, Anthropic",
-        "AI desk signal: agent, chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: NVIDIA BioNeMo accelerates Anthropic Claude Science",
-        "Source context: Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from NVIDIA BioNeMo.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 02 Jul 2026 14:38:01 +0000",
-      "age_hours": "9.23",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
       "urgency": "WATCH"
     },
     {
@@ -104,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 18:31:09 +0000",
-      "age_hours": "5.35",
+      "age_hours": "6.88",
       "freshness_status": "fresh",
       "editorial_score": "126",
       "urgency": ""
@@ -134,10 +104,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 18:44:02 +0000",
-      "age_hours": "5.13",
+      "age_hours": "6.67",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "snapshot": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Trump, US, Financial Times",
+        "Specific figures mentioned: 5",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI floats giving Trump administration 5 percent cut of AI boom"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-02T06:23:27-04:00",
+      "age_hours": "15.01",
+      "freshness_status": "stale",
+      "editorial_score": "54",
+      "urgency": ""
     },
     {
       "headline": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped",
@@ -164,7 +164,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 23:38:10 +0000",
-      "age_hours": "0.23",
+      "age_hours": "1.77",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": ""
@@ -196,39 +196,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 13:53:00 +0000",
-      "age_hours": "9.98",
+      "age_hours": "11.52",
       "freshness_status": "fresh",
       "editorial_score": "134",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
-      "snapshot": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: NVIDIA BioNeMo, Anthropic Claude Science, NVIDIA BioNeMo Agent Toolkit, Anthropic",
-        "AI desk signal: agent, chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: NVIDIA BioNeMo accelerates Anthropic Claude Science",
-        "Source context: Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from NVIDIA BioNeMo.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 02 Jul 2026 14:38:01 +0000",
-      "age_hours": "9.23",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
       "urgency": "WATCH"
     },
     {
@@ -256,7 +226,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 18:31:09 +0000",
-      "age_hours": "5.35",
+      "age_hours": "6.88",
       "freshness_status": "fresh",
       "editorial_score": "126",
       "urgency": ""
@@ -286,21 +256,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 01 Jul 2026 13:43:07 +0000",
-      "age_hours": "34.15",
+      "age_hours": "35.68",
       "freshness_status": "stale",
       "editorial_score": "122",
       "urgency": ""
     },
     {
-      "headline": "Google built a great smart speaker, but Gemini isn't ready for it",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "snapshot": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen counter. AI promised to change that. Amazon debuted its new hardware powered by a... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "snapshot": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Google, Gemini, Smart, Beyond",
+        "Key people or organizations: OpenAI, Trump, US, Financial Times",
+        "Specific figures mentioned: 5",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google built a great smart speaker, but Gemini isn't ready for it",
-        "Source context: Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've..."
+        "Story focus: OpenAI floats giving Trump administration 5 percent cut of AI boom"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -308,24 +278,54 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-07-01T08:00:00-04:00",
-      "age_hours": "35.87",
+      "published": "2026-07-02T06:23:27-04:00",
+      "age_hours": "15.01",
       "freshness_status": "stale",
-      "editorial_score": "70",
+      "editorial_score": "54",
       "urgency": ""
+    },
+    {
+      "headline": "Meta quietly launches vibe-coded gaming app Pocket",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "snapshot": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Meta, Pocket",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta quietly launches vibe-coded gaming app Pocket",
+        "Source context: Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 02 Jul 2026 18:44:02 +0000",
+      "age_hours": "6.67",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
     "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-    "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-    "Anthropic is discussing a new custom chip with Samsung"
+    "Anthropic is discussing a new custom chip with Samsung",
+    "Meta quietly launches vibe-coded gaming app Pocket"
   ],
   "sections": [
     {
@@ -353,39 +353,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 13:53:00 +0000",
-      "age_hours": "9.98",
+      "age_hours": "11.52",
       "freshness_status": "fresh",
       "editorial_score": "134",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "NVIDIA BioNeMo accelerates Anthropic Claude Science",
-      "url": "https://www.artificialintelligence-news.com/news/nvidia-bionemo-accelerates-anthropic-claude-science/",
-      "snapshot": "Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched the public beta of Claude Science, an AI workbench built for scientific research. The platform enables scientists to converse... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: NVIDIA BioNeMo, Anthropic Claude Science, NVIDIA BioNeMo Agent Toolkit, Anthropic",
-        "AI desk signal: agent, chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: NVIDIA BioNeMo accelerates Anthropic Claude Science",
-        "Source context: Anthropic Claude Science now integrates the NVIDIA BioNeMo Agent Toolkit to accelerate computational life sciences research. Anthropic has launched..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from NVIDIA BioNeMo.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 02 Jul 2026 14:38:01 +0000",
-      "age_hours": "9.23",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
       "urgency": "WATCH"
     },
     {
@@ -413,7 +383,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 18:31:09 +0000",
-      "age_hours": "5.35",
+      "age_hours": "6.88",
       "freshness_status": "fresh",
       "editorial_score": "126",
       "urgency": ""
@@ -443,10 +413,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 18:44:02 +0000",
-      "age_hours": "5.13",
+      "age_hours": "6.67",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "snapshot": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Trump, US, Financial Times",
+        "Specific figures mentioned: 5",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI floats giving Trump administration 5 percent cut of AI boom"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-02T06:23:27-04:00",
+      "age_hours": "15.01",
+      "freshness_status": "stale",
+      "editorial_score": "54",
+      "urgency": ""
     },
     {
       "headline": "Mark Zuckerberg tells staff that AI agents haven't progressed as quickly as he'd hoped",
@@ -473,7 +473,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 02 Jul 2026 23:38:10 +0000",
-      "age_hours": "0.23",
+      "age_hours": "1.77",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": ""
