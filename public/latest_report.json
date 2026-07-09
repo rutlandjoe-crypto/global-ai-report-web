@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Meta says its new AI model is ready to compete on coding",
-  "snapshot": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-07-09 01:09:25 PM ET",
-  "generated_at": "2026-07-09 01:09:25 PM ET",
+  "headline": "OpenAI rolls out GPT-5.6 after government greenlight — and announces 'ChatGPT Work'",
+  "snapshot": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+  "updated_at": "2026-07-09 03:15:19 PM ET",
+  "generated_at": "2026-07-09 03:15:19 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 13,
-    "editor_fresh_items": 28,
-    "public_fallback_items": 33,
-    "stale_or_blocked_items": 36,
+    "live_fresh_items": 20,
+    "editor_fresh_items": 29,
+    "public_fallback_items": 34,
+    "stale_or_blocked_items": 29,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-09 01:09:25 PM ET"
+    "last_checked": "2026-07-09 03:15:19 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,10 +43,40 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 09 Jul 2026 15:43:09 +0000",
-      "age_hours": "1.44",
+      "age_hours": "3.54",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": ""
+    },
+    {
+      "headline": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "snapshot": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: New York Times, OpenAI, ChatGPT",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+        "Source context: News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from New York Times.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 09 Jul 2026 19:05:58 +0000",
+      "age_hours": "0.16",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Microsoft's patch Tuesdays are about to get bigger",
@@ -73,21 +103,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-09T13:00:00-04:00",
-      "age_hours": "0.16",
+      "age_hours": "2.26",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
     },
     {
-      "headline": "Meta says its new AI model is ready to compete on coding",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "snapshot": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "OpenAI rolls out GPT-5.6 after government greenlight — and announces 'ChatGPT Work'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "snapshot": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Meta, Muse Spark, April, Meta Model API",
-        "Specific figures mentioned: 1.1",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: OpenAI, GPT, ChatGPT Work, About",
+        "Specific figures mentioned: 5.6",
+        "AI desk signal: model",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta says its new AI model is ready to compete on coding"
+        "Story focus: OpenAI rolls out GPT-5.6 after government greenlight — and announces 'ChatGPT Work'"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -95,29 +125,29 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-07-09T10:00:00-04:00",
-      "age_hours": "3.16",
+      "published": "2026-07-09T13:00:00-04:00",
+      "age_hours": "2.26",
       "freshness_status": "fresh",
-      "editorial_score": "118",
+      "editorial_score": "154",
       "urgency": ""
     },
     {
-      "headline": "Anthropic's new Claude feature is quietly selling you on AI",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "snapshot": "Claude's new Reflect dashboard doesn't just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic's chatbot. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "How did the government decide OpenAI's frontier model was safe to release?",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "snapshot": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Anthropic, Claude, Reflect, It",
+        "Key people or organizations: OpenAI, Exactly, Anthropic",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's new Claude feature is quietly selling you on AI",
-        "Source context: Claude's new Reflect dashboard doesn't just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on..."
+        "Story focus: How did the government decide OpenAI's frontier model was safe to release?",
+        "Source context: \"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\" The competitive question is whether this changes..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -125,79 +155,50 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 09 Jul 2026 14:53:09 +0000",
-      "age_hours": "2.27",
+      "published": "Thu, 09 Jul 2026 18:22:39 +0000",
+      "age_hours": "0.88",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "snapshot": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, OpenAI, SpaceX, Three",
-        "Specific figures mentioned: 25, 2000",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 09 Jul 2026 14:51:00 +0000",
-      "age_hours": "2.31",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "136",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "snapshot": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "OpenAI rolls out GPT-5.6 after government greenlight — and announces 'ChatGPT Work'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "snapshot": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Hot French, ZML, French AI, Turing Award",
-        "AI desk signal: llm, chip, enterprise",
-        "Story focus: Hot French startup ZML releases free product to speed inference across lots of AI chips",
-        "Source context: ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly...."
+        "Key people or organizations: OpenAI, GPT, ChatGPT Work, About",
+        "Specific figures mentioned: 5.6",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI rolls out GPT-5.6 after government greenlight — and announces 'ChatGPT Work'"
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Hot French.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 08 Jul 2026 08:00:00 +0000",
-      "age_hours": "33.16",
-      "freshness_status": "stale",
-      "editorial_score": "142",
-      "urgency": "WATCH"
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-09T13:00:00-04:00",
+      "age_hours": "2.26",
+      "freshness_status": "fresh",
+      "editorial_score": "154",
+      "urgency": ""
     },
     {
       "headline": "SpaceXAI releases Grok 4.5, which Elon describes as an 'Opus-class model'",
@@ -224,20 +225,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 08 Jul 2026 19:30:16 +0000",
-      "age_hours": "21.65",
+      "age_hours": "23.75",
       "freshness_status": "stale",
       "editorial_score": "138",
       "urgency": "WATCH"
     },
     {
-      "headline": "This startup thinks robotics is about to have its ChatGPT moment",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "snapshot": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "How did the government decide OpenAI's frontier model was safe to release?",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "snapshot": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: ChatGPT, General Intuition",
+        "Key people or organizations: OpenAI, Exactly, Anthropic",
         "AI desk signal: model, enterprise",
-        "Story focus: This startup thinks robotics is about to have its ChatGPT moment",
-        "Source context: General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: How did the government decide OpenAI's frontier model was safe to release?",
+        "Source context: \"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\" The competitive question is whether this changes..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -245,17 +247,47 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 08 Jul 2026 19:19:15 +0000",
-      "age_hours": "21.84",
-      "freshness_status": "stale",
-      "editorial_score": "134",
+      "published": "Thu, 09 Jul 2026 18:22:39 +0000",
+      "age_hours": "0.88",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "Meta's new AI chips will begin production in September",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "snapshot": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Meta, September",
+        "AI desk signal: chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's new AI chips will begin production in September",
+        "Source context: The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 09 Jul 2026 17:17:37 +0000",
+      "age_hours": "1.96",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
       "urgency": ""
     },
     {
@@ -283,47 +315,138 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-09T10:00:00-04:00",
-      "age_hours": "3.16",
+      "age_hours": "5.26",
       "freshness_status": "fresh",
       "editorial_score": "118",
-      "urgency": ""
-    },
-    {
-      "headline": "AWS GraphRAG deployment cuts drug research cycles by 87%",
-      "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
-      "snapshot": "A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is achieved by integrating previously separated proprietary databases into a unified and queryable knowledge graph. Historically,...",
-      "key_data": [
-        "Key people or organizations: AWS GraphRAG, Historically",
-        "Specific figures mentioned: 87%, 87",
-        "Story focus: AWS GraphRAG deployment cuts drug research cycles by 87%",
-        "Source context: A recent AWS GraphRAG deployment reduced drug research and development cycles in pharmaceutical environments by 87 percent. This acceleration is..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from AWS GraphRAG.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 09 Jul 2026 15:43:09 +0000",
-      "age_hours": "1.44",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Meta says its new AI model is ready to compete on coding",
-    "AWS GraphRAG deployment cuts drug research cycles by 87%",
-    "Microsoft's patch Tuesdays are about to get bigger"
+    "OpenAI rolls out GPT-5.6 after government greenlight — and announces 'ChatGPT Work'",
+    "How did the government decide OpenAI's frontier model was safe to release?",
+    "Meta's new AI chips will begin production in September"
   ],
   "sections": [
+    {
+      "headline": "OpenAI rolls out GPT-5.6 after government greenlight — and announces 'ChatGPT Work'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "snapshot": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: OpenAI, GPT, ChatGPT Work, About",
+        "Specific figures mentioned: 5.6",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI rolls out GPT-5.6 after government greenlight — and announces 'ChatGPT Work'"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-09T13:00:00-04:00",
+      "age_hours": "2.26",
+      "freshness_status": "fresh",
+      "editorial_score": "154",
+      "urgency": ""
+    },
+    {
+      "headline": "How did the government decide OpenAI's frontier model was safe to release?",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "snapshot": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Exactly, Anthropic",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: How did the government decide OpenAI's frontier model was safe to release?",
+        "Source context: \"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\" The competitive question is whether this changes..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 09 Jul 2026 18:22:39 +0000",
+      "age_hours": "0.88",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "Meta's new AI chips will begin production in September",
+      "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "snapshot": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Meta, September",
+        "AI desk signal: chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's new AI chips will begin production in September",
+        "Source context: The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 09 Jul 2026 17:17:37 +0000",
+      "age_hours": "1.96",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "snapshot": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: New York Times, OpenAI, ChatGPT",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+        "Source context: News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from New York Times.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 09 Jul 2026 19:05:58 +0000",
+      "age_hours": "0.16",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Meta says its new AI model is ready to compete on coding",
       "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
@@ -349,7 +472,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-09T10:00:00-04:00",
-      "age_hours": "3.16",
+      "age_hours": "5.26",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -378,7 +501,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 09 Jul 2026 15:43:09 +0000",
-      "age_hours": "1.44",
+      "age_hours": "3.54",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": ""
@@ -408,129 +531,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-09T13:00:00-04:00",
-      "age_hours": "0.16",
+      "age_hours": "2.26",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
-    },
-    {
-      "headline": "Anthropic's new Claude feature is quietly selling you on AI",
-      "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "snapshot": "Claude's new Reflect dashboard doesn't just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic's chatbot. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, Claude, Reflect, It",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's new Claude feature is quietly selling you on AI",
-        "Source context: Claude's new Reflect dashboard doesn't just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 09 Jul 2026 14:53:09 +0000",
-      "age_hours": "2.27",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "snapshot": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, OpenAI, SpaceX, Three",
-        "Specific figures mentioned: 25, 2000",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 09 Jul 2026 14:51:00 +0000",
-      "age_hours": "2.31",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Say hello to Claude Wrapped",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "snapshot": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Say, Claude Wrapped, Spotify Wrapped, YouTube",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Say hello to Claude Wrapped",
-        "Source context: The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Say.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-09T09:30:00-04:00",
-      "age_hours": "3.66",
-      "freshness_status": "fresh",
-      "editorial_score": "89",
-      "urgency": ""
-    },
-    {
-      "headline": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "snapshot": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Nandan Nilekani, GP, Fundamentum, Nilekani",
-        "Specific figures mentioned: $200M",
-        "Story focus: Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-        "Source context: Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India. The business..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nandan Nilekani.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 09 Jul 2026 12:00:00 +0000",
-      "age_hours": "5.16",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": "WATCH"
     },
     {
       "headline": "NHS AI blood test could reduce invasive womb cancer checks",
@@ -556,7 +560,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 09 Jul 2026 10:00:00 +0000",
-      "age_hours": "7.16",
+      "age_hours": "9.26",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
