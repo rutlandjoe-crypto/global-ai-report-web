@@ -3,22 +3,52 @@
   "vertical": "AI",
   "headline": "OpenAI rolls out GPT-5.6 after government greenlight — and announces 'ChatGPT Work'",
   "snapshot": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited preview\" period - the company has received the Trump administration's greenlight for a public rollout of the model. OpenAI CEO Sam... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-07-09 03:15:19 PM ET",
-  "generated_at": "2026-07-09 03:15:19 PM ET",
+  "updated_at": "2026-07-09 05:08:35 PM ET",
+  "generated_at": "2026-07-09 05:08:35 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 20,
-    "editor_fresh_items": 29,
+    "live_fresh_items": 23,
+    "editor_fresh_items": 31,
     "public_fallback_items": 34,
-    "stale_or_blocked_items": 29,
+    "stale_or_blocked_items": 26,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-09 03:15:19 PM ET"
+    "last_checked": "2026-07-09 05:08:35 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "The ChatGPT browser is already dead",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "snapshot": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT Atlas, Atlas, October",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The ChatGPT browser is already dead",
+        "Source context: OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-09T16:34:05-04:00",
+      "age_hours": "0.58",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "AWS GraphRAG deployment cuts drug research cycles by 87%",
       "url": "https://www.artificialintelligence-news.com/news/aws-graphrag-deployment-cuts-drug-research-cycles-by-87/",
@@ -43,7 +73,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 09 Jul 2026 15:43:09 +0000",
-      "age_hours": "3.54",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": ""
@@ -73,40 +103,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 09 Jul 2026 19:05:58 +0000",
-      "age_hours": "0.16",
+      "age_hours": "2.04",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Microsoft's patch Tuesdays are about to get bigger",
-      "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "snapshot": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Microsoft, Tuesdays, Windows",
-        "Specific figures mentioned: 11",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft's patch Tuesdays are about to get bigger"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-09T13:00:00-04:00",
-      "age_hours": "2.26",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
-      "urgency": ""
     },
     {
       "headline": "OpenAI rolls out GPT-5.6 after government greenlight — and announces 'ChatGPT Work'",
@@ -133,7 +133,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-09T13:00:00-04:00",
-      "age_hours": "2.26",
+      "age_hours": "4.14",
       "freshness_status": "fresh",
       "editorial_score": "154",
       "urgency": ""
@@ -163,7 +163,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 09 Jul 2026 18:22:39 +0000",
-      "age_hours": "0.88",
+      "age_hours": "2.77",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -195,7 +195,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-09T13:00:00-04:00",
-      "age_hours": "2.26",
+      "age_hours": "4.14",
       "freshness_status": "fresh",
       "editorial_score": "154",
       "urgency": ""
@@ -225,7 +225,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 08 Jul 2026 19:30:16 +0000",
-      "age_hours": "23.75",
+      "age_hours": "25.64",
       "freshness_status": "stale",
       "editorial_score": "138",
       "urgency": "WATCH"
@@ -255,7 +255,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 09 Jul 2026 18:22:39 +0000",
-      "age_hours": "0.88",
+      "age_hours": "2.77",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -285,21 +285,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 09 Jul 2026 17:17:37 +0000",
-      "age_hours": "1.96",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
     },
     {
-      "headline": "Meta says its new AI model is ready to compete on coding",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "snapshot": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta Model API. Meta says that Muse Spark 1.1 is a \"step-change\" from the first... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "The ChatGPT browser is already dead",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "snapshot": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
       "key_data": [
-        "Key people or organizations: Meta, Muse Spark, April, Meta Model API",
-        "Specific figures mentioned: 1.1",
+        "Key people or organizations: OpenAI, ChatGPT Atlas, Atlas, October",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta says its new AI model is ready to compete on coding"
+        "Story focus: The ChatGPT browser is already dead",
+        "Source context: OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -307,18 +307,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-07-09T10:00:00-04:00",
-      "age_hours": "5.26",
+      "published": "2026-07-09T16:34:05-04:00",
+      "age_hours": "0.58",
       "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": ""
+      "editorial_score": "124",
+      "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
@@ -352,7 +352,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-09T13:00:00-04:00",
-      "age_hours": "2.26",
+      "age_hours": "4.14",
       "freshness_status": "fresh",
       "editorial_score": "154",
       "urgency": ""
@@ -382,7 +382,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 09 Jul 2026 18:22:39 +0000",
-      "age_hours": "0.88",
+      "age_hours": "2.77",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -412,7 +412,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 09 Jul 2026 17:17:37 +0000",
-      "age_hours": "1.96",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -442,10 +442,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 09 Jul 2026 19:05:58 +0000",
-      "age_hours": "0.16",
+      "age_hours": "2.04",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "The ChatGPT browser is already dead",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "snapshot": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT Atlas, Atlas, October",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The ChatGPT browser is already dead",
+        "Source context: OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-09T16:34:05-04:00",
+      "age_hours": "0.58",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": "BREAKING"
     },
     {
       "headline": "Meta says its new AI model is ready to compete on coding",
@@ -472,7 +502,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-09T10:00:00-04:00",
-      "age_hours": "5.26",
+      "age_hours": "7.14",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -501,39 +531,9 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 09 Jul 2026 15:43:09 +0000",
-      "age_hours": "3.54",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "98",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft's patch Tuesdays are about to get bigger",
-      "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "snapshot": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"customers will see a higher volume of security updates included in each security... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Microsoft, Tuesdays, Windows",
-        "Specific figures mentioned: 11",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft's patch Tuesdays are about to get bigger"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-09T13:00:00-04:00",
-      "age_hours": "2.26",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
       "urgency": ""
     },
     {
@@ -560,7 +560,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 09 Jul 2026 10:00:00 +0000",
-      "age_hours": "9.26",
+      "age_hours": "11.14",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
