@@ -3,8 +3,8 @@
   "vertical": "AI",
   "headline": "Apple sues OpenAI for allegedly stealing hardware secrets",
   "snapshot": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-07-11 03:02:24 AM ET",
-  "generated_at": "2026-07-11 03:02:24 AM ET",
+  "updated_at": "2026-07-11 05:12:03 AM ET",
+  "generated_at": "2026-07-11 05:12:03 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
@@ -12,11 +12,11 @@
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 47,
     "live_fresh_items": 3,
-    "editor_fresh_items": 21,
+    "editor_fresh_items": 17,
     "public_fallback_items": 31,
     "stale_or_blocked_items": 44,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-11 03:02:24 AM ET"
+    "last_checked": "2026-07-11 05:12:03 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,40 +44,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-10T17:36:51-04:00",
-      "age_hours": "9.43",
+      "age_hours": "11.59",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
-    },
-    {
-      "headline": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "snapshot": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: New York Times, OpenAI, ChatGPT",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-        "Source context: News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from New York Times.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 09 Jul 2026 19:05:58 +0000",
-      "age_hours": "35.94",
-      "freshness_status": "stale",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "OpenAI says GPT 5.6 is the 'preferred model' for Microsoft Copilot 365 amid breakup chatter",
@@ -104,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 10 Jul 2026 00:16:54 +0000",
-      "age_hours": "30.76",
+      "age_hours": "32.92",
       "freshness_status": "stale",
       "editorial_score": "122",
       "urgency": ""
@@ -134,10 +104,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 09 Jul 2026 22:24:24 +0000",
-      "age_hours": "32.63",
+      "age_hours": "34.79",
       "freshness_status": "stale",
       "editorial_score": "116",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Elon Musk praises Mythos/Fable, promises not to 'cut off' Anthropic",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "snapshot": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Elon Musk, Mythos, Fable, Anthropic",
+        "Specific figures mentioned: $40 billion",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Elon Musk praises Mythos/Fable, promises not to 'cut off' Anthropic"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 09 Jul 2026 21:57:42 +0000",
+      "age_hours": "35.24",
+      "freshness_status": "stale",
+      "editorial_score": "90",
+      "urgency": ""
     },
     {
       "headline": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
@@ -164,7 +164,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-10T19:49:50-04:00",
-      "age_hours": "7.21",
+      "age_hours": "9.37",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -196,7 +196,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-10T17:36:51-04:00",
-      "age_hours": "9.43",
+      "age_hours": "11.59",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
@@ -226,7 +226,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 10 Jul 2026 00:16:54 +0000",
-      "age_hours": "30.76",
+      "age_hours": "32.92",
       "freshness_status": "stale",
       "editorial_score": "122",
       "urgency": ""
@@ -256,51 +256,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 09 Jul 2026 22:24:24 +0000",
-      "age_hours": "32.63",
+      "age_hours": "34.79",
       "freshness_status": "stale",
       "editorial_score": "116",
       "urgency": "WATCH"
     },
     {
-      "headline": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "snapshot": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Elon Musk praises Mythos/Fable, promises not to 'cut off' Anthropic",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "snapshot": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: New York Times, OpenAI, ChatGPT",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-        "Source context: News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from New York Times.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 09 Jul 2026 19:05:58 +0000",
-      "age_hours": "35.94",
-      "freshness_status": "stale",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "The ChatGPT browser is already dead",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "snapshot": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
-      "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT Atlas, Atlas, October",
+        "Key people or organizations: Elon Musk, Mythos, Fable, Anthropic",
+        "Specific figures mentioned: $40 billion",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The ChatGPT browser is already dead",
-        "Source context: OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was..."
+        "Story focus: Elon Musk praises Mythos/Fable, promises not to 'cut off' Anthropic"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -308,18 +278,48 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 09 Jul 2026 21:57:42 +0000",
+      "age_hours": "35.24",
+      "freshness_status": "stale",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "snapshot": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Meta, Instagram, Following",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+        "Source context: Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-07-09T16:34:05-04:00",
-      "age_hours": "34.47",
-      "freshness_status": "stale",
-      "editorial_score": "94",
-      "urgency": "BREAKING"
+      "published": "2026-07-10T19:49:50-04:00",
+      "age_hours": "9.37",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
     }
   ],
   "key_storylines": [
@@ -353,7 +353,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-10T17:36:51-04:00",
-      "age_hours": "9.43",
+      "age_hours": "11.59",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
@@ -383,7 +383,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-10T19:49:50-04:00",
-      "age_hours": "7.21",
+      "age_hours": "9.37",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -413,7 +413,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 10 Jul 2026 23:55:07 +0000",
-      "age_hours": "7.12",
+      "age_hours": "9.28",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -443,7 +443,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 10 Jul 2026 00:16:54 +0000",
-      "age_hours": "30.76",
+      "age_hours": "32.92",
       "freshness_status": "stale",
       "editorial_score": "122",
       "urgency": ""
@@ -473,40 +473,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 09 Jul 2026 22:24:24 +0000",
-      "age_hours": "32.63",
+      "age_hours": "34.79",
       "freshness_status": "stale",
       "editorial_score": "116",
       "urgency": "WATCH"
     },
     {
-      "headline": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "snapshot": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Elon Musk praises Mythos/Fable, promises not to 'cut off' Anthropic",
+      "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "snapshot": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: New York Times, OpenAI, ChatGPT",
-        "AI desk signal: lawsuit",
+        "Key people or organizations: Elon Musk, Mythos, Fable, Anthropic",
+        "Specific figures mentioned: $40 billion",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-        "Source context: News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new..."
+        "Story focus: Elon Musk praises Mythos/Fable, promises not to 'cut off' Anthropic"
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from New York Times.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 09 Jul 2026 19:05:58 +0000",
-      "age_hours": "35.94",
+      "published": "Thu, 09 Jul 2026 21:57:42 +0000",
+      "age_hours": "35.24",
       "freshness_status": "stale",
-      "editorial_score": "100",
-      "urgency": "DEVELOPING"
+      "editorial_score": "90",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
