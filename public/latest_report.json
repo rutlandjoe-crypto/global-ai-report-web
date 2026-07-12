@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "The fight against AI data centers is just beginning",
-  "snapshot": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-  "updated_at": "2026-07-12 11:45:14 AM ET",
-  "generated_at": "2026-07-12 11:45:14 AM ET",
+  "headline": "Apple's failed self-driving car program left a legacy of powerful AI chips",
+  "snapshot": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing.... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+  "updated_at": "2026-07-12 12:40:29 PM ET",
+  "generated_at": "2026-07-12 12:40:29 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 35,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 2,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 3,
     "public_fallback_items": 28,
-    "stale_or_blocked_items": 34,
+    "stale_or_blocked_items": 33,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-12 11:45:14 AM ET"
+    "last_checked": "2026-07-12 12:40:29 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T08:00:00-04:00",
-      "age_hours": "3.75",
+      "age_hours": "4.67",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Apple's failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "snapshot": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing.... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Apple, Early",
+        "AI desk signal: chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's failed self-driving car program left a legacy of powerful AI chips",
+        "Source context: Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-12T12:27:06-04:00",
+      "age_hours": "0.22",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
     },
     {
       "headline": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -74,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 11 Jul 2026 14:13:00 +0000",
-      "age_hours": "25.54",
+      "age_hours": "26.46",
       "freshness_status": "stale",
       "editorial_score": "62",
       "urgency": ""
@@ -82,6 +112,36 @@
   ],
   "editor_signals": [
     {
+      "headline": "Apple's failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "snapshot": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing.... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Apple, Early",
+        "AI desk signal: chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's failed self-driving car program left a legacy of powerful AI chips",
+        "Source context: Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-12T12:27:06-04:00",
+      "age_hours": "0.22",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
       "headline": "The fight against AI data centers is just beginning",
       "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
       "snapshot": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
@@ -106,7 +166,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T08:00:00-04:00",
-      "age_hours": "3.75",
+      "age_hours": "4.67",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": "BREAKING"
@@ -136,17 +196,48 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 11 Jul 2026 14:13:00 +0000",
-      "age_hours": "25.54",
+      "age_hours": "26.46",
       "freshness_status": "stale",
       "editorial_score": "62",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Apple's failed self-driving car program left a legacy of powerful AI chips",
     "The fight against AI data centers is just beginning",
     "OpenAI bets on families as ChatGPT goes deeper into households"
   ],
   "sections": [
+    {
+      "headline": "Apple's failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "snapshot": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing.... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Apple, Early",
+        "AI desk signal: chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's failed self-driving car program left a legacy of powerful AI chips",
+        "Source context: Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-12T12:27:06-04:00",
+      "age_hours": "0.22",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
     {
       "headline": "The fight against AI data centers is just beginning",
       "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
@@ -172,7 +263,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T08:00:00-04:00",
-      "age_hours": "3.75",
+      "age_hours": "4.67",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": "BREAKING"
@@ -202,7 +293,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 11 Jul 2026 14:13:00 +0000",
-      "age_hours": "25.54",
+      "age_hours": "26.46",
       "freshness_status": "stale",
       "editorial_score": "62",
       "urgency": ""
