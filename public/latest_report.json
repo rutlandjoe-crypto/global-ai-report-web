@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Waze is getting a bunch of new AI-powered features",
-  "snapshot": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its updating... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-07-13 07:46:04 AM ET",
-  "generated_at": "2026-07-13 07:46:04 AM ET",
+  "headline": "AI agent crawlers now need permission. Here's how to get it",
+  "snapshot": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare announced the change on July 1, and most of the coverage since then has focused on... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-07-13 09:52:28 AM ET",
+  "generated_at": "2026-07-13 09:52:28 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 35,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 4,
-    "public_fallback_items": 13,
-    "stale_or_blocked_items": 34,
+    "total_items_checked": 47,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 5,
+    "public_fallback_items": 12,
+    "stale_or_blocked_items": 45,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-13 07:46:04 AM ET"
+    "last_checked": "2026-07-13 09:52:28 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,9 +43,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T16:10:19-04:00",
-      "age_hours": "15.60",
+      "age_hours": "17.70",
       "freshness_status": "stale",
       "editorial_score": "86",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "AI agent crawlers now need permission. Here's how to get it",
+      "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+      "snapshot": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare announced the change on July 1, and most of the coverage since then has focused on... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: September, Cloudflare, July",
+        "Specific figures mentioned: 15, 1",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: AI agent crawlers now need permission. Here's how to get it",
+        "Source context: AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from September.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 13 Jul 2026 11:00:00 +0000",
+      "age_hours": "2.87",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
       "urgency": "DEVELOPING"
     },
     {
@@ -73,7 +103,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T08:00:00-04:00",
-      "age_hours": "23.77",
+      "age_hours": "25.87",
       "freshness_status": "stale",
       "editorial_score": "54",
       "urgency": "BREAKING"
@@ -103,7 +133,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T12:27:06-04:00",
-      "age_hours": "19.32",
+      "age_hours": "21.42",
       "freshness_status": "stale",
       "editorial_score": "106",
       "urgency": ""
@@ -133,7 +163,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-13T05:00:00-04:00",
-      "age_hours": "2.77",
+      "age_hours": "4.87",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -165,10 +195,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T12:27:06-04:00",
-      "age_hours": "19.32",
+      "age_hours": "21.42",
       "freshness_status": "stale",
       "editorial_score": "106",
       "urgency": ""
+    },
+    {
+      "headline": "AI agent crawlers now need permission. Here's how to get it",
+      "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+      "snapshot": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare announced the change on July 1, and most of the coverage since then has focused on... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: September, Cloudflare, July",
+        "Specific figures mentioned: 15, 1",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: AI agent crawlers now need permission. Here's how to get it",
+        "Source context: AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from September.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 13 Jul 2026 11:00:00 +0000",
+      "age_hours": "2.87",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Lorde says Ray-Ban Meta AI glasses are 'not sexy'",
@@ -194,7 +254,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T16:10:19-04:00",
-      "age_hours": "15.60",
+      "age_hours": "17.70",
       "freshness_status": "stale",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -224,7 +284,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-13T05:00:00-04:00",
-      "age_hours": "2.77",
+      "age_hours": "4.87",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -254,18 +314,48 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T08:00:00-04:00",
-      "age_hours": "23.77",
+      "age_hours": "25.87",
       "freshness_status": "stale",
       "editorial_score": "54",
       "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
+    "AI agent crawlers now need permission. Here's how to get it",
     "Waze is getting a bunch of new AI-powered features",
-    "Apple's failed self-driving car program left a legacy of powerful AI chips",
-    "Lorde says Ray-Ban Meta AI glasses are 'not sexy'"
+    "Apple's failed self-driving car program left a legacy of powerful AI chips"
   ],
   "sections": [
+    {
+      "headline": "AI agent crawlers now need permission. Here's how to get it",
+      "url": "https://www.artificialintelligence-news.com/news/ai-agent-crawlers-cloudflare-rules/",
+      "snapshot": "AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the web from September 15 onwards. Cloudflare announced the change on July 1, and most of the coverage since then has focused on... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: September, Cloudflare, July",
+        "Specific figures mentioned: 15, 1",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: AI agent crawlers now need permission. Here's how to get it",
+        "Source context: AI agent crawlers, the bots that fetch pages in real time on behalf of a person waiting for an answer, will be blocked by default on a slice of the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from September.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 13 Jul 2026 11:00:00 +0000",
+      "age_hours": "2.87",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Waze is getting a bunch of new AI-powered features",
       "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
@@ -291,7 +381,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-13T05:00:00-04:00",
-      "age_hours": "2.77",
+      "age_hours": "4.87",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -321,7 +411,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T12:27:06-04:00",
-      "age_hours": "19.32",
+      "age_hours": "21.42",
       "freshness_status": "stale",
       "editorial_score": "106",
       "urgency": ""
@@ -350,7 +440,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T16:10:19-04:00",
-      "age_hours": "15.60",
+      "age_hours": "17.70",
       "freshness_status": "stale",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -380,7 +470,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-12T08:00:00-04:00",
-      "age_hours": "23.77",
+      "age_hours": "25.87",
       "freshness_status": "stale",
       "editorial_score": "54",
       "urgency": "BREAKING"
