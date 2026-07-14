@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Sam Altman didn't need another lawsuit",
   "snapshot": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-07-14 05:42:48 PM ET",
-  "generated_at": "2026-07-14 05:42:48 PM ET",
+  "updated_at": "2026-07-14 06:42:48 PM ET",
+  "generated_at": "2026-07-14 06:42:48 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 48,
-    "live_fresh_items": 20,
-    "editor_fresh_items": 31,
-    "public_fallback_items": 31,
-    "stale_or_blocked_items": 28,
+    "total_items_checked": 49,
+    "live_fresh_items": 23,
+    "editor_fresh_items": 32,
+    "public_fallback_items": 32,
+    "stale_or_blocked_items": 26,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-14 05:42:48 PM ET"
+    "last_checked": "2026-07-14 06:42:48 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T13:18:11-04:00",
-      "age_hours": "4.41",
+      "age_hours": "5.41",
       "freshness_status": "fresh",
       "editorial_score": "144",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "snapshot": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Apple",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI pushes back on Apple trade secret lawsuit",
+        "Source context: OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit. The story matters because AI is moving deeper into legal and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 14 Jul 2026 22:07:42 +0000",
+      "age_hours": "0.59",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 14 Jul 2026 18:33:31 +0000",
-      "age_hours": "3.15",
+      "age_hours": "4.15",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -104,40 +134,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T10:01:07-04:00",
-      "age_hours": "7.69",
+      "age_hours": "8.69",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "snapshot": "If you've been waiting to try Apple's revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software's official...",
-      "key_data": [
-        "Key people or organizations: Apple, Siri AI, If, Siri",
-        "Specific figures mentioned: 27",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-        "Source context: If you've been waiting to try Apple's revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 14 Jul 2026 19:42:27 +0000",
-      "age_hours": "2.01",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
     },
     {
       "headline": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
@@ -163,7 +163,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 14 Jul 2026 17:45:55 +0000",
-      "age_hours": "3.95",
+      "age_hours": "4.95",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": ""
@@ -195,7 +195,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-13T13:00:00-04:00",
-      "age_hours": "28.71",
+      "age_hours": "29.71",
       "freshness_status": "stale",
       "editorial_score": "166",
       "urgency": "DEVELOPING"
@@ -225,7 +225,37 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T10:01:07-04:00",
-      "age_hours": "7.69",
+      "age_hours": "8.69",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "snapshot": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Apple",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI pushes back on Apple trade secret lawsuit",
+        "Source context: OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit. The story matters because AI is moving deeper into legal and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 14 Jul 2026 22:07:42 +0000",
+      "age_hours": "0.59",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -255,7 +285,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 14 Jul 2026 18:33:31 +0000",
-      "age_hours": "3.15",
+      "age_hours": "4.15",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -285,45 +315,16 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T13:18:11-04:00",
-      "age_hours": "4.41",
+      "age_hours": "5.41",
       "freshness_status": "fresh",
       "editorial_score": "144",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "snapshot": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: DeepMind CEO, DeepMind CEO Demis Hassabis, FINRA",
-        "AI desk signal: model, enterprise",
-        "Story focus: DeepMind CEO calls for an independent standards body to regulate frontier AI",
-        "Source context: DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from DeepMind CEO.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 14 Jul 2026 17:45:55 +0000",
-      "age_hours": "3.95",
-      "freshness_status": "fresh",
-      "editorial_score": "130",
-      "urgency": ""
     }
   ],
   "key_storylines": [
     "Sam Altman didn't need another lawsuit",
-    "Google faces another AI training lawsuit from major publishers",
-    "Meta accused of using biased AI targeting for mass layoffs"
+    "OpenAI pushes back on Apple trade secret lawsuit",
+    "Google faces another AI training lawsuit from major publishers"
   ],
   "sections": [
     {
@@ -351,7 +352,37 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T10:01:07-04:00",
-      "age_hours": "7.69",
+      "age_hours": "8.69",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "snapshot": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Apple",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI pushes back on Apple trade secret lawsuit",
+        "Source context: OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit. The story matters because AI is moving deeper into legal and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 14 Jul 2026 22:07:42 +0000",
+      "age_hours": "0.59",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -381,7 +412,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 14 Jul 2026 18:33:31 +0000",
-      "age_hours": "3.15",
+      "age_hours": "4.15",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -411,7 +442,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T13:18:11-04:00",
-      "age_hours": "4.41",
+      "age_hours": "5.41",
       "freshness_status": "fresh",
       "editorial_score": "144",
       "urgency": "DEVELOPING"
@@ -440,7 +471,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 14 Jul 2026 17:45:55 +0000",
-      "age_hours": "3.95",
+      "age_hours": "4.95",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": ""
@@ -470,40 +501,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T07:43:29-04:00",
-      "age_hours": "9.99",
+      "age_hours": "10.99",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": ""
-    },
-    {
-      "headline": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-      "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "snapshot": "If you've been waiting to try Apple's revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software's official...",
-      "key_data": [
-        "Key people or organizations: Apple, Siri AI, If, Siri",
-        "Specific figures mentioned: 27",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-        "Source context: If you've been waiting to try Apple's revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 14 Jul 2026 19:42:27 +0000",
-      "age_hours": "2.01",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
     },
     {
       "headline": "AWS and Bluesight build AI for hospital 340B compliance",
@@ -530,7 +531,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Tue, 14 Jul 2026 15:54:39 +0000",
-      "age_hours": "5.80",
+      "age_hours": "6.80",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
