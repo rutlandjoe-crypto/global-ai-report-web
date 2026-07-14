@@ -597,6 +597,7 @@ export default async function Page() {
           <NewsroomBriefing items={liveItems} />
         </div>
       </header>
+      <EditorialStandard />
       <SponsorPlacementBlock />
 
 
@@ -655,7 +656,6 @@ export default async function Page() {
             {SITE.descriptor}
           </p>
         </div>
-        <EditorialStandard />
       </footer>
     </main>
   );
