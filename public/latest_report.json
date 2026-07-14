@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Sam Altman didn't need another lawsuit",
   "snapshot": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal actions yet - from Apple. OpenAI's expensive hardware bet is what's on the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-07-14 01:54:18 PM ET",
-  "generated_at": "2026-07-14 01:54:18 PM ET",
+  "updated_at": "2026-07-14 02:55:17 PM ET",
+  "generated_at": "2026-07-14 02:55:17 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 48,
-    "live_fresh_items": 15,
-    "editor_fresh_items": 28,
-    "public_fallback_items": 29,
-    "stale_or_blocked_items": 33,
+    "live_fresh_items": 16,
+    "editor_fresh_items": 29,
+    "public_fallback_items": 30,
+    "stale_or_blocked_items": 32,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-14 01:54:18 PM ET"
+    "last_checked": "2026-07-14 02:55:17 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T13:18:11-04:00",
-      "age_hours": "0.60",
+      "age_hours": "1.62",
       "freshness_status": "fresh",
       "editorial_score": "144",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "snapshot": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Google, Hachette, Cengage, Elsevier",
+        "AI desk signal: chip, enterprise, lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google faces another AI training lawsuit from major publishers",
+        "Source context: Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions. The..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 14 Jul 2026 18:33:31 +0000",
+      "age_hours": "0.36",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,7 +104,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T10:01:07-04:00",
-      "age_hours": "3.89",
+      "age_hours": "4.90",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -103,7 +133,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 14 Jul 2026 17:45:55 +0000",
-      "age_hours": "0.14",
+      "age_hours": "1.16",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": ""
@@ -133,38 +163,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T07:43:29-04:00",
-      "age_hours": "6.18",
+      "age_hours": "7.20",
       "freshness_status": "fresh",
       "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "The real AI race may no longer be at the frontier",
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "snapshot": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Hugging Face CEO Clem, Delangue, Do",
-        "AI desk signal: model, enterprise",
-        "Story focus: The real AI race may no longer be at the frontier",
-        "Source context: Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Hugging Face CEO Clem.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 14 Jul 2026 14:24:53 +0000",
-      "age_hours": "3.49",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
       "urgency": ""
     }
   ],
@@ -194,7 +195,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-13T13:00:00-04:00",
-      "age_hours": "24.91",
+      "age_hours": "25.92",
       "freshness_status": "stale",
       "editorial_score": "166",
       "urgency": "DEVELOPING"
@@ -224,7 +225,37 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T10:01:07-04:00",
-      "age_hours": "3.89",
+      "age_hours": "4.90",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "snapshot": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Google, Hachette, Cengage, Elsevier",
+        "AI desk signal: chip, enterprise, lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google faces another AI training lawsuit from major publishers",
+        "Source context: Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions. The..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 14 Jul 2026 18:33:31 +0000",
+      "age_hours": "0.36",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -254,7 +285,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T13:18:11-04:00",
-      "age_hours": "0.60",
+      "age_hours": "1.62",
       "freshness_status": "fresh",
       "editorial_score": "144",
       "urgency": "DEVELOPING"
@@ -283,45 +314,16 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 14 Jul 2026 17:45:55 +0000",
-      "age_hours": "0.14",
+      "age_hours": "1.16",
       "freshness_status": "fresh",
       "editorial_score": "130",
-      "urgency": ""
-    },
-    {
-      "headline": "The real AI race may no longer be at the frontier",
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "snapshot": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Hugging Face CEO Clem, Delangue, Do",
-        "AI desk signal: model, enterprise",
-        "Story focus: The real AI race may no longer be at the frontier",
-        "Source context: Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Hugging Face CEO Clem.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 14 Jul 2026 14:24:53 +0000",
-      "age_hours": "3.49",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "Sam Altman didn't need another lawsuit",
-    "Meta accused of using biased AI targeting for mass layoffs",
-    "DeepMind CEO calls for an independent standards body to regulate frontier AI"
+    "Google faces another AI training lawsuit from major publishers",
+    "Meta accused of using biased AI targeting for mass layoffs"
   ],
   "sections": [
     {
@@ -349,7 +351,37 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T10:01:07-04:00",
-      "age_hours": "3.89",
+      "age_hours": "4.90",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+      "snapshot": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Google, Hachette, Cengage, Elsevier",
+        "AI desk signal: chip, enterprise, lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google faces another AI training lawsuit from major publishers",
+        "Source context: Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions. The..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 14 Jul 2026 18:33:31 +0000",
+      "age_hours": "0.36",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -379,7 +411,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T13:18:11-04:00",
-      "age_hours": "0.60",
+      "age_hours": "1.62",
       "freshness_status": "fresh",
       "editorial_score": "144",
       "urgency": "DEVELOPING"
@@ -408,7 +440,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 14 Jul 2026 17:45:55 +0000",
-      "age_hours": "0.14",
+      "age_hours": "1.16",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": ""
@@ -438,7 +470,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-14T07:43:29-04:00",
-      "age_hours": "6.18",
+      "age_hours": "7.20",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": ""
@@ -467,7 +499,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 14 Jul 2026 14:24:53 +0000",
-      "age_hours": "3.49",
+      "age_hours": "4.51",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -497,39 +529,9 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Tue, 14 Jul 2026 15:54:39 +0000",
-      "age_hours": "1.99",
+      "age_hours": "3.01",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta's Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "snapshot": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers...",
-      "key_data": [
-        "Key people or organizations: Meta, Adam Mosseri, Instagram",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's Adam Mosseri says AI token budgets could soon be capped per engineer",
-        "Source context: Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 14 Jul 2026 16:22:15 +0000",
-      "age_hours": "1.53",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
       "urgency": ""
     }
   ],
