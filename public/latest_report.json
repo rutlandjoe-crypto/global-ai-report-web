@@ -1,84 +1,24 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-  "snapshot": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-07-16 07:23:49 AM ET",
-  "generated_at": "2026-07-16 07:23:49 AM ET",
+  "headline": "Claude can now use your 1Password credentials for you",
+  "snapshot": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-07-16 09:08:33 AM ET",
+  "generated_at": "2026-07-16 09:08:33 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 4,
-    "editor_fresh_items": 24,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 25,
     "public_fallback_items": 34,
-    "stale_or_blocked_items": 45,
+    "stale_or_blocked_items": 44,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-16 07:23:49 AM ET"
+    "last_checked": "2026-07-16 09:08:33 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "snapshot": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Amid, OpenAI, Codex, Apple",
-        "Specific figures mentioned: $230",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amid.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
-      "age_hours": "15.70",
-      "freshness_status": "stale",
-      "editorial_score": "128",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "snapshot": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Microsoft, OpenAI, Anthropic",
-        "AI desk signal: model, chip, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-        "Source context: Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "age_hours": "11.40",
-      "freshness_status": "fresh",
-      "editorial_score": "144",
-      "urgency": ""
-    },
     {
       "headline": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
@@ -104,10 +44,100 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 13:10:47 +0000",
-      "age_hours": "22.22",
+      "age_hours": "23.96",
       "freshness_status": "stale",
       "editorial_score": "134",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Claude can now use your 1Password credentials for you",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "snapshot": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Claude, Anthropic",
+        "Specific figures mentioned: 1",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude can now use your 1Password credentials for you"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-16T09:00:00-04:00",
+      "age_hours": "0.14",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "snapshot": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Applied Computing, Series",
+        "Specific figures mentioned: $20M",
+        "AI desk signal: model, enterprise",
+        "Story focus: Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+        "Source context: Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Applied Computing.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 16 Jul 2026 04:00:00 +0000",
+      "age_hours": "9.14",
+      "freshness_status": "fresh",
+      "editorial_score": "88",
+      "urgency": ""
+    },
+    {
+      "headline": "Google ordered to open Android and Search to rivals in Europe",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "snapshot": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google, Android, Search, Europe",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google ordered to open Android and Search to rivals in Europe",
+        "Source context: Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-16T08:06:51-04:00",
+      "age_hours": "1.03",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
     },
     {
       "headline": "COMPUTER COPS: Inside the big business of selling AI to the police",
@@ -132,72 +162,13 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-16T07:00:00-04:00",
-      "age_hours": "0.40",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Neko Health raises $700 million to expand AI body scans in the US",
-      "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
-      "snapshot": "Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company's preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review. The Series C round was led by...",
-      "key_data": [
-        "Key people or organizations: Neko Health, US, United States, New York",
-        "Specific figures mentioned: $700 million",
-        "Story focus: Neko Health raises $700 million to expand AI body scans in the US",
-        "Source context: Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company's preventive..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Neko Health.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 16 Jul 2026 09:00:00 +0000",
-      "age_hours": "2.40",
+      "age_hours": "2.14",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
     }
   ],
   "editor_signals": [
-    {
-      "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "snapshot": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Microsoft, OpenAI, Anthropic",
-        "AI desk signal: model, chip, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-        "Source context: Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "age_hours": "11.40",
-      "freshness_status": "fresh",
-      "editorial_score": "144",
-      "urgency": ""
-    },
     {
       "headline": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
@@ -223,7 +194,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 13:10:47 +0000",
-      "age_hours": "22.22",
+      "age_hours": "23.96",
       "freshness_status": "stale",
       "editorial_score": "134",
       "urgency": "WATCH"
@@ -253,7 +224,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 19:41:38 +0000",
-      "age_hours": "15.70",
+      "age_hours": "17.45",
       "freshness_status": "stale",
       "editorial_score": "128",
       "urgency": "WATCH"
@@ -283,7 +254,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-15T12:00:00-04:00",
-      "age_hours": "19.40",
+      "age_hours": "21.14",
       "freshness_status": "stale",
       "editorial_score": "126",
       "urgency": "DEVELOPING"
@@ -312,18 +283,11 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-15T17:33:20-04:00",
-      "age_hours": "13.84",
+      "age_hours": "15.59",
       "freshness_status": "stale",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
-    }
-  ],
-  "key_storylines": [
-    "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-    "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-    "COMPUTER COPS: Inside the big business of selling AI to the police"
-  ],
-  "sections": [
+    },
     {
       "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
@@ -349,10 +313,47 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "age_hours": "11.40",
-      "freshness_status": "fresh",
-      "editorial_score": "144",
+      "age_hours": "13.15",
+      "freshness_status": "stale",
+      "editorial_score": "114",
       "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Claude can now use your 1Password credentials for you",
+    "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "Google ordered to open Android and Search to rivals in Europe"
+  ],
+  "sections": [
+    {
+      "headline": "Claude can now use your 1Password credentials for you",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "snapshot": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means that users can authorize Claude to complete multi-step tasks like booking... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Claude, Anthropic",
+        "Specific figures mentioned: 1",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude can now use your 1Password credentials for you"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-16T09:00:00-04:00",
+      "age_hours": "0.14",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": "WATCH"
     },
     {
       "headline": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
@@ -379,9 +380,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 16 Jul 2026 04:00:00 +0000",
-      "age_hours": "7.40",
+      "age_hours": "9.14",
       "freshness_status": "fresh",
       "editorial_score": "88",
+      "urgency": ""
+    },
+    {
+      "headline": "Google ordered to open Android and Search to rivals in Europe",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "snapshot": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrust rules. The two decisions, handed down Thursday, could weaken Google's... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google, Android, Search, Europe",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google ordered to open Android and Search to rivals in Europe",
+        "Source context: Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-16T08:06:51-04:00",
+      "age_hours": "1.03",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -407,7 +438,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-16T07:00:00-04:00",
-      "age_hours": "0.40",
+      "age_hours": "2.14",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -436,7 +467,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 16 Jul 2026 09:00:00 +0000",
-      "age_hours": "2.40",
+      "age_hours": "4.14",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -466,39 +497,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 13:10:47 +0000",
-      "age_hours": "22.22",
+      "age_hours": "23.96",
       "freshness_status": "stale",
       "editorial_score": "134",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "snapshot": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Amid, OpenAI, Codex, Apple",
-        "Specific figures mentioned: $230",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amid.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
-      "age_hours": "15.70",
-      "freshness_status": "stale",
-      "editorial_score": "128",
       "urgency": "WATCH"
     }
   ],
