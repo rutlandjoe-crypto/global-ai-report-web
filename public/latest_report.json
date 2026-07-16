@@ -1,54 +1,25 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-  "snapshot": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-07-16 03:12:10 AM ET",
-  "generated_at": "2026-07-16 03:12:10 AM ET",
+  "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+  "snapshot": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+  "updated_at": "2026-07-16 05:51:04 AM ET",
+  "generated_at": "2026-07-16 05:51:04 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 37,
-    "live_fresh_items": 6,
-    "editor_fresh_items": 27,
-    "public_fallback_items": 31,
-    "stale_or_blocked_items": 31,
+    "total_items_checked": 49,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 26,
+    "public_fallback_items": 35,
+    "stale_or_blocked_items": 45,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-16 03:12:10 AM ET"
+    "last_checked": "2026-07-16 05:51:04 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "xAI sues a man for using Grok to generate CSAM 'deepfakes'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "snapshot": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Grok, CSAM, South Carolina, Grok AI",
-        "AI desk signal: lawsuit",
-        "Story focus: xAI sues a man for using Grok to generate CSAM 'deepfakes'",
-        "Source context: The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Grok.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-15T17:33:20-04:00",
-      "age_hours": "9.65",
-      "freshness_status": "fresh",
-      "editorial_score": "144",
-      "urgency": "DEVELOPING"
-    },
-    {
       "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
       "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
       "snapshot": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
@@ -73,9 +44,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 19:41:38 +0000",
-      "age_hours": "11.51",
-      "freshness_status": "fresh",
-      "editorial_score": "158",
+      "age_hours": "14.16",
+      "freshness_status": "stale",
+      "editorial_score": "128",
       "urgency": "WATCH"
     },
     {
@@ -103,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "age_hours": "7.21",
+      "age_hours": "9.86",
       "freshness_status": "fresh",
       "editorial_score": "144",
       "urgency": ""
@@ -133,158 +104,7 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Wed, 15 Jul 2026 22:24:17 GMT",
-      "age_hours": "8.80",
-      "freshness_status": "fresh",
-      "editorial_score": "142",
-      "urgency": ""
-    },
-    {
-      "headline": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "snapshot": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Applied Computing, Series",
-        "Specific figures mentioned: $20M",
-        "AI desk signal: model, enterprise",
-        "Story focus: Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-        "Source context: Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry. The competitive question is..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Applied Computing.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 16 Jul 2026 04:00:00 +0000",
-      "age_hours": "3.20",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "snapshot": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Amid, OpenAI, Codex, Apple",
-        "Specific figures mentioned: $230",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amid.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
-      "age_hours": "11.51",
-      "freshness_status": "fresh",
-      "editorial_score": "158",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "xAI sues a man for using Grok to generate CSAM 'deepfakes'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "snapshot": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Grok, CSAM, South Carolina, Grok AI",
-        "AI desk signal: lawsuit",
-        "Story focus: xAI sues a man for using Grok to generate CSAM 'deepfakes'",
-        "Source context: The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Grok.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-15T17:33:20-04:00",
-      "age_hours": "9.65",
-      "freshness_status": "fresh",
-      "editorial_score": "144",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "snapshot": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Microsoft, OpenAI, Anthropic",
-        "AI desk signal: model, chip, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-        "Source context: Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "age_hours": "7.21",
-      "freshness_status": "fresh",
-      "editorial_score": "144",
-      "urgency": ""
-    },
-    {
-      "headline": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "snapshot": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic's Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality:... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Agentic, Enterprise AI, Across, Anthropic",
-        "Specific figures mentioned: 101",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Agentic orchestration"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Agentic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Wed, 15 Jul 2026 22:24:17 GMT",
-      "age_hours": "8.80",
+      "age_hours": "11.45",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": ""
@@ -314,77 +134,42 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 13:10:47 +0000",
-      "age_hours": "18.02",
+      "age_hours": "20.67",
       "freshness_status": "stale",
       "editorial_score": "134",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Neko Health raises $700 million to expand AI body scans in the US",
+      "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
+      "snapshot": "Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company's preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review. The Series C round was led by...",
+      "key_data": [
+        "Key people or organizations: Neko Health, US, United States, New York",
+        "Specific figures mentioned: $700 million",
+        "Story focus: Neko Health raises $700 million to expand AI body scans in the US",
+        "Source context: Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company's preventive..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Neko Health.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 16 Jul 2026 09:00:00 +0000",
+      "age_hours": "0.85",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
     }
   ],
-  "key_storylines": [
-    "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-    "xAI sues a man for using Grok to generate CSAM 'deepfakes'",
-    "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic"
-  ],
-  "sections": [
-    {
-      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "snapshot": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Amid, OpenAI, Codex, Apple",
-        "Specific figures mentioned: $230",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amid.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
-      "age_hours": "11.51",
-      "freshness_status": "fresh",
-      "editorial_score": "158",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "xAI sues a man for using Grok to generate CSAM 'deepfakes'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "snapshot": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Grok, CSAM, South Carolina, Grok AI",
-        "AI desk signal: lawsuit",
-        "Story focus: xAI sues a man for using Grok to generate CSAM 'deepfakes'",
-        "Source context: The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Grok.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-15T17:33:20-04:00",
-      "age_hours": "9.65",
-      "freshness_status": "fresh",
-      "editorial_score": "144",
-      "urgency": "DEVELOPING"
-    },
+  "editor_signals": [
     {
       "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
       "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
@@ -410,7 +195,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "age_hours": "7.21",
+      "age_hours": "9.86",
       "freshness_status": "fresh",
       "editorial_score": "144",
       "urgency": ""
@@ -440,7 +225,164 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Wed, 15 Jul 2026 22:24:17 GMT",
-      "age_hours": "8.80",
+      "age_hours": "11.45",
+      "freshness_status": "fresh",
+      "editorial_score": "142",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "snapshot": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Blackstone, Ode",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+        "Source context: Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 15 Jul 2026 13:10:47 +0000",
+      "age_hours": "20.67",
+      "freshness_status": "stale",
+      "editorial_score": "134",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "snapshot": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Amid, OpenAI, Codex, Apple",
+        "Specific figures mentioned: $230",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amid.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "age_hours": "14.16",
+      "freshness_status": "stale",
+      "editorial_score": "128",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI finally launches hardware… for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "snapshot": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform, Codex.... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Codex, No, Apple",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI finally launches hardware… for Codex",
+        "Source context: OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-15T12:00:00-04:00",
+      "age_hours": "17.85",
+      "freshness_status": "stale",
+      "editorial_score": "126",
+      "urgency": "DEVELOPING"
+    }
+  ],
+  "key_storylines": [
+    "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+    "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+    "Applied Computing wants to give oil and gas operators an AI model for the entire plant"
+  ],
+  "sections": [
+    {
+      "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "snapshot": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Microsoft, OpenAI, Anthropic",
+        "AI desk signal: model, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+        "Source context: Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 15 Jul 2026 23:59:44 +0000",
+      "age_hours": "9.86",
+      "freshness_status": "fresh",
+      "editorial_score": "144",
+      "urgency": ""
+    },
+    {
+      "headline": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "snapshot": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic's Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality:... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Agentic, Enterprise AI, Across, Anthropic",
+        "Specific figures mentioned: 101",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Agentic orchestration"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Agentic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Wed, 15 Jul 2026 22:24:17 GMT",
+      "age_hours": "11.45",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": ""
@@ -470,20 +412,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 16 Jul 2026 04:00:00 +0000",
-      "age_hours": "3.20",
+      "age_hours": "5.85",
       "freshness_status": "fresh",
       "editorial_score": "88",
       "urgency": ""
     },
     {
-      "headline": "AI slop movies are the new direct-to-video cash grabs",
-      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "snapshot": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan...",
+      "headline": "Neko Health raises $700 million to expand AI body scans in the US",
+      "url": "https://www.artificialintelligence-news.com/news/neko-health-700m-ai-body-scans-us/",
+      "snapshot": "Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company's preventive screening service combines medical imaging, blood tests, proprietary sensors, and clinician review. The Series C round was led by...",
       "key_data": [
-        "Key people or organizations: Christopher Nolan, It, People, Nolan",
-        "Specific figures mentioned: $80, $100 million",
-        "Story focus: AI slop movies are the new direct-to-video cash grabs",
-        "Source context: This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The..."
+        "Key people or organizations: Neko Health, US, United States, New York",
+        "Specific figures mentioned: $700 million",
+        "Story focus: Neko Health raises $700 million to expand AI body scans in the US",
+        "Source context: Neko Health has raised $700 million to expand its AI body scans in the United States, starting with a clinic in New York. The company's preventive..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -491,18 +433,78 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Christopher Nolan.",
+        "Watch for follow-up statements, product details or customer evidence from Neko Health.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-15T16:00:00-04:00",
-      "age_hours": "11.20",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 16 Jul 2026 09:00:00 +0000",
+      "age_hours": "0.85",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
+    },
+    {
+      "headline": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "snapshot": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Blackstone, Ode",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+        "Source context: Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 15 Jul 2026 13:10:47 +0000",
+      "age_hours": "20.67",
+      "freshness_status": "stale",
+      "editorial_score": "134",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "snapshot": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Amid, OpenAI, Codex, Apple",
+        "Specific figures mentioned: $230",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amid.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "age_hours": "14.16",
+      "freshness_status": "stale",
+      "editorial_score": "128",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
