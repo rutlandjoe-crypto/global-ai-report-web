@@ -1,24 +1,84 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-  "snapshot": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators' content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-  "updated_at": "2026-07-17 12:05:12 PM ET",
-  "generated_at": "2026-07-17 12:05:12 PM ET",
+  "headline": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
+  "snapshot": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+  "updated_at": "2026-07-17 01:53:52 PM ET",
+  "generated_at": "2026-07-17 01:53:52 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 47,
-    "live_fresh_items": 3,
+    "total_items_checked": 35,
+    "live_fresh_items": 5,
     "editor_fresh_items": 23,
-    "public_fallback_items": 37,
-    "stale_or_blocked_items": 44,
+    "public_fallback_items": 33,
+    "stale_or_blocked_items": 30,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-17 12:05:12 PM ET"
+    "last_checked": "2026-07-17 01:53:52 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "snapshot": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: OpenAI, IPO, Apple",
+        "Specific figures mentioned: 400",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: How Apple's big lawsuit could disrupt OpenAI's IPO plans"
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "age_hours": "0.14",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Apple's lawsuit couldn't come at a worse time for OpenAI",
+      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "snapshot": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: Apple, OpenAI",
+        "Specific figures mentioned: 400",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's lawsuit couldn't come at a worse time for OpenAI"
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 17 Jul 2026 14:00:00 +0000",
+      "age_hours": "3.90",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Patreon stops asking AI bots not to scrape — and starts blocking them",
       "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
@@ -43,51 +103,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 15:21:17 +0000",
-      "age_hours": "0.73",
+      "age_hours": "2.54",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
     },
     {
-      "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "snapshot": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Apple's plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "snapshot": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: GPU",
-        "Specific figures mentioned: $400 million",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Why the first GPU financiers are turning to inference chips in a $400 million deal",
-        "Source context: A $400 million chip-backed loan points to the next wave of AI infrastructure deals. The larger angle is AI infrastructure: compute capacity, chip..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from GPU.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "age_hours": "4.09",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Bunkerhill raises $55M to scale agentic AI across health systems",
-      "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-      "snapshot": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator. However, a funding total... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Bunkerhill, Bunkerhill Health, Carebricks, Series",
-        "Specific figures mentioned: $55M, $55 million",
-        "AI desk signal: model, agent, enterprise, funding",
-        "Story focus: Bunkerhill raises $55M to scale agentic AI across health systems",
-        "Source context: Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today,..."
+        "Key people or organizations: Apple, OpenAI, So, On",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's plot to crush OpenAI",
+        "Source context: Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -95,18 +125,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Bunkerhill.",
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 17 Jul 2026 16:00:30 +0000",
-      "age_hours": "0.08",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-17T13:41:32-04:00",
+      "age_hours": "0.21",
       "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "WATCH"
+      "editorial_score": "89",
+      "urgency": ""
     },
     {
       "headline": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production...",
@@ -133,42 +163,73 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Thu, 16 Jul 2026 16:40:48 GMT",
-      "age_hours": "23.41",
+      "age_hours": "25.22",
       "freshness_status": "stale",
       "editorial_score": "88",
       "urgency": ""
-    },
-    {
-      "headline": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "snapshot": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "key_data": [
-        "Key people or organizations: Apple Intelligence, China, Alibaba, Baidu",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple Intelligence approved for launch in China with Alibaba and Baidu",
-        "Source context: The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple Intelligence.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 16 Jul 2026 13:17:59 +0000",
-      "age_hours": "26.79",
-      "freshness_status": "stale",
-      "editorial_score": "80",
-      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
+    {
+      "headline": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "snapshot": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: OpenAI, IPO, Apple",
+        "Specific figures mentioned: 400",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: How Apple's big lawsuit could disrupt OpenAI's IPO plans"
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "age_hours": "0.14",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Apple's lawsuit couldn't come at a worse time for OpenAI",
+      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "snapshot": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: Apple, OpenAI",
+        "Specific figures mentioned: 400",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's lawsuit couldn't come at a worse time for OpenAI"
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 17 Jul 2026 14:00:00 +0000",
+      "age_hours": "3.90",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Patreon stops asking AI bots not to scrape — and starts blocking them",
       "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
@@ -193,51 +254,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 15:21:17 +0000",
-      "age_hours": "0.73",
+      "age_hours": "2.54",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
     },
     {
-      "headline": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "snapshot": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Apple's plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "snapshot": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: GPU",
-        "Specific figures mentioned: $400 million",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Why the first GPU financiers are turning to inference chips in a $400 million deal",
-        "Source context: A $400 million chip-backed loan points to the next wave of AI infrastructure deals. The larger angle is AI infrastructure: compute capacity, chip..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from GPU.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "age_hours": "4.09",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Bunkerhill raises $55M to scale agentic AI across health systems",
-      "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-      "snapshot": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator. However, a funding total... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Bunkerhill, Bunkerhill Health, Carebricks, Series",
-        "Specific figures mentioned: $55M, $55 million",
-        "AI desk signal: model, agent, enterprise, funding",
-        "Story focus: Bunkerhill raises $55M to scale agentic AI across health systems",
-        "Source context: Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today,..."
+        "Key people or organizations: Apple, OpenAI, So, On",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's plot to crush OpenAI",
+        "Source context: Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -245,18 +276,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Bunkerhill.",
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 17 Jul 2026 16:00:30 +0000",
-      "age_hours": "0.08",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-17T13:41:32-04:00",
+      "age_hours": "0.21",
       "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "WATCH"
+      "editorial_score": "89",
+      "urgency": ""
     },
     {
       "headline": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to...",
@@ -283,47 +314,78 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Thu, 16 Jul 2026 16:40:48 GMT",
-      "age_hours": "23.41",
+      "age_hours": "25.22",
       "freshness_status": "stale",
       "editorial_score": "88",
       "urgency": ""
-    },
-    {
-      "headline": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "snapshot": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "key_data": [
-        "Key people or organizations: Apple Intelligence, China, Alibaba, Baidu",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple Intelligence approved for launch in China with Alibaba and Baidu",
-        "Source context: The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple Intelligence.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 16 Jul 2026 13:17:59 +0000",
-      "age_hours": "26.79",
-      "freshness_status": "stale",
-      "editorial_score": "80",
-      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
-    "Patreon stops asking AI bots not to scrape — and starts blocking them",
-    "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-    "Bunkerhill raises $55M to scale agentic AI across health systems"
+    "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
+    "Apple's lawsuit couldn't come at a worse time for OpenAI",
+    "Patreon stops asking AI bots not to scrape — and starts blocking them"
   ],
   "sections": [
+    {
+      "headline": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "snapshot": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: OpenAI, IPO, Apple",
+        "Specific figures mentioned: 400",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: How Apple's big lawsuit could disrupt OpenAI's IPO plans"
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 17 Jul 2026 17:45:46 +0000",
+      "age_hours": "0.14",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Apple's lawsuit couldn't come at a worse time for OpenAI",
+      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "snapshot": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: Apple, OpenAI",
+        "Specific figures mentioned: 400",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's lawsuit couldn't come at a worse time for OpenAI"
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 17 Jul 2026 14:00:00 +0000",
+      "age_hours": "3.90",
+      "freshness_status": "fresh",
+      "editorial_score": "156",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Patreon stops asking AI bots not to scrape — and starts blocking them",
       "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
@@ -348,9 +410,69 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 15:21:17 +0000",
-      "age_hours": "0.73",
+      "age_hours": "2.54",
       "freshness_status": "fresh",
       "editorial_score": "132",
+      "urgency": ""
+    },
+    {
+      "headline": "Apple's plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "snapshot": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Apple, OpenAI, So, On",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's plot to crush OpenAI",
+        "Source context: Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-17T13:41:32-04:00",
+      "age_hours": "0.21",
+      "freshness_status": "fresh",
+      "editorial_score": "89",
+      "urgency": ""
+    },
+    {
+      "headline": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production...",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "snapshot": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Enterprise AI, Across, Half",
+        "Specific figures mentioned: 157",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: The agent evaluation gap",
+        "Source context: Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Enterprise AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Thu, 16 Jul 2026 16:40:48 GMT",
+      "age_hours": "25.22",
+      "freshness_status": "stale",
+      "editorial_score": "88",
       "urgency": ""
     },
     {
@@ -378,129 +500,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "age_hours": "4.09",
+      "age_hours": "5.90",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Bunkerhill raises $55M to scale agentic AI across health systems",
-      "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
-      "snapshot": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator. However, a funding total... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Bunkerhill, Bunkerhill Health, Carebricks, Series",
-        "Specific figures mentioned: $55M, $55 million",
-        "AI desk signal: model, agent, enterprise, funding",
-        "Story focus: Bunkerhill raises $55M to scale agentic AI across health systems",
-        "Source context: Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Bunkerhill.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 17 Jul 2026 16:00:30 +0000",
-      "age_hours": "0.08",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production...",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "snapshot": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Enterprise AI, Across, Half",
-        "Specific figures mentioned: 157",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The agent evaluation gap",
-        "Source context: Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Enterprise AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Thu, 16 Jul 2026 16:40:48 GMT",
-      "age_hours": "23.41",
-      "freshness_status": "stale",
-      "editorial_score": "88",
-      "urgency": ""
-    },
-    {
-      "headline": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "snapshot": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-      "key_data": [
-        "Key people or organizations: Apple Intelligence, China, Alibaba, Baidu",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple Intelligence approved for launch in China with Alibaba and Baidu",
-        "Source context: The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple Intelligence.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 16 Jul 2026 13:17:59 +0000",
-      "age_hours": "26.79",
-      "freshness_status": "stale",
-      "editorial_score": "80",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "snapshot": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Across, More",
-        "Specific figures mentioned: 54%, 107",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The agent security gap",
-        "Source context: Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Across.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Thu, 16 Jul 2026 19:02:38 GMT",
-      "age_hours": "21.04",
-      "freshness_status": "stale",
-      "editorial_score": "78",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
