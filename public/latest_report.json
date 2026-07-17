@@ -3,8 +3,8 @@
   "vertical": "AI",
   "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
   "snapshot": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-07-17 05:42:00 AM ET",
-  "generated_at": "2026-07-17 05:42:00 AM ET",
+  "updated_at": "2026-07-17 07:11:16 AM ET",
+  "generated_at": "2026-07-17 07:11:16 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
@@ -12,11 +12,11 @@
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 47,
     "live_fresh_items": 0,
-    "editor_fresh_items": 23,
+    "editor_fresh_items": 22,
     "public_fallback_items": 37,
     "stale_or_blocked_items": 47,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-17 05:42:00 AM ET"
+    "last_checked": "2026-07-17 07:11:16 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "age_hours": "33.70",
+      "age_hours": "35.19",
       "freshness_status": "stale",
       "editorial_score": "114",
-      "urgency": ""
-    },
-    {
-      "headline": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "snapshot": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic's Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality:... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Agentic, Enterprise AI, Across, Anthropic",
-        "Specific figures mentioned: 101",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Agentic orchestration"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Agentic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Wed, 15 Jul 2026 22:24:17 GMT",
-      "age_hours": "35.30",
-      "freshness_status": "stale",
-      "editorial_score": "112",
       "urgency": ""
     },
     {
@@ -104,7 +74,7 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Thu, 16 Jul 2026 16:40:48 GMT",
-      "age_hours": "17.02",
+      "age_hours": "18.51",
       "freshness_status": "stale",
       "editorial_score": "88",
       "urgency": ""
@@ -133,7 +103,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 16 Jul 2026 13:17:59 +0000",
-      "age_hours": "20.40",
+      "age_hours": "21.89",
       "freshness_status": "stale",
       "editorial_score": "80",
       "urgency": "WATCH"
@@ -163,7 +133,37 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Thu, 16 Jul 2026 19:02:38 GMT",
-      "age_hours": "14.66",
+      "age_hours": "16.14",
+      "freshness_status": "stale",
+      "editorial_score": "78",
+      "urgency": ""
+    },
+    {
+      "headline": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "snapshot": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Enterprise AI, Across, Retrieval",
+        "Specific figures mentioned: 101",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: The AI context gap",
+        "Source context: Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted...."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Enterprise AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Thu, 16 Jul 2026 17:06:08 GMT",
+      "age_hours": "18.09",
       "freshness_status": "stale",
       "editorial_score": "78",
       "urgency": ""
@@ -195,39 +195,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "age_hours": "33.70",
+      "age_hours": "35.19",
       "freshness_status": "stale",
       "editorial_score": "114",
-      "urgency": ""
-    },
-    {
-      "headline": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "snapshot": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic's Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality:... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Agentic, Enterprise AI, Across, Anthropic",
-        "Specific figures mentioned: 101",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Agentic orchestration"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Agentic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Wed, 15 Jul 2026 22:24:17 GMT",
-      "age_hours": "35.30",
-      "freshness_status": "stale",
-      "editorial_score": "112",
       "urgency": ""
     },
     {
@@ -255,7 +225,7 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Thu, 16 Jul 2026 16:40:48 GMT",
-      "age_hours": "17.02",
+      "age_hours": "18.51",
       "freshness_status": "stale",
       "editorial_score": "88",
       "urgency": ""
@@ -284,7 +254,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 16 Jul 2026 13:17:59 +0000",
-      "age_hours": "20.40",
+      "age_hours": "21.89",
       "freshness_status": "stale",
       "editorial_score": "80",
       "urgency": "WATCH"
@@ -314,7 +284,37 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Thu, 16 Jul 2026 19:02:38 GMT",
-      "age_hours": "14.66",
+      "age_hours": "16.14",
+      "freshness_status": "stale",
+      "editorial_score": "78",
+      "urgency": ""
+    },
+    {
+      "headline": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "snapshot": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Enterprise AI, Across, Retrieval",
+        "Specific figures mentioned: 101",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: The AI context gap",
+        "Source context: Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted...."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Enterprise AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Thu, 16 Jul 2026 17:06:08 GMT",
+      "age_hours": "18.09",
       "freshness_status": "stale",
       "editorial_score": "78",
       "urgency": ""
@@ -322,8 +322,8 @@
   ],
   "key_storylines": [
     "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-    "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-    "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production..."
+    "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production...",
+    "Apple Intelligence approved for launch in China with Alibaba and Baidu"
   ],
   "sections": [
     {
@@ -351,39 +351,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "age_hours": "33.70",
+      "age_hours": "35.19",
       "freshness_status": "stale",
       "editorial_score": "114",
-      "urgency": ""
-    },
-    {
-      "headline": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "snapshot": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic's Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality:... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Agentic, Enterprise AI, Across, Anthropic",
-        "Specific figures mentioned: 101",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Agentic orchestration"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Agentic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Wed, 15 Jul 2026 22:24:17 GMT",
-      "age_hours": "35.30",
-      "freshness_status": "stale",
-      "editorial_score": "112",
       "urgency": ""
     },
     {
@@ -411,7 +381,7 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Thu, 16 Jul 2026 16:40:48 GMT",
-      "age_hours": "17.02",
+      "age_hours": "18.51",
       "freshness_status": "stale",
       "editorial_score": "88",
       "urgency": ""
@@ -440,7 +410,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 16 Jul 2026 13:17:59 +0000",
-      "age_hours": "20.40",
+      "age_hours": "21.89",
       "freshness_status": "stale",
       "editorial_score": "80",
       "urgency": "WATCH"
@@ -470,7 +440,37 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Thu, 16 Jul 2026 19:02:38 GMT",
-      "age_hours": "14.66",
+      "age_hours": "16.14",
+      "freshness_status": "stale",
+      "editorial_score": "78",
+      "urgency": ""
+    },
+    {
+      "headline": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "snapshot": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Enterprise AI, Across, Retrieval",
+        "Specific figures mentioned: 101",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: The AI context gap",
+        "Source context: Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted...."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Enterprise AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Thu, 16 Jul 2026 17:06:08 GMT",
+      "age_hours": "18.09",
       "freshness_status": "stale",
       "editorial_score": "78",
       "urgency": ""
@@ -500,7 +500,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 16 Jul 2026 14:26:29 +0000",
-      "age_hours": "19.26",
+      "age_hours": "20.75",
       "freshness_status": "stale",
       "editorial_score": "72",
       "urgency": ""
@@ -530,7 +530,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-16T09:00:00-04:00",
-      "age_hours": "20.70",
+      "age_hours": "22.19",
       "freshness_status": "stale",
       "editorial_score": "64",
       "urgency": "WATCH"
@@ -560,7 +560,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-16T12:00:00-04:00",
-      "age_hours": "17.70",
+      "age_hours": "19.19",
       "freshness_status": "stale",
       "editorial_score": "62",
       "urgency": ""
@@ -590,7 +590,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 16 Jul 2026 16:48:23 +0000",
-      "age_hours": "16.89",
+      "age_hours": "18.38",
       "freshness_status": "stale",
       "editorial_score": "62",
       "urgency": ""
@@ -620,7 +620,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-16T08:06:51-04:00",
-      "age_hours": "21.59",
+      "age_hours": "23.07",
       "freshness_status": "stale",
       "editorial_score": "54",
       "urgency": ""
