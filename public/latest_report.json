@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
   "snapshot": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-  "updated_at": "2026-07-17 01:53:52 PM ET",
-  "generated_at": "2026-07-17 01:53:52 PM ET",
+  "updated_at": "2026-07-17 02:46:19 PM ET",
+  "generated_at": "2026-07-17 02:46:19 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 35,
-    "live_fresh_items": 5,
-    "editor_fresh_items": 23,
-    "public_fallback_items": 33,
-    "stale_or_blocked_items": 30,
+    "total_items_checked": 47,
+    "live_fresh_items": 6,
+    "editor_fresh_items": 26,
+    "public_fallback_items": 37,
+    "stale_or_blocked_items": 41,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-17 01:53:52 PM ET"
+    "last_checked": "2026-07-17 02:46:19 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 17:45:46 +0000",
-      "age_hours": "0.14",
+      "age_hours": "1.01",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -74,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 14:00:00 +0000",
-      "age_hours": "3.90",
+      "age_hours": "4.77",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -103,10 +103,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 15:21:17 +0000",
-      "age_hours": "2.54",
+      "age_hours": "3.42",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
+    },
+    {
+      "headline": "Bunkerhill raises $55M to scale agentic AI across health systems",
+      "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "snapshot": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator. However, a funding total... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Bunkerhill, Bunkerhill Health, Carebricks, Series",
+        "Specific figures mentioned: $55M, $55 million",
+        "AI desk signal: model, agent, enterprise, funding",
+        "Story focus: Bunkerhill raises $55M to scale agentic AI across health systems",
+        "Source context: Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today,..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Bunkerhill.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 17 Jul 2026 16:00:30 +0000",
+      "age_hours": "2.76",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": "WATCH"
     },
     {
       "headline": "Apple's plot to crush OpenAI",
@@ -133,39 +163,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-17T13:41:32-04:00",
-      "age_hours": "0.21",
+      "age_hours": "1.08",
       "freshness_status": "fresh",
       "editorial_score": "89",
-      "urgency": ""
-    },
-    {
-      "headline": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production...",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "snapshot": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Enterprise AI, Across, Half",
-        "Specific figures mentioned: 157",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The agent evaluation gap",
-        "Source context: Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Enterprise AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Thu, 16 Jul 2026 16:40:48 GMT",
-      "age_hours": "25.22",
-      "freshness_status": "stale",
-      "editorial_score": "88",
       "urgency": ""
     }
   ],
@@ -195,7 +195,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 17:45:46 +0000",
-      "age_hours": "0.14",
+      "age_hours": "1.01",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -225,7 +225,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 14:00:00 +0000",
-      "age_hours": "3.90",
+      "age_hours": "4.77",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -254,10 +254,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 15:21:17 +0000",
-      "age_hours": "2.54",
+      "age_hours": "3.42",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
+    },
+    {
+      "headline": "Bunkerhill raises $55M to scale agentic AI across health systems",
+      "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "snapshot": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator. However, a funding total... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Bunkerhill, Bunkerhill Health, Carebricks, Series",
+        "Specific figures mentioned: $55M, $55 million",
+        "AI desk signal: model, agent, enterprise, funding",
+        "Story focus: Bunkerhill raises $55M to scale agentic AI across health systems",
+        "Source context: Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today,..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Bunkerhill.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 17 Jul 2026 16:00:30 +0000",
+      "age_hours": "2.76",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": "WATCH"
     },
     {
       "headline": "Apple's plot to crush OpenAI",
@@ -284,39 +314,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-17T13:41:32-04:00",
-      "age_hours": "0.21",
+      "age_hours": "1.08",
       "freshness_status": "fresh",
       "editorial_score": "89",
-      "urgency": ""
-    },
-    {
-      "headline": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to...",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "snapshot": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Enterprise AI, Across, Half",
-        "Specific figures mentioned: 157",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The agent evaluation gap",
-        "Source context: Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Enterprise AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Thu, 16 Jul 2026 16:40:48 GMT",
-      "age_hours": "25.22",
-      "freshness_status": "stale",
-      "editorial_score": "88",
       "urgency": ""
     }
   ],
@@ -351,7 +351,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 17:45:46 +0000",
-      "age_hours": "0.14",
+      "age_hours": "1.01",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -381,7 +381,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 14:00:00 +0000",
-      "age_hours": "3.90",
+      "age_hours": "4.77",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "DEVELOPING"
@@ -410,10 +410,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 15:21:17 +0000",
-      "age_hours": "2.54",
+      "age_hours": "3.42",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": ""
+    },
+    {
+      "headline": "Bunkerhill raises $55M to scale agentic AI across health systems",
+      "url": "https://www.artificialintelligence-news.com/news/bunkerhill-raises-55m-scale-agentic-ai-health-systems/",
+      "snapshot": "Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today, folds in continued participation from Sequoia Capital, Felicis, Optum Ventures, and Y Combinator. However, a funding total... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Bunkerhill, Bunkerhill Health, Carebricks, Series",
+        "Specific figures mentioned: $55M, $55 million",
+        "AI desk signal: model, agent, enterprise, funding",
+        "Story focus: Bunkerhill raises $55M to scale agentic AI across health systems",
+        "Source context: Bunkerhill Health has raised $55 million to scale its agentic AI platform, Carebricks. The closing of the company's Series B round, announced today,..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Bunkerhill.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 17 Jul 2026 16:00:30 +0000",
+      "age_hours": "2.76",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": "WATCH"
     },
     {
       "headline": "Apple's plot to crush OpenAI",
@@ -440,39 +470,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-17T13:41:32-04:00",
-      "age_hours": "0.21",
+      "age_hours": "1.08",
       "freshness_status": "fresh",
       "editorial_score": "89",
-      "urgency": ""
-    },
-    {
-      "headline": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production...",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "snapshot": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Enterprise AI, Across, Half",
-        "Specific figures mentioned: 157",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The agent evaluation gap",
-        "Source context: Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Enterprise AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Thu, 16 Jul 2026 16:40:48 GMT",
-      "age_hours": "25.22",
-      "freshness_status": "stale",
-      "editorial_score": "88",
       "urgency": ""
     },
     {
@@ -500,7 +500,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 17 Jul 2026 12:00:00 +0000",
-      "age_hours": "5.90",
+      "age_hours": "6.77",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "WATCH"
