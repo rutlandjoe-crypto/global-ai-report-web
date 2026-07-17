@@ -1,174 +1,53 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-  "snapshot": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-07-17 12:49:06 AM ET",
-  "generated_at": "2026-07-17 12:49:06 AM ET",
+  "headline": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+  "snapshot": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-07-17 03:06:37 AM ET",
+  "generated_at": "2026-07-17 03:06:37 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 47,
-    "live_fresh_items": 6,
-    "editor_fresh_items": 31,
+    "live_fresh_items": 1,
+    "editor_fresh_items": 26,
     "public_fallback_items": 37,
-    "stale_or_blocked_items": 41,
+    "stale_or_blocked_items": 46,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-17 12:49:06 AM ET"
+    "last_checked": "2026-07-17 03:06:37 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "snapshot": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "xAI sues a man for using Grok to generate CSAM 'deepfakes'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "snapshot": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Across, More",
-        "Specific figures mentioned: 54%, 107",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The agent security gap",
-        "Source context: Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half..."
+        "Key people or organizations: Grok, CSAM, South Carolina, Grok AI",
+        "AI desk signal: lawsuit",
+        "Story focus: xAI sues a man for using Grok to generate CSAM 'deepfakes'",
+        "Source context: The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Across.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Grok.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Thu, 16 Jul 2026 19:02:38 GMT",
-      "age_hours": "9.77",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-15T17:33:20-04:00",
+      "age_hours": "33.55",
+      "freshness_status": "stale",
+      "editorial_score": "114",
+      "urgency": "DEVELOPING"
     },
-    {
-      "headline": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "snapshot": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Enterprise AI, Across, Retrieval",
-        "Specific figures mentioned: 101",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The AI context gap",
-        "Source context: Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted...."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Enterprise AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Thu, 16 Jul 2026 17:06:08 GMT",
-      "age_hours": "11.72",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Google Vids now lets you star in your own AI videos",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "snapshot": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
-      "key_data": [
-        "Key people or organizations: Google Vids, Google, Vids, Gemini Omni",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google Vids now lets you star in your own AI videos",
-        "Source context: Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google Vids.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 16 Jul 2026 18:32:54 +0000",
-      "age_hours": "10.27",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-      "snapshot": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Enterprises, Across, Most, APIs",
-        "Specific figures mentioned: 107",
-        "AI desk signal: model, enterprise",
-        "Story focus: The AI compute gap",
-        "Source context: Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Enterprises.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Thu, 16 Jul 2026 19:16:48 GMT",
-      "age_hours": "9.54",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "snapshot": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-      "key_data": [
-        "Key people or organizations: Roblox, Build",
-        "Story focus: Roblox launches an AI-powered game-creation feature in its mobile app",
-        "Source context: Roblox's new \"Build\" feature lets users generate basic games using a single text prompt."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Roblox.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 16 Jul 2026 18:22:06 +0000",
-      "age_hours": "10.45",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": "WATCH"
-    }
-  ],
-  "editor_signals": [
     {
       "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
       "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
@@ -194,39 +73,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 19:41:38 +0000",
-      "age_hours": "33.12",
+      "age_hours": "35.42",
       "freshness_status": "stale",
       "editorial_score": "128",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "xAI sues a man for using Grok to generate CSAM 'deepfakes'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "snapshot": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Grok, CSAM, South Carolina, Grok AI",
-        "AI desk signal: lawsuit",
-        "Story focus: xAI sues a man for using Grok to generate CSAM 'deepfakes'",
-        "Source context: The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Grok.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-15T17:33:20-04:00",
-      "age_hours": "31.26",
-      "freshness_status": "stale",
-      "editorial_score": "114",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
@@ -253,7 +103,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 15 Jul 2026 23:59:44 +0000",
-      "age_hours": "28.82",
+      "age_hours": "31.11",
       "freshness_status": "stale",
       "editorial_score": "114",
       "urgency": ""
@@ -283,136 +133,9 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Wed, 15 Jul 2026 22:24:17 GMT",
-      "age_hours": "30.41",
+      "age_hours": "32.71",
       "freshness_status": "stale",
       "editorial_score": "112",
-      "urgency": ""
-    },
-    {
-      "headline": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "snapshot": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Across, More",
-        "Specific figures mentioned: 54%, 107",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The agent security gap",
-        "Source context: Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Across.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Thu, 16 Jul 2026 19:02:38 GMT",
-      "age_hours": "9.77",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-    "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-    "Google Vids now lets you star in your own AI videos"
-  ],
-  "sections": [
-    {
-      "headline": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "snapshot": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incident or a near-miss; only about a third give every agent its own scoped... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Across, More",
-        "Specific figures mentioned: 54%, 107",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The agent security gap",
-        "Source context: Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Across.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Thu, 16 Jul 2026 19:02:38 GMT",
-      "age_hours": "9.77",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "snapshot": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context source, and provider-native retrieval has quietly overtaken the dedicated vector... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Enterprise AI, Across, Retrieval",
-        "Specific figures mentioned: 101",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: The AI context gap",
-        "Source context: Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted...."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Enterprise AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://venturebeat.com/category/ai/feed/",
-      "source_name": "VentureBeat",
-      "published": "Thu, 16 Jul 2026 17:06:08 GMT",
-      "age_hours": "11.72",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Google Vids now lets you star in your own AI videos",
-      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "snapshot": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
-      "key_data": [
-        "Key people or organizations: Google Vids, Google, Vids, Gemini Omni",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google Vids now lets you star in your own AI videos",
-        "Source context: Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google Vids.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 16 Jul 2026 18:32:54 +0000",
-      "age_hours": "10.27",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -440,19 +163,23 @@
       "source_feed": "https://venturebeat.com/category/ai/feed/",
       "source_name": "VentureBeat",
       "published": "Thu, 16 Jul 2026 19:16:48 GMT",
-      "age_hours": "9.54",
+      "age_hours": "11.83",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
-    },
+    }
+  ],
+  "editor_signals": [
     {
-      "headline": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "snapshot": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "snapshot": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Roblox, Build",
-        "Story focus: Roblox launches an AI-powered game-creation feature in its mobile app",
-        "Source context: Roblox's new \"Build\" feature lets users generate basic games using a single text prompt."
+        "Key people or organizations: Amid, OpenAI, Codex, Apple",
+        "Specific figures mentioned: $230",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -460,28 +187,58 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Roblox.",
+        "Watch for follow-up statements, product details or customer evidence from Amid.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 16 Jul 2026 18:22:06 +0000",
-      "age_hours": "10.45",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
+      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "age_hours": "35.42",
+      "freshness_status": "stale",
+      "editorial_score": "128",
       "urgency": "WATCH"
     },
     {
-      "headline": "New York governor says she's using AI to analyze 'every single rule' in the state",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "snapshot": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lots podcast, Hochul said that her team is using \"AI to analyze every single... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "xAI sues a man for using Grok to generate CSAM 'deepfakes'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "snapshot": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: New York, New York Governor Kathy, Hochul, During",
-        "AI desk signal: chip, data center",
-        "Story focus: New York governor says she's using AI to analyze 'every single rule' in the state",
-        "Source context: New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology..."
+        "Key people or organizations: Grok, CSAM, South Carolina, Grok AI",
+        "AI desk signal: lawsuit",
+        "Story focus: xAI sues a man for using Grok to generate CSAM 'deepfakes'",
+        "Source context: The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Grok.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-15T17:33:20-04:00",
+      "age_hours": "33.55",
+      "freshness_status": "stale",
+      "editorial_score": "114",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "snapshot": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Microsoft, OpenAI, Anthropic",
+        "AI desk signal: model, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+        "Source context: Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -489,17 +246,263 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from New York.",
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 15 Jul 2026 23:59:44 +0000",
+      "age_hours": "31.11",
+      "freshness_status": "stale",
+      "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "snapshot": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic's Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality:... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Agentic, Enterprise AI, Across, Anthropic",
+        "Specific figures mentioned: 101",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Agentic orchestration"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Agentic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Wed, 15 Jul 2026 22:24:17 GMT",
+      "age_hours": "32.71",
+      "freshness_status": "stale",
+      "editorial_score": "112",
+      "urgency": ""
+    },
+    {
+      "headline": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "snapshot": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Enterprises, Across, Most, APIs",
+        "Specific figures mentioned: 107",
+        "AI desk signal: model, enterprise",
+        "Story focus: The AI compute gap",
+        "Source context: Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Enterprises.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Thu, 16 Jul 2026 19:16:48 GMT",
+      "age_hours": "11.83",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "xAI sues a man for using Grok to generate CSAM 'deepfakes'"
+  ],
+  "sections": [
+    {
+      "headline": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "snapshot": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Enterprises, Across, Most, APIs",
+        "Specific figures mentioned: 107",
+        "AI desk signal: model, enterprise",
+        "Story focus: The AI compute gap",
+        "Source context: Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Enterprises.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Thu, 16 Jul 2026 19:16:48 GMT",
+      "age_hours": "11.83",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "snapshot": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Amid, OpenAI, Codex, Apple",
+        "Specific figures mentioned: $230",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amid.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "age_hours": "35.42",
+      "freshness_status": "stale",
+      "editorial_score": "128",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "xAI sues a man for using Grok to generate CSAM 'deepfakes'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "snapshot": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI claims Terry Wayne Harwood \"knowingly and intentionally used Grok to circumvent... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: Grok, CSAM, South Carolina, Grok AI",
+        "AI desk signal: lawsuit",
+        "Story focus: xAI sues a man for using Grok to generate CSAM 'deepfakes'",
+        "Source context: The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Grok.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-07-16T13:58:37-04:00",
-      "age_hours": "10.84",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
+      "published": "2026-07-15T17:33:20-04:00",
+      "age_hours": "33.55",
+      "freshness_status": "stale",
+      "editorial_score": "114",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "snapshot": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Microsoft, OpenAI, Anthropic",
+        "AI desk signal: model, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+        "Source context: Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 15 Jul 2026 23:59:44 +0000",
+      "age_hours": "31.11",
+      "freshness_status": "stale",
+      "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "snapshot": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic's Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on reliable multi-step execution. But the ambition runs well ahead of the reality:... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Agentic, Enterprise AI, Across, Anthropic",
+        "Specific figures mentioned: 101",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Agentic orchestration"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Agentic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Wed, 15 Jul 2026 22:24:17 GMT",
+      "age_hours": "32.71",
+      "freshness_status": "stale",
+      "editorial_score": "112",
+      "urgency": ""
+    },
+    {
+      "headline": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production...",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "snapshot": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their internal evaluations and then failed a customer in production; only one in twenty... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Enterprise AI, Across, Half",
+        "Specific figures mentioned: 157",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: The agent evaluation gap",
+        "Source context: Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Enterprise AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Thu, 16 Jul 2026 16:40:48 GMT",
+      "age_hours": "14.43",
+      "freshness_status": "stale",
+      "editorial_score": "88",
       "urgency": ""
     }
   ],
