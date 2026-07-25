@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "One fallen power line exposed a growing AI data center problem. Here's how to fix it.",
   "snapshot": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-07-25 01:45:16 PM ET",
-  "generated_at": "2026-07-25 01:45:16 PM ET",
+  "updated_at": "2026-07-25 02:43:44 PM ET",
+  "generated_at": "2026-07-25 02:43:44 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 36,
+    "total_items_checked": 48,
     "live_fresh_items": 2,
-    "editor_fresh_items": 15,
-    "public_fallback_items": 29,
-    "stale_or_blocked_items": 34,
+    "editor_fresh_items": 18,
+    "public_fallback_items": 34,
+    "stale_or_blocked_items": 46,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-25 01:45:16 PM ET"
+    "last_checked": "2026-07-25 02:43:44 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-24T13:00:00-04:00",
-      "age_hours": "24.75",
+      "age_hours": "25.73",
       "freshness_status": "stale",
       "editorial_score": "136",
       "urgency": "WATCH"
@@ -74,21 +74,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 14:00:00 +0000",
-      "age_hours": "27.75",
+      "age_hours": "28.73",
       "freshness_status": "stale",
       "editorial_score": "116",
       "urgency": "WATCH"
     },
     {
-      "headline": "OpenAI's new voice mode makes it to the ChatGPT desktop app",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "snapshot": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "snapshot": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, ChatGPT Voice, ChatGPT Work",
+        "Key people or organizations: Meta, Microsoft, Nvidia, IBM",
+        "AI desk signal: model, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+        "Source context: Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 24 Jul 2026 16:18:30 +0000",
+      "age_hours": "26.42",
+      "freshness_status": "stale",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI Presence sells enterprise AI agents with engineers attached",
+      "url": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+      "snapshot": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence, announced on July 22, is a managed product delivered through a limited general availability programme, and the company states plainly that it is not yet available... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI Presence, OpenAI, July",
+        "Specific figures mentioned: 22",
         "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI's new voice mode makes it to the ChatGPT desktop app",
-        "Source context: ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents. The competitive question is whether this..."
+        "Story focus: OpenAI Presence sells enterprise AI agents with engineers attached"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -96,17 +126,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI Presence.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 24 Jul 2026 13:36:42 +0000",
-      "age_hours": "28.14",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 24 Jul 2026 08:00:00 +0000",
+      "age_hours": "34.73",
       "freshness_status": "stale",
-      "editorial_score": "98",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -133,37 +163,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 25 Jul 2026 13:05:00 +0000",
-      "age_hours": "4.67",
+      "age_hours": "5.65",
       "freshness_status": "fresh",
       "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Librarians are hosting viral 'Avoiding AI' workshops for people who are fed up with Big Tech",
-      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "snapshot": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-      "key_data": [
-        "Key people or organizations: Librarians, Avoiding AI, Big Tech",
-        "Story focus: Librarians are hosting viral 'Avoiding AI' workshops for people who are fed up with Big Tech",
-        "Source context: At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Librarians.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 25 Jul 2026 16:00:00 +0000",
-      "age_hours": "1.75",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     }
   ],
@@ -193,7 +195,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-24T13:00:00-04:00",
-      "age_hours": "24.75",
+      "age_hours": "25.73",
       "freshness_status": "stale",
       "editorial_score": "136",
       "urgency": "WATCH"
@@ -223,10 +225,70 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 14:00:00 +0000",
-      "age_hours": "27.75",
+      "age_hours": "28.73",
       "freshness_status": "stale",
       "editorial_score": "116",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "snapshot": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Meta, Microsoft, Nvidia, IBM",
+        "AI desk signal: model, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+        "Source context: Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 24 Jul 2026 16:18:30 +0000",
+      "age_hours": "26.42",
+      "freshness_status": "stale",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI Presence sells enterprise AI agents with engineers attached",
+      "url": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+      "snapshot": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence, announced on July 22, is a managed product delivered through a limited general availability programme, and the company states plainly that it is not yet available... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI Presence, OpenAI, July",
+        "Specific figures mentioned: 22",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI Presence sells enterprise AI agents with engineers attached"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI Presence.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 24 Jul 2026 08:00:00 +0000",
+      "age_hours": "34.73",
+      "freshness_status": "stale",
+      "editorial_score": "108",
+      "urgency": ""
     },
     {
       "headline": "OpenAI's new voice mode makes it to the ChatGPT desktop app",
@@ -253,68 +315,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 13:36:42 +0000",
-      "age_hours": "28.14",
+      "age_hours": "29.12",
       "freshness_status": "stale",
       "editorial_score": "98",
-      "urgency": ""
-    },
-    {
-      "headline": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "snapshot": "The acquisition brings Poke's conversational style and interaction model to Cognition's coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
-      "key_data": [
-        "Key people or organizations: Cognition, Poke, Devin",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Why Cognition bought Poke",
-        "Source context: The acquisition brings Poke's conversational style and interaction model to Cognition's coding agent Devin, reflecting a growing belief that how AI..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Cognition.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 24 Jul 2026 18:07:32 +0000",
-      "age_hours": "23.63",
-      "freshness_status": "stale",
-      "editorial_score": "90",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Meta is making its AI chatbot more like an assistant",
-      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "snapshot": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Meta, Gemini, ChatGPT, Claude",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta is making its AI chatbot more like an assistant",
-        "Source context: Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-24T13:00:00-04:00",
-      "age_hours": "24.75",
-      "freshness_status": "stale",
-      "editorial_score": "78",
       "urgency": ""
     }
   ],
@@ -348,7 +351,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 25 Jul 2026 13:05:00 +0000",
-      "age_hours": "4.67",
+      "age_hours": "5.65",
       "freshness_status": "fresh",
       "editorial_score": "72",
       "urgency": ""
@@ -376,7 +379,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 25 Jul 2026 16:00:00 +0000",
-      "age_hours": "1.75",
+      "age_hours": "2.73",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -406,7 +409,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-24T13:00:00-04:00",
-      "age_hours": "24.75",
+      "age_hours": "25.73",
       "freshness_status": "stale",
       "editorial_score": "136",
       "urgency": "WATCH"
@@ -436,21 +439,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 14:00:00 +0000",
-      "age_hours": "27.75",
+      "age_hours": "28.73",
       "freshness_status": "stale",
       "editorial_score": "116",
       "urgency": "WATCH"
     },
     {
-      "headline": "OpenAI's new voice mode makes it to the ChatGPT desktop app",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "snapshot": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "snapshot": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, ChatGPT Voice, ChatGPT Work",
+        "Key people or organizations: Meta, Microsoft, Nvidia, IBM",
+        "AI desk signal: model, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+        "Source context: Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 24 Jul 2026 16:18:30 +0000",
+      "age_hours": "26.42",
+      "freshness_status": "stale",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI Presence sells enterprise AI agents with engineers attached",
+      "url": "https://www.artificialintelligence-news.com/news/openai-presence-enterprise-ai-agents/",
+      "snapshot": "The newest way to buy enterprise AI agents from OpenAI does not involve buying anything online. OpenAI Presence, announced on July 22, is a managed product delivered through a limited general availability programme, and the company states plainly that it is not yet available... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI Presence, OpenAI, July",
+        "Specific figures mentioned: 22",
         "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI's new voice mode makes it to the ChatGPT desktop app",
-        "Source context: ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents. The competitive question is whether this..."
+        "Story focus: OpenAI Presence sells enterprise AI agents with engineers attached"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -458,17 +491,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI Presence.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 24 Jul 2026 13:36:42 +0000",
-      "age_hours": "28.14",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 24 Jul 2026 08:00:00 +0000",
+      "age_hours": "34.73",
       "freshness_status": "stale",
-      "editorial_score": "98",
+      "editorial_score": "108",
       "urgency": ""
     }
   ],
