@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Anthropic releases Opus 5 with 'close' to Fable 5's capabilities",
   "snapshot": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-07-24 07:51:07 PM ET",
-  "generated_at": "2026-07-24 07:51:07 PM ET",
+  "updated_at": "2026-07-24 09:17:14 PM ET",
+  "generated_at": "2026-07-24 09:17:14 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 36,
-    "live_fresh_items": 12,
-    "editor_fresh_items": 27,
-    "public_fallback_items": 29,
-    "stale_or_blocked_items": 24,
+    "total_items_checked": 48,
+    "live_fresh_items": 15,
+    "editor_fresh_items": 31,
+    "public_fallback_items": 35,
+    "stale_or_blocked_items": 33,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-24 07:51:07 PM ET"
+    "last_checked": "2026-07-24 09:17:14 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-24T13:00:00-04:00",
-      "age_hours": "6.85",
+      "age_hours": "8.29",
       "freshness_status": "fresh",
       "editorial_score": "166",
       "urgency": "WATCH"
@@ -74,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 14:00:00 +0000",
-      "age_hours": "9.85",
+      "age_hours": "11.29",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
@@ -103,10 +103,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 18:07:32 +0000",
-      "age_hours": "5.73",
+      "age_hours": "7.16",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "snapshot": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Meta, Microsoft, Nvidia, IBM",
+        "AI desk signal: model, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+        "Source context: Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 24 Jul 2026 16:18:30 +0000",
+      "age_hours": "8.98",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": ""
     },
     {
       "headline": "OpenAI's new voice mode makes it to the ChatGPT desktop app",
@@ -133,39 +163,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 13:36:42 +0000",
-      "age_hours": "10.24",
+      "age_hours": "11.68",
       "freshness_status": "fresh",
       "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta is making its AI chatbot more like an assistant",
-      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "snapshot": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Meta, Gemini, ChatGPT, Claude",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta is making its AI chatbot more like an assistant",
-        "Source context: Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-24T13:00:00-04:00",
-      "age_hours": "6.85",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
       "urgency": ""
     }
   ],
@@ -195,7 +195,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-24T13:00:00-04:00",
-      "age_hours": "6.85",
+      "age_hours": "8.29",
       "freshness_status": "fresh",
       "editorial_score": "166",
       "urgency": "WATCH"
@@ -225,10 +225,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 14:00:00 +0000",
-      "age_hours": "9.85",
+      "age_hours": "11.29",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "snapshot": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Meta, Microsoft, Nvidia, IBM",
+        "AI desk signal: model, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+        "Source context: Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 24 Jul 2026 16:18:30 +0000",
+      "age_hours": "8.98",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": ""
     },
     {
       "headline": "OpenAI's new voice mode makes it to the ChatGPT desktop app",
@@ -255,7 +285,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 13:36:42 +0000",
-      "age_hours": "10.24",
+      "age_hours": "11.68",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": ""
@@ -284,46 +314,16 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 18:07:32 +0000",
-      "age_hours": "5.73",
+      "age_hours": "7.16",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Meta is making its AI chatbot more like an assistant",
-      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "snapshot": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Meta, Gemini, ChatGPT, Claude",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta is making its AI chatbot more like an assistant",
-        "Source context: Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-24T13:00:00-04:00",
-      "age_hours": "6.85",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
     }
   ],
   "key_storylines": [
     "Anthropic releases Opus 5 with 'close' to Fable 5's capabilities",
     "'AI communism', rogue models, and the why Kimi K3 spooked Wall Street",
-    "OpenAI's new voice mode makes it to the ChatGPT desktop app"
+    "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI"
   ],
   "sections": [
     {
@@ -351,7 +351,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-24T13:00:00-04:00",
-      "age_hours": "6.85",
+      "age_hours": "8.29",
       "freshness_status": "fresh",
       "editorial_score": "166",
       "urgency": "WATCH"
@@ -381,10 +381,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 14:00:00 +0000",
-      "age_hours": "9.85",
+      "age_hours": "11.29",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+      "url": "https://www.artificialintelligence-news.com/news/meta-microsoft-nvidia-ibm-others-back-open-weight-ai/",
+      "snapshot": "Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today (PDF), carries signatures from a list that spans direct commercial rivals and organisations with little obvious overlap in business... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Meta, Microsoft, Nvidia, IBM",
+        "AI desk signal: model, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta, Microsoft, Nvidia, IBM, and others back open-weight AI",
+        "Source context: Two dozen companies and organisations signed an open letter urging US policymakers to protect open-weight AI models. The letter, published today..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 24 Jul 2026 16:18:30 +0000",
+      "age_hours": "8.98",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": ""
     },
     {
       "headline": "OpenAI's new voice mode makes it to the ChatGPT desktop app",
@@ -411,7 +441,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 13:36:42 +0000",
-      "age_hours": "10.24",
+      "age_hours": "11.68",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": ""
@@ -440,7 +470,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 24 Jul 2026 18:07:32 +0000",
-      "age_hours": "5.73",
+      "age_hours": "7.16",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
@@ -470,9 +500,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-24T13:00:00-04:00",
-      "age_hours": "6.85",
+      "age_hours": "8.29",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI pushes ChatGPT into patient health records",
+      "url": "https://www.artificialintelligence-news.com/news/openai-pushes-chatgpt-into-patient-health-records/",
+      "snapshot": "OpenAI is deploying a Health feature inside ChatGPT, giving users the option to connect Apple Health data and medical records to the chatbot. Logged-in users aged 18 and older can access it now on web and iOS, across the Free, Go, Plus, and Pro tiers. Users link Apple Health... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT, Health, Apple Health",
+        "Specific figures mentioned: 18",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI pushes ChatGPT into patient health records"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 24 Jul 2026 14:58:17 +0000",
+      "age_hours": "10.32",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
@@ -500,7 +560,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-24T13:29:48-04:00",
-      "age_hours": "6.36",
+      "age_hours": "7.79",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": "WATCH"
