@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI report links coding agents to faster science software builds",
   "snapshot": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic's Claude Code in three others. Worth flagging... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-07-29 08:52:36 AM ET",
-  "generated_at": "2026-07-29 08:52:36 AM ET",
+  "updated_at": "2026-07-29 11:01:34 AM ET",
+  "generated_at": "2026-07-29 11:01:34 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 3,
-    "editor_fresh_items": 18,
-    "public_fallback_items": 33,
-    "stale_or_blocked_items": 46,
+    "live_fresh_items": 7,
+    "editor_fresh_items": 22,
+    "public_fallback_items": 36,
+    "stale_or_blocked_items": 42,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-29 08:52:36 AM ET"
+    "last_checked": "2026-07-29 11:01:34 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 29 Jul 2026 10:53:39 +0000",
-      "age_hours": "1.98",
+      "age_hours": "4.13",
       "freshness_status": "fresh",
       "editorial_score": "168",
       "urgency": "WATCH"
@@ -74,80 +74,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 29 Jul 2026 11:00:00 +0000",
-      "age_hours": "1.88",
+      "age_hours": "4.03",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
     },
     {
-      "headline": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "snapshot": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "We're running out of reasons to ignore AI safety",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "snapshot": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Fish Audio, Since",
-        "Specific figures mentioned: $52M, 8, $21 million",
-        "AI desk signal: model, enterprise",
-        "Story focus: Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-        "Source context: Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Fish Audio.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 28 Jul 2026 14:00:00 +0000",
-      "age_hours": "22.88",
-      "freshness_status": "stale",
-      "editorial_score": "112",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Guardoc Health processes clinical documentation using Amazon Nova models",
-      "url": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
-      "snapshot": "Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical documentation comes down to a specific kind of risk calculation. Get it wrong and the errors compound into denied Medicare claims... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Guardoc Health, Amazon Nova, Bedrock, Bringing AI",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: We, Earlier, OpenAI, It",
+        "AI desk signal: model",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Guardoc Health processes clinical documentation using Amazon Nova models",
-        "Source context: Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical..."
+        "Story focus: We're running out of reasons to ignore AI safety",
+        "Source context: Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Guardoc Health.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Tue, 28 Jul 2026 11:30:47 +0000",
-      "age_hours": "25.36",
-      "freshness_status": "stale",
-      "editorial_score": "106",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-29T07:00:00-04:00",
+      "age_hours": "4.03",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Perplexity's Personal Computer turns Windows PCs into AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "snapshot": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
+      "headline": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "snapshot": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Perplexity, Personal Computer, Windows PCs, Windows",
+        "Key people or organizations: OpenAI, Hugging Face",
         "AI desk signal: model, agent, enterprise",
-        "Story focus: Perplexity's Personal Computer turns Windows PCs into AI agents",
-        "Source context: Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
+        "Source context: The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -155,18 +126,48 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Perplexity.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-07-28T08:30:00-04:00",
-      "age_hours": "24.38",
-      "freshness_status": "stale",
-      "editorial_score": "100",
-      "urgency": "WATCH"
+      "published": "2026-07-29T07:54:29-04:00",
+      "age_hours": "3.12",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "snapshot": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Encore AI, CRM",
+        "Specific figures mentioned: $30M",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Encore AI raises $30M to build AI agents that learn from customer calls",
+        "Source context: The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents. The competitive..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Encore AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 29 Jul 2026 14:41:06 +0000",
+      "age_hours": "0.34",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -195,10 +196,40 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 29 Jul 2026 10:53:39 +0000",
-      "age_hours": "1.98",
+      "age_hours": "4.13",
       "freshness_status": "fresh",
       "editorial_score": "168",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "We're running out of reasons to ignore AI safety",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "snapshot": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: We, Earlier, OpenAI, It",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: We're running out of reasons to ignore AI safety",
+        "Source context: Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-29T07:00:00-04:00",
+      "age_hours": "4.03",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "As AI content floods the internet, Pangram raises $9M to detect it",
@@ -225,7 +256,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 29 Jul 2026 11:00:00 +0000",
-      "age_hours": "1.88",
+      "age_hours": "4.03",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -255,50 +286,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 28 Jul 2026 14:00:00 +0000",
-      "age_hours": "22.88",
+      "age_hours": "25.03",
       "freshness_status": "stale",
       "editorial_score": "112",
       "urgency": "WATCH"
     },
     {
-      "headline": "Guardoc Health processes clinical documentation using Amazon Nova models",
-      "url": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
-      "snapshot": "Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical documentation comes down to a specific kind of risk calculation. Get it wrong and the errors compound into denied Medicare claims... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "snapshot": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Guardoc Health, Amazon Nova, Bedrock, Bringing AI",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Guardoc Health processes clinical documentation using Amazon Nova models",
-        "Source context: Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Guardoc Health.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Tue, 28 Jul 2026 11:30:47 +0000",
-      "age_hours": "25.36",
-      "freshness_status": "stale",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Perplexity's Personal Computer turns Windows PCs into AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "snapshot": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
-      "key_data": [
-        "Key people or organizations: Perplexity, Personal Computer, Windows PCs, Windows",
+        "Key people or organizations: OpenAI, Hugging Face",
         "AI desk signal: model, agent, enterprise",
-        "Story focus: Perplexity's Personal Computer turns Windows PCs into AI agents",
-        "Source context: Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
+        "Source context: The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -306,24 +308,24 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Perplexity.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-07-28T08:30:00-04:00",
-      "age_hours": "24.38",
-      "freshness_status": "stale",
-      "editorial_score": "100",
-      "urgency": "WATCH"
+      "published": "2026-07-29T07:54:29-04:00",
+      "age_hours": "3.12",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
     }
   ],
   "key_storylines": [
     "OpenAI report links coding agents to faster science software builds",
-    "As AI content floods the internet, Pangram raises $9M to detect it",
-    "Google AI Overviews become more common in search"
+    "We're running out of reasons to ignore AI safety",
+    "As AI content floods the internet, Pangram raises $9M to detect it"
   ],
   "sections": [
     {
@@ -351,10 +353,40 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 29 Jul 2026 10:53:39 +0000",
-      "age_hours": "1.98",
+      "age_hours": "4.13",
       "freshness_status": "fresh",
       "editorial_score": "168",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "We're running out of reasons to ignore AI safety",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "snapshot": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet connection and set them off to work. What happened next is almost laughably... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: We, Earlier, OpenAI, It",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: We're running out of reasons to ignore AI safety",
+        "Source context: Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-29T07:00:00-04:00",
+      "age_hours": "4.03",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "As AI content floods the internet, Pangram raises $9M to detect it",
@@ -381,10 +413,70 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 29 Jul 2026 11:00:00 +0000",
-      "age_hours": "1.88",
+      "age_hours": "4.03",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "snapshot": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already concerning incident, which has alarmed industry insiders and fueled growing... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Hugging Face",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
+        "Source context: The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-29T07:54:29-04:00",
+      "age_hours": "3.12",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "snapshot": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Encore AI, CRM",
+        "Specific figures mentioned: $30M",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Encore AI raises $30M to build AI agents that learn from customer calls",
+        "Source context: The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents. The competitive..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Encore AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 29 Jul 2026 14:41:06 +0000",
+      "age_hours": "0.34",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
+      "urgency": ""
     },
     {
       "headline": "Google AI Overviews become more common in search",
@@ -411,99 +503,38 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 29 Jul 2026 10:00:00 +0000",
-      "age_hours": "2.88",
+      "age_hours": "5.03",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-      "snapshot": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Artists are lawyering up against AI slop, and some are even winning",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "snapshot": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the...",
       "key_data": [
-        "Key people or organizations: Fish Audio, Since",
-        "Specific figures mentioned: $52M, 8, $21 million",
-        "AI desk signal: model, enterprise",
-        "Story focus: Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-        "Source context: Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates..."
+        "Key people or organizations: Artists, Atlantic, Kirk Wallace Johnson, And",
+        "Story focus: Artists are lawyering up against AI slop, and some are even winning",
+        "Source context: When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Fish Audio.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Artists.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 28 Jul 2026 14:00:00 +0000",
-      "age_hours": "22.88",
-      "freshness_status": "stale",
-      "editorial_score": "112",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Guardoc Health processes clinical documentation using Amazon Nova models",
-      "url": "https://www.artificialintelligence-news.com/news/guardoc-health-processes-clinical-documentation-using-amazon-nova-models/",
-      "snapshot": "Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical documentation comes down to a specific kind of risk calculation. Get it wrong and the errors compound into denied Medicare claims... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Guardoc Health, Amazon Nova, Bedrock, Bringing AI",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Guardoc Health processes clinical documentation using Amazon Nova models",
-        "Source context: Guardoc Health says it processes over one million clinical documents daily using Amazon Nova models through Bedrock. Bringing AI into clinical..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Guardoc Health.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Tue, 28 Jul 2026 11:30:47 +0000",
-      "age_hours": "25.36",
-      "freshness_status": "stale",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Perplexity's Personal Computer turns Windows PCs into AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "snapshot": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
-      "key_data": [
-        "Key people or organizations: Perplexity, Personal Computer, Windows PCs, Windows",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Perplexity's Personal Computer turns Windows PCs into AI agents",
-        "Source context: Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Perplexity.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-07-28T08:30:00-04:00",
-      "age_hours": "24.38",
-      "freshness_status": "stale",
-      "editorial_score": "100",
-      "urgency": "WATCH"
+      "published": "2026-07-29T08:00:00-04:00",
+      "age_hours": "3.03",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
