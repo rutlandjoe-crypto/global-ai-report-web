@@ -1,54 +1,24 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "OpenAI report links coding agents to faster science software builds",
-  "snapshot": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic's Claude Code in three others. Worth flagging... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-07-29 02:06:16 PM ET",
-  "generated_at": "2026-07-29 02:06:16 PM ET",
+  "headline": "OpenAI president says it's 'building a family of devices' for its AI chatbots",
+  "snapshot": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-07-29 04:04:54 PM ET",
+  "generated_at": "2026-07-29 04:04:54 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 8,
-    "editor_fresh_items": 22,
-    "public_fallback_items": 36,
-    "stale_or_blocked_items": 41,
+    "total_items_checked": 37,
+    "live_fresh_items": 9,
+    "editor_fresh_items": 21,
+    "public_fallback_items": 30,
+    "stale_or_blocked_items": 28,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-29 02:06:16 PM ET"
+    "last_checked": "2026-07-29 04:04:54 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "OpenAI report links coding agents to faster science software builds",
-      "url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
-      "snapshot": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic's Claude Code in three others. Worth flagging... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Codex, Anthropic, Claude Code",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI report links coding agents to faster science software builds",
-        "Source context: OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Wed, 29 Jul 2026 10:53:39 +0000",
-      "age_hours": "7.21",
-      "freshness_status": "fresh",
-      "editorial_score": "168",
-      "urgency": "WATCH"
-    },
     {
       "headline": "As AI content floods the internet, Pangram raises $9M to detect it",
       "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
@@ -74,10 +44,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 29 Jul 2026 11:00:00 +0000",
-      "age_hours": "7.10",
+      "age_hours": "9.08",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI president says it's 'building a family of devices' for its AI chatbots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "snapshot": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, In, Joanna Stern, YouTube",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI president says it's 'building a family of devices' for its AI chatbots",
+        "Source context: In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-29T14:15:02-04:00",
+      "age_hours": "1.83",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
     },
     {
       "headline": "We're running out of reasons to ignore AI safety",
@@ -104,7 +104,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-29T07:00:00-04:00",
-      "age_hours": "7.10",
+      "age_hours": "9.08",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -134,7 +134,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-29T07:54:29-04:00",
-      "age_hours": "6.20",
+      "age_hours": "8.17",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": ""
@@ -164,7 +164,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 29 Jul 2026 14:41:06 +0000",
-      "age_hours": "3.42",
+      "age_hours": "5.40",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": ""
@@ -172,15 +172,15 @@
   ],
   "editor_signals": [
     {
-      "headline": "OpenAI report links coding agents to faster science software builds",
-      "url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
-      "snapshot": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic's Claude Code in three others. Worth flagging... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "OpenAI president says it's 'building a family of devices' for its AI chatbots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "snapshot": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: OpenAI, Codex, Anthropic, Claude Code",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: OpenAI, In, Joanna Stern, YouTube",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI report links coding agents to faster science software builds",
-        "Source context: OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects..."
+        "Story focus: OpenAI president says it's 'building a family of devices' for its AI chatbots",
+        "Source context: In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -192,14 +192,14 @@
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Wed, 29 Jul 2026 10:53:39 +0000",
-      "age_hours": "7.21",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-29T14:15:02-04:00",
+      "age_hours": "1.83",
       "freshness_status": "fresh",
-      "editorial_score": "168",
-      "urgency": "WATCH"
+      "editorial_score": "120",
+      "urgency": ""
     },
     {
       "headline": "We're running out of reasons to ignore AI safety",
@@ -226,7 +226,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-29T07:00:00-04:00",
-      "age_hours": "7.10",
+      "age_hours": "9.08",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -256,7 +256,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 29 Jul 2026 11:00:00 +0000",
-      "age_hours": "7.10",
+      "age_hours": "9.08",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -286,7 +286,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 28 Jul 2026 14:00:00 +0000",
-      "age_hours": "28.10",
+      "age_hours": "30.08",
       "freshness_status": "stale",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -316,28 +316,28 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-29T07:54:29-04:00",
-      "age_hours": "6.20",
+      "age_hours": "8.17",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "OpenAI report links coding agents to faster science software builds",
+    "OpenAI president says it's 'building a family of devices' for its AI chatbots",
     "We're running out of reasons to ignore AI safety",
     "As AI content floods the internet, Pangram raises $9M to detect it"
   ],
   "sections": [
     {
-      "headline": "OpenAI report links coding agents to faster science software builds",
-      "url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
-      "snapshot": "OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects that used Codex on its own in five cases and a combination of Codex and Anthropic's Claude Code in three others. Worth flagging... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "OpenAI president says it's 'building a family of devices' for its AI chatbots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "snapshot": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: OpenAI, Codex, Anthropic, Claude Code",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: OpenAI, In, Joanna Stern, YouTube",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI report links coding agents to faster science software builds",
-        "Source context: OpenAI has released a new field report tracking eight scientific computing projects where coding agents cut runtimes. The report documents projects..."
+        "Story focus: OpenAI president says it's 'building a family of devices' for its AI chatbots",
+        "Source context: In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -349,14 +349,14 @@
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Wed, 29 Jul 2026 10:53:39 +0000",
-      "age_hours": "7.21",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-29T14:15:02-04:00",
+      "age_hours": "1.83",
       "freshness_status": "fresh",
-      "editorial_score": "168",
-      "urgency": "WATCH"
+      "editorial_score": "120",
+      "urgency": ""
     },
     {
       "headline": "We're running out of reasons to ignore AI safety",
@@ -383,7 +383,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-29T07:00:00-04:00",
-      "age_hours": "7.10",
+      "age_hours": "9.08",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -413,7 +413,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 29 Jul 2026 11:00:00 +0000",
-      "age_hours": "7.10",
+      "age_hours": "9.08",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
@@ -443,7 +443,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-07-29T07:54:29-04:00",
-      "age_hours": "6.20",
+      "age_hours": "8.17",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": ""
@@ -473,21 +473,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 29 Jul 2026 14:41:06 +0000",
-      "age_hours": "3.42",
+      "age_hours": "5.40",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": ""
     },
     {
-      "headline": "Google AI Overviews become more common in search",
-      "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches/",
-      "snapshot": "Google's AI-generated summaries appeared in 43% of US searches measured by Similarweb, up from 15% a year earlier, according to the market intelligence firm's 2026 Generative AI Landscape report. AI Overviews display generated summaries within conventional Google results,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "snapshot": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.) The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Google AI Overviews, Google, US, Similarweb",
-        "Specific figures mentioned: 43%, 15%, 2026",
+        "Key people or organizations: Hugging Face AI, Another, Really",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google AI Overviews become more common in search"
+        "Story focus: The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+        "Source context: Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.) The competitive question is whether this..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -495,73 +495,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google AI Overviews.",
+        "Watch for follow-up statements, product details or customer evidence from Hugging Face AI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Wed, 29 Jul 2026 10:00:00 +0000",
-      "age_hours": "8.10",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-      "snapshot": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \"AI for your home,\" combining property records, maintenance schedules, home documents, and an AI assistant into a single app. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Hint, Martha Stewart",
-        "Story focus: Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-        "Source context: AI home management startup Hint, co-founded by Martha Stewart, wants to become an \"AI for your home,\" combining property records, maintenance..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Hint.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 29 Jul 2026 15:35:09 +0000",
-      "age_hours": "2.52",
+      "published": "Wed, 29 Jul 2026 19:44:49 +0000",
+      "age_hours": "0.33",
       "freshness_status": "fresh",
-      "editorial_score": "62",
-      "urgency": ""
-    },
-    {
-      "headline": "Artists are lawyering up against AI slop, and some are even winning",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "snapshot": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. Essentially, his books, like The Feather Thief and The Fishermen and the...",
-      "key_data": [
-        "Key people or organizations: Artists, Atlantic, Kirk Wallace Johnson, And",
-        "Story focus: Artists are lawyering up against AI slop, and some are even winning",
-        "Source context: When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Artists.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-07-29T08:00:00-04:00",
-      "age_hours": "6.10",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
+      "editorial_score": "92",
       "urgency": ""
     }
   ],
