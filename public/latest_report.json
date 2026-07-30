@@ -1,24 +1,54 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Okta buys AI security startup Permiso; source says for about $200M",
-  "snapshot": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-07-30 12:21:17 PM ET",
-  "generated_at": "2026-07-30 12:21:17 PM ET",
+  "headline": "Google DeepMind's new AI model can control a robot's entire body",
+  "snapshot": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips,... The competitive question is whether this changes the model race, enterprise integrations or...",
+  "updated_at": "2026-07-30 02:06:50 PM ET",
+  "generated_at": "2026-07-30 02:06:50 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 9,
-    "editor_fresh_items": 29,
+    "live_fresh_items": 12,
+    "editor_fresh_items": 32,
     "public_fallback_items": 36,
-    "stale_or_blocked_items": 40,
+    "stale_or_blocked_items": 37,
     "unknown_date_items": 0,
-    "last_checked": "2026-07-30 12:21:17 PM ET"
+    "last_checked": "2026-07-30 02:06:50 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Google DeepMind's new AI model can control a robot's entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "snapshot": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips,... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Google DeepMind, Gemini Robotics AI, While, Gemini Robotics",
+        "Specific figures mentioned: 2",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google DeepMind's new AI model can control a robot's entire body"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google DeepMind.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-30T13:18:45-04:00",
+      "age_hours": "0.80",
+      "freshness_status": "fresh",
+      "editorial_score": "170",
+      "urgency": ""
+    },
     {
       "headline": "Okta buys AI security startup Permiso; source says for about $200M",
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
@@ -44,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 30 Jul 2026 16:09:42 +0000",
-      "age_hours": "0.19",
+      "age_hours": "1.95",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -74,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 30 Jul 2026 15:41:16 +0000",
-      "age_hours": "0.67",
+      "age_hours": "2.43",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "WATCH"
@@ -104,7 +134,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 30 Jul 2026 14:48:32 +0000",
-      "age_hours": "1.55",
+      "age_hours": "3.30",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -134,41 +164,43 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 30 Jul 2026 11:12:11 +0000",
-      "age_hours": "5.15",
+      "age_hours": "6.91",
       "freshness_status": "fresh",
       "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "How AI is Changing Linux VPS Security for Businesses",
-      "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-linux-vps-security-for-businesses/",
-      "snapshot": "Cybersecurity wasn't really something small and mid-sized businesses worried about too much a few years back. That's changed fast. Once your customer data, your apps, your internal tools all end up online, protecting the server behind them stops being optional. And attacks...",
-      "key_data": [
-        "Key people or organizations: Changing Linux VPS Security, Businesses, Cybersecurity, Once",
-        "Story focus: How AI is Changing Linux VPS Security for Businesses",
-        "Source context: Cybersecurity wasn't really something small and mid-sized businesses worried about too much a few years back. That's changed fast. Once your customer..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Changing Linux VPS Security.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 30 Jul 2026 10:41:02 +0000",
-      "age_hours": "5.67",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Google DeepMind's new AI model can control a robot's entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "snapshot": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips,... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Google DeepMind, Gemini Robotics AI, While, Gemini Robotics",
+        "Specific figures mentioned: 2",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google DeepMind's new AI model can control a robot's entire body"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google DeepMind.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-30T13:18:45-04:00",
+      "age_hours": "0.80",
+      "freshness_status": "fresh",
+      "editorial_score": "170",
+      "urgency": ""
+    },
     {
       "headline": "OpenAI report links coding agents to faster science software builds",
       "url": "https://www.artificialintelligence-news.com/news/openai-report-coding-agents-faster-science-software-builds/",
@@ -194,7 +226,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 29 Jul 2026 10:53:39 +0000",
-      "age_hours": "29.46",
+      "age_hours": "31.22",
       "freshness_status": "stale",
       "editorial_score": "138",
       "urgency": "WATCH"
@@ -224,7 +256,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 30 Jul 2026 16:09:42 +0000",
-      "age_hours": "0.19",
+      "age_hours": "1.95",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -254,7 +286,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 29 Jul 2026 22:23:12 +0000",
-      "age_hours": "17.97",
+      "age_hours": "19.73",
       "freshness_status": "stale",
       "editorial_score": "108",
       "urgency": ""
@@ -284,21 +316,28 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 30 Jul 2026 00:21:06 +0000",
-      "age_hours": "16.00",
+      "age_hours": "17.76",
       "freshness_status": "stale",
       "editorial_score": "106",
       "urgency": ""
-    },
+    }
+  ],
+  "key_storylines": [
+    "Google DeepMind's new AI model can control a robot's entire body",
+    "Okta buys AI security startup Permiso; source says for about $200M",
+    "Meta says AI is making it easier to build new apps — and more are coming"
+  ],
+  "sections": [
     {
-      "headline": "Zuckerberg details Meta's personal AI superintelligence strategy",
-      "url": "https://www.artificialintelligence-news.com/news/zuckerberg-details-meta-personal-ai-superintelligence-strategy/",
-      "snapshot": "Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief published the piece as a statement of company philosophy rather than a product announcement. It contains no release dates, no... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Google DeepMind's new AI model can control a robot's entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "snapshot": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robotics 2 now supports \"whole-body motions\" ranging from its feet to fingertips,... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Zuckerberg, Meta, Mark Zuckerberg, WSJ",
+        "Key people or organizations: Google DeepMind, Gemini Robotics AI, While, Gemini Robotics",
+        "Specific figures mentioned: 2",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Zuckerberg details Meta's personal AI superintelligence strategy",
-        "Source context: Mark Zuckerberg has published a WSJ op-ed that argues superintelligence must reach individuals, not just a handful of institutions. The Meta chief..."
+        "Story focus: Google DeepMind's new AI model can control a robot's entire body"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -306,26 +345,19 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Zuckerberg.",
+        "Watch for follow-up statements, product details or customer evidence from Google DeepMind.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Thu, 30 Jul 2026 11:12:11 +0000",
-      "age_hours": "5.15",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-30T13:18:45-04:00",
+      "age_hours": "0.80",
       "freshness_status": "fresh",
-      "editorial_score": "94",
+      "editorial_score": "170",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Okta buys AI security startup Permiso; source says for about $200M",
-    "Meta says AI is making it easier to build new apps — and more are coming",
-    "In the Hugging Face breach, OpenAI's hacker was noisy and fast — but not unstoppable"
-  ],
-  "sections": [
+    },
     {
       "headline": "Okta buys AI security startup Permiso; source says for about $200M",
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
@@ -351,7 +383,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 30 Jul 2026 16:09:42 +0000",
-      "age_hours": "0.19",
+      "age_hours": "1.95",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "WATCH"
@@ -381,7 +413,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 30 Jul 2026 15:41:16 +0000",
-      "age_hours": "0.67",
+      "age_hours": "2.43",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "WATCH"
@@ -411,7 +443,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 30 Jul 2026 14:48:32 +0000",
-      "age_hours": "1.55",
+      "age_hours": "3.30",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -441,10 +473,39 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 30 Jul 2026 11:12:11 +0000",
-      "age_hours": "5.15",
+      "age_hours": "6.91",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
+    },
+    {
+      "headline": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "snapshot": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC subway with ads promoting artificial companionship? Yeah well, if you didn't remember, Friend is back. And now, it's twice the...",
+      "key_data": [
+        "Key people or organizations: Friend, Do, NYC, Yeah",
+        "Specific figures mentioned: $1.8 million, $2.5 million",
+        "Story focus: Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+        "Source context: Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered the NYC..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Friend.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-07-30T12:33:32-04:00",
+      "age_hours": "1.55",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
+      "urgency": "WATCH"
     },
     {
       "headline": "How AI is Changing Linux VPS Security for Businesses",
@@ -469,38 +530,9 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 30 Jul 2026 10:41:02 +0000",
-      "age_hours": "5.67",
+      "age_hours": "7.43",
       "freshness_status": "fresh",
       "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-      "snapshot": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Nscale, Anyscale, British AI",
-        "AI desk signal: chip, data center, enterprise",
-        "Story focus: Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-        "Source context: British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers. The..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nscale.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 30 Jul 2026 15:19:15 +0000",
-      "age_hours": "1.03",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
       "urgency": ""
     }
   ],
