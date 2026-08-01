@@ -4,6 +4,7 @@ import { headers } from "next/headers";
 
 import EditorialStandard from "@/components/EditorialStandard";
 import SocialIconLinks from "@/app/SocialIconLinks";
+import { formatUpdatedAt } from "@/lib/formatUpdatedAt";
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
@@ -482,11 +483,11 @@ export default async function Page() {
     cleanText(report.body) ||
     "A live AI briefing built for journalists tracking companies, models, infrastructure, policy and global competition.";
 
-  const updated =
+  const updated = formatUpdatedAt(
     cleanText(report.updated_at) ||
-    cleanText(report.generated_at) ||
-    cleanText(report.published_at) ||
-    "Update time unavailable";
+      cleanText(report.generated_at) ||
+      cleanText(report.published_at),
+  );
 
   let stories = getStories(report).filter((story) => story && typeof story === "object");
 
