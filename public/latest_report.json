@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Anthropic is hiring an AI chip design team",
   "snapshot": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
-  "updated_at": "2026-08-05 04:22:57 PM ET",
-  "generated_at": "2026-08-05 04:22:57 PM ET",
+  "updated_at": "2026-08-05 06:08:46 PM ET",
+  "generated_at": "2026-08-05 06:08:46 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 37,
-    "live_fresh_items": 14,
-    "editor_fresh_items": 28,
+    "live_fresh_items": 16,
+    "editor_fresh_items": 30,
     "public_fallback_items": 30,
-    "stale_or_blocked_items": 23,
+    "stale_or_blocked_items": 21,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-05 04:22:57 PM ET"
+    "last_checked": "2026-08-05 06:08:46 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 14:13:18 +0000",
-      "age_hours": "6.16",
+      "age_hours": "7.92",
       "freshness_status": "fresh",
       "editorial_score": "180",
       "urgency": ""
+    },
+    {
+      "headline": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "snapshot": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Meta, Muse Code",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta launches Muse Code, an AI agent for large code bases",
+        "Source context: Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 05 Aug 2026 21:21:28 +0000",
+      "age_hours": "0.79",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "WATCH"
     },
     {
       "headline": "Rogue AI agents created fake online identities in another hacking attempt",
@@ -74,7 +104,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-05T11:14:57-04:00",
-      "age_hours": "5.13",
+      "age_hours": "6.90",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -104,39 +134,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 19:30:19 +0000",
-      "age_hours": "0.88",
+      "age_hours": "2.64",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "snapshot": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: MacPaw, Liquid AI, Eney",
-        "AI desk signal: model, chip, enterprise",
-        "Story focus: MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-        "Source context: MacPaw is building a local version of its AI assistant Eney using Liquid AI's models. The larger angle is AI infrastructure: compute capacity, chip..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from MacPaw.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 05 Aug 2026 12:28:38 +0000",
-      "age_hours": "7.91",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": ""
     },
     {
       "headline": "Google just announced a major shakeup of its top AI leadership",
@@ -163,7 +164,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-05T12:47:23-04:00",
-      "age_hours": "3.59",
+      "age_hours": "5.36",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -195,10 +196,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 14:13:18 +0000",
-      "age_hours": "6.16",
+      "age_hours": "7.92",
       "freshness_status": "fresh",
       "editorial_score": "180",
       "urgency": ""
+    },
+    {
+      "headline": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "snapshot": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Meta, Muse Code",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta launches Muse Code, an AI agent for large code bases",
+        "Source context: Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 05 Aug 2026 21:21:28 +0000",
+      "age_hours": "0.79",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "WATCH"
     },
     {
       "headline": "Rogue AI agents created fake online identities in another hacking attempt",
@@ -225,7 +256,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-05T11:14:57-04:00",
-      "age_hours": "5.13",
+      "age_hours": "6.90",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -255,39 +286,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 19:30:19 +0000",
-      "age_hours": "0.88",
+      "age_hours": "2.64",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "snapshot": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: MacPaw, Liquid AI, Eney",
-        "AI desk signal: model, chip, enterprise",
-        "Story focus: MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-        "Source context: MacPaw is building a local version of its AI assistant Eney using Liquid AI's models. The larger angle is AI infrastructure: compute capacity, chip..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from MacPaw.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 05 Aug 2026 12:28:38 +0000",
-      "age_hours": "7.91",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": ""
     },
     {
       "headline": "Google just announced a major shakeup of its top AI leadership",
@@ -314,7 +316,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-05T12:47:23-04:00",
-      "age_hours": "3.59",
+      "age_hours": "5.36",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -322,8 +324,8 @@
   ],
   "key_storylines": [
     "Anthropic is hiring an AI chip design team",
-    "Rogue AI agents created fake online identities in another hacking attempt",
-    "Jeff Dean and other top AI researchers are leaving Google to launch their own startup"
+    "Meta launches Muse Code, an AI agent for large code bases",
+    "Rogue AI agents created fake online identities in another hacking attempt"
   ],
   "sections": [
     {
@@ -351,10 +353,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 14:13:18 +0000",
-      "age_hours": "6.16",
+      "age_hours": "7.92",
       "freshness_status": "fresh",
       "editorial_score": "180",
       "urgency": ""
+    },
+    {
+      "headline": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "snapshot": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Meta, Muse Code",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta launches Muse Code, an AI agent for large code bases",
+        "Source context: Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 05 Aug 2026 21:21:28 +0000",
+      "age_hours": "0.79",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "WATCH"
     },
     {
       "headline": "Rogue AI agents created fake online identities in another hacking attempt",
@@ -381,7 +413,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-05T11:14:57-04:00",
-      "age_hours": "5.13",
+      "age_hours": "6.90",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -411,39 +443,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 19:30:19 +0000",
-      "age_hours": "0.88",
+      "age_hours": "2.64",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "snapshot": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: MacPaw, Liquid AI, Eney",
-        "AI desk signal: model, chip, enterprise",
-        "Story focus: MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-        "Source context: MacPaw is building a local version of its AI assistant Eney using Liquid AI's models. The larger angle is AI infrastructure: compute capacity, chip..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from MacPaw.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 05 Aug 2026 12:28:38 +0000",
-      "age_hours": "7.91",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": ""
     },
     {
       "headline": "Google just announced a major shakeup of its top AI leadership",
@@ -470,7 +473,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-05T12:47:23-04:00",
-      "age_hours": "3.59",
+      "age_hours": "5.36",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -500,7 +503,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-05T07:12:50-04:00",
-      "age_hours": "9.17",
+      "age_hours": "10.93",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
