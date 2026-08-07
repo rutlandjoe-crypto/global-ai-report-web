@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI's new AI smart speaker will reportedly sell for between $300 and $400",
   "snapshot": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-08-07 01:37:09 AM ET",
-  "generated_at": "2026-08-07 01:37:09 AM ET",
+  "updated_at": "2026-08-07 03:07:49 AM ET",
+  "generated_at": "2026-08-07 03:07:49 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 36,
-    "live_fresh_items": 3,
+    "live_fresh_items": 2,
     "editor_fresh_items": 21,
     "public_fallback_items": 29,
-    "stale_or_blocked_items": 33,
+    "stale_or_blocked_items": 34,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-07 01:37:09 AM ET"
+    "last_checked": "2026-08-07 03:07:49 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-06T05:33:11-04:00",
-      "age_hours": "20.07",
+      "age_hours": "21.58",
       "freshness_status": "editor_fresh",
       "editorial_score": "134",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "SoftBank donated $50 million to Trump's library months before federal data center deal",
+      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "snapshot": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: SoftBank, Trump, Trump Presidential Library, January",
+        "Specific figures mentioned: $50 million",
+        "AI desk signal: chip, data center",
+        "Story focus: SoftBank donated $50 million to Trump's library months before federal data center deal",
+        "Source context: SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from SoftBank.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-06T10:30:00-04:00",
+      "age_hours": "16.63",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "66",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "age_hours": "14.44",
+      "age_hours": "15.95",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": "DEVELOPING"
@@ -104,7 +134,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 21:21:28 +0000",
-      "age_hours": "32.26",
+      "age_hours": "33.77",
       "freshness_status": "editor_fresh",
       "editorial_score": "98",
       "urgency": "WATCH"
@@ -134,38 +164,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 19:30:19 +0000",
-      "age_hours": "34.11",
+      "age_hours": "35.63",
       "freshness_status": "editor_fresh",
       "editorial_score": "88",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Suno shares plans to combat spammy AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "snapshot": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Suno, In, CEO, Mikey Shulman",
-        "Story focus: Suno shares plans to combat spammy AI music",
-        "Source context: Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Suno.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-06T13:39:43-04:00",
-      "age_hours": "11.96",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
-      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -194,7 +196,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-06T05:33:11-04:00",
-      "age_hours": "20.07",
+      "age_hours": "21.58",
       "freshness_status": "editor_fresh",
       "editorial_score": "134",
       "urgency": "DEVELOPING"
@@ -224,7 +226,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "age_hours": "14.44",
+      "age_hours": "15.95",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": "DEVELOPING"
@@ -254,7 +256,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 21:21:28 +0000",
-      "age_hours": "32.26",
+      "age_hours": "33.77",
       "freshness_status": "editor_fresh",
       "editorial_score": "98",
       "urgency": "WATCH"
@@ -284,7 +286,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 19:30:19 +0000",
-      "age_hours": "34.11",
+      "age_hours": "35.63",
       "freshness_status": "editor_fresh",
       "editorial_score": "88",
       "urgency": "WATCH"
@@ -314,7 +316,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-06T10:30:00-04:00",
-      "age_hours": "15.12",
+      "age_hours": "16.63",
       "freshness_status": "editor_fresh",
       "editorial_score": "66",
       "urgency": "DEVELOPING"
@@ -322,8 +324,8 @@
   ],
   "key_storylines": [
     "OpenAI's new AI smart speaker will reportedly sell for between $300 and $400",
-    "Suno shares plans to combat spammy AI music",
-    "OpenAI says Apple's trade secrets lawsuit is 'rotten to its core'"
+    "OpenAI says Apple's trade secrets lawsuit is 'rotten to its core'",
+    "OpenAI says Apple's own security practices undermine its trade secrets case"
   ],
   "sections": [
     {
@@ -351,37 +353,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 06 Aug 2026 22:43:53 +0000",
-      "age_hours": "6.89",
+      "age_hours": "8.40",
       "freshness_status": "fresh",
       "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Suno shares plans to combat spammy AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "snapshot": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey Shulman laid out the company's principles and the next steps for the company... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Suno, In, CEO, Mikey Shulman",
-        "Story focus: Suno shares plans to combat spammy AI music",
-        "Source context: Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Suno.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-06T13:39:43-04:00",
-      "age_hours": "11.96",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
       "urgency": ""
     },
     {
@@ -409,7 +383,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-06T05:33:11-04:00",
-      "age_hours": "20.07",
+      "age_hours": "21.58",
       "freshness_status": "editor_fresh",
       "editorial_score": "134",
       "urgency": "DEVELOPING"
@@ -439,7 +413,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "age_hours": "14.44",
+      "age_hours": "15.95",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": "DEVELOPING"
@@ -469,10 +443,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 21:21:28 +0000",
-      "age_hours": "32.26",
+      "age_hours": "33.77",
       "freshness_status": "editor_fresh",
       "editorial_score": "98",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "SoftBank donated $50 million to Trump's library months before federal data center deal",
+      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "snapshot": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: SoftBank, Trump, Trump Presidential Library, January",
+        "Specific figures mentioned: $50 million",
+        "AI desk signal: chip, data center",
+        "Story focus: SoftBank donated $50 million to Trump's library months before federal data center deal",
+        "Source context: SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from SoftBank.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-06T10:30:00-04:00",
+      "age_hours": "16.63",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "66",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
@@ -499,7 +503,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 05 Aug 2026 19:30:19 +0000",
-      "age_hours": "34.11",
+      "age_hours": "35.63",
       "freshness_status": "editor_fresh",
       "editorial_score": "88",
       "urgency": "WATCH"
