@@ -1,113 +1,83 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Cloudflare launches Kitesurf, a browser built for AI agents",
-  "snapshot": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as...",
-  "updated_at": "2026-08-07 01:44:43 PM ET",
-  "generated_at": "2026-08-07 01:44:43 PM ET",
+  "headline": "OpenAI puts the brakes on a new model because it's supposedly too powerful",
+  "snapshot": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-08-07 02:49:20 PM ET",
+  "generated_at": "2026-08-07 02:49:20 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 36,
-    "live_fresh_items": 3,
-    "editor_fresh_items": 20,
-    "public_fallback_items": 29,
-    "stale_or_blocked_items": 33,
+    "total_items_checked": 48,
+    "live_fresh_items": 9,
+    "editor_fresh_items": 27,
+    "public_fallback_items": 35,
+    "stale_or_blocked_items": 39,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-07 01:44:43 PM ET"
+    "last_checked": "2026-08-07 02:49:20 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "OpenAI says Apple's trade secrets lawsuit is 'rotten to its core'",
-      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "snapshot": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "headline": "OpenAI puts the brakes on a new model because it's supposedly too powerful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "snapshot": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: OpenAI, Apple, ChatGPT, In",
-        "AI desk signal: lawsuit",
+        "Key people or organizations: OpenAI, Astra, Hugging Face",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI says Apple's trade secrets lawsuit is 'rotten to its core'",
-        "Source context: OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the..."
+        "Story focus: OpenAI puts the brakes on a new model because it's supposedly too powerful",
+        "Source context: OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
         "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-08-06T05:33:11-04:00",
-      "age_hours": "32.19",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "134",
-      "urgency": "DEVELOPING"
+      "published": "2026-08-07T14:40:34-04:00",
+      "age_hours": "0.15",
+      "freshness_status": "fresh",
+      "editorial_score": "144",
+      "urgency": ""
     },
     {
-      "headline": "SoftBank donated $50 million to Trump's library months before federal data center deal",
-      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "snapshot": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "What's behind the Google AI shake-up",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "snapshot": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: SoftBank, Trump, Trump Presidential Library, January",
-        "Specific figures mentioned: $50 million",
-        "AI desk signal: chip, data center",
-        "Story focus: SoftBank donated $50 million to Trump's library months before federal data center deal",
-        "Source context: SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SoftBank.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-06T10:30:00-04:00",
-      "age_hours": "27.25",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "OpenAI says Apple's own security practices undermine its trade secrets case",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "snapshot": "Newly filed court exhibits show OpenAI's legal strategy in Apple's trade secrets lawsuit: argue that Apple's own security and offboarding practices — including allowing an Apple manager to access a former engineer's iCloud account after he left the company —undermine its... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Apple, Newly",
-        "AI desk signal: lawsuit",
+        "Key people or organizations: Google AI, Some, Google, In",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI says Apple's own security practices undermine its trade secrets case",
-        "Source context: Newly filed court exhibits show OpenAI's legal strategy in Apple's trade secrets lawsuit: argue that Apple's own security and offboarding practices —..."
+        "Story focus: What's behind the Google AI shake-up",
+        "Source context: Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Google AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "age_hours": "26.57",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "118",
-      "urgency": "DEVELOPING"
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-07T12:45:14-04:00",
+      "age_hours": "2.07",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
     },
     {
       "headline": "Cloudflare launches Kitesurf, a browser built for AI agents",
@@ -133,7 +103,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "age_hours": "1.48",
+      "age_hours": "2.55",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": "WATCH"
@@ -163,14 +133,104 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 11:40:37 +0000",
-      "age_hours": "6.07",
+      "age_hours": "7.15",
       "freshness_status": "fresh",
       "editorial_score": "104",
+      "urgency": ""
+    },
+    {
+      "headline": "Stanford Evo 2 AI model generates phages against E. coli",
+      "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "snapshot": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174,... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
+      "key_data": [
+        "Key people or organizations: Stanford Evo, Stanford, DNA, Evo",
+        "Specific figures mentioned: 2, 300, 16",
+        "AI desk signal: model, enterprise",
+        "Story focus: Stanford Evo 2 AI model generates phages against E. coli",
+        "Source context: Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Stanford Evo.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 07 Aug 2026 15:05:03 +0000",
+      "age_hours": "3.74",
+      "freshness_status": "fresh",
+      "editorial_score": "96",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "OpenAI puts the brakes on a new model because it's supposedly too powerful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "snapshot": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Astra, Hugging Face",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI puts the brakes on a new model because it's supposedly too powerful",
+        "Source context: OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-07T14:40:34-04:00",
+      "age_hours": "0.15",
+      "freshness_status": "fresh",
+      "editorial_score": "144",
+      "urgency": ""
+    },
+    {
+      "headline": "What's behind the Google AI shake-up",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "snapshot": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google AI, Some, Google, In",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: What's behind the Google AI shake-up",
+        "Source context: Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-07T12:45:14-04:00",
+      "age_hours": "2.07",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
       "headline": "OpenAI says Apple's trade secrets lawsuit is 'rotten to its core'",
       "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
       "snapshot": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
@@ -195,7 +255,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-06T05:33:11-04:00",
-      "age_hours": "32.19",
+      "age_hours": "33.27",
       "freshness_status": "editor_fresh",
       "editorial_score": "134",
       "urgency": "DEVELOPING"
@@ -224,7 +284,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "age_hours": "1.48",
+      "age_hours": "2.55",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": "WATCH"
@@ -254,78 +314,78 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "age_hours": "26.57",
+      "age_hours": "27.65",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "snapshot": "Meta's total fine has raked up to $942 million in this case. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Mexico, Meta",
-        "Specific figures mentioned: $567M, $942 million",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: New Mexico court orders Meta to pay additional $567M in child safety case",
-        "Source context: Meta's total fine has raked up to $942 million in this case. The story matters because AI is moving deeper into legal and regulatory territory, where..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Mexico.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 07 Aug 2026 11:40:37 +0000",
-      "age_hours": "6.07",
-      "freshness_status": "fresh",
-      "editorial_score": "104",
-      "urgency": ""
-    },
-    {
-      "headline": "SoftBank donated $50 million to Trump's library months before federal data center deal",
-      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "snapshot": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: SoftBank, Trump, Trump Presidential Library, January",
-        "Specific figures mentioned: $50 million",
-        "AI desk signal: chip, data center",
-        "Story focus: SoftBank donated $50 million to Trump's library months before federal data center deal",
-        "Source context: SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SoftBank.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-06T10:30:00-04:00",
-      "age_hours": "27.25",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "66",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "Airbnb says AI is helping it ship features faster as it tests a new search function"
+    "OpenAI puts the brakes on a new model because it's supposedly too powerful",
+    "What's behind the Google AI shake-up",
+    "Cloudflare launches Kitesurf, a browser built for AI agents"
   ],
   "sections": [
+    {
+      "headline": "OpenAI puts the brakes on a new model because it's supposedly too powerful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "snapshot": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Astra, Hugging Face",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI puts the brakes on a new model because it's supposedly too powerful",
+        "Source context: OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-07T14:40:34-04:00",
+      "age_hours": "0.15",
+      "freshness_status": "fresh",
+      "editorial_score": "144",
+      "urgency": ""
+    },
+    {
+      "headline": "What's behind the Google AI shake-up",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "snapshot": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google AI, Some, Google, In",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: What's behind the Google AI shake-up",
+        "Source context: Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-07T12:45:14-04:00",
+      "age_hours": "2.07",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
     {
       "headline": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
@@ -350,7 +410,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "age_hours": "1.48",
+      "age_hours": "2.55",
       "freshness_status": "fresh",
       "editorial_score": "132",
       "urgency": "WATCH"
@@ -380,19 +440,108 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 11:40:37 +0000",
-      "age_hours": "6.07",
+      "age_hours": "7.15",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": ""
     },
     {
-      "headline": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "snapshot": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "headline": "Stanford Evo 2 AI model generates phages against E. coli",
+      "url": "https://www.artificialintelligence-news.com/news/stanford-evo-2-ai-model-generates-phages-against-e-coli/",
+      "snapshot": "Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the group to 16 phages that showed particularly strong E. coli-killing activity. The work centres on bacteriophage ΦX174,... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
       "key_data": [
-        "Key people or organizations: Airbnb",
-        "Story focus: Airbnb says AI is helping it ship features faster as it tests a new search function",
-        "Source context: Airbnb will debut a new AI-powered search experience with a toggle."
+        "Key people or organizations: Stanford Evo, Stanford, DNA, Evo",
+        "Specific figures mentioned: 2, 300, 16",
+        "AI desk signal: model, enterprise",
+        "Story focus: Stanford Evo 2 AI model generates phages against E. coli",
+        "Source context: Stanford researchers have synthesised nearly 300 phages from DNA sequences produced by the Evo 2 generative AI model. Laboratory testing narrowed the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Stanford Evo.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 07 Aug 2026 15:05:03 +0000",
+      "age_hours": "3.74",
+      "freshness_status": "fresh",
+      "editorial_score": "96",
+      "urgency": ""
+    },
+    {
+      "headline": "Alibaba tests new business model for Qwen open-source AI",
+      "url": "https://www.artificialintelligence-news.com/news/alibaba-qwen-open-source-ai-revenue-sharing/",
+      "snapshot": "Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people familiar with the company's plans. The arrangement would require larger companies that generate revenue from offering the model... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Alibaba, Qwen, Reuters",
+        "AI desk signal: model, enterprise",
+        "Story focus: Alibaba tests new business model for Qwen open-source AI",
+        "Source context: Alibaba plans to introduce revenue-sharing terms for some commercial users of its next Qwen open-weight AI model, Reuters reported, citing two people..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Alibaba.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 07 Aug 2026 10:00:00 +0000",
+      "age_hours": "8.82",
+      "freshness_status": "fresh",
+      "editorial_score": "88",
+      "urgency": ""
+    },
+    {
+      "headline": "Jill Lepore on the 'Artificial State' and why Silicon Valley's leaders are bad sci-fi readers",
+      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "snapshot": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they're forming a new government. And whether you're thinking of Twitter's old \"town hall in your pocket\" or Anthropic's Claude constitution, it's a... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Jill Lepore, Artificial State, Silicon Valley, Historian Jill Lepore",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Jill Lepore on the 'Artificial State' and why Silicon Valley's leaders are bad sci-fi readers",
+        "Source context: Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they're forming a..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Jill Lepore.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 07 Aug 2026 14:00:00 +0000",
+      "age_hours": "4.82",
+      "freshness_status": "fresh",
+      "editorial_score": "62",
+      "urgency": ""
+    },
+    {
+      "headline": "How AI Is changing Instagram engagement without replacing the human touch",
+      "url": "https://www.artificialintelligence-news.com/news/how-ai-is-changing-instagram-engagement-without-replacing-the-human-touch/",
+      "snapshot": "Every post you see, every Reel that autoplays, and every 'Explore' page suggestion on Instagram is now decided by its AI system. With over three billion people using it, that's not a small detail; it's the whole algorithm. But here's the point: the more AI controls over how...",
+      "key_data": [
+        "Key people or organizations: Is, Instagram, Every, Reel",
+        "Story focus: How AI Is changing Instagram engagement without replacing the human touch",
+        "Source context: Every post you see, every Reel that autoplays, and every 'Explore' page suggestion on Instagram is now decided by its AI system. With over three..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -400,108 +549,18 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Airbnb.",
+        "Watch for follow-up statements, product details or customer evidence from Is.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 07 Aug 2026 14:22:49 +0000",
-      "age_hours": "3.37",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Fri, 07 Aug 2026 14:33:59 +0000",
+      "age_hours": "4.26",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
-    },
-    {
-      "headline": "OpenAI says Apple's trade secrets lawsuit is 'rotten to its core'",
-      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "snapshot": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Apple, ChatGPT, In",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI says Apple's trade secrets lawsuit is 'rotten to its core'",
-        "Source context: OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-06T05:33:11-04:00",
-      "age_hours": "32.19",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "134",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "SoftBank donated $50 million to Trump's library months before federal data center deal",
-      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "snapshot": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio. The Japanese company revealed the timing in response to a June letter from... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: SoftBank, Trump, Trump Presidential Library, January",
-        "Specific figures mentioned: $50 million",
-        "AI desk signal: chip, data center",
-        "Story focus: SoftBank donated $50 million to Trump's library months before federal data center deal",
-        "Source context: SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SoftBank.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-06T10:30:00-04:00",
-      "age_hours": "27.25",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "OpenAI says Apple's own security practices undermine its trade secrets case",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "snapshot": "Newly filed court exhibits show OpenAI's legal strategy in Apple's trade secrets lawsuit: argue that Apple's own security and offboarding practices — including allowing an Apple manager to access a former engineer's iCloud account after he left the company —undermine its... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Apple, Newly",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI says Apple's own security practices undermine its trade secrets case",
-        "Source context: Newly filed court exhibits show OpenAI's legal strategy in Apple's trade secrets lawsuit: argue that Apple's own security and offboarding practices —..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "age_hours": "26.57",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "118",
-      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
