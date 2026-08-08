@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI puts the brakes on a new model because it's supposedly too powerful",
   "snapshot": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-08-07 11:21:03 PM ET",
-  "generated_at": "2026-08-07 11:21:03 PM ET",
+  "updated_at": "2026-08-08 12:52:11 AM ET",
+  "generated_at": "2026-08-08 12:52:11 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 48,
-    "live_fresh_items": 7,
-    "editor_fresh_items": 20,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 18,
     "public_fallback_items": 35,
-    "stale_or_blocked_items": 41,
+    "stale_or_blocked_items": 43,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-07 11:21:03 PM ET"
+    "last_checked": "2026-08-08 12:52:11 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-07T14:40:34-04:00",
-      "age_hours": "8.67",
+      "age_hours": "10.19",
       "freshness_status": "fresh",
       "editorial_score": "144",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "snapshot": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Astra",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI says it slowed Astra model development over security concerns",
+        "Source context: OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "age_hours": "6.06",
+      "freshness_status": "fresh",
+      "editorial_score": "118",
       "urgency": ""
     },
     {
@@ -74,68 +104,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-07T12:45:14-04:00",
-      "age_hours": "10.60",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": ""
-    },
-    {
-      "headline": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "snapshot": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform...",
-      "key_data": [
-        "Key people or organizations: Cloudflare, Kitesurf, It, Chromium",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Cloudflare launches Kitesurf, a browser built for AI agents",
-        "Source context: Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Cloudflare.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "age_hours": "11.08",
-      "freshness_status": "fresh",
-      "editorial_score": "132",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "snapshot": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Astra",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI says it slowed Astra model development over security concerns",
-        "Source context: OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "age_hours": "4.54",
-      "freshness_status": "fresh",
-      "editorial_score": "118",
+      "age_hours": "12.12",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -161,7 +132,36 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "age_hours": "5.85",
+      "age_hours": "7.37",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "Fenix Flexin isn't even denying using AI to make 'Rubberz' anymore",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "snapshot": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the...",
+      "key_data": [
+        "Key people or organizations: Fenix Flexin, Rubberz, It, LA",
+        "Specific figures mentioned: 80",
+        "Story focus: Fenix Flexin isn't even denying using AI to make 'Rubberz' anymore",
+        "Source context: It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Fenix Flexin.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-07T16:01:51-04:00",
+      "age_hours": "8.84",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -193,9 +193,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-07T14:40:34-04:00",
-      "age_hours": "8.67",
+      "age_hours": "10.19",
       "freshness_status": "fresh",
       "editorial_score": "144",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "snapshot": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Astra",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI says it slowed Astra model development over security concerns",
+        "Source context: OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
+      "age_hours": "6.06",
+      "freshness_status": "fresh",
+      "editorial_score": "118",
       "urgency": ""
     },
     {
@@ -223,9 +253,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-07T12:45:14-04:00",
-      "age_hours": "10.60",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
+      "age_hours": "12.12",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -252,40 +282,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "age_hours": "11.08",
-      "freshness_status": "fresh",
-      "editorial_score": "132",
+      "age_hours": "12.60",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "102",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "snapshot": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Astra",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI says it slowed Astra model development over security concerns",
-        "Source context: OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "age_hours": "4.54",
-      "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": ""
     },
     {
       "headline": "New Mexico court orders Meta to pay additional $567M in child safety case",
@@ -312,7 +312,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 11:40:37 +0000",
-      "age_hours": "15.67",
+      "age_hours": "17.19",
       "freshness_status": "editor_fresh",
       "editorial_score": "74",
       "urgency": ""
@@ -320,8 +320,8 @@
   ],
   "key_storylines": [
     "OpenAI puts the brakes on a new model because it's supposedly too powerful",
-    "What's behind the Google AI shake-up",
-    "Cloudflare launches Kitesurf, a browser built for AI agents"
+    "OpenAI says it slowed Astra model development over security concerns",
+    "Fenix Flexin isn't even denying using AI to make 'Rubberz' anymore"
   ],
   "sections": [
     {
@@ -349,69 +349,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-07T14:40:34-04:00",
-      "age_hours": "8.67",
+      "age_hours": "10.19",
       "freshness_status": "fresh",
       "editorial_score": "144",
       "urgency": ""
-    },
-    {
-      "headline": "What's behind the Google AI shake-up",
-      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "snapshot": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Google AI, Some, Google, In",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: What's behind the Google AI shake-up",
-        "Source context: Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-07T12:45:14-04:00",
-      "age_hours": "10.60",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": ""
-    },
-    {
-      "headline": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "snapshot": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform...",
-      "key_data": [
-        "Key people or organizations: Cloudflare, Kitesurf, It, Chromium",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Cloudflare launches Kitesurf, a browser built for AI agents",
-        "Source context: Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Cloudflare.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "age_hours": "11.08",
-      "freshness_status": "fresh",
-      "editorial_score": "132",
-      "urgency": "WATCH"
     },
     {
       "headline": "OpenAI says it slowed Astra model development over security concerns",
@@ -438,7 +379,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "age_hours": "4.54",
+      "age_hours": "6.06",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -467,7 +408,35 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-07T16:01:51-04:00",
-      "age_hours": "7.32",
+      "age_hours": "8.84",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "Watching Roku's AI channel is like eating from a trough",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "snapshot": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely...",
+      "key_data": [
+        "Key people or organizations: Watching Roku, FAST, But Roku",
+        "Story focus: Watching Roku's AI channel is like eating from a trough",
+        "Source context: The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Watching Roku.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-07T14:59:46-04:00",
+      "age_hours": "9.87",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -495,9 +464,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "age_hours": "5.85",
+      "age_hours": "7.37",
       "freshness_status": "fresh",
       "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "What's behind the Google AI shake-up",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "snapshot": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google AI, Some, Google, In",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: What's behind the Google AI shake-up",
+        "Source context: Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-07T12:45:14-04:00",
+      "age_hours": "12.12",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "106",
       "urgency": ""
     }
   ],
