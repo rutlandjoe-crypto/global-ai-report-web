@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "AI detectors are creating a new era of distrust",
-  "snapshot": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started...",
-  "updated_at": "2026-08-09 10:30:00 AM ET",
-  "generated_at": "2026-08-09 10:30:00 AM ET",
+  "headline": "The AI safety test is becoming a safety risk",
+  "snapshot": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
+  "updated_at": "2026-08-09 11:26:58 AM ET",
+  "generated_at": "2026-08-09 11:26:58 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 48,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 4,
-    "public_fallback_items": 25,
-    "stale_or_blocked_items": 47,
+    "total_items_checked": 36,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 5,
+    "public_fallback_items": 21,
+    "stale_or_blocked_items": 34,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-09 10:30:00 AM ET"
+    "last_checked": "2026-08-09 11:26:58 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,10 +43,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-09T08:00:00-04:00",
-      "age_hours": "2.50",
+      "age_hours": "3.45",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "snapshot": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
+      "key_data": [
+        "AI desk signal: model, agent, regulation",
+        "Story focus: The AI safety test is becoming a safety risk",
+        "Source context: AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure,..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "age_hours": "0.95",
+      "freshness_status": "fresh",
+      "editorial_score": "162",
+      "urgency": ""
     },
     {
       "headline": "OpenAI acquires presentation startup NextSlide",
@@ -73,7 +101,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 08 Aug 2026 19:41:13 +0000",
-      "age_hours": "18.81",
+      "age_hours": "19.76",
       "freshness_status": "editor_fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -103,7 +131,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 08 Aug 2026 21:24:02 +0000",
-      "age_hours": "17.10",
+      "age_hours": "18.05",
       "freshness_status": "editor_fresh",
       "editorial_score": "64",
       "urgency": ""
@@ -133,7 +161,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-08T13:53:34-04:00",
-      "age_hours": "20.61",
+      "age_hours": "21.56",
       "freshness_status": "editor_fresh",
       "editorial_score": "64",
       "urgency": ""
@@ -141,6 +169,34 @@
   ],
   "editor_signals": [
     {
+      "headline": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "snapshot": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
+      "key_data": [
+        "AI desk signal: model, agent, regulation",
+        "Story focus: The AI safety test is becoming a safety risk",
+        "Source context: AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure,..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "age_hours": "0.95",
+      "freshness_status": "fresh",
+      "editorial_score": "162",
+      "urgency": ""
+    },
+    {
       "headline": "OpenAI acquires presentation startup NextSlide",
       "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "snapshot": "NextSlide says its team members are now working on ChatGPT. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
@@ -165,7 +221,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 08 Aug 2026 19:41:13 +0000",
-      "age_hours": "18.81",
+      "age_hours": "19.76",
       "freshness_status": "editor_fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -194,7 +250,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-09T08:00:00-04:00",
-      "age_hours": "2.50",
+      "age_hours": "3.45",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "BREAKING"
@@ -224,7 +280,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-08T13:53:34-04:00",
-      "age_hours": "20.61",
+      "age_hours": "21.56",
       "freshness_status": "editor_fresh",
       "editorial_score": "64",
       "urgency": ""
@@ -254,18 +310,46 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 08 Aug 2026 21:24:02 +0000",
-      "age_hours": "17.10",
+      "age_hours": "18.05",
       "freshness_status": "editor_fresh",
       "editorial_score": "64",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "The AI safety test is becoming a safety risk",
     "AI detectors are creating a new era of distrust",
-    "OpenAI acquires presentation startup NextSlide",
-    "An Amazon data center could have the worst polluting power plant in the country"
+    "OpenAI acquires presentation startup NextSlide"
   ],
   "sections": [
+    {
+      "headline": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "snapshot": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
+      "key_data": [
+        "AI desk signal: model, agent, regulation",
+        "Story focus: The AI safety test is becoming a safety risk",
+        "Source context: AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure,..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "age_hours": "0.95",
+      "freshness_status": "fresh",
+      "editorial_score": "162",
+      "urgency": ""
+    },
     {
       "headline": "AI detectors are creating a new era of distrust",
       "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
@@ -290,7 +374,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-09T08:00:00-04:00",
-      "age_hours": "2.50",
+      "age_hours": "3.45",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "BREAKING"
@@ -320,7 +404,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 08 Aug 2026 19:41:13 +0000",
-      "age_hours": "18.81",
+      "age_hours": "19.76",
       "freshness_status": "editor_fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -350,7 +434,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-08T13:53:34-04:00",
-      "age_hours": "20.61",
+      "age_hours": "21.56",
       "freshness_status": "editor_fresh",
       "editorial_score": "64",
       "urgency": ""
@@ -380,7 +464,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 08 Aug 2026 21:24:02 +0000",
-      "age_hours": "17.10",
+      "age_hours": "18.05",
       "freshness_status": "editor_fresh",
       "editorial_score": "64",
       "urgency": ""
