@@ -1,54 +1,24 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-  "snapshot": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-08-09 04:36:31 AM ET",
-  "generated_at": "2026-08-09 04:36:31 AM ET",
+  "headline": "OpenAI says it slowed Astra model development over security concerns",
+  "snapshot": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
+  "updated_at": "2026-08-09 05:34:32 AM ET",
+  "generated_at": "2026-08-09 05:34:32 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 48,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 5,
+    "live_fresh_items": 0,
+    "editor_fresh_items": 4,
     "public_fallback_items": 31,
-    "stale_or_blocked_items": 47,
+    "stale_or_blocked_items": 48,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-09 04:36:31 AM ET"
+    "last_checked": "2026-08-09 05:34:32 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "snapshot": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Planned Amazon, As, Texas, Amazon",
-        "AI desk signal: chip, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Planned Amazon data center could become the biggest climate polluter in the U.S.",
-        "Source context: As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Planned Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 08 Aug 2026 21:24:02 +0000",
-      "age_hours": "11.21",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
     {
       "headline": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -74,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "age_hours": "33.80",
+      "age_hours": "34.77",
       "freshness_status": "editor_fresh",
       "editorial_score": "88",
       "urgency": ""
@@ -104,9 +74,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 08 Aug 2026 19:41:13 +0000",
-      "age_hours": "12.92",
+      "age_hours": "13.89",
       "freshness_status": "editor_fresh",
       "editorial_score": "70",
+      "urgency": ""
+    },
+    {
+      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "snapshot": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Planned Amazon, As, Texas, Amazon",
+        "AI desk signal: chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "Source context: As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Planned Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "age_hours": "12.18",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "64",
       "urgency": ""
     },
     {
@@ -134,72 +134,14 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-08T13:53:34-04:00",
-      "age_hours": "14.72",
+      "age_hours": "15.68",
       "freshness_status": "editor_fresh",
       "editorial_score": "64",
-      "urgency": ""
-    },
-    {
-      "headline": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "snapshot": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "key_data": [
-        "Key people or organizations: Rippling, ROI, Spend Console",
-        "Story focus: After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "Source context: After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Rippling.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "age_hours": "35.11",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "24",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "snapshot": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Planned Amazon, As, Texas, Amazon",
-        "AI desk signal: chip, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Planned Amazon data center could become the biggest climate polluter in the U.S.",
-        "Source context: As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Planned Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 08 Aug 2026 21:24:02 +0000",
-      "age_hours": "11.21",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
       "headline": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
       "snapshot": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
@@ -224,7 +166,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "age_hours": "33.80",
+      "age_hours": "34.77",
       "freshness_status": "editor_fresh",
       "editorial_score": "88",
       "urgency": ""
@@ -254,7 +196,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 08 Aug 2026 19:41:13 +0000",
-      "age_hours": "12.92",
+      "age_hours": "13.89",
       "freshness_status": "editor_fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -284,76 +226,48 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-08T13:53:34-04:00",
-      "age_hours": "14.72",
+      "age_hours": "15.68",
       "freshness_status": "editor_fresh",
       "editorial_score": "64",
       "urgency": ""
     },
     {
-      "headline": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "snapshot": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "snapshot": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Rippling, ROI, Spend Console",
-        "Story focus: After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "Source context: After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
+        "Key people or organizations: Planned Amazon, As, Texas, Amazon",
+        "AI desk signal: chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "Source context: As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Rippling.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Planned Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "age_hours": "35.11",
+      "published": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "age_hours": "12.18",
       "freshness_status": "editor_fresh",
-      "editorial_score": "24",
+      "editorial_score": "64",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Planned Amazon data center could become the biggest climate polluter in the U.S.",
     "OpenAI says it slowed Astra model development over security concerns",
-    "OpenAI acquires presentation startup NextSlide"
+    "OpenAI acquires presentation startup NextSlide",
+    "An Amazon data center could have the worst polluting power plant in the country"
   ],
   "sections": [
-    {
-      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "snapshot": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Planned Amazon, As, Texas, Amazon",
-        "AI desk signal: chip, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Planned Amazon data center could become the biggest climate polluter in the U.S.",
-        "Source context: As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Planned Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 08 Aug 2026 21:24:02 +0000",
-      "age_hours": "11.21",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
     {
       "headline": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -379,7 +293,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "age_hours": "33.80",
+      "age_hours": "34.77",
       "freshness_status": "editor_fresh",
       "editorial_score": "88",
       "urgency": ""
@@ -409,7 +323,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 08 Aug 2026 19:41:13 +0000",
-      "age_hours": "12.92",
+      "age_hours": "13.89",
       "freshness_status": "editor_fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -439,37 +353,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-08T13:53:34-04:00",
-      "age_hours": "14.72",
+      "age_hours": "15.68",
       "freshness_status": "editor_fresh",
       "editorial_score": "64",
       "urgency": ""
     },
     {
-      "headline": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "snapshot": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "headline": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "snapshot": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Rippling, ROI, Spend Console",
-        "Story focus: After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "Source context: After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
+        "Key people or organizations: Planned Amazon, As, Texas, Amazon",
+        "AI desk signal: chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "Source context: As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Rippling.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Planned Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "age_hours": "35.11",
+      "published": "Sat, 08 Aug 2026 21:24:02 +0000",
+      "age_hours": "12.18",
       "freshness_status": "editor_fresh",
-      "editorial_score": "24",
+      "editorial_score": "64",
       "urgency": ""
     }
   ],
