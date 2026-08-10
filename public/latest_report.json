@@ -1,478 +1,34 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-  "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-08-10 08:58:01 AM ET",
-  "generated_at": "2026-08-10 08:58:01 AM ET",
+  "headline": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+  "snapshot": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company's Superintelligence Labs has released the 30-billion-parameter model's weights on Hugging Face. Meta says developers can use it for local coding, function... The competitive question is whether this changes the model race, enterprise integrations or...",
+  "updated_at": "2026-08-10 10:21:05 AM ET",
+  "generated_at": "2026-08-10 10:21:05 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 36,
-    "live_fresh_items": 2,
-    "editor_fresh_items": 7,
-    "public_fallback_items": 19,
-    "stale_or_blocked_items": 34,
+    "total_items_checked": 49,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 10,
+    "public_fallback_items": 23,
+    "stale_or_blocked_items": 44,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-10 08:58:01 AM ET"
+    "last_checked": "2026-08-10 10:21:05 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "AI detectors are creating a new era of distrust",
-      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "snapshot": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started...",
+      "headline": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "snapshot": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company's Superintelligence Labs has released the 30-billion-parameter model's weights on Hugging Face. Meta says developers can use it for local coding, function... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Stepback, For, Emma Roth, ET",
-        "Specific figures mentioned: 8",
-        "Story focus: AI detectors are creating a new era of distrust",
-        "Source context: This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Stepback.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-09T08:00:00-04:00",
-      "age_hours": "24.97",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "36",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "snapshot": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
-      "key_data": [
-        "AI desk signal: model, agent, regulation",
-        "Story focus: The AI safety test is becoming a safety risk",
-        "Source context: AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure,..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
-      "age_hours": "22.47",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "132",
-      "urgency": ""
-    },
-    {
-      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Discovered Materials",
-        "Specific figures mentioned: $9 million",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "age_hours": "0.97",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "snapshot": "The AI-focused hedge fund is still making some big bets. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Embattled, Situational Awareness, Source Foundry",
-        "Specific figures mentioned: $400M",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-        "Source context: The AI-focused hedge fund is still making some big bets. The larger angle is AI infrastructure: compute capacity, chip access and data-center..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Embattled.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 09 Aug 2026 20:35:17 +0000",
-      "age_hours": "16.38",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "66",
-      "urgency": ""
-    },
-    {
-      "headline": "Ford's new AI assistant can check your fuel levels and tire pressure",
-      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "snapshot": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile...",
-      "key_data": [
-        "Key people or organizations: Ford, Lincoln",
-        "Story focus: Ford's new AI assistant can check your fuel levels and tire pressure",
-        "Source context: Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ford.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-10T07:00:00-04:00",
-      "age_hours": "1.97",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "snapshot": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
-      "key_data": [
-        "AI desk signal: model, agent, regulation",
-        "Story focus: The AI safety test is becoming a safety risk",
-        "Source context: AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure,..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
-      "age_hours": "22.47",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "132",
-      "urgency": ""
-    },
-    {
-      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Discovered Materials",
-        "Specific figures mentioned: $9 million",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "age_hours": "0.97",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "snapshot": "The AI-focused hedge fund is still making some big bets. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Embattled, Situational Awareness, Source Foundry",
-        "Specific figures mentioned: $400M",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-        "Source context: The AI-focused hedge fund is still making some big bets. The larger angle is AI infrastructure: compute capacity, chip access and data-center..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Embattled.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 09 Aug 2026 20:35:17 +0000",
-      "age_hours": "16.38",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "66",
-      "urgency": ""
-    },
-    {
-      "headline": "Ford's new AI assistant can check your fuel levels and tire pressure",
-      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "snapshot": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile...",
-      "key_data": [
-        "Key people or organizations: Ford, Lincoln",
-        "Story focus: Ford's new AI assistant can check your fuel levels and tire pressure",
-        "Source context: Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ford.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-10T07:00:00-04:00",
-      "age_hours": "1.97",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "AI detectors are creating a new era of distrust",
-      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "snapshot": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started...",
-      "key_data": [
-        "Key people or organizations: Stepback, For, Emma Roth, ET",
-        "Specific figures mentioned: 8",
-        "Story focus: AI detectors are creating a new era of distrust",
-        "Source context: This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Stepback.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-09T08:00:00-04:00",
-      "age_hours": "24.97",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "36",
-      "urgency": "BREAKING"
-    }
-  ],
-  "key_storylines": [
-    "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "Ford's new AI assistant can check your fuel levels and tire pressure",
-    "The AI safety test is becoming a safety risk"
-  ],
-  "sections": [
-    {
-      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Discovered Materials",
-        "Specific figures mentioned: $9 million",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "age_hours": "0.97",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Ford's new AI assistant can check your fuel levels and tire pressure",
-      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "snapshot": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile...",
-      "key_data": [
-        "Key people or organizations: Ford, Lincoln",
-        "Story focus: Ford's new AI assistant can check your fuel levels and tire pressure",
-        "Source context: Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ford.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-10T07:00:00-04:00",
-      "age_hours": "1.97",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "The AI safety test is becoming a safety risk",
-      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "snapshot": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
-      "key_data": [
-        "AI desk signal: model, agent, regulation",
-        "Story focus: The AI safety test is becoming a safety risk",
-        "Source context: AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure,..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
-      "age_hours": "22.47",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "132",
-      "urgency": ""
-    },
-    {
-      "headline": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "snapshot": "The AI-focused hedge fund is still making some big bets. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Embattled, Situational Awareness, Source Foundry",
-        "Specific figures mentioned: $400M",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-        "Source context: The AI-focused hedge fund is still making some big bets. The larger angle is AI infrastructure: compute capacity, chip access and data-center..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Embattled.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 09 Aug 2026 20:35:17 +0000",
-      "age_hours": "16.38",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "66",
-      "urgency": ""
-    },
-    {
-      "headline": "AI detectors are creating a new era of distrust",
-      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "snapshot": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started...",
-      "key_data": [
-        "Key people or organizations: Stepback, For, Emma Roth, ET",
-        "Specific figures mentioned: 8",
-        "Story focus: AI detectors are creating a new era of distrust",
-        "Source context: This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Stepback.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-09T08:00:00-04:00",
-      "age_hours": "24.97",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "36",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Anthropic is turning Claude Code's auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "snapshot": "Programming with Claude Code will soon require even less human oversight. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, Claude Code, Programming",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Meta Muse Glimmer, GPUs, Meta, Muse Glimmer",
+        "Specific figures mentioned: 2.0, 30",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic is turning Claude Code's auto mode on by default",
-        "Source context: Programming with Claude Code will soon require even less human oversight. The competitive question is whether this changes the model race, enterprise..."
+        "Story focus: Meta Muse Glimmer brings local AI agents to consumer GPUs"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -480,17 +36,463 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Watch for follow-up statements, product details or customer evidence from Meta Muse Glimmer.",
         "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 10 Aug 2026 11:02:38 +0000",
+      "age_hours": "3.31",
+      "freshness_status": "fresh",
+      "editorial_score": "178",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "snapshot": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
+      "key_data": [
+        "AI desk signal: model, agent, regulation",
+        "Story focus: The AI safety test is becoming a safety risk",
+        "Source context: AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure,..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sun, 09 Aug 2026 19:20:32 +0000",
-      "age_hours": "17.62",
+      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "age_hours": "23.85",
       "freshness_status": "editor_fresh",
+      "editorial_score": "132",
+      "urgency": ""
+    },
+    {
+      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Discovered Materials",
+        "Specific figures mentioned: $9 million",
+        "AI desk signal: chip, enterprise",
+        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "age_hours": "2.35",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "The limits of physics AI: where Siemens says the human stays in charge",
+      "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "snapshot": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: Siemens, Physics AI, Precisely, On",
+        "Specific figures mentioned: 1, 000",
+        "Story focus: The limits of physics AI",
+        "Source context: Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them...."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Siemens.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 10 Aug 2026 10:00:00 +0000",
+      "age_hours": "4.35",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
+      "urgency": ""
+    },
+    {
+      "headline": "Bose CEO Lila Snyder on the fight for high-quality audio",
+      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "snapshot": "Today, I'm talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it's one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a...",
+      "key_data": [
+        "Key people or organizations: Bose CEO Lila Snyder, Today, Lila Snyder, CEO",
+        "Specific figures mentioned: 60",
+        "Story focus: Bose CEO Lila Snyder on the fight for high-quality audio",
+        "Source context: Today, I'm talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it's one of the most famous brands in all of consumer tech...."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Bose CEO Lila Snyder.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-10T10:00:00-04:00",
+      "age_hours": "0.35",
+      "freshness_status": "fresh",
       "editorial_score": "54",
+      "urgency": ""
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "snapshot": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company's Superintelligence Labs has released the 30-billion-parameter model's weights on Hugging Face. Meta says developers can use it for local coding, function... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Meta Muse Glimmer, GPUs, Meta, Muse Glimmer",
+        "Specific figures mentioned: 2.0, 30",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta Muse Glimmer brings local AI agents to consumer GPUs"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta Muse Glimmer.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 10 Aug 2026 11:02:38 +0000",
+      "age_hours": "3.31",
+      "freshness_status": "fresh",
+      "editorial_score": "178",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "snapshot": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
+      "key_data": [
+        "AI desk signal: model, agent, regulation",
+        "Story focus: The AI safety test is becoming a safety risk",
+        "Source context: AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure,..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "age_hours": "23.85",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "132",
+      "urgency": ""
+    },
+    {
+      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Discovered Materials",
+        "Specific figures mentioned: $9 million",
+        "AI desk signal: chip, enterprise",
+        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "age_hours": "2.35",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "The limits of physics AI: where Siemens says the human stays in charge",
+      "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "snapshot": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: Siemens, Physics AI, Precisely, On",
+        "Specific figures mentioned: 1, 000",
+        "Story focus: The limits of physics AI",
+        "Source context: Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them...."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Siemens.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 10 Aug 2026 10:00:00 +0000",
+      "age_hours": "4.35",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
+      "urgency": ""
+    },
+    {
+      "headline": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "snapshot": "The AI-focused hedge fund is still making some big bets. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Embattled, Situational Awareness, Source Foundry",
+        "Specific figures mentioned: $400M",
+        "AI desk signal: chip, enterprise",
+        "Story focus: Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+        "Source context: The AI-focused hedge fund is still making some big bets. The larger angle is AI infrastructure: compute capacity, chip access and data-center..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Embattled.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "age_hours": "17.76",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "66",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+    "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "The limits of physics AI: where Siemens says the human stays in charge"
+  ],
+  "sections": [
+    {
+      "headline": "Meta Muse Glimmer brings local AI agents to consumer GPUs",
+      "url": "https://www.artificialintelligence-news.com/news/meta-muse-glimmer-local-ai-agents-consumer-gpus/",
+      "snapshot": "Meta is releasing Muse Glimmer under an Apache 2.0 licence for local AI agents that can run on a consumer GPU. The company's Superintelligence Labs has released the 30-billion-parameter model's weights on Hugging Face. Meta says developers can use it for local coding, function... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Meta Muse Glimmer, GPUs, Meta, Muse Glimmer",
+        "Specific figures mentioned: 2.0, 30",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta Muse Glimmer brings local AI agents to consumer GPUs"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta Muse Glimmer.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 10 Aug 2026 11:02:38 +0000",
+      "age_hours": "3.31",
+      "freshness_status": "fresh",
+      "editorial_score": "178",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Discovered Materials",
+        "Specific figures mentioned: $9 million",
+        "AI desk signal: chip, enterprise",
+        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "age_hours": "2.35",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "The limits of physics AI: where Siemens says the human stays in charge",
+      "url": "https://www.artificialintelligence-news.com/news/siemens-physics-ai-simulation-human-oversight/",
+      "snapshot": "Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them. Precisely up to 1,000 times faster, according to Siemens. What it cannot do is sign off a safety-critical part. On that, the... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "key_data": [
+        "Key people or organizations: Siemens, Physics AI, Precisely, On",
+        "Specific figures mentioned: 1, 000",
+        "Story focus: The limits of physics AI",
+        "Source context: Physics AI can now explore thousands of design variations in the time it would take a traditional simulation to chew through a handful of them...."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Siemens.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 10 Aug 2026 10:00:00 +0000",
+      "age_hours": "4.35",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
+      "urgency": ""
+    },
+    {
+      "headline": "Bose CEO Lila Snyder on the fight for high-quality audio",
+      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "snapshot": "Today, I'm talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it's one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a...",
+      "key_data": [
+        "Key people or organizations: Bose CEO Lila Snyder, Today, Lila Snyder, CEO",
+        "Specific figures mentioned: 60",
+        "Story focus: Bose CEO Lila Snyder on the fight for high-quality audio",
+        "Source context: Today, I'm talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it's one of the most famous brands in all of consumer tech...."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Bose CEO Lila Snyder.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-10T10:00:00-04:00",
+      "age_hours": "0.35",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "Ford's new AI assistant can check your fuel levels and tire pressure",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "snapshot": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile...",
+      "key_data": [
+        "Key people or organizations: Ford, Lincoln",
+        "Story focus: Ford's new AI assistant can check your fuel levels and tire pressure",
+        "Source context: Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ford.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-10T07:00:00-04:00",
+      "age_hours": "3.35",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "snapshot": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
+      "key_data": [
+        "AI desk signal: model, agent, regulation",
+        "Story focus: The AI safety test is becoming a safety risk",
+        "Source context: AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure,..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 09 Aug 2026 14:30:00 +0000",
+      "age_hours": "23.85",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "132",
       "urgency": ""
     }
   ],
