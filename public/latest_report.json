@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "The AI safety test is becoming a safety risk",
-  "snapshot": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
-  "updated_at": "2026-08-10 07:04:02 AM ET",
-  "generated_at": "2026-08-10 07:04:02 AM ET",
+  "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+  "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+  "updated_at": "2026-08-10 08:58:01 AM ET",
+  "generated_at": "2026-08-10 08:58:01 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 36,
-    "live_fresh_items": 0,
-    "editor_fresh_items": 5,
-    "public_fallback_items": 18,
-    "stale_or_blocked_items": 36,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 7,
+    "public_fallback_items": 19,
+    "stale_or_blocked_items": 34,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-10 07:04:02 AM ET"
+    "last_checked": "2026-08-10 08:58:01 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,7 +43,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-09T08:00:00-04:00",
-      "age_hours": "23.07",
+      "age_hours": "24.97",
       "freshness_status": "editor_fresh",
       "editorial_score": "36",
       "urgency": "BREAKING"
@@ -71,9 +71,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 09 Aug 2026 14:30:00 +0000",
-      "age_hours": "20.57",
+      "age_hours": "22.47",
       "freshness_status": "editor_fresh",
       "editorial_score": "132",
+      "urgency": ""
+    },
+    {
+      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Discovered Materials",
+        "Specific figures mentioned: $9 million",
+        "AI desk signal: chip, enterprise",
+        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "age_hours": "0.97",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -101,38 +131,36 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 09 Aug 2026 20:35:17 +0000",
-      "age_hours": "14.48",
+      "age_hours": "16.38",
       "freshness_status": "editor_fresh",
       "editorial_score": "66",
       "urgency": ""
     },
     {
-      "headline": "Anthropic is turning Claude Code's auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "snapshot": "Programming with Claude Code will soon require even less human oversight. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Ford's new AI assistant can check your fuel levels and tire pressure",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "snapshot": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile...",
       "key_data": [
-        "Key people or organizations: Anthropic, Claude Code, Programming",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic is turning Claude Code's auto mode on by default",
-        "Source context: Programming with Claude Code will soon require even less human oversight. The competitive question is whether this changes the model race, enterprise..."
+        "Key people or organizations: Ford, Lincoln",
+        "Story focus: Ford's new AI assistant can check your fuel levels and tire pressure",
+        "Source context: Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Ford.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 09 Aug 2026 19:20:32 +0000",
-      "age_hours": "15.73",
-      "freshness_status": "editor_fresh",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-10T07:00:00-04:00",
+      "age_hours": "1.97",
+      "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
     }
@@ -161,9 +189,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 09 Aug 2026 14:30:00 +0000",
-      "age_hours": "20.57",
+      "age_hours": "22.47",
       "freshness_status": "editor_fresh",
       "editorial_score": "132",
+      "urgency": ""
+    },
+    {
+      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Discovered Materials",
+        "Specific figures mentioned: $9 million",
+        "AI desk signal: chip, enterprise",
+        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "age_hours": "0.97",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -191,38 +249,36 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 09 Aug 2026 20:35:17 +0000",
-      "age_hours": "14.48",
+      "age_hours": "16.38",
       "freshness_status": "editor_fresh",
       "editorial_score": "66",
       "urgency": ""
     },
     {
-      "headline": "Anthropic is turning Claude Code's auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "snapshot": "Programming with Claude Code will soon require even less human oversight. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Ford's new AI assistant can check your fuel levels and tire pressure",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "snapshot": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile...",
       "key_data": [
-        "Key people or organizations: Anthropic, Claude Code, Programming",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic is turning Claude Code's auto mode on by default",
-        "Source context: Programming with Claude Code will soon require even less human oversight. The competitive question is whether this changes the model race, enterprise..."
+        "Key people or organizations: Ford, Lincoln",
+        "Story focus: Ford's new AI assistant can check your fuel levels and tire pressure",
+        "Source context: Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Ford.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 09 Aug 2026 19:20:32 +0000",
-      "age_hours": "15.73",
-      "freshness_status": "editor_fresh",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-10T07:00:00-04:00",
+      "age_hours": "1.97",
+      "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
     },
@@ -250,18 +306,76 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-09T08:00:00-04:00",
-      "age_hours": "23.07",
+      "age_hours": "24.97",
       "freshness_status": "editor_fresh",
       "editorial_score": "36",
       "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
-    "The AI safety test is becoming a safety risk",
-    "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-    "Anthropic is turning Claude Code's auto mode on by default"
+    "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "Ford's new AI assistant can check your fuel levels and tire pressure",
+    "The AI safety test is becoming a safety risk"
   ],
   "sections": [
+    {
+      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Discovered Materials",
+        "Specific figures mentioned: $9 million",
+        "AI desk signal: chip, enterprise",
+        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "age_hours": "0.97",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "Ford's new AI assistant can check your fuel levels and tire pressure",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "snapshot": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow that new motor boat. The app is rolling out first to the Ford and Lincoln mobile...",
+      "key_data": [
+        "Key people or organizations: Ford, Lincoln",
+        "Story focus: Ford's new AI assistant can check your fuel levels and tire pressure",
+        "Source context: Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ford.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-10T07:00:00-04:00",
+      "age_hours": "1.97",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
     {
       "headline": "The AI safety test is becoming a safety risk",
       "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
@@ -285,7 +399,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 09 Aug 2026 14:30:00 +0000",
-      "age_hours": "20.57",
+      "age_hours": "22.47",
       "freshness_status": "editor_fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -315,39 +429,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 09 Aug 2026 20:35:17 +0000",
-      "age_hours": "14.48",
+      "age_hours": "16.38",
       "freshness_status": "editor_fresh",
       "editorial_score": "66",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic is turning Claude Code's auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "snapshot": "Programming with Claude Code will soon require even less human oversight. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, Claude Code, Programming",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic is turning Claude Code's auto mode on by default",
-        "Source context: Programming with Claude Code will soon require even less human oversight. The competitive question is whether this changes the model race, enterprise..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 09 Aug 2026 19:20:32 +0000",
-      "age_hours": "15.73",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "54",
       "urgency": ""
     },
     {
@@ -374,10 +458,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-09T08:00:00-04:00",
-      "age_hours": "23.07",
+      "age_hours": "24.97",
       "freshness_status": "editor_fresh",
       "editorial_score": "36",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Anthropic is turning Claude Code's auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "snapshot": "Programming with Claude Code will soon require even less human oversight. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Claude Code, Programming",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic is turning Claude Code's auto mode on by default",
+        "Source context: Programming with Claude Code will soon require even less human oversight. The competitive question is whether this changes the model race, enterprise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "age_hours": "17.62",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "54",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
