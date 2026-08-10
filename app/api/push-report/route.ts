@@ -1,5 +1,9 @@
 import { put } from "@vercel/blob";
 import { NextRequest, NextResponse } from "next/server";
+import {
+  type EditorialItem,
+  toEditorialItem,
+} from "../../lib/editorial-archive";
 
 export const dynamic = "force-dynamic";
 
@@ -30,6 +34,24 @@ export async function POST(request: NextRequest) {
       addRandomSuffix: false,
       contentType: "application/json",
     });
+
+    // Preserve meaningful published items without affecting the existing latest-report write.
+    const editorialItems = Array.isArray(parsed.live_newsroom)
+      ? parsed.live_newsroom
+          .map(toEditorialItem)
+          .filter((item): item is EditorialItem => item !== null)
+      : [];
+
+    await Promise.allSettled(
+      editorialItems.map((item) =>
+        put(`editorial/${item.slug}.json`, JSON.stringify(item), {
+          access: "public",
+          allowOverwrite: false,
+          addRandomSuffix: false,
+          contentType: "application/json",
+        }),
+      ),
+    );
 
     return NextResponse.json({
       ok: true,
