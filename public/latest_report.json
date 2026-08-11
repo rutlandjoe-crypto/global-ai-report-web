@@ -1,24 +1,54 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Meta's new Glimmer AI model offers a hint at Zuckerberg's personal intelligence vision",
-  "snapshot": "Meta's new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg's personal superintelligence vision, as well as the emerging divide between AI users can own and access. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-08-10 07:30:22 PM ET",
-  "generated_at": "2026-08-10 07:30:22 PM ET",
+  "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+  "snapshot": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-08-10 09:19:35 PM ET",
+  "generated_at": "2026-08-10 09:19:35 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 6,
-    "editor_fresh_items": 14,
-    "public_fallback_items": 17,
-    "stale_or_blocked_items": 43,
+    "live_fresh_items": 8,
+    "editor_fresh_items": 16,
+    "public_fallback_items": 20,
+    "stale_or_blocked_items": 41,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-10 07:30:22 PM ET"
+    "last_checked": "2026-08-10 09:19:35 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "snapshot": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: As AI, OpenAI, Daybreak",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: As AI-led attacks multiply, OpenAI launches a new cyber model",
+        "Source context: OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from As AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "age_hours": "1.39",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Meta's new Glimmer AI model offers a hint at Zuckerberg's personal intelligence vision",
       "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
@@ -44,39 +74,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 10 Aug 2026 16:20:13 +0000",
-      "age_hours": "7.17",
+      "age_hours": "8.99",
       "freshness_status": "fresh",
       "editorial_score": "118",
-      "urgency": ""
-    },
-    {
-      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Discovered Materials",
-        "Specific figures mentioned: $9 million",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "age_hours": "11.51",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -103,7 +103,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 10 Aug 2026 20:04:24 +0000",
-      "age_hours": "3.43",
+      "age_hours": "5.25",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -133,20 +133,19 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-10T11:19:05-04:00",
-      "age_hours": "8.19",
+      "age_hours": "10.01",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": "WATCH"
     },
     {
-      "headline": "What happens to Bose when headphones become AI?",
-      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "snapshot": "Today, I'm talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it's one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to consumers, and its focus on research and development has led it to be a...",
+      "headline": "Mark Zuckerberg doesn't understand how to live",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "snapshot": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise....",
       "key_data": [
-        "Key people or organizations: Bose, Today, Lila Snyder, CEO",
-        "Specific figures mentioned: 60",
-        "Story focus: What happens to Bose when headphones become AI?",
-        "Source context: Today, I'm talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it's one of the most famous brands in all of consumer tech...."
+        "Key people or organizations: Mark Zuckerberg, Recently, Do",
+        "Story focus: Mark Zuckerberg doesn't understand how to live",
+        "Source context: Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -154,15 +153,15 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Bose.",
+        "Watch for follow-up statements, product details or customer evidence from Mark Zuckerberg.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-08-10T10:00:00-04:00",
-      "age_hours": "9.51",
+      "published": "2026-08-10T18:00:00-04:00",
+      "age_hours": "3.33",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -194,9 +193,39 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Mon, 10 Aug 2026 11:02:38 +0000",
-      "age_hours": "12.46",
+      "age_hours": "14.28",
       "freshness_status": "editor_fresh",
       "editorial_score": "148",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "snapshot": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: As AI, OpenAI, Daybreak",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: As AI-led attacks multiply, OpenAI launches a new cyber model",
+        "Source context: OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from As AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "age_hours": "1.39",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
       "urgency": "WATCH"
     },
     {
@@ -222,7 +251,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 09 Aug 2026 14:30:00 +0000",
-      "age_hours": "33.01",
+      "age_hours": "34.83",
       "freshness_status": "editor_fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -252,39 +281,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 10 Aug 2026 16:20:13 +0000",
-      "age_hours": "7.17",
+      "age_hours": "8.99",
       "freshness_status": "fresh",
       "editorial_score": "118",
-      "urgency": ""
-    },
-    {
-      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Discovered Materials",
-        "Specific figures mentioned: $9 million",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "age_hours": "11.51",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -312,18 +311,48 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-10T11:19:05-04:00",
-      "age_hours": "8.19",
+      "age_hours": "10.01",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": "WATCH"
     }
   ],
   "key_storylines": [
+    "As AI-led attacks multiply, OpenAI launches a new cyber model",
     "Meta's new Glimmer AI model offers a hint at Zuckerberg's personal intelligence vision",
-    "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
     "Tech industry is buzzing after a Claude agent hacked into a gym"
   ],
   "sections": [
+    {
+      "headline": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "snapshot": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: As AI, OpenAI, Daybreak",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: As AI-led attacks multiply, OpenAI launches a new cyber model",
+        "Source context: OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from As AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 10 Aug 2026 23:56:15 +0000",
+      "age_hours": "1.39",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Meta's new Glimmer AI model offers a hint at Zuckerberg's personal intelligence vision",
       "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
@@ -349,39 +378,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 10 Aug 2026 16:20:13 +0000",
-      "age_hours": "7.17",
+      "age_hours": "8.99",
       "freshness_status": "fresh",
       "editorial_score": "118",
-      "urgency": ""
-    },
-    {
-      "headline": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "snapshot": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Discovered Materials",
-        "Specific figures mentioned: $9 million",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-        "Source context: Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Discovered Materials.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 10 Aug 2026 12:00:00 +0000",
-      "age_hours": "11.51",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
       "urgency": ""
     },
     {
@@ -408,7 +407,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 10 Aug 2026 20:04:24 +0000",
-      "age_hours": "3.43",
+      "age_hours": "5.25",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -438,10 +437,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-10T11:19:05-04:00",
-      "age_hours": "8.19",
+      "age_hours": "10.01",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Mark Zuckerberg doesn't understand how to live",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "snapshot": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holding a sign that said, \"Do cool shit.\" I made what I hoped was a polite noise....",
+      "key_data": [
+        "Key people or organizations: Mark Zuckerberg, Recently, Do",
+        "Story focus: Mark Zuckerberg doesn't understand how to live",
+        "Source context: Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mark Zuckerberg.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-10T18:00:00-04:00",
+      "age_hours": "3.33",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
     },
     {
       "headline": "What happens to Bose when headphones become AI?",
@@ -467,39 +494,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-10T10:00:00-04:00",
-      "age_hours": "9.51",
+      "age_hours": "11.33",
       "freshness_status": "fresh",
       "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Mark Zuckerberg's AI manifesto is exactly why people don't like AI",
-      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-      "snapshot": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Mark Zuckerberg, On Monday, Meta AI",
-        "Specific figures mentioned: 6, 500",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Mark Zuckerberg's AI manifesto is exactly why people don't like AI"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Mark Zuckerberg.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 10 Aug 2026 20:53:02 +0000",
-      "age_hours": "2.62",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
       "urgency": ""
     }
   ],
