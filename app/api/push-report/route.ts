@@ -36,8 +36,8 @@ export async function POST(request: NextRequest) {
     });
 
     // Preserve meaningful published items without affecting the existing latest-report write.
-    const editorialItems = Array.isArray(parsed.live_newsroom)
-      ? parsed.live_newsroom
+    const editorialItems: EditorialItem[] = Array.isArray(parsed.live_newsroom)
+      ? (parsed.live_newsroom as Parameters<typeof toEditorialItem>[0][])
           .map(toEditorialItem)
           .filter((item): item is EditorialItem => item !== null)
       : [];
