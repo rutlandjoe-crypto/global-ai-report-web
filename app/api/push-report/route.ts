@@ -46,7 +46,7 @@ export async function POST(request: NextRequest) {
       editorialItems.map((item) =>
         put(`editorial/${item.slug}.json`, JSON.stringify(item), {
           access: "public",
-          allowOverwrite: false,
+          allowOverwrite: true,
           addRandomSuffix: false,
           contentType: "application/json",
         }),

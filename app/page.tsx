@@ -1,14 +1,20 @@
 import fs from "fs";
 import path from "path";
+import type { Metadata } from "next";
 import { headers } from "next/headers";
 
 import EditorialStandard from "@/components/EditorialStandard";
 import SocialIconLinks from "@/app/SocialIconLinks";
+import { SITE_URL, toEditorialItem } from "@/app/lib/editorial-archive";
 import { formatUpdatedAt } from "@/lib/formatUpdatedAt";
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
 export const fetchCache = "force-no-store";
+
+export const metadata: Metadata = {
+  alternates: { canonical: `${SITE_URL}/` },
+};
 
 type AnyObj = Record<string, any>;
 
@@ -383,6 +389,8 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
   const title = storyTitle(story, index);
   const url = storyUrl(story);
   const summary = storySummary(story);
+  const editorialItem = toEditorialItem(story);
+  const editorialUrl = editorialItem ? `/editorial/${editorialItem.slug}` : "";
 
   const keyData = asList(story.key_data || story.keyData || story.data || story.metrics);
   const why = asList(story.why_it_matters || story.whyItMatters || story.why);
@@ -396,7 +404,11 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
       </p>
 
       <h3 className="text-xl font-black leading-tight text-slate-950">
-        {url !== "#" ? (
+        {editorialUrl ? (
+          <a href={editorialUrl} className="hover:text-blue-800">
+            {title}
+          </a>
+        ) : url !== "#" ? (
           <a href={url} target="_blank" rel="noopener noreferrer" className="hover:text-blue-800">
             {title}
           </a>
@@ -406,6 +418,15 @@ function StoryCard({ story, index }: { story: AnyObj; index: number }) {
       </h3>
 
       <p className="mt-3 text-sm leading-6 text-slate-700">{summary}</p>
+
+      {editorialUrl && url !== "#" ? (
+        <p className="mt-3 text-xs font-bold text-blue-800">
+          Original source:{" "}
+          <a href={url} target="_blank" rel="noopener noreferrer" className="underline">
+            {cleanText(story.source_name) || "View source"}
+          </a>
+        </p>
+      ) : null}
 
       <div className="mt-4 grid gap-3 md:grid-cols-2 xl:grid-cols-4">
         <div className="rounded-xl bg-slate-50 p-3">
@@ -592,6 +613,12 @@ export default async function Page() {
               <span className="rounded-full bg-slate-200 px-4 py-2 text-slate-800">
                 Updated: {updated}
               </span>
+              <a
+                href="/archive"
+                className="rounded-full bg-slate-200 px-4 py-2 text-blue-900 hover:bg-blue-100"
+              >
+                Editorial Archive
+              </a>
             </div>
           </div>
 

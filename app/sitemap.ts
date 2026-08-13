@@ -5,17 +5,22 @@ export const dynamic = "force-dynamic";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const items = await getEditorialItems();
+  const latestPublished = items.reduce<Date | undefined>((latest, item) => {
+    const published = new Date(item.published);
+    if (Number.isNaN(published.getTime())) return latest;
+    return !latest || published > latest ? published : latest;
+  }, undefined);
 
   return [
     {
       url: `${SITE_URL}/`,
-      lastModified: new Date(),
+      ...(latestPublished ? { lastModified: latestPublished } : {}),
       changeFrequency: "hourly",
       priority: 1,
     },
     {
       url: `${SITE_URL}/archive`,
-      lastModified: new Date(),
+      ...(latestPublished ? { lastModified: latestPublished } : {}),
       changeFrequency: "daily",
       priority: 0.8,
     },
