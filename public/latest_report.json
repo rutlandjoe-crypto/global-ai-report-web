@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI introduces 'Ultrafast,' a new mode that makes GPT-5.6 Sol work at 14x the speed",
   "snapshot": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-  "updated_at": "2026-08-13 09:28:26 PM ET",
-  "generated_at": "2026-08-13 09:28:26 PM ET",
+  "updated_at": "2026-08-14 12:03:31 AM ET",
+  "generated_at": "2026-08-14 12:03:31 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 15,
-    "editor_fresh_items": 31,
+    "live_fresh_items": 8,
+    "editor_fresh_items": 25,
     "public_fallback_items": 34,
-    "stale_or_blocked_items": 34,
+    "stale_or_blocked_items": 41,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-13 09:28:26 PM ET"
+    "last_checked": "2026-08-14 12:03:31 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 13 Aug 2026 19:22:40 +0000",
-      "age_hours": "6.10",
+      "age_hours": "8.68",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "WATCH"
@@ -74,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "age_hours": "7.00",
+      "age_hours": "9.59",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": ""
@@ -104,40 +104,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 13 Aug 2026 19:19:49 +0000",
-      "age_hours": "6.14",
+      "age_hours": "8.73",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Microsoft is combining its Copilot apps ahead of a 'super app'",
-      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "snapshot": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Microsoft, Copilot, Copilot AI, Both",
-        "Specific figures mentioned: 365",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft is combining its Copilot apps ahead of a 'super app'"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-13T09:30:00-04:00",
-      "age_hours": "11.97",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
     },
     {
       "headline": "Microsoft's Clippy-like Mico character is no longer the face of Copilot",
@@ -164,7 +134,37 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-13T17:42:38-04:00",
-      "age_hours": "3.76",
+      "age_hours": "6.35",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI is losing its second executive this week",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "snapshot": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Another OpenAI, Denise Dresser, December",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI is losing its second executive this week",
+        "Source context: Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-13T15:28:39-04:00",
+      "age_hours": "8.58",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -196,7 +196,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 13 Aug 2026 19:22:40 +0000",
-      "age_hours": "6.10",
+      "age_hours": "8.68",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "WATCH"
@@ -226,7 +226,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "age_hours": "7.00",
+      "age_hours": "9.59",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": ""
@@ -256,7 +256,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 12 Aug 2026 17:41:29 +0000",
-      "age_hours": "31.78",
+      "age_hours": "34.37",
       "freshness_status": "editor_fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -286,21 +286,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-12T13:29:10-04:00",
-      "age_hours": "31.99",
+      "age_hours": "34.57",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
     },
     {
-      "headline": "Microsoft is combining its Copilot apps ahead of a 'super app'",
-      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "snapshot": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Microsoft's Clippy-like Mico character is no longer the face of Copilot",
+      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "snapshot": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where the avatar will have \"more to react to,\" as reported earlier by GeekWire.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Microsoft, Copilot, Copilot AI, Both",
-        "Specific figures mentioned: 365",
+        "Key people or organizations: Microsoft, Clippy, Mico, Copilot",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft is combining its Copilot apps ahead of a 'super app'"
+        "Story focus: Microsoft's Clippy-like Mico character is no longer the face of Copilot",
+        "Source context: Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -315,10 +315,10 @@
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-08-13T09:30:00-04:00",
-      "age_hours": "11.97",
+      "published": "2026-08-13T17:42:38-04:00",
+      "age_hours": "6.35",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
@@ -353,7 +353,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 13 Aug 2026 19:22:40 +0000",
-      "age_hours": "6.10",
+      "age_hours": "8.68",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "WATCH"
@@ -383,7 +383,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 13 Aug 2026 18:28:14 +0000",
-      "age_hours": "7.00",
+      "age_hours": "9.59",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": ""
@@ -413,40 +413,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 13 Aug 2026 19:19:49 +0000",
-      "age_hours": "6.14",
+      "age_hours": "8.73",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Microsoft is combining its Copilot apps ahead of a 'super app'",
-      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "snapshot": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal and work accounts will be moved to the new unified app, which recycles the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Microsoft, Copilot, Copilot AI, Both",
-        "Specific figures mentioned: 365",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft is combining its Copilot apps ahead of a 'super app'"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-13T09:30:00-04:00",
-      "age_hours": "11.97",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
     },
     {
       "headline": "Microsoft's Clippy-like Mico character is no longer the face of Copilot",
@@ -473,7 +443,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-13T17:42:38-04:00",
-      "age_hours": "3.76",
+      "age_hours": "6.35",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -503,9 +473,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-13T15:28:39-04:00",
-      "age_hours": "6.00",
+      "age_hours": "8.58",
       "freshness_status": "fresh",
       "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "snapshot": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Writer, Built, GLM",
+        "Specific figures mentioned: 5.2",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: Writer introduces new AI model and upgraded harness to contain token costs",
+        "Source context: Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Writer.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 13 Aug 2026 21:13:24 +0000",
+      "age_hours": "6.84",
+      "freshness_status": "fresh",
+      "editorial_score": "96",
       "urgency": ""
     }
   ],
