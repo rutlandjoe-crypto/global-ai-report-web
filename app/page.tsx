@@ -1,12 +1,19 @@
 import fs from "fs";
 import path from "path";
+import Image from "next/image";
 import type { Metadata } from "next";
 import { headers } from "next/headers";
 
 import EditorialStandard from "@/components/EditorialStandard";
+import StructuredIntelligenceBox from "@/components/StructuredIntelligenceBox";
 import SocialIconLinks from "@/app/SocialIconLinks";
 import { SITE_URL, toEditorialItem } from "@/app/lib/editorial-archive";
 import { formatUpdatedAt } from "@/lib/formatUpdatedAt";
+import {
+  buildInfrastructureFinanceWatch,
+  buildPublisherLicensingLedger,
+  type IntelligenceStory,
+} from "@/lib/structuredIntelligence";
 
 export const dynamic = "force-dynamic";
 export const revalidate = 0;
@@ -261,6 +268,38 @@ function getSpotlightStories(report: AnyObj, key: "live_newsroom" | "editor_sign
   return raw
     .filter((item) => item && typeof item === "object")
     .map((item, index) => normalizeStory(item, index));
+}
+
+function getIntelligenceStories(report: AnyObj): IntelligenceStory[] {
+  const collections = [
+    report.homepage_cards,
+    report.live_newsroom,
+    report.editor_signals,
+    report.stories,
+    report.cards,
+    report.sections,
+    report.news,
+    report.headlines,
+    report.items,
+    report.articles,
+  ];
+  const stories: IntelligenceStory[] = [];
+
+  for (const collection of collections) {
+    if (Array.isArray(collection)) {
+      stories.push(...collection.filter((item) => item && typeof item === "object"));
+    } else if (collection && typeof collection === "object") {
+      for (const item of Object.values(collection)) {
+        if (Array.isArray(item)) {
+          stories.push(...item.filter((story) => story && typeof story === "object"));
+        } else if (item && typeof item === "object") {
+          stories.push(item as IntelligenceStory);
+        }
+      }
+    }
+  }
+
+  return stories;
 }
 
 function storyTitle(story: AnyObj, index: number): string {
@@ -559,6 +598,10 @@ export default async function Page() {
           "Watch model releases, infrastructure, regulation and enterprise adoption.",
         ];
 
+  const intelligenceStories = getIntelligenceStories(report);
+  const infrastructureFinanceItems = buildInfrastructureFinanceWatch(intelligenceStories);
+  const publisherLicensingItems = buildPublisherLicensingLedger(intelligenceStories);
+
   return (
     <main className="min-h-screen bg-slate-100 text-slate-950">
       <div className="border-b border-blue-950 bg-blue-950 text-white">
@@ -594,9 +637,19 @@ export default async function Page() {
       <header className="border-b border-slate-300 bg-white">
         <div className="mx-auto grid max-w-7xl gap-6 px-5 py-8 lg:grid-cols-[1.2fr_0.8fr]">
           <div>
-            <p className="text-sm font-black uppercase tracking-wide text-blue-700">
-              {SITE.name}
-            </p>
+            <div className="flex items-center gap-4">
+              <Image
+                src="/gsr-logo-ai.png"
+                alt={`${SITE.name} circular GSR logo`}
+                width={96}
+                height={96}
+                priority
+                className="h-20 w-20 shrink-0 rounded-full object-contain md:h-24 md:w-24"
+              />
+              <p className="text-sm font-black uppercase tracking-wide text-blue-700">
+                {SITE.name}
+              </p>
+            </div>
 
             <h1 className="mt-3 text-4xl font-black leading-tight md:text-5xl">
               {headline}
@@ -628,6 +681,18 @@ export default async function Page() {
       <EditorialStandard />
       <SponsorPlacementBlock />
 
+      <section className="mx-auto grid max-w-7xl gap-6 px-5 py-3 lg:grid-cols-2">
+        <StructuredIntelligenceBox
+          title="AI Infrastructure Finance Watch"
+          description="Financing, investment, capital spending and infrastructure commitments tied to the AI buildout, selected from the current Global AI Report story pipeline."
+          items={infrastructureFinanceItems}
+        />
+        <StructuredIntelligenceBox
+          title="AI Publisher Licensing & Usage Ledger"
+          description="Confirmed agreements, partnerships, negotiations, disputes and settlements involving AI platforms and professionally produced content."
+          items={publisherLicensingItems}
+        />
+      </section>
 
       <section className="mx-auto grid max-w-7xl gap-6 px-5 py-6 lg:grid-cols-[0.75fr_1.25fr]">
         <aside className="space-y-6">
