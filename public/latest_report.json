@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
   "snapshot": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-08-17 12:22:03 PM ET",
-  "generated_at": "2026-08-17 12:22:03 PM ET",
+  "updated_at": "2026-08-17 02:32:14 PM ET",
+  "generated_at": "2026-08-17 02:32:14 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 4,
-    "editor_fresh_items": 10,
+    "total_items_checked": 37,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 11,
     "public_fallback_items": 16,
-    "stale_or_blocked_items": 45,
+    "stale_or_blocked_items": 32,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-17 12:22:03 PM ET"
+    "last_checked": "2026-08-17 02:32:14 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "age_hours": "1.09",
+      "age_hours": "3.26",
       "freshness_status": "fresh",
       "editorial_score": "178",
       "urgency": "DEVELOPING"
@@ -74,7 +74,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-16T17:32:56-04:00",
-      "age_hours": "18.82",
+      "age_hours": "20.99",
       "freshness_status": "editor_fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -104,10 +104,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "age_hours": "0.11",
+      "age_hours": "2.28",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "snapshot": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Amazon, Rare, LLMs",
+        "AI desk signal: model, llm, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon, which started off selling books, is destroying rare texts to train AI",
+        "Source context: Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "age_hours": "1.89",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": ""
     },
     {
       "headline": "Anthropic explains how Claude's invisible text watermarks will work",
@@ -134,40 +164,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-17T06:57:13-04:00",
-      "age_hours": "5.41",
+      "age_hours": "7.58",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
-    },
-    {
-      "headline": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "snapshot": "Wispr's total funding is now over $361 million. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Wispr",
-        "Specific figures mentioned: $280M, $2B, $361 million",
-        "AI desk signal: funding",
-        "Story focus: Wispr raises $280M at $2B valuation as it looks beyond dictation",
-        "Source context: Wispr's total funding is now over $361 million. The business angle is capital allocation: investors and strategic buyers are still sorting which AI..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Wispr.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 13:10:05 +0000",
-      "age_hours": "3.20",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
@@ -196,7 +196,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "age_hours": "1.09",
+      "age_hours": "3.26",
       "freshness_status": "fresh",
       "editorial_score": "178",
       "urgency": "DEVELOPING"
@@ -226,10 +226,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "age_hours": "0.11",
+      "age_hours": "2.28",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "snapshot": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Amazon, Rare, LLMs",
+        "AI desk signal: model, llm, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon, which started off selling books, is destroying rare texts to train AI",
+        "Source context: Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "age_hours": "1.89",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": ""
     },
     {
       "headline": "OpenAI reportedly disbanded its preparedness team",
@@ -256,7 +286,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-16T17:32:56-04:00",
-      "age_hours": "18.82",
+      "age_hours": "20.99",
       "freshness_status": "editor_fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -286,46 +316,16 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-17T06:57:13-04:00",
-      "age_hours": "5.41",
+      "age_hours": "7.58",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
-    },
-    {
-      "headline": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "snapshot": "Wispr's total funding is now over $361 million. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Wispr",
-        "Specific figures mentioned: $280M, $2B, $361 million",
-        "AI desk signal: funding",
-        "Story focus: Wispr raises $280M at $2B valuation as it looks beyond dictation",
-        "Source context: Wispr's total funding is now over $361 million. The business angle is capital allocation: investors and strategic buyers are still sorting which AI..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Wispr.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 13:10:05 +0000",
-      "age_hours": "3.20",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
     "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "Anthropic explains how Claude's invisible text watermarks will work"
+    "Amazon, which started off selling books, is destroying rare texts to train AI"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "age_hours": "1.09",
+      "age_hours": "3.26",
       "freshness_status": "fresh",
       "editorial_score": "178",
       "urgency": "DEVELOPING"
@@ -383,10 +383,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "age_hours": "0.11",
+      "age_hours": "2.28",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "snapshot": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Amazon, Rare, LLMs",
+        "AI desk signal: model, llm, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon, which started off selling books, is destroying rare texts to train AI",
+        "Source context: Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "age_hours": "1.89",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": ""
     },
     {
       "headline": "Anthropic explains how Claude's invisible text watermarks will work",
@@ -413,40 +443,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-17T06:57:13-04:00",
-      "age_hours": "5.41",
+      "age_hours": "7.58",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
-    },
-    {
-      "headline": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "snapshot": "Wispr's total funding is now over $361 million. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Wispr",
-        "Specific figures mentioned: $280M, $2B, $361 million",
-        "AI desk signal: funding",
-        "Story focus: Wispr raises $280M at $2B valuation as it looks beyond dictation",
-        "Source context: Wispr's total funding is now over $361 million. The business angle is capital allocation: investors and strategic buyers are still sorting which AI..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Wispr.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 13:10:05 +0000",
-      "age_hours": "3.20",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": "WATCH"
     },
     {
       "headline": "OpenAI reportedly disbanded its preparedness team",
@@ -473,39 +473,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-16T17:32:56-04:00",
-      "age_hours": "18.82",
+      "age_hours": "20.99",
       "freshness_status": "editor_fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "ChatGPT's Computer History tracks your clicks and keystrokes",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "snapshot": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+      "snapshot": "Wispr's total funding is now over $361 million. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
       "key_data": [
-        "Key people or organizations: ChatGPT, Computer History, It, Codex",
-        "AI desk signal: chip",
-        "Story focus: ChatGPT's Computer History tracks your clicks and keystrokes",
-        "Source context: ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work,..."
+        "Key people or organizations: Wispr",
+        "Specific figures mentioned: $280M, $2B, $361 million",
+        "AI desk signal: funding",
+        "Story focus: Wispr raises $280M at $2B valuation as it looks beyond dictation",
+        "Source context: Wispr's total funding is now over $361 million. The business angle is capital allocation: investors and strategic buyers are still sorting which AI..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Wispr.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-16T10:56:40-04:00",
-      "age_hours": "25.42",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "70",
-      "urgency": ""
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 13:10:05 +0000",
+      "age_hours": "5.37",
+      "freshness_status": "fresh",
+      "editorial_score": "82",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
