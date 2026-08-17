@@ -1,0 +1,40 @@
+name: Preserve AI editorial URLs
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "public/latest_report.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: preserve-ai-editorial-urls
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out current main
+        uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: Preserve current newsroom stories
+        run: node scripts/archive-editorial.mjs
+
+      - name: Commit archive update
+        run: |
+          if git diff --quiet -- public/editorial-archive.json; then
+            echo "Editorial archive is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/editorial-archive.json
+          git commit -m "Preserve Global AI Report editorial URLs"
+          git pull --rebase origin main
+          git push origin HEAD:main

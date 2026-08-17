@@ -1,5 +1,6 @@
 import { list } from "@vercel/blob";
 import report from "../../public/latest_report.json";
+import archivedReportItems from "../../public/editorial-archive.json";
 
 export const SITE_URL = "https://www.globalaireport.news";
 
@@ -90,6 +91,12 @@ export const seededEditorialItems: EditorialItem[] = (
   .map(toEditorialItem)
   .filter((item): item is EditorialItem => item !== null);
 
+export const archivedEditorialItems: EditorialItem[] = (
+  archivedReportItems as ReportItem[]
+)
+  .map(toEditorialItem)
+  .filter((item): item is EditorialItem => item !== null);
+
 export async function getStoredEditorialItems(): Promise<EditorialItem[]> {
   try {
     const { blobs } = await list({ prefix: "editorial/", limit: 1000 });
@@ -112,7 +119,7 @@ export async function getEditorialItems(): Promise<EditorialItem[]> {
   const stored = await getStoredEditorialItems();
   const unique = new Map<string, EditorialItem>();
 
-  [...seededEditorialItems, ...stored].forEach((item) => {
+  [...archivedEditorialItems, ...seededEditorialItems, ...stored].forEach((item) => {
     const existing = unique.get(item.slug);
     unique.set(item.slug, {
       ...existing,
