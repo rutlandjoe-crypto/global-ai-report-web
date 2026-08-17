@@ -7,11 +7,12 @@ import { headers } from "next/headers";
 import EditorialStandard from "@/components/EditorialStandard";
 import StructuredIntelligenceBox from "@/components/StructuredIntelligenceBox";
 import SocialIconLinks from "@/app/SocialIconLinks";
-import { SITE_URL, toEditorialItem } from "@/app/lib/editorial-archive";
+import { getEditorialItems, SITE_URL, toEditorialItem } from "@/app/lib/editorial-archive";
 import { formatUpdatedAt } from "@/lib/formatUpdatedAt";
 import {
   buildInfrastructureFinanceWatch,
   buildPublisherLicensingLedger,
+  getRecentEditorialIntelligenceStories,
   type IntelligenceStory,
 } from "@/lib/structuredIntelligence";
 
@@ -598,7 +599,14 @@ export default async function Page() {
           "Watch model releases, infrastructure, regulation and enterprise adoption.",
         ];
 
-  const intelligenceStories = getIntelligenceStories(report);
+  const editorialStories = getRecentEditorialIntelligenceStories(
+    await getEditorialItems(),
+    SITE_URL,
+  );
+  const intelligenceStories = [
+    ...editorialStories,
+    ...getIntelligenceStories(report),
+  ];
   const infrastructureFinanceItems = buildInfrastructureFinanceWatch(intelligenceStories);
   const publisherLicensingItems = buildPublisherLicensingLedger(intelligenceStories);
 
@@ -684,7 +692,7 @@ export default async function Page() {
       <section className="mx-auto grid max-w-7xl gap-6 px-5 py-3 lg:grid-cols-2">
         <StructuredIntelligenceBox
           title="AI Infrastructure Finance Watch"
-          description="Financing, investment, capital spending and infrastructure commitments tied to the AI buildout, selected from the current Global AI Report story pipeline."
+          description="Financing, investment, capital spending and infrastructure commitments tied to the AI buildout, selected from recent Global AI Report editorial coverage."
           items={infrastructureFinanceItems}
         />
         <StructuredIntelligenceBox

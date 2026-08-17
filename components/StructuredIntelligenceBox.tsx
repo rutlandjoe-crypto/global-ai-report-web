@@ -34,14 +34,14 @@ export default function StructuredIntelligenceBox({
                 rel="noopener noreferrer"
                 className="mt-3 inline-flex text-sm font-black text-blue-800 underline underline-offset-4"
               >
-                Read original source · {item.source} <span aria-hidden="true">↗</span>
+                Read Global AI Report story · {item.source} <span aria-hidden="true">↗</span>
               </a>
             </article>
           ))}
         </div>
       ) : (
         <p className="mt-4 rounded-xl bg-slate-50 p-4 text-sm leading-6 text-slate-700">
-          No qualifying sourced developments are in the current report. The ledger will update when the existing AI feeds carry a supported item.
+          No qualifying sourced developments are in the recent Global AI Report inventory. The ledger will update when the existing AI feeds carry a supported item.
         </p>
       )}
     </section>
