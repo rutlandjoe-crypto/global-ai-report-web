@@ -1,24 +1,82 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-  "snapshot": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-08-17 11:40:37 PM ET",
-  "generated_at": "2026-08-17 11:40:37 PM ET",
+  "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
+  "snapshot": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+  "updated_at": "2026-08-18 12:30:41 AM ET",
+  "generated_at": "2026-08-18 12:30:41 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 4,
+    "total_items_checked": 37,
+    "live_fresh_items": 3,
     "editor_fresh_items": 12,
     "public_fallback_items": 19,
-    "stale_or_blocked_items": 45,
+    "stale_or_blocked_items": 34,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-17 11:40:37 PM ET"
+    "last_checked": "2026-08-18 12:30:41 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Whisker's AI-powered litter robot thinks my cats swapped bodies",
+      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "snapshot": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up....",
+      "key_data": [
+        "Key people or organizations: Whisker, Sign",
+        "Story focus: Whisker's AI-powered litter robot thinks my cats swapped bodies",
+        "Source context: The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Whisker.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-17T07:00:00-04:00",
+      "age_hours": "17.51",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "76",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "snapshot": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nvidia, SoftBank, OpenAI",
+        "Specific figures mentioned: $1.5B",
+        "AI desk signal: chip, nvidia, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 15:16:24 +0000",
+      "age_hours": "13.24",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "148",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "OpenAI reportedly disbanded its preparedness team",
       "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
@@ -44,7 +102,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-16T17:32:56-04:00",
-      "age_hours": "30.13",
+      "age_hours": "30.96",
       "freshness_status": "editor_fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -73,40 +131,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 21:27:05 +0000",
-      "age_hours": "6.23",
+      "age_hours": "7.06",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "snapshot": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Groq, Nvidia",
-        "Specific figures mentioned: $350M, $350 million, $3.5 billion",
-        "AI desk signal: chip, nvidia, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Groq raises $350M to fuel its pivot from AI chips to neocloud"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Groq.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "age_hours": "11.42",
-      "freshness_status": "fresh",
-      "editorial_score": "150",
-      "urgency": "WATCH"
     },
     {
       "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
@@ -133,73 +161,13 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 16:38:44 +0000",
-      "age_hours": "11.03",
+      "age_hours": "11.87",
       "freshness_status": "fresh",
       "editorial_score": "146",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic's annualized revenue surges to $65B",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "snapshot": "The model maker added $18 billion in annualized revenue in two months. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic",
-        "Specific figures mentioned: $65B, $18 billion",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's annualized revenue surges to $65B"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 23:56:26 +0000",
-      "age_hours": "3.74",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
       "urgency": ""
     }
   ],
   "editor_signals": [
-    {
-      "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "snapshot": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Groq, Nvidia",
-        "Specific figures mentioned: $350M, $350 million, $3.5 billion",
-        "AI desk signal: chip, nvidia, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Groq raises $350M to fuel its pivot from AI chips to neocloud"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Groq.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "age_hours": "11.42",
-      "freshness_status": "fresh",
-      "editorial_score": "150",
-      "urgency": "WATCH"
-    },
     {
       "headline": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
       "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
@@ -225,7 +193,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "age_hours": "12.40",
+      "age_hours": "13.24",
       "freshness_status": "editor_fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -255,7 +223,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 16:38:44 +0000",
-      "age_hours": "11.03",
+      "age_hours": "11.87",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -285,8 +253,37 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-16T17:32:56-04:00",
-      "age_hours": "30.13",
+      "age_hours": "30.96",
       "freshness_status": "editor_fresh",
+      "editorial_score": "122",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "snapshot": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay founder and CEO, said. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Relay, Google, Chrome, We",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI automation startup Relay shuts down, staff joins Google's Chrome team",
+        "Source context: \"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Relay.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "age_hours": "7.06",
+      "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
     },
@@ -313,48 +310,18 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-17T07:00:00-04:00",
-      "age_hours": "16.68",
+      "age_hours": "17.51",
       "freshness_status": "editor_fresh",
       "editorial_score": "76",
       "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
-    "Groq raises $350M to fuel its pivot from AI chips to neocloud",
     "Amazon, which started off selling books, is destroying rare texts to train AI",
-    "AI automation startup Relay shuts down, staff joins Google's Chrome team"
+    "AI automation startup Relay shuts down, staff joins Google's Chrome team",
+    "Anthropic's annualized revenue surges to $65B"
   ],
   "sections": [
-    {
-      "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "snapshot": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Groq, Nvidia",
-        "Specific figures mentioned: $350M, $350 million, $3.5 billion",
-        "AI desk signal: chip, nvidia, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Groq raises $350M to fuel its pivot from AI chips to neocloud"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Groq.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "age_hours": "11.42",
-      "freshness_status": "fresh",
-      "editorial_score": "150",
-      "urgency": "WATCH"
-    },
     {
       "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
       "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
@@ -380,7 +347,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 16:38:44 +0000",
-      "age_hours": "11.03",
+      "age_hours": "11.87",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -409,38 +376,8 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 21:27:05 +0000",
-      "age_hours": "6.23",
+      "age_hours": "7.06",
       "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "OpenAI reportedly disbanded its preparedness team",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "snapshot": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: OpenAI, According, Financial Times, You",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI reportedly disbanded its preparedness team",
-        "Source context: According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-16T17:32:56-04:00",
-      "age_hours": "30.13",
-      "freshness_status": "editor_fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
     },
@@ -469,10 +406,98 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 23:56:26 +0000",
-      "age_hours": "3.74",
+      "age_hours": "4.57",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
+    },
+    {
+      "headline": "OpenAI reportedly disbanded its preparedness team",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "snapshot": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to mitigate those risks. (You know, like the possibility that it could go rogue and... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: OpenAI, According, Financial Times, You",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI reportedly disbanded its preparedness team",
+        "Source context: According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-16T17:32:56-04:00",
+      "age_hours": "30.96",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "122",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Whisker's AI-powered litter robot thinks my cats swapped bodies",
+      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "snapshot": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up....",
+      "key_data": [
+        "Key people or organizations: Whisker, Sign",
+        "Story focus: Whisker's AI-powered litter robot thinks my cats swapped bodies",
+        "Source context: The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Whisker.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-17T07:00:00-04:00",
+      "age_hours": "17.51",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "76",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "snapshot": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nvidia, SoftBank, OpenAI",
+        "Specific figures mentioned: $1.5B",
+        "AI desk signal: chip, nvidia, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 15:16:24 +0000",
+      "age_hours": "13.24",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "148",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
