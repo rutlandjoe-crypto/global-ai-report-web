@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
-  "snapshot": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay founder and CEO, said. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-  "updated_at": "2026-08-18 04:30:57 AM ET",
-  "generated_at": "2026-08-18 04:30:57 AM ET",
+  "headline": "Anthropic's annualized revenue surges to $65B",
+  "snapshot": "The model maker added $18 billion in annualized revenue in two months. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-08-18 05:27:19 AM ET",
+  "generated_at": "2026-08-18 05:27:19 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 2,
-    "editor_fresh_items": 11,
+    "live_fresh_items": 1,
+    "editor_fresh_items": 9,
     "public_fallback_items": 19,
-    "stale_or_blocked_items": 47,
+    "stale_or_blocked_items": 48,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-18 04:30:57 AM ET"
+    "last_checked": "2026-08-18 05:27:19 AM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-17T07:00:00-04:00",
-      "age_hours": "21.52",
+      "age_hours": "22.46",
       "freshness_status": "editor_fresh",
       "editorial_score": "76",
       "urgency": "BREAKING"
@@ -72,7 +72,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "age_hours": "17.24",
+      "age_hours": "18.18",
       "freshness_status": "editor_fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -102,37 +102,8 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-16T17:32:56-04:00",
-      "age_hours": "34.97",
+      "age_hours": "35.91",
       "freshness_status": "editor_fresh",
-      "editorial_score": "122",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "snapshot": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay founder and CEO, said. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Relay, Google, Chrome, We",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI automation startup Relay shuts down, staff joins Google's Chrome team",
-        "Source context: \"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Relay.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
-      "age_hours": "11.06",
-      "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
     },
@@ -161,10 +132,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "age_hours": "16.26",
+      "age_hours": "17.20",
       "freshness_status": "editor_fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "snapshot": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Amazon, Rare, LLMs",
+        "AI desk signal: model, llm, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon, which started off selling books, is destroying rare texts to train AI",
+        "Source context: Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "age_hours": "16.81",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -193,7 +194,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "age_hours": "17.24",
+      "age_hours": "18.18",
       "freshness_status": "editor_fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -223,37 +224,8 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-16T17:32:56-04:00",
-      "age_hours": "34.97",
+      "age_hours": "35.91",
       "freshness_status": "editor_fresh",
-      "editorial_score": "122",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "snapshot": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay founder and CEO, said. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Relay, Google, Chrome, We",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI automation startup Relay shuts down, staff joins Google's Chrome team",
-        "Source context: \"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Relay.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
-      "age_hours": "11.06",
-      "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
     },
@@ -282,10 +254,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "age_hours": "16.26",
+      "age_hours": "17.20",
       "freshness_status": "editor_fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "snapshot": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Amazon, Rare, LLMs",
+        "AI desk signal: model, llm, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon, which started off selling books, is destroying rare texts to train AI",
+        "Source context: Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "age_hours": "16.81",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "Whisker's AI-powered litter robot thinks my cats swapped bodies",
@@ -310,47 +312,18 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-17T07:00:00-04:00",
-      "age_hours": "21.52",
+      "age_hours": "22.46",
       "freshness_status": "editor_fresh",
       "editorial_score": "76",
       "urgency": "BREAKING"
     }
   ],
   "key_storylines": [
-    "AI automation startup Relay shuts down, staff joins Google's Chrome team",
     "Anthropic's annualized revenue surges to $65B",
-    "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project"
+    "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+    "OpenAI reportedly disbanded its preparedness team"
   ],
   "sections": [
-    {
-      "headline": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "snapshot": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay founder and CEO, said. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Relay, Google, Chrome, We",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI automation startup Relay shuts down, staff joins Google's Chrome team",
-        "Source context: \"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Relay.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
-      "age_hours": "11.06",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Anthropic's annualized revenue surges to $65B",
       "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -376,7 +349,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 23:56:26 +0000",
-      "age_hours": "8.58",
+      "age_hours": "9.51",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -406,7 +379,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "age_hours": "17.24",
+      "age_hours": "18.18",
       "freshness_status": "editor_fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -436,38 +409,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-16T17:32:56-04:00",
-      "age_hours": "34.97",
+      "age_hours": "35.91",
       "freshness_status": "editor_fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Whisker's AI-powered litter robot thinks my cats swapped bodies",
-      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "snapshot": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up....",
-      "key_data": [
-        "Key people or organizations: Whisker, Sign",
-        "Story focus: Whisker's AI-powered litter robot thinks my cats swapped bodies",
-        "Source context: The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Whisker.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-17T07:00:00-04:00",
-      "age_hours": "21.52",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "76",
-      "urgency": "BREAKING"
     },
     {
       "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
@@ -494,10 +439,68 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "age_hours": "16.26",
+      "age_hours": "17.20",
       "freshness_status": "editor_fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Whisker's AI-powered litter robot thinks my cats swapped bodies",
+      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "snapshot": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights into your kitty's litter box usage that could flag health issues? Sign me up....",
+      "key_data": [
+        "Key people or organizations: Whisker, Sign",
+        "Story focus: Whisker's AI-powered litter robot thinks my cats swapped bodies",
+        "Source context: The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Whisker.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-17T07:00:00-04:00",
+      "age_hours": "22.46",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "76",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "snapshot": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Amazon, Rare, LLMs",
+        "AI desk signal: model, llm, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon, which started off selling books, is destroying rare texts to train AI",
+        "Source context: Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
+      "age_hours": "16.81",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
