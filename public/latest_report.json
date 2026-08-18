@@ -1,24 +1,54 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-  "snapshot": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-  "updated_at": "2026-08-18 01:22:55 PM ET",
-  "generated_at": "2026-08-18 01:22:55 PM ET",
+  "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+  "snapshot": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
+  "updated_at": "2026-08-18 02:31:29 PM ET",
+  "generated_at": "2026-08-18 02:31:29 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 37,
-    "live_fresh_items": 10,
-    "editor_fresh_items": 18,
-    "public_fallback_items": 26,
-    "stale_or_blocked_items": 27,
+    "live_fresh_items": 11,
+    "editor_fresh_items": 19,
+    "public_fallback_items": 27,
+    "stale_or_blocked_items": 26,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-18 01:22:55 PM ET"
+    "last_checked": "2026-08-18 02:31:29 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "snapshot": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Hugging Face",
+        "AI desk signal: model, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI institutes new safeguards after Hugging Face breach",
+        "Source context: The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "age_hours": "0.52",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
     {
       "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
       "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
@@ -43,7 +73,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 13:50:30 +0000",
-      "age_hours": "3.54",
+      "age_hours": "4.68",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "WATCH"
@@ -72,7 +102,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T07:00:00-04:00",
-      "age_hours": "6.38",
+      "age_hours": "7.52",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
@@ -102,7 +132,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T05:00:01-04:00",
-      "age_hours": "8.38",
+      "age_hours": "9.52",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -131,36 +161,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 16:19:10 +0000",
-      "age_hours": "1.06",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Perplexity's free AI offer left it with millions more users in India",
-      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "snapshot": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-      "key_data": [
-        "Key people or organizations: Perplexity, India, Airtel",
-        "Specific figures mentioned: 60%",
-        "Story focus: Perplexity's free AI offer left it with millions more users in India",
-        "Source context: Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Perplexity.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 13:45:40 +0000",
-      "age_hours": "3.62",
+      "age_hours": "2.21",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -192,79 +193,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "age_hours": "26.11",
+      "age_hours": "27.25",
       "freshness_status": "editor_fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "snapshot": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "snapshot": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
       "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, Teens",
+        "Key people or organizations: OpenAI, Hugging Face",
+        "AI desk signal: model, chip, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-        "Source context: ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 13:50:30 +0000",
-      "age_hours": "3.54",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "ChatGPT is getting a dedicated mode for teens",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "snapshot": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: ChatGPT, OpenAI",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: ChatGPT is getting a dedicated mode for teens",
-        "Source context: OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-18T07:00:00-04:00",
-      "age_hours": "6.38",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "snapshot": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Groq, Nvidia",
-        "Specific figures mentioned: $350M, $350 million, $3.5 billion",
-        "AI desk signal: chip, nvidia, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Groq raises $350M to fuel its pivot from AI chips to neocloud"
+        "Story focus: OpenAI institutes new safeguards after Hugging Face breach",
+        "Source context: The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -272,56 +215,19 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Groq.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "age_hours": "25.13",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "120",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Apple's camera-equipped AirPods appear in leaked video",
-      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "snapshot": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so...",
-      "key_data": [
-        "Key people or organizations: Apple, AirPods, We, MacRumors",
-        "Specific figures mentioned: 26.7",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple's camera-equipped AirPods appear in leaked video",
-        "Source context: We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-18T05:00:01-04:00",
-      "age_hours": "8.38",
+      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "age_hours": "0.52",
       "freshness_status": "fresh",
-      "editorial_score": "94",
+      "editorial_score": "136",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-    "ChatGPT is getting a dedicated mode for teens",
-    "Apple's camera-equipped AirPods appear in leaked video"
-  ],
-  "sections": [
+    },
     {
       "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
       "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
@@ -346,7 +252,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 13:50:30 +0000",
-      "age_hours": "3.54",
+      "age_hours": "4.68",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "WATCH"
@@ -375,7 +281,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T07:00:00-04:00",
-      "age_hours": "6.38",
+      "age_hours": "7.52",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
@@ -405,7 +311,132 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T05:00:01-04:00",
-      "age_hours": "8.38",
+      "age_hours": "9.52",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "OpenAI institutes new safeguards after Hugging Face breach",
+    "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "ChatGPT is getting a dedicated mode for teens"
+  ],
+  "sections": [
+    {
+      "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "snapshot": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Hugging Face",
+        "AI desk signal: model, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI institutes new safeguards after Hugging Face breach",
+        "Source context: The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 18 Aug 2026 18:00:00 +0000",
+      "age_hours": "0.52",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "snapshot": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT, Teens",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+        "Source context: ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 18 Aug 2026 13:50:30 +0000",
+      "age_hours": "4.68",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "ChatGPT is getting a dedicated mode for teens",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "snapshot": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI tools affect younger users, as other platforms implement their own age checks... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: ChatGPT, OpenAI",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: ChatGPT is getting a dedicated mode for teens",
+        "Source context: OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-18T07:00:00-04:00",
+      "age_hours": "7.52",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Apple's camera-equipped AirPods appear in leaked video",
+      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "snapshot": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so...",
+      "key_data": [
+        "Key people or organizations: Apple, AirPods, We, MacRumors",
+        "Specific figures mentioned: 26.7",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's camera-equipped AirPods appear in leaked video",
+        "Source context: We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-18T05:00:01-04:00",
+      "age_hours": "9.52",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -434,36 +465,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 16:19:10 +0000",
-      "age_hours": "1.06",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Perplexity's free AI offer left it with millions more users in India",
-      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-      "snapshot": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
-      "key_data": [
-        "Key people or organizations: Perplexity, India, Airtel",
-        "Specific figures mentioned: 60%",
-        "Story focus: Perplexity's free AI offer left it with millions more users in India",
-        "Source context: Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Perplexity.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 13:45:40 +0000",
-      "age_hours": "3.62",
+      "age_hours": "2.21",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -493,7 +495,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T08:01:29-04:00",
-      "age_hours": "5.36",
+      "age_hours": "6.50",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": ""
