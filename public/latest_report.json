@@ -3,22 +3,51 @@
   "vertical": "AI",
   "headline": "OpenAI institutes new safeguards after Hugging Face breach",
   "snapshot": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
-  "updated_at": "2026-08-19 12:32:34 AM ET",
-  "generated_at": "2026-08-19 12:32:34 AM ET",
+  "updated_at": "2026-08-19 01:25:26 AM ET",
+  "generated_at": "2026-08-19 01:25:26 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 5,
-    "editor_fresh_items": 20,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 19,
     "public_fallback_items": 29,
-    "stale_or_blocked_items": 44,
+    "stale_or_blocked_items": 45,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-19 12:32:34 AM ET"
+    "last_checked": "2026-08-19 01:25:26 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "snapshot": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay founder and CEO, said. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Relay, Google, Chrome, We",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI automation startup Relay shuts down, staff joins Google's Chrome team",
+        "Source context: \"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Relay.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "age_hours": "31.97",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "OpenAI institutes new safeguards after Hugging Face breach",
       "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
@@ -44,40 +73,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 18:00:00 +0000",
-      "age_hours": "10.54",
+      "age_hours": "11.42",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
     },
     {
-      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "snapshot": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "snapshot": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Amazon, Rare, LLMs",
-        "AI desk signal: model, llm, chip, enterprise",
+        "Key people or organizations: OpenAI, ChatGPT, Teens",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon, which started off selling books, is destroying rare texts to train AI",
-        "Source context: Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI..."
+        "Story focus: OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+        "Source context: ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
-      "age_hours": "35.90",
+      "published": "Tue, 18 Aug 2026 13:50:30 +0000",
+      "age_hours": "15.58",
       "freshness_status": "editor_fresh",
-      "editorial_score": "116",
-      "urgency": ""
+      "editorial_score": "106",
+      "urgency": "WATCH"
     },
     {
       "headline": "OpenAI lays out new security changes after its AI hacked Hugging Face",
@@ -104,38 +132,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T15:28:30-04:00",
-      "age_hours": "9.07",
+      "age_hours": "9.95",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
-    },
-    {
-      "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "snapshot": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "key_data": [
-        "Key people or organizations: Cursor, GitHub, Code Editor",
-        "Story focus: Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "Source context: Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Cursor.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
-      "age_hours": "6.30",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": "WATCH"
     },
     {
       "headline": "Robin Williams' Instagram account brought back to fight 'AI abuse'",
@@ -160,7 +160,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T15:48:26-04:00",
-      "age_hours": "8.74",
+      "age_hours": "9.62",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -192,39 +192,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 18:00:00 +0000",
-      "age_hours": "10.54",
+      "age_hours": "11.42",
       "freshness_status": "fresh",
       "editorial_score": "136",
-      "urgency": ""
-    },
-    {
-      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "snapshot": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Amazon, Rare, LLMs",
-        "AI desk signal: model, llm, chip, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon, which started off selling books, is destroying rare texts to train AI",
-        "Source context: Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
-      "age_hours": "35.90",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -251,7 +221,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 13:50:30 +0000",
-      "age_hours": "14.70",
+      "age_hours": "15.58",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": "WATCH"
@@ -281,10 +251,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T15:28:30-04:00",
-      "age_hours": "9.07",
+      "age_hours": "9.95",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
+    },
+    {
+      "headline": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "snapshot": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay founder and CEO, said. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Relay, Google, Chrome, We",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI automation startup Relay shuts down, staff joins Google's Chrome team",
+        "Source context: \"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Relay.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "age_hours": "31.97",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "ChatGPT is getting a dedicated mode for teens",
@@ -310,7 +309,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T07:00:00-04:00",
-      "age_hours": "17.54",
+      "age_hours": "18.42",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": "WATCH"
@@ -347,7 +346,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 18:00:00 +0000",
-      "age_hours": "10.54",
+      "age_hours": "11.42",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -377,7 +376,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T15:28:30-04:00",
-      "age_hours": "9.07",
+      "age_hours": "9.95",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -405,39 +404,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 22:14:25 +0000",
-      "age_hours": "6.30",
+      "age_hours": "7.18",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Etched's valuation doubles to $21B in a month",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "snapshot": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Etched, Jane Street",
-        "Specific figures mentioned: $21B",
-        "Story focus: Etched's valuation doubles to $21B in a month",
-        "Source context: Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says. The..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Etched.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 17:21:58 +0000",
-      "age_hours": "11.18",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
     },
     {
       "headline": "Robin Williams' Instagram account brought back to fight 'AI abuse'",
@@ -462,40 +432,68 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T15:48:26-04:00",
-      "age_hours": "8.74",
+      "age_hours": "9.62",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
     },
     {
-      "headline": "Amazon, which started off selling books, is destroying rare texts to train AI",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "snapshot": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "snapshot": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Amazon, Rare, LLMs",
-        "AI desk signal: model, llm, chip, enterprise",
+        "Key people or organizations: OpenAI, ChatGPT, Teens",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon, which started off selling books, is destroying rare texts to train AI",
-        "Source context: Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online. The larger angle is AI..."
+        "Story focus: OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+        "Source context: ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 17 Aug 2026 16:38:44 +0000",
-      "age_hours": "35.90",
+      "published": "Tue, 18 Aug 2026 13:50:30 +0000",
+      "age_hours": "15.58",
       "freshness_status": "editor_fresh",
-      "editorial_score": "116",
-      "urgency": ""
+      "editorial_score": "106",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "AI automation startup Relay shuts down, staff joins Google's Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "snapshot": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay founder and CEO, said. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Relay, Google, Chrome, We",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI automation startup Relay shuts down, staff joins Google's Chrome team",
+        "Source context: \"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I'll have more to share soon,\" Jacob Bank, Relay..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Relay.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "age_hours": "31.97",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
