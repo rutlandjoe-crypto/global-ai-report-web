@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-  "snapshot": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-  "updated_at": "2026-08-19 05:29:12 AM ET",
-  "generated_at": "2026-08-19 05:29:12 AM ET",
+  "headline": "OpenAI institutes new safeguards after Hugging Face breach",
+  "snapshot": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
+  "updated_at": "2026-08-19 06:24:03 AM ET",
+  "generated_at": "2026-08-19 06:24:03 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 18,
-    "public_fallback_items": 29,
-    "stale_or_blocked_items": 48,
+    "total_items_checked": 37,
+    "live_fresh_items": 0,
+    "editor_fresh_items": 15,
+    "public_fallback_items": 26,
+    "stale_or_blocked_items": 37,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-19 05:29:12 AM ET"
+    "last_checked": "2026-08-19 06:24:03 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 18:00:00 +0000",
-      "age_hours": "15.49",
+      "age_hours": "16.40",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -73,7 +73,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 13:50:30 +0000",
-      "age_hours": "19.64",
+      "age_hours": "20.56",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": "WATCH"
@@ -102,20 +102,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T07:00:00-04:00",
-      "age_hours": "22.49",
+      "age_hours": "23.40",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": "WATCH"
     },
     {
-      "headline": "Alvys launches AI agents for freight TMS workflows",
-      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "snapshot": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-built and custom AI agents that work... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Apple's camera-equipped AirPods appear in leaked video",
+      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "snapshot": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so...",
       "key_data": [
-        "Key people or organizations: Alvys, TMS, Freight, Called Alvys Foundry",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Alvys launches AI agents for freight TMS workflows",
-        "Source context: Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within..."
+        "Key people or organizations: Apple, AirPods, We, MacRumors",
+        "Specific figures mentioned: 26.7",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's camera-equipped AirPods appear in leaked video",
+        "Source context: We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -123,46 +124,48 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Alvys.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Tue, 18 Aug 2026 12:00:00 +0000",
-      "age_hours": "21.49",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "86",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "snapshot": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "key_data": [
-        "Key people or organizations: Cursor, GitHub, Code Editor",
-        "Story focus: Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "Source context: Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Cursor.",
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-18T05:00:01-04:00",
+      "age_hours": "25.40",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "64",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "snapshot": "The model maker added $18 billion in annualized revenue in two months. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic",
+        "Specific figures mentioned: $65B, $18 billion",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's annualized revenue surges to $65B"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
-      "age_hours": "11.25",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": "WATCH"
+      "published": "Mon, 17 Aug 2026 23:56:26 +0000",
+      "age_hours": "34.46",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "64",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -191,7 +194,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 18:00:00 +0000",
-      "age_hours": "15.49",
+      "age_hours": "16.40",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -220,7 +223,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 13:50:30 +0000",
-      "age_hours": "19.64",
+      "age_hours": "20.56",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": "WATCH"
@@ -249,20 +252,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T07:00:00-04:00",
-      "age_hours": "22.49",
+      "age_hours": "23.40",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": "WATCH"
     },
     {
-      "headline": "Alvys launches AI agents for freight TMS workflows",
-      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "snapshot": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-built and custom AI agents that work... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Apple's camera-equipped AirPods appear in leaked video",
+      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "snapshot": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so...",
       "key_data": [
-        "Key people or organizations: Alvys, TMS, Freight, Called Alvys Foundry",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Alvys launches AI agents for freight TMS workflows",
-        "Source context: Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within..."
+        "Key people or organizations: Apple, AirPods, We, MacRumors",
+        "Specific figures mentioned: 26.7",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's camera-equipped AirPods appear in leaked video",
+        "Source context: We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -270,82 +274,56 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Alvys.",
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-18T05:00:01-04:00",
+      "age_hours": "25.40",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "64",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "snapshot": "The model maker added $18 billion in annualized revenue in two months. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic",
+        "Specific figures mentioned: $65B, $18 billion",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's annualized revenue surges to $65B"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Tue, 18 Aug 2026 12:00:00 +0000",
-      "age_hours": "21.49",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "86",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "snapshot": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "key_data": [
-        "Key people or organizations: Cursor, GitHub, Code Editor",
-        "Story focus: Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "Source context: Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Cursor.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
-      "age_hours": "11.25",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": "WATCH"
+      "published": "Mon, 17 Aug 2026 23:56:26 +0000",
+      "age_hours": "34.46",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "64",
+      "urgency": ""
     }
   ],
   "key_storylines": [
-    "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
     "OpenAI institutes new safeguards after Hugging Face breach",
-    "OpenAI launches a safer ChatGPT for teens — years after teens started using it"
+    "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "ChatGPT is getting a dedicated mode for teens"
   ],
   "sections": [
-    {
-      "headline": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "snapshot": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
-      "key_data": [
-        "Key people or organizations: Cursor, GitHub, Code Editor",
-        "Story focus: Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "Source context: Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Cursor.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 18 Aug 2026 22:14:25 +0000",
-      "age_hours": "11.25",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": "WATCH"
-    },
     {
       "headline": "OpenAI institutes new safeguards after Hugging Face breach",
       "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
@@ -371,7 +349,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 18:00:00 +0000",
-      "age_hours": "15.49",
+      "age_hours": "16.40",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -400,7 +378,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 18 Aug 2026 13:50:30 +0000",
-      "age_hours": "19.64",
+      "age_hours": "20.56",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": "WATCH"
@@ -429,20 +407,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-18T07:00:00-04:00",
-      "age_hours": "22.49",
+      "age_hours": "23.40",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": "WATCH"
     },
     {
-      "headline": "Alvys launches AI agents for freight TMS workflows",
-      "url": "https://www.artificialintelligence-news.com/news/alvys-ai-agents-freight-tms/",
-      "snapshot": "Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within its transportation management system (TMS). Called Alvys Foundry, the platform supports pre-built and custom AI agents that work... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Apple's camera-equipped AirPods appear in leaked video",
+      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "snapshot": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so...",
       "key_data": [
-        "Key people or organizations: Alvys, TMS, Freight, Called Alvys Foundry",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Alvys launches AI agents for freight TMS workflows",
-        "Source context: Freight software provider Alvys has launched an agentic AI platform that allows carriers and brokers to automate operational tasks directly within..."
+        "Key people or organizations: Apple, AirPods, We, MacRumors",
+        "Specific figures mentioned: 26.7",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple's camera-equipped AirPods appear in leaked video",
+        "Source context: We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -450,29 +429,59 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Alvys.",
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-18T05:00:01-04:00",
+      "age_hours": "25.40",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "64",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "snapshot": "The model maker added $18 billion in annualized revenue in two months. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic",
+        "Specific figures mentioned: $65B, $18 billion",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's annualized revenue surges to $65B"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Tue, 18 Aug 2026 12:00:00 +0000",
-      "age_hours": "21.49",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 17 Aug 2026 23:56:26 +0000",
+      "age_hours": "34.46",
       "freshness_status": "editor_fresh",
-      "editorial_score": "86",
-      "urgency": "WATCH"
+      "editorial_score": "64",
+      "urgency": ""
     },
     {
-      "headline": "OpenAI president urges enterprises to hasten AI security defences",
-      "url": "https://www.artificialintelligence-news.com/news/openai-president-urges-enterprises-hasten-ai-security-defences/",
-      "snapshot": "OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has published an account of what the company calls the \"OpenAI-Hugging Face\" incident, using it to argue that organisations need to... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "snapshot": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: OpenAI, Greg Brockman, Brockman, Hugging Face",
+        "Key people or organizations: OpenAI, Hugging Face, July",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI president urges enterprises to hasten AI security defences",
-        "Source context: OpenAI president and co-founder Greg Brockman warns that enterprise security teams face a compressed timeline to adopt AI defences. Brockman has..."
+        "Story focus: OpenAI lays out new security changes after its AI hacked Hugging Face",
+        "Source context: OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face,..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -485,12 +494,12 @@
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Tue, 18 Aug 2026 14:58:27 +0000",
-      "age_hours": "18.51",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-18T15:28:30-04:00",
+      "age_hours": "14.93",
       "freshness_status": "editor_fresh",
-      "editorial_score": "80",
+      "editorial_score": "62",
       "urgency": ""
     }
   ],
