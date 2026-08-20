@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "It's Greg Brockman's OpenAI now",
   "snapshot": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-08-20 02:32:30 PM ET",
-  "generated_at": "2026-08-20 02:32:30 PM ET",
+  "updated_at": "2026-08-20 03:26:39 PM ET",
+  "generated_at": "2026-08-20 03:26:39 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 36,
-    "live_fresh_items": 10,
+    "live_fresh_items": 12,
     "editor_fresh_items": 27,
     "public_fallback_items": 30,
-    "stale_or_blocked_items": 26,
+    "stale_or_blocked_items": 24,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-20 02:32:30 PM ET"
+    "last_checked": "2026-08-20 03:26:39 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-20T11:45:55-04:00",
-      "age_hours": "2.78",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "180",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "snapshot": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Runlayer, Rippling, But, No",
+        "AI desk signal: lawsuit",
+        "Story focus: Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+        "Source context: Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product. The story matters because..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Runlayer.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 20 Aug 2026 19:15:05 +0000",
+      "age_hours": "0.19",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
       "urgency": "DEVELOPING"
     },
     {
@@ -73,7 +102,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 20 Aug 2026 17:18:58 +0000",
-      "age_hours": "1.23",
+      "age_hours": "2.13",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
@@ -102,7 +131,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 20 Aug 2026 16:46:00 +0000",
-      "age_hours": "1.77",
+      "age_hours": "2.68",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
@@ -131,39 +160,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-20T08:00:00-04:00",
-      "age_hours": "6.54",
+      "age_hours": "7.44",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "snapshot": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Binance, Agent OS, ChatGPT, Claude Code",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Binance now lets AI agents trade, but keeping them in check is largely up to users",
-        "Source context: Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor. The competitive question is whether this changes the model race,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Binance.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 20 Aug 2026 09:30:00 +0000",
-      "age_hours": "9.04",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -192,7 +192,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-20T11:45:55-04:00",
-      "age_hours": "2.78",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "180",
       "urgency": "DEVELOPING"
@@ -221,10 +221,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 20 Aug 2026 17:18:58 +0000",
-      "age_hours": "1.23",
+      "age_hours": "2.13",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "snapshot": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Runlayer, Rippling, But, No",
+        "AI desk signal: lawsuit",
+        "Story focus: Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+        "Source context: Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product. The story matters because..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Runlayer.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 20 Aug 2026 19:15:05 +0000",
+      "age_hours": "0.19",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Slack is launching collaborative vibe-coding channels",
@@ -250,7 +279,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-20T08:00:00-04:00",
-      "age_hours": "6.54",
+      "age_hours": "7.44",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
@@ -279,45 +308,16 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 20 Aug 2026 16:46:00 +0000",
-      "age_hours": "1.77",
+      "age_hours": "2.68",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "snapshot": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Binance, Agent OS, ChatGPT, Claude Code",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Binance now lets AI agents trade, but keeping them in check is largely up to users",
-        "Source context: Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor. The competitive question is whether this changes the model race,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Binance.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 20 Aug 2026 09:30:00 +0000",
-      "age_hours": "9.04",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
     }
   ],
   "key_storylines": [
     "It's Greg Brockman's OpenAI now",
     "A third of web pages published since ChatGPT's launch show signs of AI authorship, study finds",
-    "Slack is launching collaborative vibe-coding channels"
+    "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders."
   ],
   "sections": [
     {
@@ -345,7 +345,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-20T11:45:55-04:00",
-      "age_hours": "2.78",
+      "age_hours": "3.68",
       "freshness_status": "fresh",
       "editorial_score": "180",
       "urgency": "DEVELOPING"
@@ -374,10 +374,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 20 Aug 2026 17:18:58 +0000",
-      "age_hours": "1.23",
+      "age_hours": "2.13",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+      "url": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "snapshot": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Runlayer, Rippling, But, No",
+        "AI desk signal: lawsuit",
+        "Story focus: Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+        "Source context: Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product. The story matters because..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Runlayer.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 20 Aug 2026 19:15:05 +0000",
+      "age_hours": "0.19",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Slack is launching collaborative vibe-coding channels",
@@ -403,7 +432,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-20T08:00:00-04:00",
-      "age_hours": "6.54",
+      "age_hours": "7.44",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
@@ -432,39 +461,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 20 Aug 2026 16:46:00 +0000",
-      "age_hours": "1.77",
+      "age_hours": "2.68",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "snapshot": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Binance, Agent OS, ChatGPT, Claude Code",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Binance now lets AI agents trade, but keeping them in check is largely up to users",
-        "Source context: Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor. The competitive question is whether this changes the model race,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Binance.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 20 Aug 2026 09:30:00 +0000",
-      "age_hours": "9.04",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
     },
     {
       "headline": "Welcome to the AI crisis in math",
@@ -491,7 +491,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-20T10:00:00-04:00",
-      "age_hours": "4.54",
+      "age_hours": "5.44",
       "freshness_status": "fresh",
       "editorial_score": "62",
       "urgency": ""
