@@ -3,52 +3,22 @@
   "vertical": "AI",
   "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
   "snapshot": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-08-21 06:18:56 PM ET",
-  "generated_at": "2026-08-21 06:18:56 PM ET",
+  "updated_at": "2026-08-21 07:19:08 PM ET",
+  "generated_at": "2026-08-21 07:19:08 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 36,
-    "live_fresh_items": 5,
-    "editor_fresh_items": 21,
-    "public_fallback_items": 30,
-    "stale_or_blocked_items": 31,
+    "total_items_checked": 48,
+    "live_fresh_items": 7,
+    "editor_fresh_items": 25,
+    "public_fallback_items": 37,
+    "stale_or_blocked_items": 41,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-21 06:18:56 PM ET"
+    "last_checked": "2026-08-21 07:19:08 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "It's Greg Brockman's OpenAI now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "snapshot": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: It, Greg Brockman, OpenAI, Elon Musk",
-        "AI desk signal: model, lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: It's Greg Brockman's OpenAI now",
-        "Source context: OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from It.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-20T11:45:55-04:00",
-      "age_hours": "30.55",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "150",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
@@ -74,9 +44,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "age_hours": "2.59",
+      "age_hours": "3.59",
       "freshness_status": "fresh",
       "editorial_score": "154",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "snapshot": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Opus, Claude, But",
+        "Specific figures mentioned: 4.6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Opus 4.6 is a smut-machine"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "age_hours": "0.20",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -104,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "age_hours": "8.32",
+      "age_hours": "9.32",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": "WATCH"
@@ -133,19 +133,20 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-21T17:25:50-04:00",
-      "age_hours": "0.89",
+      "age_hours": "1.89",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
     },
     {
-      "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "snapshot": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the...",
+      "headline": "Major YouTube creators are facing backlash for accepting AI money",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "snapshot": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5...",
       "key_data": [
-        "Key people or organizations: DOJ, Andreessen Horowitz, Ben Horowitz, Databricks",
-        "Story focus: The DOJ is investigating a16z. What does this mean for venture capital?",
-        "Source context: Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin..."
+        "Key people or organizations: Major YouTube, Over, Matti Haapoja, Sam",
+        "Specific figures mentioned: 2.5",
+        "Story focus: Major YouTube creators are facing backlash for accepting AI money",
+        "Source context: Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -153,15 +154,15 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from DOJ.",
+        "Watch for follow-up statements, product details or customer evidence from Major YouTube.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "age_hours": "8.32",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-21T09:37:52-04:00",
+      "age_hours": "9.69",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -193,7 +194,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "age_hours": "2.59",
+      "age_hours": "3.59",
       "freshness_status": "fresh",
       "editorial_score": "154",
       "urgency": ""
@@ -223,7 +224,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-20T11:45:55-04:00",
-      "age_hours": "30.55",
+      "age_hours": "31.55",
       "freshness_status": "editor_fresh",
       "editorial_score": "150",
       "urgency": "DEVELOPING"
@@ -253,20 +254,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 20 Aug 2026 22:36:37 +0000",
-      "age_hours": "23.71",
+      "age_hours": "24.71",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": ""
     },
     {
-      "headline": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "snapshot": "ChatGPT and other AI models are now authoring and editing much of the new web. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Anthropic's Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "snapshot": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: ChatGPT",
+        "Key people or organizations: Anthropic, Opus, Claude, But",
+        "Specific figures mentioned: 4.6",
         "AI desk signal: model, enterprise",
-        "Story focus: A third of web pages published since ChatGPT launched were written by AI, study finds",
-        "Source context: ChatGPT and other AI models are now authoring and editing much of the new web. The competitive question is whether this changes the model race,..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Opus 4.6 is a smut-machine"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -274,18 +276,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 20 Aug 2026 17:18:58 +0000",
-      "age_hours": "29.00",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
+      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "age_hours": "0.20",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
     },
     {
       "headline": "Slack is launching collaborative vibe-coding channels",
@@ -311,7 +313,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-20T08:00:00-04:00",
-      "age_hours": "34.32",
+      "age_hours": "35.32",
       "freshness_status": "editor_fresh",
       "editorial_score": "86",
       "urgency": "WATCH"
@@ -319,8 +321,8 @@
   ],
   "key_storylines": [
     "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "Over 1 million people have clicked LinkedIn's AI slop button"
+    "Anthropic's Opus 4.6 is a smut-machine",
+    "Starcloud raises $250 million for orbital data centers as launch options dry up"
   ],
   "sections": [
     {
@@ -348,9 +350,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "age_hours": "2.59",
+      "age_hours": "3.59",
       "freshness_status": "fresh",
       "editorial_score": "154",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "snapshot": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Opus, Claude, But",
+        "Specific figures mentioned: 4.6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Opus 4.6 is a smut-machine"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "age_hours": "0.20",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -378,7 +410,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "age_hours": "8.32",
+      "age_hours": "9.32",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": "WATCH"
@@ -407,7 +439,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-21T17:25:50-04:00",
-      "age_hours": "0.89",
+      "age_hours": "1.89",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -436,68 +468,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-21T09:37:52-04:00",
-      "age_hours": "8.68",
+      "age_hours": "9.69",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
     },
     {
-      "headline": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "snapshot": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the...",
+      "headline": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "snapshot": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: DOJ, Andreessen Horowitz, Ben Horowitz, Databricks",
-        "Story focus: The DOJ is investigating a16z. What does this mean for venture capital?",
-        "Source context: Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin..."
+        "Key people or organizations: Nvidia, Cloverleaf",
+        "AI desk signal: chip, nvidia, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia partners with data center developer Cloverleaf",
+        "Source context: Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia. The larger angle is AI..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from DOJ.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "age_hours": "8.32",
+      "published": "Fri, 21 Aug 2026 22:37:38 +0000",
+      "age_hours": "0.69",
       "freshness_status": "fresh",
-      "editorial_score": "54",
+      "editorial_score": "102",
       "urgency": ""
-    },
-    {
-      "headline": "It's Greg Brockman's OpenAI now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "snapshot": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: It, Greg Brockman, OpenAI, Elon Musk",
-        "AI desk signal: model, lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: It's Greg Brockman's OpenAI now",
-        "Source context: OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from It.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-20T11:45:55-04:00",
-      "age_hours": "30.55",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "150",
-      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
