@@ -3,52 +3,22 @@
   "vertical": "AI",
   "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
   "snapshot": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-08-21 11:37:30 PM ET",
-  "generated_at": "2026-08-21 11:37:30 PM ET",
+  "updated_at": "2026-08-22 12:28:26 AM ET",
+  "generated_at": "2026-08-22 12:28:26 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 48,
+    "total_items_checked": 36,
     "live_fresh_items": 4,
-    "editor_fresh_items": 22,
-    "public_fallback_items": 37,
-    "stale_or_blocked_items": 44,
+    "editor_fresh_items": 18,
+    "public_fallback_items": 30,
+    "stale_or_blocked_items": 32,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-21 11:37:30 PM ET"
+    "last_checked": "2026-08-22 12:28:26 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "It's Greg Brockman's OpenAI now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "snapshot": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: It, Greg Brockman, OpenAI, Elon Musk",
-        "AI desk signal: model, lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: It's Greg Brockman's OpenAI now",
-        "Source context: OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from It.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-20T11:45:55-04:00",
-      "age_hours": "35.86",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "150",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
@@ -74,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "age_hours": "7.90",
+      "age_hours": "8.75",
       "freshness_status": "fresh",
       "editorial_score": "154",
       "urgency": ""
@@ -104,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 20 Aug 2026 22:36:37 +0000",
-      "age_hours": "29.01",
+      "age_hours": "29.86",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": ""
@@ -134,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 23:07:25 +0000",
-      "age_hours": "4.50",
+      "age_hours": "5.35",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -163,8 +133,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-21T17:25:50-04:00",
-      "age_hours": "6.19",
+      "age_hours": "7.04",
       "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "Google Discover is getting an AI chatbot-tuned feed",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "snapshot": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google Discover, Google, Discover, You",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google Discover is getting an AI chatbot-tuned feed",
+        "Source context: Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google Discover.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-20T17:50:22-04:00",
+      "age_hours": "30.63",
+      "freshness_status": "editor_fresh",
       "editorial_score": "54",
       "urgency": ""
     }
@@ -195,40 +195,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "age_hours": "7.90",
+      "age_hours": "8.75",
       "freshness_status": "fresh",
       "editorial_score": "154",
       "urgency": ""
-    },
-    {
-      "headline": "It's Greg Brockman's OpenAI now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "snapshot": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: It, Greg Brockman, OpenAI, Elon Musk",
-        "AI desk signal: model, lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: It's Greg Brockman's OpenAI now",
-        "Source context: OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from It.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-20T11:45:55-04:00",
-      "age_hours": "35.86",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "150",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "OpenAI is gaining on Anthropic with business users, new data indicates",
@@ -255,7 +225,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 20 Aug 2026 22:36:37 +0000",
-      "age_hours": "29.01",
+      "age_hours": "29.86",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": ""
@@ -285,21 +255,50 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 23:07:25 +0000",
-      "age_hours": "4.50",
+      "age_hours": "5.35",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
     },
     {
-      "headline": "How AI coding tools are contributing to the popularity of JavaScript",
-      "url": "https://www.artificialintelligence-news.com/news/how-ai-coding-tools-are-contributing-to-the-popularity-of-javascript/",
-      "snapshot": "In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub's language rankings in the last ten years and it occurred during the period of most accelerated adoption of coding AI agents. Coding AI agents had previously been predicted... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Over 1 million people have clicked LinkedIn's AI slop button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "snapshot": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is...",
       "key_data": [
-        "Key people or organizations: JavaScript, In August, TypeScript, GitHub",
-        "Specific figures mentioned: 2025",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: How AI coding tools are contributing to the popularity of JavaScript",
-        "Source context: In August 2025, TypeScript became the most used language on GitHub. This was the largest shift in GitHub's language rankings in the last ten years..."
+        "Key people or organizations: Over, LinkedIn, Seems, July",
+        "Specific figures mentioned: 1, 30",
+        "Story focus: Over 1 million people have clicked LinkedIn's AI slop button",
+        "Source context: LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Over.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-21T17:25:50-04:00",
+      "age_hours": "7.04",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "Google Discover is getting an AI chatbot-tuned feed",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "snapshot": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google Discover, Google, Discover, You",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google Discover is getting an AI chatbot-tuned feed",
+        "Source context: Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -307,17 +306,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from JavaScript.",
+        "Watch for follow-up statements, product details or customer evidence from Google Discover.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 21 Aug 2026 08:41:29 +0000",
-      "age_hours": "18.93",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-20T17:50:22-04:00",
+      "age_hours": "30.63",
       "freshness_status": "editor_fresh",
-      "editorial_score": "60",
+      "editorial_score": "54",
       "urgency": ""
     }
   ],
@@ -352,7 +351,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "age_hours": "7.90",
+      "age_hours": "8.75",
       "freshness_status": "fresh",
       "editorial_score": "154",
       "urgency": ""
@@ -382,7 +381,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 23:07:25 +0000",
-      "age_hours": "4.50",
+      "age_hours": "5.35",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -412,7 +411,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 22:37:38 +0000",
-      "age_hours": "5.00",
+      "age_hours": "5.85",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -441,40 +440,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-21T17:25:50-04:00",
-      "age_hours": "6.19",
+      "age_hours": "7.04",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
     },
     {
-      "headline": "It's Greg Brockman's OpenAI now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "snapshot": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "headline": "Google Discover is getting an AI chatbot-tuned feed",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "snapshot": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: It, Greg Brockman, OpenAI, Elon Musk",
-        "AI desk signal: model, lawsuit",
+        "Key people or organizations: Google Discover, Google, Discover, You",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: It's Greg Brockman's OpenAI now",
-        "Source context: OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a..."
+        "Story focus: Google Discover is getting an AI chatbot-tuned feed",
+        "Source context: Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from It.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Google Discover.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-08-20T11:45:55-04:00",
-      "age_hours": "35.86",
+      "published": "2026-08-20T17:50:22-04:00",
+      "age_hours": "30.63",
       "freshness_status": "editor_fresh",
-      "editorial_score": "150",
-      "urgency": "DEVELOPING"
+      "editorial_score": "54",
+      "urgency": ""
     },
     {
       "headline": "OpenAI is gaining on Anthropic with business users, new data indicates",
@@ -501,7 +500,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 20 Aug 2026 22:36:37 +0000",
-      "age_hours": "29.01",
+      "age_hours": "29.86",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": ""
