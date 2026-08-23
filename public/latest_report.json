@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research",
-  "snapshot": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-08-23 10:18:35 AM ET",
-  "generated_at": "2026-08-23 10:18:35 AM ET",
+  "headline": "Is it legal to train AI models on copyrighted books? It's complicated",
+  "snapshot": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-08-23 11:17:33 AM ET",
+  "generated_at": "2026-08-23 11:17:33 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 0,
-    "editor_fresh_items": 4,
+    "live_fresh_items": 1,
+    "editor_fresh_items": 5,
     "public_fallback_items": 25,
-    "stale_or_blocked_items": 49,
+    "stale_or_blocked_items": 48,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-23 10:18:35 AM ET"
+    "last_checked": "2026-08-23 11:17:33 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 19:00:00 +0000",
-      "age_hours": "19.31",
+      "age_hours": "20.29",
       "freshness_status": "editor_fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Is it legal to train AI models on copyrighted books? It's complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "snapshot": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Is, It, Most",
+        "AI desk signal: model, enterprise",
+        "Story focus: Is it legal to train AI models on copyrighted books? It's complicated",
+        "Source context: Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Is.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 23 Aug 2026 15:00:00 +0000",
+      "age_hours": "0.29",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": ""
     },
     {
       "headline": "Frontier AI labs still won't say how they'd contain a rogue model",
@@ -73,7 +102,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 16:00:00 +0000",
-      "age_hours": "22.31",
+      "age_hours": "23.29",
       "freshness_status": "editor_fresh",
       "editorial_score": "76",
       "urgency": ""
@@ -103,38 +132,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 16:30:34 +0000",
-      "age_hours": "21.80",
+      "age_hours": "22.78",
       "freshness_status": "editor_fresh",
       "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Harvard's $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "snapshot": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Harvard, In, HBS Foundry",
-        "Specific figures mentioned: $699",
-        "Story focus: Harvard's $699 startup bootcamp offers AI avatars of its instructors",
-        "Source context: In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings. The business angle is capital allocation:..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Harvard.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 22 Aug 2026 21:46:56 +0000",
-      "age_hours": "16.53",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "32",
       "urgency": ""
     }
   ],
@@ -164,10 +164,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 19:00:00 +0000",
-      "age_hours": "19.31",
+      "age_hours": "20.29",
       "freshness_status": "editor_fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Is it legal to train AI models on copyrighted books? It's complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "snapshot": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Is, It, Most",
+        "AI desk signal: model, enterprise",
+        "Story focus: Is it legal to train AI models on copyrighted books? It's complicated",
+        "Source context: Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Is.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 23 Aug 2026 15:00:00 +0000",
+      "age_hours": "0.29",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": ""
     },
     {
       "headline": "Frontier AI labs still won't say how they'd contain a rogue model",
@@ -193,7 +222,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 16:00:00 +0000",
-      "age_hours": "22.31",
+      "age_hours": "23.29",
       "freshness_status": "editor_fresh",
       "editorial_score": "76",
       "urgency": ""
@@ -223,47 +252,47 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 16:30:34 +0000",
-      "age_hours": "21.80",
+      "age_hours": "22.78",
       "freshness_status": "editor_fresh",
       "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Harvard's $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "snapshot": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Harvard, In, HBS Foundry",
-        "Specific figures mentioned: $699",
-        "Story focus: Harvard's $699 startup bootcamp offers AI avatars of its instructors",
-        "Source context: In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings. The business angle is capital allocation:..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Harvard.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 22 Aug 2026 21:46:56 +0000",
-      "age_hours": "16.53",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "32",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Is it legal to train AI models on copyrighted books? It's complicated",
     "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research",
-    "Frontier AI labs still won't say how they'd contain a rogue model",
-    "OpenAI says California should strengthen its AI safety bill"
+    "Frontier AI labs still won't say how they'd contain a rogue model"
   ],
   "sections": [
+    {
+      "headline": "Is it legal to train AI models on copyrighted books? It's complicated",
+      "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "snapshot": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Is, It, Most",
+        "AI desk signal: model, enterprise",
+        "Story focus: Is it legal to train AI models on copyrighted books? It's complicated",
+        "Source context: Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Is.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 23 Aug 2026 15:00:00 +0000",
+      "age_hours": "0.29",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": ""
+    },
     {
       "headline": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research",
       "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
@@ -289,7 +318,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 19:00:00 +0000",
-      "age_hours": "19.31",
+      "age_hours": "20.29",
       "freshness_status": "editor_fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
@@ -318,7 +347,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 16:00:00 +0000",
-      "age_hours": "22.31",
+      "age_hours": "23.29",
       "freshness_status": "editor_fresh",
       "editorial_score": "76",
       "urgency": ""
@@ -348,38 +377,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 16:30:34 +0000",
-      "age_hours": "21.80",
+      "age_hours": "22.78",
       "freshness_status": "editor_fresh",
       "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Harvard's $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "snapshot": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Harvard, In, HBS Foundry",
-        "Specific figures mentioned: $699",
-        "Story focus: Harvard's $699 startup bootcamp offers AI avatars of its instructors",
-        "Source context: In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings. The business angle is capital allocation:..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Harvard.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 22 Aug 2026 21:46:56 +0000",
-      "age_hours": "16.53",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "32",
       "urgency": ""
     }
   ],
