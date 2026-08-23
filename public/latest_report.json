@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research",
   "snapshot": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-08-22 11:52:21 PM ET",
-  "generated_at": "2026-08-22 11:52:21 PM ET",
+  "updated_at": "2026-08-23 12:32:09 AM ET",
+  "generated_at": "2026-08-23 12:32:09 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 4,
+    "total_items_checked": 37,
+    "live_fresh_items": 2,
     "editor_fresh_items": 8,
-    "public_fallback_items": 33,
-    "stale_or_blocked_items": 45,
+    "public_fallback_items": 26,
+    "stale_or_blocked_items": 35,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-22 11:52:21 PM ET"
+    "last_checked": "2026-08-23 12:32:09 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,20 +44,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 19:00:00 +0000",
-      "age_hours": "8.87",
+      "age_hours": "9.54",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
     },
     {
-      "headline": "Frontier AI labs still won't say how they'd contain a rogue model",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "snapshot": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform...",
+      "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "snapshot": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Frontier AI",
+        "Key people or organizations: Nvidia",
+        "AI desk signal: model, agent, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "Source context: Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 21 Aug 2026 19:43:39 +0000",
+      "age_hours": "32.81",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "snapshot": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Opus, Claude, But",
+        "Specific figures mentioned: 4.6",
         "AI desk signal: model, enterprise",
-        "Story focus: Frontier AI labs still won't say how they'd contain a rogue model",
-        "Source context: A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Opus 4.6 is a smut-machine"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -65,47 +96,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Frontier AI.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sat, 22 Aug 2026 16:00:00 +0000",
-      "age_hours": "11.87",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "snapshot": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: OpenAI, California, SB",
-        "Specific figures mentioned: 53",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI says California should strengthen its AI safety bill",
-        "Source context: OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed. The story matters because AI is moving..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 22 Aug 2026 16:30:34 +0000",
-      "age_hours": "11.36",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
+      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "age_hours": "29.41",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -132,7 +133,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-21T17:25:50-04:00",
-      "age_hours": "30.44",
+      "age_hours": "31.11",
       "freshness_status": "editor_fresh",
       "editorial_score": "24",
       "urgency": ""
@@ -161,7 +162,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 21:46:56 +0000",
-      "age_hours": "6.09",
+      "age_hours": "6.75",
       "freshness_status": "fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -193,7 +194,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 19:00:00 +0000",
-      "age_hours": "8.87",
+      "age_hours": "9.54",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
@@ -223,20 +224,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 21 Aug 2026 19:43:39 +0000",
-      "age_hours": "32.15",
+      "age_hours": "32.81",
       "freshness_status": "editor_fresh",
       "editorial_score": "124",
       "urgency": ""
     },
     {
-      "headline": "Frontier AI labs still won't say how they'd contain a rogue model",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "snapshot": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform...",
+      "headline": "Anthropic's Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "snapshot": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Frontier AI",
+        "Key people or organizations: Anthropic, Opus, Claude, But",
+        "Specific figures mentioned: 4.6",
         "AI desk signal: model, enterprise",
-        "Story focus: Frontier AI labs still won't say how they'd contain a rogue model",
-        "Source context: A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Opus 4.6 is a smut-machine"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -244,17 +246,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Frontier AI.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sat, 22 Aug 2026 16:00:00 +0000",
-      "age_hours": "11.87",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
+      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "age_hours": "29.41",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -281,46 +283,45 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-21T17:25:50-04:00",
-      "age_hours": "30.44",
+      "age_hours": "31.11",
       "freshness_status": "editor_fresh",
       "editorial_score": "24",
       "urgency": ""
     },
     {
-      "headline": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "snapshot": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Frontier AI labs still won't say how they'd contain a rogue model",
+      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "snapshot": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform...",
       "key_data": [
-        "Key people or organizations: OpenAI, California, SB",
-        "Specific figures mentioned: 53",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI says California should strengthen its AI safety bill",
-        "Source context: OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed. The story matters because AI is moving..."
+        "Key people or organizations: Frontier AI",
+        "AI desk signal: model, enterprise",
+        "Story focus: Frontier AI labs still won't say how they'd contain a rogue model",
+        "Source context: A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Frontier AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sat, 22 Aug 2026 16:30:34 +0000",
-      "age_hours": "11.36",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
+      "published": "Sat, 22 Aug 2026 16:00:00 +0000",
+      "age_hours": "12.54",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "76",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "Inherent, founded by DeepMind alumni, says its AI 'teammate' just outperformed Anthropic and OpenAI at replicating research",
-    "Frontier AI labs still won't say how they'd contain a rogue model",
-    "OpenAI says California should strengthen its AI safety bill"
+    "Harvard's $699 startup bootcamp offers AI avatars of its instructors",
+    "Nvidia just showed that the harness, not the AI model, is now the real hero"
   ],
   "sections": [
     {
@@ -348,68 +349,68 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 22 Aug 2026 19:00:00 +0000",
-      "age_hours": "8.87",
+      "age_hours": "9.54",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
     },
     {
-      "headline": "Frontier AI labs still won't say how they'd contain a rogue model",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "snapshot": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform...",
+      "headline": "Harvard's $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "snapshot": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
       "key_data": [
-        "Key people or organizations: Frontier AI",
-        "AI desk signal: model, enterprise",
-        "Story focus: Frontier AI labs still won't say how they'd contain a rogue model",
-        "Source context: A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems..."
+        "Key people or organizations: Harvard, In, HBS Foundry",
+        "Specific figures mentioned: $699",
+        "Story focus: Harvard's $699 startup bootcamp offers AI avatars of its instructors",
+        "Source context: In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings. The business angle is capital allocation:..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Frontier AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Harvard.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sat, 22 Aug 2026 16:00:00 +0000",
-      "age_hours": "11.87",
+      "published": "Sat, 22 Aug 2026 21:46:56 +0000",
+      "age_hours": "6.75",
       "freshness_status": "fresh",
-      "editorial_score": "106",
+      "editorial_score": "62",
       "urgency": ""
     },
     {
-      "headline": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "snapshot": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "snapshot": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: OpenAI, California, SB",
-        "Specific figures mentioned: 53",
+        "Key people or organizations: Nvidia",
+        "AI desk signal: model, agent, chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI says California should strengthen its AI safety bill",
-        "Source context: OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed. The story matters because AI is moving..."
+        "Story focus: Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "Source context: Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sat, 22 Aug 2026 16:30:34 +0000",
-      "age_hours": "11.36",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
+      "published": "Fri, 21 Aug 2026 19:43:39 +0000",
+      "age_hours": "32.81",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "124",
       "urgency": ""
     },
     {
@@ -436,38 +437,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-21T17:25:50-04:00",
-      "age_hours": "30.44",
+      "age_hours": "31.11",
       "freshness_status": "editor_fresh",
       "editorial_score": "24",
       "urgency": ""
     },
     {
-      "headline": "Harvard's $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "snapshot": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "headline": "Anthropic's Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "snapshot": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Harvard, In, HBS Foundry",
-        "Specific figures mentioned: $699",
-        "Story focus: Harvard's $699 startup bootcamp offers AI avatars of its instructors",
-        "Source context: In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings. The business angle is capital allocation:..."
+        "Key people or organizations: Anthropic, Opus, Claude, But",
+        "Specific figures mentioned: 4.6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Opus 4.6 is a smut-machine"
       ],
       "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Harvard.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sat, 22 Aug 2026 21:46:56 +0000",
-      "age_hours": "6.09",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
+      "published": "Fri, 21 Aug 2026 23:07:25 +0000",
+      "age_hours": "29.41",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
       "urgency": ""
     }
   ],
