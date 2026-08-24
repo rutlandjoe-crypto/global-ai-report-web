@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Hugging Face reportedly in talks to be acquired for $13B",
-  "snapshot": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sale will happen. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-  "updated_at": "2026-08-24 10:37:03 AM ET",
-  "generated_at": "2026-08-24 10:37:03 AM ET",
+  "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+  "snapshot": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as...",
+  "updated_at": "2026-08-24 11:35:11 AM ET",
+  "generated_at": "2026-08-24 11:35:11 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 5,
-    "public_fallback_items": 13,
-    "stale_or_blocked_items": 48,
+    "total_items_checked": 37,
+    "live_fresh_items": 3,
+    "editor_fresh_items": 7,
+    "public_fallback_items": 15,
+    "stale_or_blocked_items": 34,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-24 10:37:03 AM ET"
+    "last_checked": "2026-08-24 11:35:11 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,10 +43,70 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 13:47:26 +0000",
-      "age_hours": "0.83",
+      "age_hours": "1.80",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "snapshot": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as...",
+      "key_data": [
+        "Key people or organizations: Valor, General Intuition, Valor Ventures, Ventures",
+        "Specific figures mentioned: $6B, $6 billion",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+        "Source context: General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Valor.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 24 Aug 2026 15:24:18 +0000",
+      "age_hours": "0.18",
+      "freshness_status": "fresh",
+      "editorial_score": "162",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "snapshot": "Inside the frontier lab's push to bring AI agents from software engineers to the masses. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Will, Inside",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI is building AI agents for everything. Will everyone use them?",
+        "Source context: Inside the frontier lab's push to bring AI agents from software engineers to the masses. The competitive question is whether this changes the model..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 24 Aug 2026 15:00:00 +0000",
+      "age_hours": "0.59",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
     },
     {
       "headline": "Is it legal to train AI models on copyrighted books? It's complicated",
@@ -72,71 +132,74 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 23 Aug 2026 15:00:00 +0000",
-      "age_hours": "23.62",
+      "age_hours": "24.59",
       "freshness_status": "editor_fresh",
       "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "Who's behind the new 'stealth model' Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "snapshot": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Who, Ox Alpha",
-        "AI desk signal: model, enterprise",
-        "Story focus: Who's behind the new 'stealth model' Ox Alpha?",
-        "Source context: A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation. The competitive question is..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Who.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 23 Aug 2026 20:01:36 +0000",
-      "age_hours": "18.59",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "58",
-      "urgency": ""
-    },
-    {
-      "headline": "Flock CEO calls for 'compromise' as surveillance company faces growing backlash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "snapshot": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Flock CEO, Flock Safety",
-        "Story focus: Flock CEO calls for 'compromise' as surveillance company faces growing backlash",
-        "Source context: Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused. The story matters because AI is moving..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Flock CEO.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 23 Aug 2026 15:30:00 +0000",
-      "age_hours": "23.12",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "34",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "snapshot": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as...",
+      "key_data": [
+        "Key people or organizations: Valor, General Intuition, Valor Ventures, Ventures",
+        "Specific figures mentioned: $6B, $6 billion",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+        "Source context: General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Valor.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 24 Aug 2026 15:24:18 +0000",
+      "age_hours": "0.18",
+      "freshness_status": "fresh",
+      "editorial_score": "162",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "snapshot": "Inside the frontier lab's push to bring AI agents from software engineers to the masses. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Will, Inside",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI is building AI agents for everything. Will everyone use them?",
+        "Source context: Inside the frontier lab's push to bring AI agents from software engineers to the masses. The competitive question is whether this changes the model..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 24 Aug 2026 15:00:00 +0000",
+      "age_hours": "0.59",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
       "headline": "Is it legal to train AI models on copyrighted books? It's complicated",
       "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
       "snapshot": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
@@ -160,7 +223,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 23 Aug 2026 15:00:00 +0000",
-      "age_hours": "23.62",
+      "age_hours": "24.59",
       "freshness_status": "editor_fresh",
       "editorial_score": "76",
       "urgency": ""
@@ -189,75 +252,78 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 13:47:26 +0000",
-      "age_hours": "0.83",
+      "age_hours": "1.80",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Who's behind the new 'stealth model' Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "snapshot": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Who, Ox Alpha",
-        "AI desk signal: model, enterprise",
-        "Story focus: Who's behind the new 'stealth model' Ox Alpha?",
-        "Source context: A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation. The competitive question is..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Who.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 23 Aug 2026 20:01:36 +0000",
-      "age_hours": "18.59",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "58",
-      "urgency": ""
-    },
-    {
-      "headline": "Flock CEO calls for 'compromise' as surveillance company faces growing backlash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "snapshot": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Flock CEO, Flock Safety",
-        "Story focus: Flock CEO calls for 'compromise' as surveillance company faces growing backlash",
-        "Source context: Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused. The story matters because AI is moving..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Flock CEO.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 23 Aug 2026 15:30:00 +0000",
-      "age_hours": "23.12",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "34",
-      "urgency": ""
     }
   ],
   "key_storylines": [
-    "Hugging Face reportedly in talks to be acquired for $13B",
-    "Is it legal to train AI models on copyrighted books? It's complicated",
-    "Who's behind the new 'stealth model' Ox Alpha?"
+    "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "OpenAI is building AI agents for everything. Will everyone use them?",
+    "Hugging Face reportedly in talks to be acquired for $13B"
   ],
   "sections": [
+    {
+      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "snapshot": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, Seven Seven Six. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as...",
+      "key_data": [
+        "Key people or organizations: Valor, General Intuition, Valor Ventures, Ventures",
+        "Specific figures mentioned: $6B, $6 billion",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+        "Source context: General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Valor.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 24 Aug 2026 15:24:18 +0000",
+      "age_hours": "0.18",
+      "freshness_status": "fresh",
+      "editorial_score": "162",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "snapshot": "Inside the frontier lab's push to bring AI agents from software engineers to the masses. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Will, Inside",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI is building AI agents for everything. Will everyone use them?",
+        "Source context: Inside the frontier lab's push to bring AI agents from software engineers to the masses. The competitive question is whether this changes the model..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 24 Aug 2026 15:00:00 +0000",
+      "age_hours": "0.59",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
     {
       "headline": "Hugging Face reportedly in talks to be acquired for $13B",
       "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
@@ -282,7 +348,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 13:47:26 +0000",
-      "age_hours": "0.83",
+      "age_hours": "1.80",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": "WATCH"
@@ -311,66 +377,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 23 Aug 2026 15:00:00 +0000",
-      "age_hours": "23.62",
+      "age_hours": "24.59",
       "freshness_status": "editor_fresh",
       "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "Who's behind the new 'stealth model' Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "snapshot": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Who, Ox Alpha",
-        "AI desk signal: model, enterprise",
-        "Story focus: Who's behind the new 'stealth model' Ox Alpha?",
-        "Source context: A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation. The competitive question is..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Who.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 23 Aug 2026 20:01:36 +0000",
-      "age_hours": "18.59",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "58",
-      "urgency": ""
-    },
-    {
-      "headline": "Flock CEO calls for 'compromise' as surveillance company faces growing backlash",
-      "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "snapshot": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Flock CEO, Flock Safety",
-        "Story focus: Flock CEO calls for 'compromise' as surveillance company faces growing backlash",
-        "Source context: Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused. The story matters because AI is moving..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Flock CEO.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 23 Aug 2026 15:30:00 +0000",
-      "age_hours": "23.12",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "34",
       "urgency": ""
     }
   ],
