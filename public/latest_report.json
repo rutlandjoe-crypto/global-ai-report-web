@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-  "snapshot": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-  "updated_at": "2026-08-25 04:36:39 AM ET",
-  "generated_at": "2026-08-25 04:36:39 AM ET",
+  "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+  "snapshot": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's... The competitive question is whether this changes the model race, enterprise integrations or...",
+  "updated_at": "2026-08-25 05:30:59 AM ET",
+  "generated_at": "2026-08-25 05:30:59 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 49,
+    "total_items_checked": 37,
     "live_fresh_items": 2,
     "editor_fresh_items": 8,
     "public_fallback_items": 16,
-    "stale_or_blocked_items": 47,
+    "stale_or_blocked_items": 35,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-25 04:36:39 AM ET"
+    "last_checked": "2026-08-25 05:30:59 AM ET"
   },
   "live_newsroom": [
     {
@@ -42,9 +42,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 00:23:12 +0000",
-      "age_hours": "8.22",
+      "age_hours": "9.13",
       "freshness_status": "fresh",
       "editorial_score": "76",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "snapshot": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Alabama AG, Hugging Face, Alabama",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "Source context: Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-25T05:15:03-04:00",
+      "age_hours": "0.27",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
       "urgency": "DEVELOPING"
     },
     {
@@ -71,39 +101,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 13:47:26 +0000",
-      "age_hours": "18.82",
+      "age_hours": "19.73",
       "freshness_status": "editor_fresh",
       "editorial_score": "36",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "XPENG IRON humanoid robot draws record physical AI funding",
-      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "snapshot": "XPENG's physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple... The business angle is capital allocation: investors and strategic buyers are still sorting which AI...",
-      "key_data": [
-        "Key people or organizations: XPENG IRON, XPENG, IRON, Chinese",
-        "Specific figures mentioned: $900 million, $6.3 billion",
-        "AI desk signal: funding",
-        "Story focus: XPENG IRON humanoid robot draws record physical AI funding",
-        "Source context: XPENG's physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from XPENG IRON.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Mon, 24 Aug 2026 15:53:53 +0000",
-      "age_hours": "16.71",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "134",
       "urgency": "WATCH"
     },
     {
@@ -131,7 +131,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 15:24:18 +0000",
-      "age_hours": "17.21",
+      "age_hours": "18.11",
       "freshness_status": "editor_fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -161,7 +161,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 15:00:00 +0000",
-      "age_hours": "17.61",
+      "age_hours": "18.52",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -169,34 +169,34 @@
   ],
   "editor_signals": [
     {
-      "headline": "XPENG IRON humanoid robot draws record physical AI funding",
-      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "snapshot": "XPENG's physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple... The business angle is capital allocation: investors and strategic buyers are still sorting which AI...",
+      "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "snapshot": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: XPENG IRON, XPENG, IRON, Chinese",
-        "Specific figures mentioned: $900 million, $6.3 billion",
-        "AI desk signal: funding",
-        "Story focus: XPENG IRON humanoid robot draws record physical AI funding",
-        "Source context: XPENG's physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric..."
+        "Key people or organizations: OpenAI, Alabama AG, Hugging Face, Alabama",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "Source context: Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly..."
       ],
       "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from XPENG IRON.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Mon, 24 Aug 2026 15:53:53 +0000",
-      "age_hours": "16.71",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "134",
-      "urgency": "WATCH"
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-25T05:15:03-04:00",
+      "age_hours": "0.27",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -223,7 +223,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 15:24:18 +0000",
-      "age_hours": "17.21",
+      "age_hours": "18.11",
       "freshness_status": "editor_fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -253,7 +253,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 15:00:00 +0000",
-      "age_hours": "17.61",
+      "age_hours": "18.52",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -281,7 +281,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 00:23:12 +0000",
-      "age_hours": "8.22",
+      "age_hours": "9.13",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": "DEVELOPING"
@@ -310,18 +310,48 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 13:47:26 +0000",
-      "age_hours": "18.82",
+      "age_hours": "19.73",
       "freshness_status": "editor_fresh",
       "editorial_score": "36",
       "urgency": "WATCH"
     }
   ],
   "key_storylines": [
+    "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
     "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "XPENG IRON humanoid robot draws record physical AI funding",
     "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics"
   ],
   "sections": [
+    {
+      "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "snapshot": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Alabama AG, Hugging Face, Alabama",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "Source context: Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-25T05:15:03-04:00",
+      "age_hours": "0.27",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
       "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
@@ -345,40 +375,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 00:23:12 +0000",
-      "age_hours": "8.22",
+      "age_hours": "9.13",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "XPENG IRON humanoid robot draws record physical AI funding",
-      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
-      "snapshot": "XPENG's physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple... The business angle is capital allocation: investors and strategic buyers are still sorting which AI...",
-      "key_data": [
-        "Key people or organizations: XPENG IRON, XPENG, IRON, Chinese",
-        "Specific figures mentioned: $900 million, $6.3 billion",
-        "AI desk signal: funding",
-        "Story focus: XPENG IRON humanoid robot draws record physical AI funding",
-        "Source context: XPENG's physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from XPENG IRON.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Mon, 24 Aug 2026 15:53:53 +0000",
-      "age_hours": "16.71",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "134",
-      "urgency": "WATCH"
     },
     {
       "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -405,7 +405,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 15:24:18 +0000",
-      "age_hours": "17.21",
+      "age_hours": "18.11",
       "freshness_status": "editor_fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -435,7 +435,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 15:00:00 +0000",
-      "age_hours": "17.61",
+      "age_hours": "18.52",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -464,7 +464,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 13:47:26 +0000",
-      "age_hours": "18.82",
+      "age_hours": "19.73",
       "freshness_status": "editor_fresh",
       "editorial_score": "36",
       "urgency": "WATCH"
