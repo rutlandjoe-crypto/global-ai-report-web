@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
   "snapshot": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-08-25 09:45:03 AM ET",
-  "generated_at": "2026-08-25 09:45:03 AM ET",
+  "updated_at": "2026-08-25 10:40:15 AM ET",
+  "generated_at": "2026-08-25 10:40:15 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 3,
-    "editor_fresh_items": 11,
-    "public_fallback_items": 19,
-    "stale_or_blocked_items": 46,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 13,
+    "public_fallback_items": 21,
+    "stale_or_blocked_items": 44,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-25 09:45:03 AM ET"
+    "last_checked": "2026-08-25 10:40:15 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-25T05:15:03-04:00",
-      "age_hours": "4.50",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
@@ -74,39 +74,39 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Mon, 24 Aug 2026 15:53:53 +0000",
-      "age_hours": "21.85",
+      "age_hours": "22.77",
       "freshness_status": "editor_fresh",
       "editorial_score": "134",
       "urgency": "WATCH"
     },
     {
-      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "snapshot": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
+      "headline": "OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "snapshot": "Tested on Semianalysis's InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Valor, General Intuition, Valor Ventures, Ventures",
-        "Specific figures mentioned: $6B, $6 billion",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-        "Source context: General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise..."
+        "Key people or organizations: OpenAI, Tested, Semianalysis, InferenceX",
+        "AI desk signal: chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "Source context: Tested on Semianalysis's InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Valor.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 24 Aug 2026 15:24:18 +0000",
-      "age_hours": "22.35",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "132",
+      "published": "Tue, 25 Aug 2026 14:22:04 +0000",
+      "age_hours": "0.30",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
       "urgency": ""
     },
     {
@@ -134,39 +134,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "age_hours": "1.75",
+      "age_hours": "2.67",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
     },
     {
-      "headline": "Accel-backed Keenable is indexing the web for AI agents",
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "snapshot": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "snapshot": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Accel, Keenable, Now",
-        "Specific figures mentioned: $26 million",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Accel-backed Keenable is indexing the web for AI agents",
-        "Source context: Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents. The competitive question is..."
+        "Key people or organizations: OpenAI, During, Richard Ho",
+        "AI desk signal: chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "Source context: OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Accel.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "age_hours": "0.75",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-25T10:00:00-04:00",
+      "age_hours": "0.67",
       "freshness_status": "fresh",
-      "editorial_score": "90",
+      "editorial_score": "118",
       "urgency": ""
     }
   ],
@@ -196,7 +196,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-25T05:15:03-04:00",
-      "age_hours": "4.50",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
@@ -226,7 +226,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Mon, 24 Aug 2026 15:53:53 +0000",
-      "age_hours": "21.85",
+      "age_hours": "22.77",
       "freshness_status": "editor_fresh",
       "editorial_score": "134",
       "urgency": "WATCH"
@@ -256,9 +256,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 15:24:18 +0000",
-      "age_hours": "22.35",
+      "age_hours": "23.27",
       "freshness_status": "editor_fresh",
       "editorial_score": "132",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "snapshot": "Tested on Semianalysis's InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Tested, Semianalysis, InferenceX",
+        "AI desk signal: chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "Source context: Tested on Semianalysis's InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 25 Aug 2026 14:22:04 +0000",
+      "age_hours": "0.30",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
       "urgency": ""
     },
     {
@@ -286,46 +316,16 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "age_hours": "1.75",
+      "age_hours": "2.67",
       "freshness_status": "fresh",
       "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "Accel-backed Keenable is indexing the web for AI agents",
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "snapshot": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Accel, Keenable, Now",
-        "Specific figures mentioned: $26 million",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Accel-backed Keenable is indexing the web for AI agents",
-        "Source context: Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents. The competitive question is..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Accel.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "age_hours": "0.75",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-    "'The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux",
-    "Accel-backed Keenable is indexing the web for AI agents"
+    "OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "'The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux"
   ],
   "sections": [
     {
@@ -353,10 +353,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-25T05:15:03-04:00",
-      "age_hours": "4.50",
+      "age_hours": "5.42",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "snapshot": "Tested on Semianalysis's InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Tested, Semianalysis, InferenceX",
+        "AI desk signal: chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI's Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "Source context: Tested on Semianalysis's InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 25 Aug 2026 14:22:04 +0000",
+      "age_hours": "0.30",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
+      "urgency": ""
     },
     {
       "headline": "'The world seems to be ready': An interview with OpenAI head of product Thibault Sottiaux",
@@ -383,9 +413,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "age_hours": "1.75",
+      "age_hours": "2.67",
       "freshness_status": "fresh",
       "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "snapshot": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: OpenAI, During, Richard Ho",
+        "AI desk signal: chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "Source context: OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-25T10:00:00-04:00",
+      "age_hours": "0.67",
+      "freshness_status": "fresh",
+      "editorial_score": "118",
       "urgency": ""
     },
     {
@@ -413,7 +473,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "age_hours": "0.75",
+      "age_hours": "1.67",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -443,70 +503,10 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Mon, 24 Aug 2026 15:53:53 +0000",
-      "age_hours": "21.85",
+      "age_hours": "22.77",
       "freshness_status": "editor_fresh",
       "editorial_score": "134",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "snapshot": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
-      "key_data": [
-        "Key people or organizations: Valor, General Intuition, Valor Ventures, Ventures",
-        "Specific figures mentioned: $6B, $6 billion",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-        "Source context: General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Valor.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 24 Aug 2026 15:24:18 +0000",
-      "age_hours": "22.35",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "132",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "snapshot": "Inside the frontier lab's push to bring AI agents from software engineers to the masses. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, Will, Inside",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI is building AI agents for everything. Will everyone use them?",
-        "Source context: Inside the frontier lab's push to bring AI agents from software engineers to the masses. The competitive question is whether this changes the model..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 24 Aug 2026 15:00:00 +0000",
-      "age_hours": "22.75",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "90",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
