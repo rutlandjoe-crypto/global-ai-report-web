@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
   "snapshot": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked another company last month. The investigation seeks to determine whether OpenAI's... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-08-25 12:31:33 PM ET",
-  "generated_at": "2026-08-25 12:31:33 PM ET",
+  "updated_at": "2026-08-25 01:27:10 PM ET",
+  "generated_at": "2026-08-25 01:27:10 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 37,
-    "live_fresh_items": 6,
-    "editor_fresh_items": 13,
-    "public_fallback_items": 19,
-    "stale_or_blocked_items": 31,
+    "total_items_checked": 49,
+    "live_fresh_items": 7,
+    "editor_fresh_items": 15,
+    "public_fallback_items": 21,
+    "stale_or_blocked_items": 42,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-25 12:31:33 PM ET"
+    "last_checked": "2026-08-25 01:27:10 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-25T05:15:03-04:00",
-      "age_hours": "7.28",
+      "age_hours": "8.20",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
@@ -74,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 14:22:04 +0000",
-      "age_hours": "2.16",
+      "age_hours": "3.09",
       "freshness_status": "fresh",
       "editorial_score": "126",
       "urgency": ""
@@ -104,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "age_hours": "4.53",
+      "age_hours": "5.45",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -134,7 +134,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-25T10:00:00-04:00",
-      "age_hours": "2.53",
+      "age_hours": "3.45",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -164,7 +164,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "age_hours": "3.53",
+      "age_hours": "4.45",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -196,10 +196,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-25T05:15:03-04:00",
-      "age_hours": "7.28",
+      "age_hours": "8.20",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "XPENG IRON humanoid robot draws record physical AI funding",
+      "url": "https://www.artificialintelligence-news.com/news/xpeng-iron-humanoid-robot-draws-record-physical-ai-funding/",
+      "snapshot": "XPENG's physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric vehicle maker announced the funding round for its robotics business through a set of share purchase agreements with multiple... The business angle is capital allocation: investors and strategic buyers are still sorting which AI...",
+      "key_data": [
+        "Key people or organizations: XPENG IRON, XPENG, IRON, Chinese",
+        "Specific figures mentioned: $900 million, $6.3 billion",
+        "AI desk signal: funding",
+        "Story focus: XPENG IRON humanoid robot draws record physical AI funding",
+        "Source context: XPENG's physical AI unit has secured over $900 million at a $6.3 billion valuation to scale its IRON humanoid robot platform. The Chinese electric..."
+      ],
+      "why_it_matters": [
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from XPENG IRON.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Mon, 24 Aug 2026 15:53:53 +0000",
+      "age_hours": "25.55",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "134",
+      "urgency": "WATCH"
     },
     {
       "headline": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
@@ -226,7 +256,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 24 Aug 2026 15:24:18 +0000",
-      "age_hours": "25.12",
+      "age_hours": "26.05",
       "freshness_status": "editor_fresh",
       "editorial_score": "132",
       "urgency": ""
@@ -256,7 +286,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 14:22:04 +0000",
-      "age_hours": "2.16",
+      "age_hours": "3.09",
       "freshness_status": "fresh",
       "editorial_score": "126",
       "urgency": ""
@@ -286,39 +316,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "age_hours": "4.53",
+      "age_hours": "5.45",
       "freshness_status": "fresh",
       "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "snapshot": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalapeño offers the \"best... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: OpenAI, During, Richard Ho",
-        "AI desk signal: chip",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-        "Source context: OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-25T10:00:00-04:00",
-      "age_hours": "2.53",
-      "freshness_status": "fresh",
-      "editorial_score": "118",
       "urgency": ""
     }
   ],
@@ -353,7 +353,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-25T05:15:03-04:00",
-      "age_hours": "7.28",
+      "age_hours": "8.20",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
@@ -383,7 +383,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 14:22:04 +0000",
-      "age_hours": "2.16",
+      "age_hours": "3.09",
       "freshness_status": "fresh",
       "editorial_score": "126",
       "urgency": ""
@@ -413,7 +413,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 12:00:00 +0000",
-      "age_hours": "4.53",
+      "age_hours": "5.45",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -443,7 +443,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-25T10:00:00-04:00",
-      "age_hours": "2.53",
+      "age_hours": "3.45",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -473,37 +473,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "age_hours": "3.53",
+      "age_hours": "4.45",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
     },
     {
-      "headline": "Gamma acquires Accel-backed design startup Lica",
-      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "snapshot": "Lica co-founders are going to work on Gamma's new research team. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "headline": "MIT AI forecasts extreme weather without historical data",
+      "url": "https://www.artificialintelligence-news.com/news/mit-ai-forecasts-extreme-weather-without-historical-data/",
+      "snapshot": "MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering graduate student, and Professor Themis Sapsis developed the tool. It produces maps of events that have not appeared in a... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Gamma, Accel, Lica",
-        "Story focus: Gamma acquires Accel-backed design startup Lica",
-        "Source context: Lica co-founders are going to work on Gamma's new research team. The business angle is capital allocation: investors and strategic buyers are still..."
+        "Key people or organizations: MIT AI, MIT, Kai Chang, Professor Themis Sapsis",
+        "AI desk signal: chip",
+        "Story focus: MIT AI forecasts extreme weather without historical data",
+        "Source context: MIT engineers have built an AI tool that forecasts extreme weather without training on historical disaster data. Kai Chang, a mechanical engineering..."
       ],
       "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Gamma.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from MIT AI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 25 Aug 2026 15:00:00 +0000",
-      "age_hours": "1.53",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Tue, 25 Aug 2026 15:46:06 +0000",
+      "age_hours": "1.68",
       "freshness_status": "fresh",
-      "editorial_score": "54",
+      "editorial_score": "62",
       "urgency": ""
     }
   ],
