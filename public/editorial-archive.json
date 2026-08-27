@@ -1,5 +1,35 @@
 [
   {
+    "headline": "Amazon just tripled its order of Nvidia chips over 'surging demand'",
+    "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "snapshot": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+    "key_data": [
+      "Key people or organizations: Amazon, Nvidia, Nvidia GPU, But",
+      "Specific figures mentioned: 2",
+      "AI desk signal: chip, nvidia, data center, enterprise",
+      "Market context: major AI platform or infrastructure player involved",
+      "Story focus: Amazon just tripled its order of Nvidia chips over 'surging demand'"
+    ],
+    "why_it_matters": [
+      "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+      "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+      "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+    ],
+    "what_to_watch": [
+      "Watch for follow-up statements, product details or customer evidence from Amazon.",
+      "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+      "Look for measurable adoption signals rather than promotional claims."
+    ],
+    "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+    "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "source_name": "TechCrunch",
+    "published": "Wed, 26 Aug 2026 23:47:18 +0000",
+    "age_hours": "3.05",
+    "freshness_status": "fresh",
+    "editorial_score": "154",
+    "urgency": ""
+  },
+  {
     "headline": "OpenAI's rogue AI model incident was worse than we thought",
     "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
     "snapshot": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took... The competitive question is whether this changes the model race, enterprise integrations or customer...",
@@ -24,7 +54,7 @@
     "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     "source_name": "The Verge",
     "published": "2026-08-26T17:36:06-04:00",
-    "age_hours": "0.01",
+    "age_hours": "5.24",
     "freshness_status": "fresh",
     "editorial_score": "194",
     "urgency": "WATCH"
@@ -54,9 +84,69 @@
     "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "source_name": "TechCrunch",
     "published": "Wed, 26 Aug 2026 19:05:22 +0000",
-    "age_hours": "2.52",
+    "age_hours": "7.75",
     "freshness_status": "fresh",
     "editorial_score": "118",
+    "urgency": ""
+  },
+  {
+    "headline": "Google's new AI transcription edits out your 'ums' and 'ahs'",
+    "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+    "snapshot": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+    "key_data": [
+      "Key people or organizations: Google, Gemini Audio, Gemini, Transcribe",
+      "Specific figures mentioned: 85, 3.5",
+      "AI desk signal: model, enterprise",
+      "Market context: major AI platform or infrastructure player involved",
+      "Story focus: Google's new AI transcription edits out your 'ums' and 'ahs'"
+    ],
+    "why_it_matters": [
+      "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+      "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+      "Editors should separate meaningful product movement from promotional AI noise."
+    ],
+    "what_to_watch": [
+      "Watch for follow-up statements, product details or customer evidence from Google.",
+      "Track whether competitors answer with pricing, product or integration changes.",
+      "Look for measurable adoption signals rather than promotional claims."
+    ],
+    "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+    "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "source_name": "The Verge",
+    "published": "2026-08-26T13:00:00-04:00",
+    "age_hours": "9.84",
+    "freshness_status": "fresh",
+    "editorial_score": "102",
+    "urgency": "WATCH"
+  },
+  {
+    "headline": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "snapshot": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+    "key_data": [
+      "Key people or organizations: Ex, Meta, Perceptron",
+      "AI desk signal: model, enterprise",
+      "Market context: major AI platform or infrastructure player involved",
+      "Story focus: Ex-Meta scientists want to bring visual AI to the factory floor",
+      "Source context: Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. The competitive..."
+    ],
+    "why_it_matters": [
+      "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+      "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+      "Editors should separate meaningful product movement from promotional AI noise."
+    ],
+    "what_to_watch": [
+      "Watch for follow-up statements, product details or customer evidence from Ex.",
+      "Track whether competitors answer with pricing, product or integration changes.",
+      "Look for measurable adoption signals rather than promotional claims."
+    ],
+    "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+    "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "source_name": "TechCrunch",
+    "published": "Wed, 26 Aug 2026 15:00:00 +0000",
+    "age_hours": "11.84",
+    "freshness_status": "fresh",
+    "editorial_score": "102",
     "urgency": ""
   },
   {
