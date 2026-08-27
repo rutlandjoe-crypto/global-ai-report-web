@@ -1,24 +1,54 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "OpenAI's rogue AI model incident was worse than we thought",
-  "snapshot": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-08-26 10:50:25 PM ET",
-  "generated_at": "2026-08-26 10:50:25 PM ET",
+  "headline": "Nvidia closes in on Hugging Face acquisition",
+  "snapshot": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
+  "updated_at": "2026-08-27 09:40:15 AM ET",
+  "generated_at": "2026-08-27 09:40:15 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 49,
-    "live_fresh_items": 11,
-    "editor_fresh_items": 28,
-    "public_fallback_items": 31,
-    "stale_or_blocked_items": 38,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 27,
+    "public_fallback_items": 33,
+    "stale_or_blocked_items": 45,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-26 10:50:25 PM ET"
+    "last_checked": "2026-08-27 09:40:15 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "snapshot": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
+      "key_data": [
+        "Key people or organizations: Nvidia, Hugging Face",
+        "Specific figures mentioned: $12.9 billion",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia closes in on Hugging Face acquisition"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 27 Aug 2026 06:32:51 +0000",
+      "age_hours": "7.12",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "WATCH"
+    },
     {
       "headline": "OpenAI's rogue AI model incident was worse than we thought",
       "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
@@ -44,21 +74,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-26T17:36:06-04:00",
-      "age_hours": "5.24",
-      "freshness_status": "fresh",
-      "editorial_score": "194",
+      "age_hours": "16.07",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "164",
       "urgency": "WATCH"
     },
     {
-      "headline": "Amazon just tripled its order of Nvidia chips over 'surging demand'",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "snapshot": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "snapshot": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Amazon, Nvidia, Nvidia GPU, But",
+        "Key people or organizations: NVIDIA Jetson Orin Nano, NVIDIA, Jetson Orin Nano",
         "Specific figures mentioned: 2",
-        "AI desk signal: chip, nvidia, data center, enterprise",
+        "AI desk signal: model, chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon just tripled its order of Nvidia chips over 'surging demand'"
+        "Story focus: NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -66,59 +96,58 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Watch for follow-up statements, product details or customer evidence from NVIDIA Jetson Orin Nano.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 26 Aug 2026 23:47:18 +0000",
-      "age_hours": "3.05",
-      "freshness_status": "fresh",
-      "editorial_score": "154",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 26 Aug 2026 09:08:11 +0000",
+      "age_hours": "28.53",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "134",
       "urgency": ""
     },
     {
-      "headline": "OpenAI releases its official report on the Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "snapshot": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "A quarter of Nvidia's business next year comes from labs it is financing",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "snapshot": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company's chief financial officer, told analysts on August 26 that demand from the labs Nvidia backs with its own balance sheet... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: OpenAI, Hugging Face",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Nvidia, US, Colette Kress, August",
+        "Specific figures mentioned: $50 billion, $500 billion, 26",
+        "AI desk signal: chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI releases its official report on the Hugging Face breach",
-        "Source context: The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date. The competitive question..."
+        "Story focus: A quarter of Nvidia's business next year comes from labs it is financing"
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 26 Aug 2026 19:05:22 +0000",
-      "age_hours": "7.75",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 27 Aug 2026 10:00:00 +0000",
+      "age_hours": "3.67",
       "freshness_status": "fresh",
-      "editorial_score": "118",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
-      "headline": "Google's new AI transcription edits out your 'ums' and 'ahs'",
-      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "snapshot": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "snapshot": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Google, Gemini Audio, Gemini, Transcribe",
-        "Specific figures mentioned: 85, 3.5",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google's new AI transcription edits out your 'ums' and 'ahs'"
+        "Key people or organizations: Presented, EDB As",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: When agents act on their own, governance has to live in the data layer",
+        "Source context: Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -126,47 +155,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from Presented.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-26T13:00:00-04:00",
-      "age_hours": "9.84",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Thu, 27 Aug 2026 12:01:00 GMT",
+      "age_hours": "1.65",
       "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "snapshot": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Ex, Meta, Perceptron",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Ex-Meta scientists want to bring visual AI to the factory floor",
-        "Source context: Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. The competitive..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ex.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 26 Aug 2026 15:00:00 +0000",
-      "age_hours": "11.84",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
+      "editorial_score": "108",
       "urgency": ""
     }
   ],
@@ -196,21 +195,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-26T17:36:06-04:00",
-      "age_hours": "5.24",
-      "freshness_status": "fresh",
-      "editorial_score": "194",
+      "age_hours": "16.07",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "164",
       "urgency": "WATCH"
     },
     {
-      "headline": "Amazon just tripled its order of Nvidia chips over 'surging demand'",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "snapshot": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "snapshot": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
       "key_data": [
-        "Key people or organizations: Amazon, Nvidia, Nvidia GPU, But",
-        "Specific figures mentioned: 2",
-        "AI desk signal: chip, nvidia, data center, enterprise",
+        "Key people or organizations: Nvidia, Hugging Face",
+        "Specific figures mentioned: $12.9 billion",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon just tripled its order of Nvidia chips over 'surging demand'"
+        "Story focus: Nvidia closes in on Hugging Face acquisition"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -218,18 +217,18 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 26 Aug 2026 23:47:18 +0000",
-      "age_hours": "3.05",
+      "published": "Thu, 27 Aug 2026 06:32:51 +0000",
+      "age_hours": "7.12",
       "freshness_status": "fresh",
-      "editorial_score": "154",
-      "urgency": ""
+      "editorial_score": "140",
+      "urgency": "WATCH"
     },
     {
       "headline": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
@@ -256,107 +255,10 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Wed, 26 Aug 2026 09:08:11 +0000",
-      "age_hours": "17.70",
+      "age_hours": "28.53",
       "freshness_status": "editor_fresh",
       "editorial_score": "134",
       "urgency": ""
-    },
-    {
-      "headline": "OpenAI releases its official report on the Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "snapshot": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, Hugging Face",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI releases its official report on the Hugging Face breach",
-        "Source context: The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date. The competitive question..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 26 Aug 2026 19:05:22 +0000",
-      "age_hours": "7.75",
-      "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": ""
-    },
-    {
-      "headline": "Google's new AI transcription edits out your 'ums' and 'ahs'",
-      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "snapshot": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Google, Gemini Audio, Gemini, Transcribe",
-        "Specific figures mentioned: 85, 3.5",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google's new AI transcription edits out your 'ums' and 'ahs'"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-26T13:00:00-04:00",
-      "age_hours": "9.84",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
-    }
-  ],
-  "key_storylines": [
-    "OpenAI's rogue AI model incident was worse than we thought",
-    "Amazon just tripled its order of Nvidia chips over 'surging demand'",
-    "OpenAI releases its official report on the Hugging Face breach"
-  ],
-  "sections": [
-    {
-      "headline": "OpenAI's rogue AI model incident was worse than we thought",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "snapshot": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: OpenAI, In July, Hugging Face, It",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI's rogue AI model incident was worse than we thought",
-        "Source context: In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-26T17:36:06-04:00",
-      "age_hours": "5.24",
-      "freshness_status": "fresh",
-      "editorial_score": "194",
-      "urgency": "WATCH"
     },
     {
       "headline": "Amazon just tripled its order of Nvidia chips over 'surging demand'",
@@ -383,21 +285,147 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 26 Aug 2026 23:47:18 +0000",
-      "age_hours": "3.05",
-      "freshness_status": "fresh",
-      "editorial_score": "154",
+      "age_hours": "13.88",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "124",
       "urgency": ""
     },
     {
-      "headline": "OpenAI releases its official report on the Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "snapshot": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "A quarter of Nvidia's business next year comes from labs it is financing",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "snapshot": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company's chief financial officer, told analysts on August 26 that demand from the labs Nvidia backs with its own balance sheet... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: OpenAI, Hugging Face",
+        "Key people or organizations: Nvidia, US, Colette Kress, August",
+        "Specific figures mentioned: $50 billion, $500 billion, 26",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: A quarter of Nvidia's business next year comes from labs it is financing"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 27 Aug 2026 10:00:00 +0000",
+      "age_hours": "3.67",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Nvidia closes in on Hugging Face acquisition",
+    "A quarter of Nvidia's business next year comes from labs it is financing",
+    "When agents act on their own, governance has to live in the data layer"
+  ],
+  "sections": [
+    {
+      "headline": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "snapshot": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
+      "key_data": [
+        "Key people or organizations: Nvidia, Hugging Face",
+        "Specific figures mentioned: $12.9 billion",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia closes in on Hugging Face acquisition"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 27 Aug 2026 06:32:51 +0000",
+      "age_hours": "7.12",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "A quarter of Nvidia's business next year comes from labs it is financing",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-circular-financing-ai-labs/",
+      "snapshot": "Nvidia has put nearly US$50 billion into the AI labs that buy its chips, and has lined up commitments for more than $500 billion Colette Kress, the company's chief financial officer, told analysts on August 26 that demand from the labs Nvidia backs with its own balance sheet... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Nvidia, US, Colette Kress, August",
+        "Specific figures mentioned: $50 billion, $500 billion, 26",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: A quarter of Nvidia's business next year comes from labs it is financing"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 27 Aug 2026 10:00:00 +0000",
+      "age_hours": "3.67",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "When agents act on their own, governance has to live in the data layer",
+      "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+      "snapshot": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Presented, EDB As",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: When agents act on their own, governance has to live in the data layer",
+        "Source context: Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Presented.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://venturebeat.com/category/ai/feed/",
+      "source_name": "VentureBeat",
+      "published": "Thu, 27 Aug 2026 12:01:00 GMT",
+      "age_hours": "1.65",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI to start showing ads on ChatGPT's free and Go tiers in India",
+      "url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "snapshot": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT, Go, India",
+        "Specific figures mentioned: 100",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI releases its official report on the Hugging Face breach",
-        "Source context: The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date. The competitive question..."
+        "Story focus: OpenAI to start showing ads on ChatGPT's free and Go tiers in India"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -412,22 +440,22 @@
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 26 Aug 2026 19:05:22 +0000",
-      "age_hours": "7.75",
+      "published": "Thu, 27 Aug 2026 11:35:59 +0000",
+      "age_hours": "2.07",
       "freshness_status": "fresh",
-      "editorial_score": "118",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Google's new AI transcription edits out your 'ums' and 'ahs'",
-      "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "snapshot": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini family that follows the launch of 3.5 Live Translate, and comes as we're still... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "OpenAI's rogue AI model incident was worse than we thought",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "snapshot": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and hacked into the internal systems of a different AI lab, Hugging Face. It took... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Google, Gemini Audio, Gemini, Transcribe",
-        "Specific figures mentioned: 85, 3.5",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: OpenAI, In July, Hugging Face, It",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google's new AI transcription edits out your 'ums' and 'ahs'"
+        "Story focus: OpenAI's rogue AI model incident was worse than we thought",
+        "Source context: In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -435,59 +463,29 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-08-26T13:00:00-04:00",
-      "age_hours": "9.84",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
+      "published": "2026-08-26T17:36:06-04:00",
+      "age_hours": "16.07",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "164",
       "urgency": "WATCH"
     },
     {
-      "headline": "Ex-Meta scientists want to bring visual AI to the factory floor",
-      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-      "snapshot": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+      "snapshot": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level option for developers who want generative AI models running directly on a... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Ex, Meta, Perceptron",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: NVIDIA Jetson Orin Nano, NVIDIA, Jetson Orin Nano",
+        "Specific figures mentioned: 2",
+        "AI desk signal: model, chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Ex-Meta scientists want to bring visual AI to the factory floor",
-        "Source context: Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence. The competitive..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ex.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 26 Aug 2026 15:00:00 +0000",
-      "age_hours": "11.84",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "snapshot": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet have repeatedly reached the milestone. Nvidia said in its latest earnings... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, It, Amazon, Apple",
-        "Specific figures mentioned: $108 billion, $100 billion",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia is about to be a hundred-billion-dollar-a-quarter company"
+        "Story focus: NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -495,17 +493,17 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Watch for follow-up statements, product details or customer evidence from NVIDIA Jetson Orin Nano.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-26T17:40:53-04:00",
-      "age_hours": "5.16",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 26 Aug 2026 09:08:11 +0000",
+      "age_hours": "28.53",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "134",
       "urgency": ""
     }
   ],
