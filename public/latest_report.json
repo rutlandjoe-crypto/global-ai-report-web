@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Neocloud Lambda secures $1B in debt to buy more chips",
-  "snapshot": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-08-28 11:02:20 PM ET",
-  "generated_at": "2026-08-28 11:02:20 PM ET",
+  "headline": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+  "snapshot": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+  "updated_at": "2026-08-29 06:41:48 AM ET",
+  "generated_at": "2026-08-29 06:41:48 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 36,
-    "live_fresh_items": 4,
-    "editor_fresh_items": 13,
-    "public_fallback_items": 32,
-    "stale_or_blocked_items": 32,
+    "total_items_checked": 48,
+    "live_fresh_items": 0,
+    "editor_fresh_items": 8,
+    "public_fallback_items": 33,
+    "stale_or_blocked_items": 48,
     "unknown_date_items": 0,
-    "last_checked": "2026-08-28 11:02:20 PM ET"
+    "last_checked": "2026-08-29 06:41:48 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,9 +43,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 28 Aug 2026 18:19:40 +0000",
-      "age_hours": "8.71",
-      "freshness_status": "fresh",
-      "editorial_score": "112",
+      "age_hours": "16.37",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "82",
       "urgency": "WATCH"
     },
     {
@@ -73,7 +73,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 28 Aug 2026 12:46:12 +0000",
-      "age_hours": "14.27",
+      "age_hours": "21.93",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
@@ -103,7 +103,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-27T23:14:06-04:00",
-      "age_hours": "23.80",
+      "age_hours": "31.46",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
@@ -133,9 +133,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 28 Aug 2026 20:24:11 +0000",
-      "age_hours": "6.64",
-      "freshness_status": "fresh",
-      "editorial_score": "130",
+      "age_hours": "14.29",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
@@ -162,73 +162,14 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-28T12:28:40-04:00",
-      "age_hours": "10.56",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
+      "age_hours": "18.22",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "42",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "snapshot": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Neocloud Lambda, Nvidia AI, Microsoft, It",
-        "Specific figures mentioned: $1B",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Neocloud Lambda secures $1B in debt to buy more chips"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Neocloud Lambda.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 28 Aug 2026 20:24:11 +0000",
-      "age_hours": "6.64",
-      "freshness_status": "fresh",
-      "editorial_score": "130",
-      "urgency": ""
-    },
-    {
-      "headline": "Open-weight AI companies are the Valley's hottest acquisition targets",
-      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "snapshot": "There's a lot of capital pouring into the business of giving models away. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Open, Valley, There",
-        "AI desk signal: model, enterprise",
-        "Story focus: Open-weight AI companies are the Valley's hottest acquisition targets",
-        "Source context: There's a lot of capital pouring into the business of giving models away. The competitive question is whether this changes the model race, enterprise..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Open.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 28 Aug 2026 18:19:40 +0000",
-      "age_hours": "8.71",
-      "freshness_status": "fresh",
-      "editorial_score": "112",
-      "urgency": "WATCH"
-    },
-    {
       "headline": "Anthropic was illegally blacklisted by the Trump administration, court rules",
       "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
       "snapshot": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
@@ -253,7 +194,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-08-27T23:14:06-04:00",
-      "age_hours": "23.80",
+      "age_hours": "31.46",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
@@ -283,47 +224,11 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 28 Aug 2026 12:46:12 +0000",
-      "age_hours": "14.27",
+      "age_hours": "21.93",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
     },
-    {
-      "headline": "Trump's EPA wants to let data centers hide their air pollution",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "snapshot": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Trump, EPA, Just, US Environmental Protection Agency",
-        "AI desk signal: chip, data center",
-        "Story focus: Trump's EPA wants to let data centers hide their air pollution",
-        "Source context: Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-28T12:28:40-04:00",
-      "age_hours": "10.56",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Neocloud Lambda secures $1B in debt to buy more chips",
-    "Open-weight AI companies are the Valley's hottest acquisition targets",
-    "An Anthropic researcher just gave us a peek at self-improving AI"
-  ],
-  "sections": [
     {
       "headline": "Neocloud Lambda secures $1B in debt to buy more chips",
       "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
@@ -349,9 +254,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 28 Aug 2026 20:24:11 +0000",
-      "age_hours": "6.64",
-      "freshness_status": "fresh",
-      "editorial_score": "130",
+      "age_hours": "14.29",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
@@ -378,21 +283,205 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 28 Aug 2026 18:19:40 +0000",
-      "age_hours": "8.71",
-      "freshness_status": "fresh",
-      "editorial_score": "112",
+      "age_hours": "16.37",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "82",
       "urgency": "WATCH"
     },
     {
-      "headline": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "snapshot": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Trump's EPA wants to let data centers hide their air pollution",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "snapshot": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Anthropic, Given",
-        "Specific figures mentioned: 10",
+        "Key people or organizations: Trump, EPA, Just, US Environmental Protection Agency",
+        "AI desk signal: chip, data center",
+        "Story focus: Trump's EPA wants to let data centers hide their air pollution",
+        "Source context: Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Trump.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-28T12:28:40-04:00",
+      "age_hours": "18.22",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "42",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Anthropic was illegally blacklisted by the Trump administration, court rules",
+    "Anthropic gets its first court win over the Pentagon's supply-chain risk label",
+    "Neocloud Lambda secures $1B in debt to buy more chips"
+  ],
+  "sections": [
+    {
+      "headline": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "snapshot": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Trump, On Thursday, Pentagon",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic was illegally blacklisted by the Trump administration, court rules",
+        "Source context: On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-27T23:14:06-04:00",
+      "age_hours": "31.46",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "110",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Anthropic gets its first court win over the Pentagon's supply-chain risk label",
+      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "snapshot": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Pentagon, Trump, Washington",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic gets its first court win over the Pentagon's supply-chain risk label",
+        "Source context: A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 28 Aug 2026 12:46:12 +0000",
+      "age_hours": "21.93",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "110",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "snapshot": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Neocloud Lambda, Nvidia AI, Microsoft, It",
+        "Specific figures mentioned: $1B",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Neocloud Lambda secures $1B in debt to buy more chips"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Neocloud Lambda.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 28 Aug 2026 20:24:11 +0000",
+      "age_hours": "14.29",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Open-weight AI companies are the Valley's hottest acquisition targets",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "snapshot": "There's a lot of capital pouring into the business of giving models away. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Open, Valley, There",
+        "AI desk signal: model, enterprise",
+        "Story focus: Open-weight AI companies are the Valley's hottest acquisition targets",
+        "Source context: There's a lot of capital pouring into the business of giving models away. The competitive question is whether this changes the model race, enterprise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Open.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 28 Aug 2026 18:19:40 +0000",
+      "age_hours": "16.37",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "82",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump's EPA wants to let data centers hide their air pollution",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "snapshot": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Trump, EPA, Just, US Environmental Protection Agency",
+        "AI desk signal: chip, data center",
+        "Story focus: Trump's EPA wants to let data centers hide their air pollution",
+        "Source context: Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Trump.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-08-28T12:28:40-04:00",
+      "age_hours": "18.22",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "42",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "snapshot": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, OpenAI, TechCrunch Disrupt, Stage",
+        "Specific figures mentioned: 2026",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An Anthropic researcher just gave us a peek at self-improving AI"
+        "Story focus: Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -407,100 +496,11 @@
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 28 Aug 2026 19:30:38 +0000",
-      "age_hours": "7.53",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump's EPA wants to let data centers hide their air pollution",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "snapshot": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Trump, EPA, Just, US Environmental Protection Agency",
-        "AI desk signal: chip, data center",
-        "Story focus: Trump's EPA wants to let data centers hide their air pollution",
-        "Source context: Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-28T12:28:40-04:00",
-      "age_hours": "10.56",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "snapshot": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump administration. The lawsuit, filed in March in a California district court,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Anthropic, Trump, On Thursday, Pentagon",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic was illegally blacklisted by the Trump administration, court rules",
-        "Source context: On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-08-27T23:14:06-04:00",
-      "age_hours": "23.80",
+      "published": "Thu, 27 Aug 2026 23:16:45 +0000",
+      "age_hours": "35.42",
       "freshness_status": "editor_fresh",
-      "editorial_score": "110",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Anthropic gets its first court win over the Pentagon's supply-chain risk label",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "snapshot": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Anthropic, Pentagon, Trump, Washington",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic gets its first court win over the Pentagon's supply-chain risk label",
-        "Source context: A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 28 Aug 2026 12:46:12 +0000",
-      "age_hours": "14.27",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "110",
-      "urgency": "DEVELOPING"
+      "editorial_score": "78",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
