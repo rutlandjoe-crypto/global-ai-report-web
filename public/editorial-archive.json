@@ -1,5 +1,95 @@
 [
   {
+    "headline": "Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "snapshot": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+    "key_data": [
+      "Key people or organizations: Anthropic, Claude Fable, Fable, Mythos",
+      "Specific figures mentioned: 5.1, 45, 5, 25",
+      "AI desk signal: model, agent, enterprise",
+      "Market context: major AI platform or infrastructure player involved",
+      "Story focus: Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work"
+    ],
+    "why_it_matters": [
+      "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+      "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+      "Editors should separate meaningful product movement from promotional AI noise."
+    ],
+    "what_to_watch": [
+      "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+      "Track whether competitors answer with pricing, product or integration changes.",
+      "Look for measurable adoption signals rather than promotional claims."
+    ],
+    "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+    "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "source_name": "The Verge",
+    "published": "2026-09-01T18:01:36-04:00",
+    "age_hours": "0.93",
+    "freshness_status": "fresh",
+    "editorial_score": "172",
+    "urgency": "WATCH"
+  },
+  {
+    "headline": "Open AI's Astra model is on the way — and very good at breaking into computer systems",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "snapshot": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+    "key_data": [
+      "Key people or organizations: Open AI, Astra, OpenAI, LLM",
+      "AI desk signal: model, llm, enterprise",
+      "Market context: major AI platform or infrastructure player involved",
+      "Story focus: Open AI's Astra model is on the way — and very good at breaking into computer systems",
+      "Source context: OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM. The competitive question is whether..."
+    ],
+    "why_it_matters": [
+      "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+      "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+      "Editors should separate meaningful product movement from promotional AI noise."
+    ],
+    "what_to_watch": [
+      "Watch for follow-up statements, product details or customer evidence from Open AI.",
+      "Track whether competitors answer with pricing, product or integration changes.",
+      "Look for measurable adoption signals rather than promotional claims."
+    ],
+    "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+    "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "source_name": "TechCrunch",
+    "published": "Tue, 01 Sep 2026 21:06:24 +0000",
+    "age_hours": "1.85",
+    "freshness_status": "fresh",
+    "editorial_score": "146",
+    "urgency": "BREAKING"
+  },
+  {
+    "headline": "OpenAI delayed its new model's development after the Hugging Face hack",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+    "snapshot": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+    "key_data": [
+      "Key people or organizations: OpenAI, Hugging Face, Astra, In July",
+      "AI desk signal: model",
+      "Market context: major AI platform or infrastructure player involved",
+      "Story focus: OpenAI delayed its new model's development after the Hugging Face hack",
+      "Source context: After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model..."
+    ],
+    "why_it_matters": [
+      "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+      "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+      "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+    ],
+    "what_to_watch": [
+      "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+      "Track court, regulator, creator, customer or enterprise responses.",
+      "Look for measurable adoption signals rather than promotional claims."
+    ],
+    "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+    "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "source_name": "The Verge",
+    "published": "2026-09-01T16:45:49-04:00",
+    "age_hours": "2.20",
+    "freshness_status": "fresh",
+    "editorial_score": "176",
+    "urgency": "WATCH"
+  },
+  {
     "headline": "Anthropic's new Fable release is cheaper, less restrictive",
     "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
     "snapshot": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
@@ -24,7 +114,7 @@
     "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "source_name": "TechCrunch",
     "published": "Tue, 01 Sep 2026 19:39:22 +0000",
-    "age_hours": "0.80",
+    "age_hours": "3.30",
     "freshness_status": "fresh",
     "editorial_score": "120",
     "urgency": ""
@@ -143,7 +233,7 @@
     "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     "source_name": "The Verge",
     "published": "2026-09-01T12:00:00-04:00",
-    "age_hours": "4.46",
+    "age_hours": "6.96",
     "freshness_status": "fresh",
     "editorial_score": "140",
     "urgency": "DEVELOPING"
