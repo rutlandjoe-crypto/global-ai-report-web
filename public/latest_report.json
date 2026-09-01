@@ -1,24 +1,84 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Google Pics is like Canva, but with even more AI",
-  "snapshot": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-09-01 04:27:30 PM ET",
-  "generated_at": "2026-09-01 04:27:30 PM ET",
+  "headline": "OpenAI delayed its new model's development after the Hugging Face hack",
+  "snapshot": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+  "updated_at": "2026-09-01 06:57:33 PM ET",
+  "generated_at": "2026-09-01 06:57:33 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 37,
-    "live_fresh_items": 12,
-    "editor_fresh_items": 23,
-    "public_fallback_items": 27,
-    "stale_or_blocked_items": 25,
+    "live_fresh_items": 18,
+    "editor_fresh_items": 27,
+    "public_fallback_items": 30,
+    "stale_or_blocked_items": 19,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-01 04:27:30 PM ET"
+    "last_checked": "2026-09-01 06:57:33 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Open AI's Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "snapshot": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Open AI, Astra, OpenAI, LLM",
+        "AI desk signal: model, llm, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Open AI's Astra model is on the way — and very good at breaking into computer systems",
+        "Source context: OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM. The competitive question is whether..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Open AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 01 Sep 2026 21:06:24 +0000",
+      "age_hours": "1.85",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "OpenAI delayed its new model's development after the Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "snapshot": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Hugging Face, Astra, In July",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI delayed its new model's development after the Hugging Face hack",
+        "Source context: After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-01T16:45:49-04:00",
+      "age_hours": "2.20",
+      "freshness_status": "fresh",
+      "editorial_score": "176",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Google Pics is like Canva, but with even more AI",
       "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
@@ -44,10 +104,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-01T12:00:00-04:00",
-      "age_hours": "4.46",
+      "age_hours": "6.96",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "snapshot": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Claude Fable, Fable, Mythos",
+        "Specific figures mentioned: 5.1, 45, 5, 25",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-01T18:01:36-04:00",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "172",
+      "urgency": "WATCH"
     },
     {
       "headline": "Anthropic's new Fable release is cheaper, less restrictive",
@@ -74,104 +164,104 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "age_hours": "0.80",
+      "age_hours": "3.30",
       "freshness_status": "fresh",
       "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "Nvidia's controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "snapshot": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, DLSS, September, GPU",
-        "Specific figures mentioned: 5, 3",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia's controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-01T09:00:00-04:00",
-      "age_hours": "7.46",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Apple accuses OpenAI of destroying evidence",
-      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "snapshot": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Apple, OpenAI, Bloomberg, In",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple accuses OpenAI of destroying evidence",
-        "Source context: Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-01T14:19:26-04:00",
-      "age_hours": "2.13",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "snapshot": "OpenAI said that the integration provides read-only access to health records for clinicians. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: ChatGPT Health, Epic, OpenAI",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: ChatGPT Health adds Epic integration for clinicians to import patient data",
-        "Source context: OpenAI said that the integration provides read-only access to health records for clinicians. The competitive question is whether this changes the..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ChatGPT Health.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 01 Sep 2026 17:00:00 +0000",
-      "age_hours": "3.46",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "OpenAI delayed its new model's development after the Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "snapshot": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Hugging Face, Astra, In July",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI delayed its new model's development after the Hugging Face hack",
+        "Source context: After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-01T16:45:49-04:00",
+      "age_hours": "2.20",
+      "freshness_status": "fresh",
+      "editorial_score": "176",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "snapshot": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Claude Fable, Fable, Mythos",
+        "Specific figures mentioned: 5.1, 45, 5, 25",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-01T18:01:36-04:00",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "172",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Open AI's Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "snapshot": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Open AI, Astra, OpenAI, LLM",
+        "AI desk signal: model, llm, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Open AI's Astra model is on the way — and very good at breaking into computer systems",
+        "Source context: OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM. The competitive question is whether..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Open AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 01 Sep 2026 21:06:24 +0000",
+      "age_hours": "1.85",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": "BREAKING"
+    },
+    {
       "headline": "Google Pics is like Canva, but with even more AI",
       "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
       "snapshot": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built around Gemini and the Nano Banana generative AI model, Google Pics is designed... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
@@ -196,7 +286,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-01T12:00:00-04:00",
-      "age_hours": "4.46",
+      "age_hours": "6.96",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
@@ -226,108 +316,108 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "age_hours": "0.80",
+      "age_hours": "3.30",
       "freshness_status": "fresh",
       "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "Nvidia's $3.5B MediaTek bet reveals its plan for tackling Big Tech's AI chip buildout",
-      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "snapshot": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Nvidia, MediaTek, Big Tech, Taiwanese",
-        "Specific figures mentioned: $3.5B, $3.5 billion",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia's $3.5B MediaTek bet reveals its plan for tackling Big Tech's AI chip buildout"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 31 Aug 2026 15:15:25 +0000",
-      "age_hours": "29.20",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "106",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Nvidia's controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "snapshot": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, DLSS, September, GPU",
-        "Specific figures mentioned: 5, 3",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia's controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-01T09:00:00-04:00",
-      "age_hours": "7.46",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "snapshot": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Pentagon, ChatGPT, Grok, Versions",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The Pentagon now has its own version of ChatGPT and Grok",
-        "Source context: Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools. The competitive question is..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Pentagon.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 31 Aug 2026 20:13:45 +0000",
-      "age_hours": "24.23",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "94",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Google Pics is like Canva, but with even more AI",
-    "Anthropic's new Fable release is cheaper, less restrictive",
-    "Nvidia's controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower"
+    "OpenAI delayed its new model's development after the Hugging Face hack",
+    "Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work",
+    "Open AI's Astra model is on the way — and very good at breaking into computer systems"
   ],
   "sections": [
+    {
+      "headline": "OpenAI delayed its new model's development after the Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "snapshot": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In July, an unreleased OpenAI... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Hugging Face, Astra, In July",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI delayed its new model's development after the Hugging Face hack",
+        "Source context: After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-01T16:45:49-04:00",
+      "age_hours": "2.20",
+      "freshness_status": "fresh",
+      "editorial_score": "176",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "snapshot": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 25 percent less typically... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Claude Fable, Fable, Mythos",
+        "Specific figures mentioned: 5.1, 45, 5, 25",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-01T18:01:36-04:00",
+      "age_hours": "0.93",
+      "freshness_status": "fresh",
+      "editorial_score": "172",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Open AI's Astra model is on the way — and very good at breaking into computer systems",
+      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "snapshot": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Open AI, Astra, OpenAI, LLM",
+        "AI desk signal: model, llm, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Open AI's Astra model is on the way — and very good at breaking into computer systems",
+        "Source context: OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM. The competitive question is whether..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Open AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 01 Sep 2026 21:06:24 +0000",
+      "age_hours": "1.85",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": "BREAKING"
+    },
     {
       "headline": "Google Pics is like Canva, but with even more AI",
       "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
@@ -353,7 +443,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-01T12:00:00-04:00",
-      "age_hours": "4.46",
+      "age_hours": "6.96",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
@@ -383,21 +473,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 01 Sep 2026 19:39:22 +0000",
-      "age_hours": "0.80",
+      "age_hours": "3.30",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
     },
     {
-      "headline": "Nvidia's controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "snapshot": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smoothing for video games, but worse.\" DLSS 5 will officially be available on... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "AfterQuery reportedly becomes Y Combinator's fastest-ever unicorn, now valued at $3.2B",
+      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "snapshot": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
       "key_data": [
-        "Key people or organizations: Nvidia, DLSS, September, GPU",
-        "Specific figures mentioned: 5, 3",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia's controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower"
+        "Key people or organizations: AfterQuery, Combinator, Series, April",
+        "Specific figures mentioned: $3.2B, $3.2 billion, $30 million, $300 million",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: AfterQuery reportedly becomes Y Combinator's fastest-ever unicorn, now valued at $3.2B",
+        "Source context: AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -405,107 +495,17 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Watch for follow-up statements, product details or customer evidence from AfterQuery.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-01T09:00:00-04:00",
-      "age_hours": "7.46",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Apple accuses OpenAI of destroying evidence",
-      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "snapshot": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook used by a former employee at... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Apple, OpenAI, Bloomberg, In",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple accuses OpenAI of destroying evidence",
-        "Source context: Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-01T14:19:26-04:00",
-      "age_hours": "2.13",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "snapshot": "OpenAI said that the integration provides read-only access to health records for clinicians. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: ChatGPT Health, Epic, OpenAI",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: ChatGPT Health adds Epic integration for clinicians to import patient data",
-        "Source context: OpenAI said that the integration provides read-only access to health records for clinicians. The competitive question is whether this changes the..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ChatGPT Health.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 01 Sep 2026 17:00:00 +0000",
-      "age_hours": "3.46",
+      "published": "Tue, 01 Sep 2026 22:08:24 +0000",
+      "age_hours": "0.82",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "snapshot": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: AIR",
-        "Specific figures mentioned: $50M",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-        "Source context: AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from AIR.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 01 Sep 2026 15:45:51 +0000",
-      "age_hours": "4.69",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
+      "editorial_score": "98",
       "urgency": ""
     }
   ],
