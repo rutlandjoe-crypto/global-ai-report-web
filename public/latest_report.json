@@ -1,54 +1,24 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "M&T Bank expands enterprise AI after years of technology overhaul",
-  "snapshot": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-09-04 06:28:35 AM ET",
-  "generated_at": "2026-09-04 06:28:35 AM ET",
+  "headline": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+  "snapshot": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-09-04 10:44:05 AM ET",
+  "generated_at": "2026-09-04 10:44:05 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 40,
-    "live_fresh_items": 5,
-    "editor_fresh_items": 21,
-    "public_fallback_items": 34,
-    "stale_or_blocked_items": 35,
+    "total_items_checked": 29,
+    "live_fresh_items": 8,
+    "editor_fresh_items": 20,
+    "public_fallback_items": 29,
+    "stale_or_blocked_items": 21,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-04 06:28:35 AM ET"
+    "last_checked": "2026-09-04 10:44:05 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "M&T Bank expands enterprise AI after years of technology overhaul",
-      "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
-      "snapshot": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Bank, US",
-        "Specific figures mentioned: 15, 000",
-        "AI desk signal: enterprise",
-        "Story focus: M&T Bank expands enterprise AI after years of technology overhaul",
-        "Source context: M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Bank.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 04 Sep 2026 10:00:00 +0000",
-      "age_hours": "0.48",
-      "freshness_status": "fresh",
-      "editorial_score": "112",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "This NAS company wants to run your local smart home",
       "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
@@ -73,10 +43,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-04T05:41:44-04:00",
-      "age_hours": "0.78",
+      "age_hours": "5.04",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "snapshot": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Oh, OpenAI, German, Astra",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+        "Source context: A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Oh.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-04T09:34:12-04:00",
+      "age_hours": "1.16",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "WATCH"
     },
     {
       "headline": "Meta is paying to peek at how you use their latest AI model",
@@ -103,40 +103,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 03 Sep 2026 18:19:56 +0000",
-      "age_hours": "16.14",
+      "age_hours": "20.40",
       "freshness_status": "editor_fresh",
       "editorial_score": "142",
       "urgency": ""
     },
     {
-      "headline": "Crusoe reportedly raises $3B at a $30B valuation",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "snapshot": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "snapshot": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\"... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Crusoe, Jane Street",
-        "Specific figures mentioned: $3B, $30B, $13 billion",
-        "AI desk signal: chip, data center, enterprise",
-        "Story focus: Crusoe reportedly raises $3B at a $30B valuation",
-        "Source context: The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street. The larger angle is AI..."
+        "Key people or organizations: Sam Altman, GPT, Astra, Just",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users"
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Crusoe.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 04 Sep 2026 00:48:42 +0000",
-      "age_hours": "9.66",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-04T06:41:48-04:00",
+      "age_hours": "4.04",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": ""
+      "editorial_score": "112",
+      "urgency": "WATCH"
     },
     {
       "headline": "The sameness problem behind those unappetizing AI-generated menus",
@@ -161,13 +161,43 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 04 Sep 2026 04:21:03 +0000",
-      "age_hours": "6.13",
+      "age_hours": "10.38",
       "freshness_status": "fresh",
       "editorial_score": "62",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "snapshot": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Oh, OpenAI, German, Astra",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+        "Source context: A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Oh.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-04T09:34:12-04:00",
+      "age_hours": "1.16",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Meta is paying to peek at how you use their latest AI model",
       "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
@@ -193,39 +223,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 03 Sep 2026 18:19:56 +0000",
-      "age_hours": "16.14",
+      "age_hours": "20.40",
       "freshness_status": "editor_fresh",
       "editorial_score": "142",
-      "urgency": ""
-    },
-    {
-      "headline": "Nvidia is buying Hugging Face for almost $13 billion",
-      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "snapshot": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, Hugging Face",
-        "Specific figures mentioned: $13 billion, $12.93 billion, 2016",
-        "AI desk signal: model, chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia is buying Hugging Face for almost $13 billion"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-03T08:12:06-04:00",
-      "age_hours": "22.27",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -253,40 +253,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 03 Sep 2026 18:01:45 +0000",
-      "age_hours": "16.45",
+      "age_hours": "20.71",
       "freshness_status": "editor_fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
     },
     {
-      "headline": "M&T Bank expands enterprise AI after years of technology overhaul",
-      "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
-      "snapshot": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "headline": "Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "snapshot": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\"... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Bank, US",
-        "Specific figures mentioned: 15, 000",
-        "AI desk signal: enterprise",
-        "Story focus: M&T Bank expands enterprise AI after years of technology overhaul",
-        "Source context: M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software..."
+        "Key people or organizations: Sam Altman, GPT, Astra, Just",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users"
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Bank.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 04 Sep 2026 10:00:00 +0000",
-      "age_hours": "0.48",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-04T06:41:48-04:00",
+      "age_hours": "4.04",
       "freshness_status": "fresh",
       "editorial_score": "112",
-      "urgency": "DEVELOPING"
+      "urgency": "WATCH"
     },
     {
       "headline": "Nvidia launches free tool that links idle computers into a personal AI data center",
@@ -313,47 +313,77 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-03T12:00:00-04:00",
-      "age_hours": "18.48",
+      "age_hours": "22.73",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": "WATCH"
     }
   ],
   "key_storylines": [
-    "M&T Bank expands enterprise AI after years of technology overhaul",
-    "This NAS company wants to run your local smart home",
-    "Crusoe reportedly raises $3B at a $30B valuation"
+    "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+    "Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users",
+    "This NAS company wants to run your local smart home"
   ],
   "sections": [
     {
-      "headline": "M&T Bank expands enterprise AI after years of technology overhaul",
-      "url": "https://www.artificialintelligence-news.com/news/mt-bank-enterprise-ai-15000-employees/",
-      "snapshot": "M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software development, and risk management. The bank uses AI to analyse call-centre conversations, draft reports, generate code, identify... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "headline": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "snapshot": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Bank, US",
-        "Specific figures mentioned: 15, 000",
-        "AI desk signal: enterprise",
-        "Story focus: M&T Bank expands enterprise AI after years of technology overhaul",
-        "Source context: M&T Bank has deployed AI copilots to more than 15,000 employees as the US regional bank applies AI to internal operations, customer service, software..."
+        "Key people or organizations: Oh, OpenAI, German, Astra",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
+        "Source context: A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Bank.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Oh.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 04 Sep 2026 10:00:00 +0000",
-      "age_hours": "0.48",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-04T09:34:12-04:00",
+      "age_hours": "1.16",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "snapshot": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\"... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Sam Altman, GPT, Astra, Just",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-04T06:41:48-04:00",
+      "age_hours": "4.04",
       "freshness_status": "fresh",
       "editorial_score": "112",
-      "urgency": "DEVELOPING"
+      "urgency": "WATCH"
     },
     {
       "headline": "This NAS company wants to run your local smart home",
@@ -379,40 +409,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-04T05:41:44-04:00",
-      "age_hours": "0.78",
+      "age_hours": "5.04",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Crusoe reportedly raises $3B at a $30B valuation",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "snapshot": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Crusoe, Jane Street",
-        "Specific figures mentioned: $3B, $30B, $13 billion",
-        "AI desk signal: chip, data center, enterprise",
-        "Story focus: Crusoe reportedly raises $3B at a $30B valuation",
-        "Source context: The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Crusoe.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 04 Sep 2026 00:48:42 +0000",
-      "age_hours": "9.66",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": ""
     },
     {
       "headline": "The sameness problem behind those unappetizing AI-generated menus",
@@ -437,38 +437,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 04 Sep 2026 04:21:03 +0000",
-      "age_hours": "6.13",
+      "age_hours": "10.38",
       "freshness_status": "fresh",
       "editorial_score": "62",
-      "urgency": ""
-    },
-    {
-      "headline": "50.5% of Americans Say AI Romance Can Count as Cheating",
-      "url": "https://www.artificialintelligence-news.com/news/50-5-of-americans-say-ai-romance-can-count-as-cheating/",
-      "snapshot": "Just over half of American adults, 50.5%, say a partner's romantic or sexual relationship with an AI can count as cheating. The figure comes from an AI romance survey of 2,150 U.S. adults, run by AI Girlfriend Coach through SurveyMonkey Audience on 26 and 27 August 2026 and...",
-      "key_data": [
-        "Key people or organizations: Americans Say AI Romance, Can Count, Cheating, Just",
-        "Specific figures mentioned: 50.5%, 2, 150, 26",
-        "Story focus: 50.5% of Americans Say AI Romance Can Count as Cheating",
-        "Source context: Just over half of American adults, 50.5%, say a partner's romantic or sexual relationship with an AI can count as cheating. The figure comes from an..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Americans Say AI Romance.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 04 Sep 2026 08:25:12 +0000",
-      "age_hours": "2.06",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     },
     {
@@ -496,9 +467,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 03 Sep 2026 18:19:56 +0000",
-      "age_hours": "16.14",
+      "age_hours": "20.40",
       "freshness_status": "editor_fresh",
       "editorial_score": "142",
+      "urgency": ""
+    },
+    {
+      "headline": "Microsoft's Project Zenith is a 'distraction-free Windows experience' for developers",
+      "url": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "snapshot": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer-focused devices with 64GB... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Microsoft, Project Zenith, Windows, While",
+        "Specific figures mentioned: 64",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft's Project Zenith is a 'distraction-free Windows experience' for developers"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-04T06:44:15-04:00",
+      "age_hours": "4.00",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
       "urgency": ""
     }
   ],
