@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Meta is paying to peek at how you use their latest AI model",
   "snapshot": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI...",
-  "updated_at": "2026-09-03 06:11:43 PM ET",
-  "generated_at": "2026-09-03 06:11:43 PM ET",
+  "updated_at": "2026-09-03 08:41:00 PM ET",
+  "generated_at": "2026-09-03 08:41:00 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 40,
-    "live_fresh_items": 14,
+    "live_fresh_items": 13,
     "editor_fresh_items": 31,
     "public_fallback_items": 33,
-    "stale_or_blocked_items": 26,
+    "stale_or_blocked_items": 27,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-03 06:11:43 PM ET"
+    "last_checked": "2026-09-03 08:41:00 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-03T11:35:14-04:00",
-      "age_hours": "6.61",
+      "age_hours": "9.10",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": ""
@@ -74,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 03 Sep 2026 18:19:56 +0000",
-      "age_hours": "3.86",
+      "age_hours": "6.35",
       "freshness_status": "fresh",
       "editorial_score": "172",
       "urgency": ""
@@ -104,40 +104,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 03 Sep 2026 18:01:45 +0000",
-      "age_hours": "4.17",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Nvidia is buying Hugging Face for almost $13 billion",
-      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "snapshot": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, Hugging Face",
-        "Specific figures mentioned: $13 billion, $12.93 billion, 2016",
-        "AI desk signal: model, chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia is buying Hugging Face for almost $13 billion"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-03T08:12:06-04:00",
-      "age_hours": "9.99",
-      "freshness_status": "fresh",
-      "editorial_score": "146",
-      "urgency": ""
     },
     {
       "headline": "Nvidia launches free tool that links idle computers into a personal AI data center",
@@ -164,10 +134,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-03T12:00:00-04:00",
-      "age_hours": "6.20",
+      "age_hours": "8.68",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "NVIDIA to acquire Hugging Face for $12.93B",
+      "url": "https://www.artificialintelligence-news.com/news/nvidia-to-acquire-hugging-face-for-12-93b/",
+      "snapshot": "NVIDIA has agreed to acquire Hugging Face for $12.93 billion to scale the open-source model repository's platform and infrastructure. The transaction targets platform growth and infrastructure investment, aiming to expand AI access for enterprise developers, software... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: NVIDIA, Hugging Face",
+        "Specific figures mentioned: $12.93B, $12.93 billion",
+        "AI desk signal: model, chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: NVIDIA to acquire Hugging Face for $12.93B"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from NVIDIA.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Thu, 03 Sep 2026 15:50:31 +0000",
+      "age_hours": "8.84",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -196,7 +196,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 03 Sep 2026 18:19:56 +0000",
-      "age_hours": "3.86",
+      "age_hours": "6.35",
       "freshness_status": "fresh",
       "editorial_score": "172",
       "urgency": ""
@@ -226,42 +226,12 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-02T12:40:50-04:00",
-      "age_hours": "29.51",
+      "age_hours": "32.00",
       "freshness_status": "editor_fresh",
       "editorial_score": "152",
       "urgency": ""
     },
     {
-      "headline": "Nvidia is buying Hugging Face for almost $13 billion",
-      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "snapshot": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, Hugging Face",
-        "Specific figures mentioned: $13 billion, $12.93 billion, 2016",
-        "AI desk signal: model, chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia is buying Hugging Face for almost $13 billion"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-03T08:12:06-04:00",
-      "age_hours": "9.99",
-      "freshness_status": "fresh",
-      "editorial_score": "146",
-      "urgency": ""
-    },
-    {
       "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
       "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
       "snapshot": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\" The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
@@ -286,7 +256,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 03 Sep 2026 18:01:45 +0000",
-      "age_hours": "4.17",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
@@ -316,134 +286,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-03T12:00:00-04:00",
-      "age_hours": "6.20",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": "WATCH"
-    }
-  ],
-  "key_storylines": [
-    "Meta is paying to peek at how you use their latest AI model",
-    "Nvidia is buying Hugging Face for almost $13 billion",
-    "OpenAI launches Astra, its powerful (and controversial) new model"
-  ],
-  "sections": [
-    {
-      "headline": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "snapshot": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI...",
-      "key_data": [
-        "Key people or organizations: Meta, For, Muse Spark",
-        "Specific figures mentioned: 95%",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta is paying to peek at how you use their latest AI model"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 03 Sep 2026 18:19:56 +0000",
-      "age_hours": "3.86",
-      "freshness_status": "fresh",
-      "editorial_score": "172",
-      "urgency": ""
-    },
-    {
-      "headline": "Nvidia is buying Hugging Face for almost $13 billion",
-      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "snapshot": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, Hugging Face",
-        "Specific figures mentioned: $13 billion, $12.93 billion, 2016",
-        "AI desk signal: model, chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia is buying Hugging Face for almost $13 billion"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-03T08:12:06-04:00",
-      "age_hours": "9.99",
-      "freshness_status": "fresh",
-      "editorial_score": "146",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "snapshot": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\" The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: OpenAI, Astra",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI launches Astra, its powerful (and controversial) new model",
-        "Source context: OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 03 Sep 2026 18:01:45 +0000",
-      "age_hours": "4.17",
-      "freshness_status": "fresh",
-      "editorial_score": "146",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "snapshot": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, Personal AI Router, PAIR, Ollama",
-        "AI desk signal: chip, nvidia, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia launches free tool that links idle computers into a personal AI data center",
-        "Source context: Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-03T12:00:00-04:00",
-      "age_hours": "6.20",
+      "age_hours": "8.68",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "WATCH"
@@ -473,7 +316,134 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-03T11:35:14-04:00",
-      "age_hours": "6.61",
+      "age_hours": "9.10",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Meta is paying to peek at how you use their latest AI model",
+    "OpenAI launches Astra, its powerful (and controversial) new model",
+    "Nvidia launches free tool that links idle computers into a personal AI data center"
+  ],
+  "sections": [
+    {
+      "headline": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "snapshot": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI...",
+      "key_data": [
+        "Key people or organizations: Meta, For, Muse Spark",
+        "Specific figures mentioned: 95%",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta is paying to peek at how you use their latest AI model"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 03 Sep 2026 18:19:56 +0000",
+      "age_hours": "6.35",
+      "freshness_status": "fresh",
+      "editorial_score": "172",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "snapshot": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\" The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Astra",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI launches Astra, its powerful (and controversial) new model",
+        "Source context: OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 03 Sep 2026 18:01:45 +0000",
+      "age_hours": "6.65",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "snapshot": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Nvidia, Personal AI Router, PAIR, Ollama",
+        "AI desk signal: chip, nvidia, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia launches free tool that links idle computers into a personal AI data center",
+        "Source context: Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-03T12:00:00-04:00",
+      "age_hours": "8.68",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "ChatGPT, Grok, and Claude all went down at the same time",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "snapshot": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: ChatGPT, Grok, Claude, OpenAI",
+        "Specific figures mentioned: 11",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: ChatGPT, Grok, and Claude all went down at the same time"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-03T11:35:14-04:00",
+      "age_hours": "9.10",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": ""
@@ -503,7 +473,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 03 Sep 2026 15:50:31 +0000",
-      "age_hours": "6.35",
+      "age_hours": "8.84",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": ""
@@ -533,9 +503,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 03 Sep 2026 15:00:00 +0000",
-      "age_hours": "7.20",
+      "age_hours": "9.68",
       "freshness_status": "fresh",
       "editorial_score": "126",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI's next big AI model has 'entered the AGI era'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "snapshot": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, AGI, GPT, Astra",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI's next big AI model has 'entered the AGI era'"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-03T14:00:00-04:00",
+      "age_hours": "6.68",
+      "freshness_status": "fresh",
+      "editorial_score": "118",
       "urgency": ""
     },
     {
@@ -563,7 +563,7 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 03 Sep 2026 16:07:18 +0000",
-      "age_hours": "6.07",
+      "age_hours": "8.56",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": "WATCH"
