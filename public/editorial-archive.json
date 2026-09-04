@@ -1,5 +1,35 @@
 [
   {
+    "headline": "OpenAI's rogue agents keep escaping, with no formal process to investigate them",
+    "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "snapshot": "OpenAI's latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+    "key_data": [
+      "Key people or organizations: OpenAI",
+      "AI desk signal: agent",
+      "Market context: major AI platform or infrastructure player involved",
+      "Story focus: OpenAI's rogue agents keep escaping, with no formal process to investigate them",
+      "Source context: OpenAI's latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs..."
+    ],
+    "why_it_matters": [
+      "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+      "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+      "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+    ],
+    "what_to_watch": [
+      "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+      "Track court, regulator, creator, customer or enterprise responses.",
+      "Look for measurable adoption signals rather than promotional claims."
+    ],
+    "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+    "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "source_name": "TechCrunch",
+    "published": "Fri, 04 Sep 2026 23:15:11 +0000",
+    "age_hours": "0.41",
+    "freshness_status": "fresh",
+    "editorial_score": "150",
+    "urgency": "DEVELOPING"
+  },
+  {
     "headline": "Another swarm of OpenAI agents reached the open internet without the frontier lab's knowledge",
     "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
     "snapshot": "It's the latest failure of OpenAI's internal monitoring and security systems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
@@ -24,10 +54,70 @@
     "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "source_name": "TechCrunch",
     "published": "Fri, 04 Sep 2026 16:21:11 +0000",
-    "age_hours": "4.84",
+    "age_hours": "7.31",
     "freshness_status": "fresh",
     "editorial_score": "120",
     "urgency": ""
+  },
+  {
+    "headline": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+    "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+    "snapshot": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+    "key_data": [
+      "Key people or organizations: Microsoft, NYT, Copilot, York Times",
+      "AI desk signal: model, enterprise",
+      "Market context: major AI platform or infrastructure player involved",
+      "Story focus: Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "Source context: Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the..."
+    ],
+    "why_it_matters": [
+      "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+      "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+      "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+    ],
+    "what_to_watch": [
+      "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+      "Track whether competitors answer with pricing, product or integration changes.",
+      "Look for measurable adoption signals rather than promotional claims."
+    ],
+    "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+    "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "source_name": "The Verge",
+    "published": "2026-09-04T12:05:57-04:00",
+    "age_hours": "7.56",
+    "freshness_status": "fresh",
+    "editorial_score": "92",
+    "urgency": ""
+  },
+  {
+    "headline": "Apple's Ternus era begins as Nvidia bets on the whole AI stack",
+    "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "snapshot": "It's officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a \"huge launch next week\" — timing that puts Apple's next iPhone event on his desk before he's even settled in.... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+    "key_data": [
+      "Key people or organizations: Apple, Ternus, Nvidia, It",
+      "AI desk signal: chip, nvidia",
+      "Market context: major AI platform or infrastructure player involved",
+      "Story focus: Apple's Ternus era begins as Nvidia bets on the whole AI stack",
+      "Source context: It's officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose..."
+    ],
+    "why_it_matters": [
+      "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+      "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+      "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+    ],
+    "what_to_watch": [
+      "Watch for follow-up statements, product details or customer evidence from Apple.",
+      "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+      "Look for measurable adoption signals rather than promotional claims."
+    ],
+    "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+    "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "source_name": "TechCrunch",
+    "published": "Fri, 04 Sep 2026 16:04:08 +0000",
+    "age_hours": "7.59",
+    "freshness_status": "fresh",
+    "editorial_score": "102",
+    "urgency": "WATCH"
   },
   {
     "headline": "Oh good, looks like yet another swarm of rogue AI agents from OpenAI",
@@ -84,7 +174,7 @@
     "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     "source_name": "The Verge",
     "published": "2026-09-04T09:34:12-04:00",
-    "age_hours": "7.62",
+    "age_hours": "10.09",
     "freshness_status": "fresh",
     "editorial_score": "148",
     "urgency": "WATCH"
