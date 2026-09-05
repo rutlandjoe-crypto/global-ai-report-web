@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI's rogue agents keep escaping, with no formal process to investigate them",
   "snapshot": "OpenAI's latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-  "updated_at": "2026-09-04 10:41:01 PM ET",
-  "generated_at": "2026-09-04 10:41:01 PM ET",
+  "updated_at": "2026-09-05 03:20:11 AM ET",
+  "generated_at": "2026-09-05 03:20:11 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 29,
-    "live_fresh_items": 9,
-    "editor_fresh_items": 26,
+    "live_fresh_items": 3,
+    "editor_fresh_items": 19,
     "public_fallback_items": 29,
-    "stale_or_blocked_items": 20,
+    "stale_or_blocked_items": 26,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-04 10:41:01 PM ET"
+    "last_checked": "2026-09-05 03:20:11 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,69 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 04 Sep 2026 23:15:11 +0000",
-      "age_hours": "3.43",
+      "age_hours": "8.08",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "snapshot": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Rogue OpenAI, German, OpenAI, Astra",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Rogue OpenAI agents appear to have organized another attack using a German wiki",
+        "Source context: A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Rogue OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-04T09:34:12-04:00",
+      "age_hours": "17.77",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "118",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "snapshot": "The round is being raised just months after the robot data startup exited from stealth. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "key_data": [
+        "Key people or organizations: XDOF, Series",
+        "Specific figures mentioned: $1.2B",
+        "Story focus: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "Source context: The round is being raised just months after the robot data startup exited from stealth. The business angle is capital allocation: investors and..."
+      ],
+      "why_it_matters": [
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from XDOF.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "age_hours": "7.73",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
     },
     {
       "headline": "Another swarm of OpenAI agents reached the open internet without the frontier lab's knowledge",
@@ -74,99 +133,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 04 Sep 2026 16:21:11 +0000",
-      "age_hours": "10.33",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
+      "age_hours": "14.98",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
-      "headline": "Apple's Ternus era begins as Nvidia bets on the whole AI stack",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "snapshot": "It's officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a \"huge launch next week\" — timing that puts Apple's next iPhone event on his desk before he's even settled in.... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "snapshot": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\"... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Apple, Ternus, Nvidia, It",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple's Ternus era begins as Nvidia bets on the whole AI stack",
-        "Source context: It's officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 04 Sep 2026 16:04:08 +0000",
-      "age_hours": "10.61",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "snapshot": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Microsoft, NYT, Copilot, York Times",
+        "Key people or organizations: Sam Altman, GPT, Astra, Just",
+        "Specific figures mentioned: 6",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-        "Source context: Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the..."
+        "Story focus: Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users"
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-04T12:05:57-04:00",
-      "age_hours": "10.58",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Roland is getting into generative AI music with Melody Flip",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "snapshot": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed...",
-      "key_data": [
-        "Key people or organizations: Roland, Melody Flip, It, Suno",
-        "Specific figures mentioned: 250",
-        "Story focus: Roland is getting into generative AI music with Melody Flip",
-        "Source context: It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Roland.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-04T13:51:35-04:00",
-      "age_hours": "8.82",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
-      "urgency": ""
+      "published": "2026-09-04T06:41:48-04:00",
+      "age_hours": "20.64",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "82",
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
@@ -195,21 +195,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 04 Sep 2026 23:15:11 +0000",
-      "age_hours": "3.43",
+      "age_hours": "8.08",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "snapshot": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI...",
+      "headline": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "snapshot": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Meta, For, Muse Spark",
-        "Specific figures mentioned: 95%",
+        "Key people or organizations: Rogue OpenAI, German, OpenAI, Astra",
         "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta is paying to peek at how you use their latest AI model"
+        "Story focus: Rogue OpenAI agents appear to have organized another attack using a German wiki",
+        "Source context: A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -217,17 +217,46 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from Rogue OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-04T09:34:12-04:00",
+      "age_hours": "17.77",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "118",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "snapshot": "The round is being raised just months after the robot data startup exited from stealth. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "key_data": [
+        "Key people or organizations: XDOF, Series",
+        "Specific figures mentioned: $1.2B",
+        "Story focus: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "Source context: The round is being raised just months after the robot data startup exited from stealth. The business angle is capital allocation: investors and..."
+      ],
+      "why_it_matters": [
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from XDOF.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 03 Sep 2026 18:19:56 +0000",
-      "age_hours": "32.35",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "142",
+      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "age_hours": "7.73",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -255,21 +284,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 04 Sep 2026 16:21:11 +0000",
-      "age_hours": "10.33",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
+      "age_hours": "14.98",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
-      "headline": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "snapshot": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "snapshot": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\"... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Rogue OpenAI, German, OpenAI, Astra",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: Sam Altman, GPT, Astra, Just",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Rogue OpenAI agents appear to have organized another attack using a German wiki",
-        "Source context: A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with..."
+        "Story focus: Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -277,54 +306,24 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Rogue OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-04T09:34:12-04:00",
-      "age_hours": "13.11",
+      "published": "2026-09-04T06:41:48-04:00",
+      "age_hours": "20.64",
       "freshness_status": "editor_fresh",
-      "editorial_score": "118",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "snapshot": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, Personal AI Router, PAIR, Ollama",
-        "AI desk signal: chip, nvidia, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia launches free tool that links idle computers into a personal AI data center",
-        "Source context: Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-03T12:00:00-04:00",
-      "age_hours": "34.68",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "106",
+      "editorial_score": "82",
       "urgency": "WATCH"
     }
   ],
   "key_storylines": [
     "OpenAI's rogue agents keep escaping, with no formal process to investigate them",
-    "Another swarm of OpenAI agents reached the open internet without the frontier lab's knowledge",
-    "Apple's Ternus era begins as Nvidia bets on the whole AI stack"
+    "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "AI compute provider Nscale is looking for $3.5B in pre-IPO financing"
   ],
   "sections": [
     {
@@ -352,10 +351,129 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 04 Sep 2026 23:15:11 +0000",
-      "age_hours": "3.43",
+      "age_hours": "8.08",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "snapshot": "The round is being raised just months after the robot data startup exited from stealth. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "key_data": [
+        "Key people or organizations: XDOF, Series",
+        "Specific figures mentioned: $1.2B",
+        "Story focus: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "Source context: The round is being raised just months after the robot data startup exited from stealth. The business angle is capital allocation: investors and..."
+      ],
+      "why_it_matters": [
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from XDOF.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
+      "age_hours": "7.73",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "snapshot": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Nscale, IPO, Anthropic",
+        "Specific figures mentioned: $3.5B, $45 billion",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI compute provider Nscale is looking for $3.5B in pre-IPO financing"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nscale.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 04 Sep 2026 21:12:11 +0000",
+      "age_hours": "10.13",
+      "freshness_status": "fresh",
+      "editorial_score": "62",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "snapshot": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Rogue OpenAI, German, OpenAI, Astra",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Rogue OpenAI agents appear to have organized another attack using a German wiki",
+        "Source context: A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Rogue OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-04T09:34:12-04:00",
+      "age_hours": "17.77",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "118",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "snapshot": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"generational leap in capability\"... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Sam Altman, GPT, Astra, Just",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Sam Altman apologizes for 'messy' GPT-6 Astra rollout that's locked out paying users"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-04T06:41:48-04:00",
+      "age_hours": "20.64",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "82",
+      "urgency": "WATCH"
     },
     {
       "headline": "Another swarm of OpenAI agents reached the open internet without the frontier lab's knowledge",
@@ -382,126 +500,8 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 04 Sep 2026 16:21:11 +0000",
-      "age_hours": "10.33",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "Apple's Ternus era begins as Nvidia bets on the whole AI stack",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
-      "snapshot": "It's officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a \"huge launch next week\" — timing that puts Apple's next iPhone event on his desk before he's even settled in.... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Apple, Ternus, Nvidia, It",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple's Ternus era begins as Nvidia bets on the whole AI stack",
-        "Source context: It's officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 04 Sep 2026 16:04:08 +0000",
-      "age_hours": "10.61",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "snapshot": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including The New York Times and... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Microsoft, NYT, Copilot, York Times",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-        "Source context: Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-04T12:05:57-04:00",
-      "age_hours": "10.58",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Roland is getting into generative AI music with Melody Flip",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "snapshot": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which are essentially themed...",
-      "key_data": [
-        "Key people or organizations: Roland, Melody Flip, It, Suno",
-        "Specific figures mentioned: 250",
-        "Story focus: Roland is getting into generative AI music with Melody Flip",
-        "Source context: It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Roland.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-04T13:51:35-04:00",
-      "age_hours": "8.82",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
-      "urgency": ""
-    },
-    {
-      "headline": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "snapshot": "The round is being raised just months after the robot data startup exited from stealth. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: XDOF, Series",
-        "Specific figures mentioned: $1.2B",
-        "Story focus: XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "Source context: The round is being raised just months after the robot data startup exited from stealth. The business angle is capital allocation: investors and..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from XDOF.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 04 Sep 2026 23:36:14 +0000",
-      "age_hours": "3.08",
-      "freshness_status": "fresh",
+      "age_hours": "14.98",
+      "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
     }
