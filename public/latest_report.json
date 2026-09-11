@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-  "snapshot": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-09-11 03:43:04 AM ET",
-  "generated_at": "2026-09-11 03:43:04 AM ET",
+  "headline": "Mathematicians want proof OpenAI didn't use their work",
+  "snapshot": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-09-11 07:51:53 AM ET",
+  "generated_at": "2026-09-11 07:51:53 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 29,
-    "live_fresh_items": 7,
-    "editor_fresh_items": 23,
+    "live_fresh_items": 0,
+    "editor_fresh_items": 16,
     "public_fallback_items": 29,
-    "stale_or_blocked_items": 22,
+    "stale_or_blocked_items": 29,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-11 03:43:04 AM ET"
+    "last_checked": "2026-09-11 07:51:53 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,139 +44,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 10 Sep 2026 20:57:30 +0000",
-      "age_hours": "10.76",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
+      "age_hours": "14.91",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "86",
       "urgency": "WATCH"
     },
     {
-      "headline": "Meta's AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "snapshot": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "snapshot": "Come inside the mind of a bot trying to convince the internet it's human. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Meta, Muse, No, US",
-        "Specific figures mentioned: 2",
+        "Key people or organizations: Anthropic, CAPTCHAs, Come",
         "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI agent Muse is now the No. 2 app in the US"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 10 Sep 2026 19:50:04 +0000",
-      "age_hours": "11.88",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "snapshot": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Jensen Huang, Nvidia, But",
-        "Specific figures mentioned: 70%",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang explains why Nvidia will grow an astounding 70% next year"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 10 Sep 2026 21:51:59 +0000",
-      "age_hours": "9.85",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Slack can now vibe-code interactive charts and reports inside chats",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "snapshot": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from...",
-      "key_data": [
-        "Key people or organizations: Slack, Slackforce Surfaces, Slackbot",
-        "Story focus: Slack can now vibe-code interactive charts and reports inside chats",
-        "Source context: A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Slack.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-10T17:25:21-04:00",
-      "age_hours": "10.30",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Schools are catching on to Big Tech's playbook",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "snapshot": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI...",
-      "key_data": [
-        "Key people or organizations: Schools, Big Tech, It, Students",
-        "Story focus: Schools are catching on to Big Tech's playbook",
-        "Source context: It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time,..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Schools.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-10T15:44:20-04:00",
-      "age_hours": "11.98",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "snapshot": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, Alibaba, Moonshot AI, DeepSeek",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-        "Source context: A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent..."
+        "Story focus: Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "Source context: Come inside the mind of a bot trying to convince the internet it's human. The competitive question is whether this changes the model race, enterprise..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -188,73 +70,14 @@
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 10 Sep 2026 20:57:30 +0000",
-      "age_hours": "10.76",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Meta's AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "snapshot": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Meta, Muse, No, US",
-        "Specific figures mentioned: 2",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI agent Muse is now the No. 2 app in the US"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 10 Sep 2026 19:50:04 +0000",
-      "age_hours": "11.88",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Read the Apple document explaining how new listening features still protect your privacy",
-      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "snapshot": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying out how it plans to balance...",
-      "key_data": [
-        "Key people or organizations: Read, Apple, Duo, Siri AI Audio Intelligence",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Read the Apple document explaining how new listening features still protect your privacy",
-        "Source context: At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Read.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-09T16:44:43-04:00",
-      "age_hours": "34.97",
+      "published": "Thu, 10 Sep 2026 17:54:44 +0000",
+      "age_hours": "17.95",
       "freshness_status": "editor_fresh",
-      "editorial_score": "96",
-      "urgency": "WATCH"
+      "editorial_score": "90",
+      "urgency": ""
     },
     {
       "headline": "Mathematicians want proof OpenAI didn't use their work",
@@ -281,7 +104,99 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-10T07:00:57-04:00",
-      "age_hours": "20.70",
+      "age_hours": "24.85",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Meta's Muse AI works and creeps me out",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "snapshot": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Meta, Muse AI, Muse",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's Muse AI works and creeps me out",
+        "Source context: Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-10T11:00:00-04:00",
+      "age_hours": "20.86",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "82",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta's AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "snapshot": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Meta, Muse, No, US",
+        "Specific figures mentioned: 2",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's AI agent Muse is now the No. 2 app in the US"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 10 Sep 2026 19:50:04 +0000",
+      "age_hours": "16.03",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "72",
+      "urgency": ""
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "Mathematicians want proof OpenAI didn't use their work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "snapshot": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Mathematicians, OpenAI, Another, Just",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Mathematicians want proof OpenAI didn't use their work",
+        "Source context: Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mathematicians.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-10T07:00:57-04:00",
+      "age_hours": "24.85",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -311,18 +226,11 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 10 Sep 2026 17:54:44 +0000",
-      "age_hours": "13.81",
+      "age_hours": "17.95",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "Meta's AI agent Muse is now the No. 2 app in the US",
-    "Jensen Huang explains why Nvidia will grow an astounding 70% next year"
-  ],
-  "sections": [
+    },
     {
       "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
       "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
@@ -348,9 +256,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 10 Sep 2026 20:57:30 +0000",
-      "age_hours": "10.76",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
+      "age_hours": "14.91",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "86",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta's Muse AI works and creeps me out",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "snapshot": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Meta, Muse AI, Muse",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's Muse AI works and creeps me out",
+        "Source context: Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-10T11:00:00-04:00",
+      "age_hours": "20.86",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "82",
       "urgency": "WATCH"
     },
     {
@@ -378,107 +316,28 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 10 Sep 2026 19:50:04 +0000",
-      "age_hours": "11.88",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
+      "age_hours": "16.03",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "72",
       "urgency": ""
-    },
+    }
+  ],
+  "key_storylines": [
+    "Mathematicians want proof OpenAI didn't use their work",
+    "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek"
+  ],
+  "sections": [
     {
-      "headline": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "snapshot": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Mathematicians want proof OpenAI didn't use their work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "snapshot": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematician has come forward... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Jensen Huang, Nvidia, But",
-        "Specific figures mentioned: 70%",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang explains why Nvidia will grow an astounding 70% next year"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 10 Sep 2026 21:51:59 +0000",
-      "age_hours": "9.85",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Slack can now vibe-code interactive charts and reports inside chats",
-      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "snapshot": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI to gather information from...",
-      "key_data": [
-        "Key people or organizations: Slack, Slackforce Surfaces, Slackbot",
-        "Story focus: Slack can now vibe-code interactive charts and reports inside chats",
-        "Source context: A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Slack.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-10T17:25:21-04:00",
-      "age_hours": "10.30",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Schools are catching on to Big Tech's playbook",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "snapshot": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. That's the narrative AI...",
-      "key_data": [
-        "Key people or organizations: Schools, Big Tech, It, Students",
-        "Story focus: Schools are catching on to Big Tech's playbook",
-        "Source context: It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time,..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Schools.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-10T15:44:20-04:00",
-      "age_hours": "11.98",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "snapshot": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, Pro, Astra",
+        "Key people or organizations: Mathematicians, OpenAI, Another, Just",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI puts Pro subscriptions on hold due to Astra demand",
-        "Source context: The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity. The competitive question..."
+        "Story focus: Mathematicians want proof OpenAI didn't use their work",
+        "Source context: Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -486,18 +345,166 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Mathematicians.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-10T07:00:57-04:00",
+      "age_hours": "24.85",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "snapshot": "Come inside the mind of a bot trying to convince the internet it's human. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, CAPTCHAs, Come",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "Source context: Come inside the mind of a bot trying to convince the internet it's human. The competitive question is whether this changes the model race, enterprise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 10 Sep 2026 20:59:51 +0000",
-      "age_hours": "10.72",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
+      "published": "Thu, 10 Sep 2026 17:54:44 +0000",
+      "age_hours": "17.95",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
       "urgency": ""
+    },
+    {
+      "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "snapshot": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Alibaba, Moonshot AI, DeepSeek",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "Source context: A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 10 Sep 2026 20:57:30 +0000",
+      "age_hours": "14.91",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "86",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta's Muse AI works and creeps me out",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "snapshot": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Meta, Muse AI, Muse",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's Muse AI works and creeps me out",
+        "Source context: Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-10T11:00:00-04:00",
+      "age_hours": "20.86",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "82",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta's AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+      "snapshot": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Meta, Muse, No, US",
+        "Specific figures mentioned: 2",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's AI agent Muse is now the No. 2 app in the US"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 10 Sep 2026 19:50:04 +0000",
+      "age_hours": "16.03",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "72",
+      "urgency": ""
+    },
+    {
+      "headline": "Universal Music is launching an AI music platform with ElevenLabs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "snapshot": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is developing the platform through...",
+      "key_data": [
+        "Key people or organizations: Universal Music, ElevenLabs, Universal Music Group",
+        "Story focus: Universal Music is launching an AI music platform with ElevenLabs",
+        "Source context: Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes,..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Universal Music.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-10T11:38:19-04:00",
+      "age_hours": "20.23",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "50",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
