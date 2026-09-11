@@ -1,54 +1,24 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Anthropic spent this week in hot water over cybersecurity",
-  "snapshot": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-09-11 02:46:57 PM ET",
-  "generated_at": "2026-09-11 02:46:57 PM ET",
+  "headline": "An Anthropic researcher's doomsday warning comes at a very interesting time",
+  "snapshot": "An Anthropic researcher resigned this week, warning in a post on X that the company is \"racing straight to self-improving superintelligence and gambling with our lives\". The company's own alignment lead even co-signed the message rather than walking it back. It's the kind of... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-09-11 03:24:15 PM ET",
+  "generated_at": "2026-09-11 03:24:15 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 29,
-    "live_fresh_items": 4,
-    "editor_fresh_items": 19,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 17,
     "public_fallback_items": 29,
-    "stale_or_blocked_items": 25,
+    "stale_or_blocked_items": 27,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-11 02:46:57 PM ET"
+    "last_checked": "2026-09-11 03:24:15 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Anthropic spent this week in hot water over cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "snapshot": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Anthropic, It",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic spent this week in hot water over cybersecurity",
-        "Source context: After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-11T12:09:14-04:00",
-      "age_hours": "2.63",
-      "freshness_status": "fresh",
-      "editorial_score": "152",
-      "urgency": "WATCH"
-    },
     {
       "headline": "An Anthropic researcher's doomsday warning comes at a very interesting time",
       "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
@@ -74,10 +44,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 11 Sep 2026 18:41:49 +0000",
-      "age_hours": "0.09",
+      "age_hours": "0.71",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
+    },
+    {
+      "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "snapshot": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Alibaba, Moonshot AI, DeepSeek",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "Source context: A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 10 Sep 2026 20:57:30 +0000",
+      "age_hours": "22.45",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "86",
+      "urgency": "WATCH"
     },
     {
       "headline": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
@@ -104,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 10 Sep 2026 17:54:44 +0000",
-      "age_hours": "24.87",
+      "age_hours": "25.49",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -134,21 +134,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-10T07:00:57-04:00",
-      "age_hours": "31.77",
+      "age_hours": "32.39",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
     },
     {
-      "headline": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "snapshot": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Meta's Muse AI works and creeps me out",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "snapshot": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Nscale, OpenAI, Fidji Simo, IPO",
-        "Specific figures mentioned: 2, 2023",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Meta, Muse AI, Muse",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO"
+        "Story focus: Meta's Muse AI works and creeps me out",
+        "Source context: Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -156,52 +156,22 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nscale.",
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 16:46:25 +0000",
-      "age_hours": "2.01",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-10T11:00:00-04:00",
+      "age_hours": "28.40",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "82",
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
     {
-      "headline": "Anthropic spent this week in hot water over cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "snapshot": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Anthropic, It",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic spent this week in hot water over cybersecurity",
-        "Source context: After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-11T12:09:14-04:00",
-      "age_hours": "2.63",
-      "freshness_status": "fresh",
-      "editorial_score": "152",
-      "urgency": "WATCH"
-    },
-    {
       "headline": "An Anthropic researcher's doomsday warning comes at a very interesting time",
       "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
       "snapshot": "An Anthropic researcher resigned this week, warning in a post on X that the company is \"racing straight to self-improving superintelligence and gambling with our lives\". The company's own alignment lead even co-signed the message rather than walking it back. It's the kind of... The competitive question is whether this changes the model race, enterprise integrations or customer...",
@@ -226,7 +196,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 11 Sep 2026 18:41:49 +0000",
-      "age_hours": "0.09",
+      "age_hours": "0.71",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
@@ -256,7 +226,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-10T07:00:57-04:00",
-      "age_hours": "31.77",
+      "age_hours": "32.39",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -286,7 +256,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 10 Sep 2026 17:54:44 +0000",
-      "age_hours": "24.87",
+      "age_hours": "25.49",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -316,28 +286,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 10 Sep 2026 20:57:30 +0000",
-      "age_hours": "21.82",
+      "age_hours": "22.45",
       "freshness_status": "editor_fresh",
       "editorial_score": "86",
       "urgency": "WATCH"
-    }
-  ],
-  "key_storylines": [
-    "Anthropic spent this week in hot water over cybersecurity",
-    "An Anthropic researcher's doomsday warning comes at a very interesting time",
-    "Meta says it's changing AI suggestions after posing invasive personal questions"
-  ],
-  "sections": [
+    },
     {
-      "headline": "Anthropic spent this week in hot water over cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "snapshot": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Meta's Muse AI works and creeps me out",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "snapshot": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Anthropic, It",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Meta, Muse AI, Muse",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic spent this week in hot water over cybersecurity",
-        "Source context: After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report..."
+        "Story focus: Meta's Muse AI works and creeps me out",
+        "Source context: Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -345,19 +308,26 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-11T12:09:14-04:00",
-      "age_hours": "2.63",
-      "freshness_status": "fresh",
-      "editorial_score": "152",
+      "published": "2026-09-10T11:00:00-04:00",
+      "age_hours": "28.40",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "82",
       "urgency": "WATCH"
-    },
+    }
+  ],
+  "key_storylines": [
+    "An Anthropic researcher's doomsday warning comes at a very interesting time",
+    "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "Mathematicians want proof OpenAI didn't use their work"
+  ],
+  "sections": [
     {
       "headline": "An Anthropic researcher's doomsday warning comes at a very interesting time",
       "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
@@ -383,39 +353,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 11 Sep 2026 18:41:49 +0000",
-      "age_hours": "0.09",
+      "age_hours": "0.71",
       "freshness_status": "fresh",
       "editorial_score": "96",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta says it's changing AI suggestions after posing invasive personal questions",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "snapshot": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Meta, Futurism, In, Verge",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta says it's changing AI suggestions after posing invasive personal questions",
-        "Source context: Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-11T10:25:21-04:00",
-      "age_hours": "4.36",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -443,7 +383,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 11 Sep 2026 16:46:25 +0000",
-      "age_hours": "2.01",
+      "age_hours": "2.63",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -473,7 +413,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-10T07:00:57-04:00",
-      "age_hours": "31.77",
+      "age_hours": "32.39",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -503,10 +443,70 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 10 Sep 2026 17:54:44 +0000",
-      "age_hours": "24.87",
+      "age_hours": "25.49",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
+    },
+    {
+      "headline": "Meta's Muse AI works and creeps me out",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "snapshot": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you with online shopping, emails, trip-planning, and more. I decided to try out... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Meta, Muse AI, Muse",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's Muse AI works and creeps me out",
+        "Source context: Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-10T11:00:00-04:00",
+      "age_hours": "28.40",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "82",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "snapshot": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Alibaba, Moonshot AI, DeepSeek",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "Source context: A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 10 Sep 2026 20:57:30 +0000",
+      "age_hours": "22.45",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "86",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
