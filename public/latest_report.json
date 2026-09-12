@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "OpenAI just wants to win",
-  "snapshot": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-09-12 10:25:53 AM ET",
-  "generated_at": "2026-09-12 10:25:53 AM ET",
+  "headline": "Anthropic CEO says it's time to pump the brakes on AI",
+  "snapshot": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+  "updated_at": "2026-09-12 12:42:14 PM ET",
+  "generated_at": "2026-09-12 12:42:14 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 41,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 13,
-    "public_fallback_items": 32,
-    "stale_or_blocked_items": 40,
+    "total_items_checked": 29,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 15,
+    "public_fallback_items": 29,
+    "stale_or_blocked_items": 25,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-12 10:25:53 AM ET"
+    "last_checked": "2026-09-12 12:42:14 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,39 +44,68 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-11T12:09:14-04:00",
-      "age_hours": "22.28",
+      "age_hours": "24.55",
       "freshness_status": "editor_fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
     },
     {
-      "headline": "An Anthropic researcher's doomsday warning comes at a very interesting time",
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "snapshot": "An Anthropic researcher resigned this week, warning in a post on X that the company is \"racing straight to self-improving superintelligence and gambling with our lives\". The company's own alignment lead even co-signed the message rather than walking it back. It's the kind of... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Anthropic CEO says it's time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "snapshot": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Anthropic, It",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Anthropic CEO, Anthropic CEO Dario Amodei, METR, In",
+        "AI desk signal: model",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An Anthropic researcher's doomsday warning comes at a very interesting time",
-        "Source context: An Anthropic researcher resigned this week, warning in a post on X that the company is \"racing straight to self-improving superintelligence and..."
+        "Story focus: Anthropic CEO says it's time to pump the brakes on AI",
+        "Source context: Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic CEO.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 18:41:49 +0000",
-      "age_hours": "19.73",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "66",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-12T12:23:40-04:00",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump is giving data centers a pass to pollute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "snapshot": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely -... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Trump, President Donald Trump, Americans, EPA",
+        "AI desk signal: chip, data center, regulation",
+        "Story focus: Trump is giving data centers a pass to pollute",
+        "Source context: President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Trump.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-12T10:41:27-04:00",
+      "age_hours": "2.01",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -103,21 +132,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 11 Sep 2026 20:59:47 +0000",
-      "age_hours": "17.44",
+      "age_hours": "19.71",
       "freshness_status": "editor_fresh",
       "editorial_score": "84",
       "urgency": ""
     },
     {
-      "headline": "OpenAI just wants to win",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "snapshot": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Anthropic CEO outlines plan to 'pace the frontier'",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "snapshot": "What would it actually look like to \"pace the frontier\"? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: OpenAI, Millennium Prize, In",
+        "Key people or organizations: Anthropic CEO",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI just wants to win",
-        "Source context: OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest..."
+        "Story focus: Anthropic CEO outlines plan to 'pace the frontier'",
+        "Source context: What would it actually look like to \"pace the frontier\"? The competitive question is whether this changes the model race, enterprise integrations or..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -125,52 +154,52 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic CEO.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-12T07:00:00-04:00",
-      "age_hours": "3.43",
-      "freshness_status": "fresh",
-      "editorial_score": "81",
-      "urgency": ""
-    },
-    {
-      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "snapshot": "The round for the two-year-old startup is coming together months after Mecka announced its Series A. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Mecka AI, Sequoia, Mecka, Series",
-        "Specific figures mentioned: $500M",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "Source context: The round for the two-year-old startup is coming together months after Mecka announced its Series A. The larger angle is AI infrastructure: compute..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Mecka AI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "age_hours": "15.46",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "68",
-      "urgency": "WATCH"
+      "published": "Sat, 12 Sep 2026 15:52:11 +0000",
+      "age_hours": "0.83",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Anthropic CEO says it's time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "snapshot": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: Anthropic CEO, Anthropic CEO Dario Amodei, METR, In",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic CEO says it's time to pump the brakes on AI",
+        "Source context: Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic CEO.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-12T12:23:40-04:00",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": ""
+    },
+    {
       "headline": "Anthropic spent this week in hot water over cybersecurity",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
       "snapshot": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems its models' single-minded... The competitive question is whether this changes the model race, enterprise integrations or customer...",
@@ -195,10 +224,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-11T12:09:14-04:00",
-      "age_hours": "22.28",
+      "age_hours": "24.55",
       "freshness_status": "editor_fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Trump is giving data centers a pass to pollute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "snapshot": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely -... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Trump, President Donald Trump, Americans, EPA",
+        "AI desk signal: chip, data center, regulation",
+        "Story focus: Trump is giving data centers a pass to pollute",
+        "Source context: President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Trump.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-12T10:41:27-04:00",
+      "age_hours": "2.01",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
     },
     {
       "headline": "Y Combinator's Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
@@ -224,21 +282,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 11 Sep 2026 20:59:47 +0000",
-      "age_hours": "17.44",
+      "age_hours": "19.71",
       "freshness_status": "editor_fresh",
       "editorial_score": "84",
       "urgency": ""
     },
     {
-      "headline": "OpenAI just wants to win",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "snapshot": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium Prize problem. In normal circumstances, this would have been celebrated as a... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Anthropic CEO outlines plan to 'pace the frontier'",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "snapshot": "What would it actually look like to \"pace the frontier\"? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: OpenAI, Millennium Prize, In",
+        "Key people or organizations: Anthropic CEO",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI just wants to win",
-        "Source context: OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest..."
+        "Story focus: Anthropic CEO outlines plan to 'pace the frontier'",
+        "Source context: What would it actually look like to \"pace the frontier\"? The competitive question is whether this changes the model race, enterprise integrations or..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -246,86 +304,85 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic CEO.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-12T07:00:00-04:00",
-      "age_hours": "3.43",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 12 Sep 2026 15:52:11 +0000",
+      "age_hours": "0.83",
       "freshness_status": "fresh",
-      "editorial_score": "81",
-      "urgency": ""
-    },
-    {
-      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "snapshot": "The round for the two-year-old startup is coming together months after Mecka announced its Series A. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Mecka AI, Sequoia, Mecka, Series",
-        "Specific figures mentioned: $500M",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "Source context: The round for the two-year-old startup is coming together months after Mecka announced its Series A. The larger angle is AI infrastructure: compute..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Mecka AI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "age_hours": "15.46",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "68",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "An Anthropic researcher's doomsday warning comes at a very interesting time",
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "snapshot": "An Anthropic researcher resigned this week, warning in a post on X that the company is \"racing straight to self-improving superintelligence and gambling with our lives\". The company's own alignment lead even co-signed the message rather than walking it back. It's the kind of... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Anthropic, It",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An Anthropic researcher's doomsday warning comes at a very interesting time",
-        "Source context: An Anthropic researcher resigned this week, warning in a post on X that the company is \"racing straight to self-improving superintelligence and..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 18:41:49 +0000",
-      "age_hours": "19.73",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "66",
+      "editorial_score": "76",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "OpenAI just wants to win",
-    "Anthropic spent this week in hot water over cybersecurity",
-    "Y Combinator's Garry Tan wants US open-weight AI labs to 'distill' frontier models, too"
+    "Anthropic CEO says it's time to pump the brakes on AI",
+    "Trump is giving data centers a pass to pollute",
+    "OpenAI just wants to win"
   ],
   "sections": [
+    {
+      "headline": "Anthropic CEO says it's time to pump the brakes on AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "snapshot": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: Anthropic CEO, Anthropic CEO Dario Amodei, METR, In",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic CEO says it's time to pump the brakes on AI",
+        "Source context: Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic CEO.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-12T12:23:40-04:00",
+      "age_hours": "0.31",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": ""
+    },
+    {
+      "headline": "Trump is giving data centers a pass to pollute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "snapshot": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely -... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Trump, President Donald Trump, Americans, EPA",
+        "AI desk signal: chip, data center, regulation",
+        "Story focus: Trump is giving data centers a pass to pollute",
+        "Source context: President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Trump.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-12T10:41:27-04:00",
+      "age_hours": "2.01",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
     {
       "headline": "OpenAI just wants to win",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
@@ -351,9 +408,68 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-12T07:00:00-04:00",
-      "age_hours": "3.43",
+      "age_hours": "5.70",
       "freshness_status": "fresh",
       "editorial_score": "81",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic CEO outlines plan to 'pace the frontier'",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "snapshot": "What would it actually look like to \"pace the frontier\"? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic CEO",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic CEO outlines plan to 'pace the frontier'",
+        "Source context: What would it actually look like to \"pace the frontier\"? The competitive question is whether this changes the model race, enterprise integrations or..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic CEO.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 12 Sep 2026 15:52:11 +0000",
+      "age_hours": "0.83",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": ""
+    },
+    {
+      "headline": "Y Combinator's Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "snapshot": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren't Chinese. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
+      "key_data": [
+        "Key people or organizations: Combinator, Garry Tan, US, Tan",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: Y Combinator's Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+        "Source context: Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Combinator.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 11 Sep 2026 20:59:47 +0000",
+      "age_hours": "19.71",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -381,129 +497,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-11T12:09:14-04:00",
-      "age_hours": "22.28",
+      "age_hours": "24.55",
       "freshness_status": "editor_fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Y Combinator's Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "snapshot": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren't Chinese. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
-      "key_data": [
-        "Key people or organizations: Combinator, Garry Tan, US, Tan",
-        "AI desk signal: model, chip, enterprise",
-        "Story focus: Y Combinator's Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-        "Source context: Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Combinator.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 20:59:47 +0000",
-      "age_hours": "17.44",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "snapshot": "The round for the two-year-old startup is coming together months after Mecka announced its Series A. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Mecka AI, Sequoia, Mecka, Series",
-        "Specific figures mentioned: $500M",
-        "AI desk signal: chip, enterprise",
-        "Story focus: Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "Source context: The round for the two-year-old startup is coming together months after Mecka announced its Series A. The larger angle is AI infrastructure: compute..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Mecka AI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 22:58:17 +0000",
-      "age_hours": "15.46",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "68",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "An Anthropic researcher's doomsday warning comes at a very interesting time",
-      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "snapshot": "An Anthropic researcher resigned this week, warning in a post on X that the company is \"racing straight to self-improving superintelligence and gambling with our lives\". The company's own alignment lead even co-signed the message rather than walking it back. It's the kind of... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Anthropic, It",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An Anthropic researcher's doomsday warning comes at a very interesting time",
-        "Source context: An Anthropic researcher resigned this week, warning in a post on X that the company is \"racing straight to self-improving superintelligence and..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 11 Sep 2026 18:41:49 +0000",
-      "age_hours": "19.73",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "66",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta says it's changing AI suggestions after posing invasive personal questions",
-      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "snapshot": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism. In a statement to The Verge, Meta spokesperson Dina El-Kassaby says the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Meta, Futurism, In, Verge",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta says it's changing AI suggestions after posing invasive personal questions",
-        "Source context: Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-11T10:25:21-04:00",
-      "age_hours": "24.01",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "54",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
