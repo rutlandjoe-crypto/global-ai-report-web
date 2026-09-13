@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Anthropic CEO says it's time to pump the brakes on AI",
-  "snapshot": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed a three-step plan to \"pace... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-09-13 01:12:10 PM ET",
-  "generated_at": "2026-09-13 01:12:10 PM ET",
+  "headline": "Obama urges Democrats to have a 'clear plan' for AI safeguards",
+  "snapshot": "Obama recently said that Democrats need to make artificial intelligence one of their \"central agendas\" and \"have a very clear plan\" to address concerns around the technology's economic impact and safety. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
+  "updated_at": "2026-09-13 03:01:22 PM ET",
+  "generated_at": "2026-09-13 03:01:22 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 40,
-    "live_fresh_items": 0,
-    "editor_fresh_items": 6,
-    "public_fallback_items": 27,
-    "stale_or_blocked_items": 40,
+    "live_fresh_items": 1,
+    "editor_fresh_items": 7,
+    "public_fallback_items": 26,
+    "stale_or_blocked_items": 39,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-13 01:12:10 PM ET"
+    "last_checked": "2026-09-13 03:01:22 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-12T12:23:40-04:00",
-      "age_hours": "24.81",
+      "age_hours": "26.63",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -74,9 +74,37 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-12T17:41:36-04:00",
-      "age_hours": "19.51",
+      "age_hours": "21.33",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Obama urges Democrats to have a 'clear plan' for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "snapshot": "Obama recently said that Democrats need to make artificial intelligence one of their \"central agendas\" and \"have a very clear plan\" to address concerns around the technology's economic impact and safety. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
+      "key_data": [
+        "Key people or organizations: Obama, Democrats",
+        "Story focus: Obama urges Democrats to have a 'clear plan' for AI safeguards",
+        "Source context: Obama recently said that Democrats need to make artificial intelligence one of their \"central agendas\" and \"have a very clear plan\" to address..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Obama.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 13 Sep 2026 16:30:00 +0000",
+      "age_hours": "2.52",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
       "urgency": ""
     },
     {
@@ -104,7 +132,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-12T17:16:28-04:00",
-      "age_hours": "19.93",
+      "age_hours": "21.75",
       "freshness_status": "editor_fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -134,38 +162,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 12 Sep 2026 19:34:44 +0000",
-      "age_hours": "21.62",
+      "age_hours": "23.44",
       "freshness_status": "editor_fresh",
       "editorial_score": "62",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump is giving data centers a pass to pollute",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "snapshot": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely -... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Trump, President Donald Trump, Americans, EPA",
-        "AI desk signal: chip, data center, regulation",
-        "Story focus: Trump is giving data centers a pass to pollute",
-        "Source context: President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-12T10:41:27-04:00",
-      "age_hours": "26.51",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "60",
       "urgency": ""
     }
   ],
@@ -195,7 +194,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-12T12:23:40-04:00",
-      "age_hours": "24.81",
+      "age_hours": "26.63",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -225,9 +224,37 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-12T17:41:36-04:00",
-      "age_hours": "19.51",
+      "age_hours": "21.33",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Obama urges Democrats to have a 'clear plan' for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "snapshot": "Obama recently said that Democrats need to make artificial intelligence one of their \"central agendas\" and \"have a very clear plan\" to address concerns around the technology's economic impact and safety. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
+      "key_data": [
+        "Key people or organizations: Obama, Democrats",
+        "Story focus: Obama urges Democrats to have a 'clear plan' for AI safeguards",
+        "Source context: Obama recently said that Democrats need to make artificial intelligence one of their \"central agendas\" and \"have a very clear plan\" to address..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Obama.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 13 Sep 2026 16:30:00 +0000",
+      "age_hours": "2.52",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
       "urgency": ""
     },
     {
@@ -255,7 +282,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-12T17:16:28-04:00",
-      "age_hours": "19.93",
+      "age_hours": "21.75",
       "freshness_status": "editor_fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -285,47 +312,46 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 12 Sep 2026 19:34:44 +0000",
-      "age_hours": "21.62",
+      "age_hours": "23.44",
       "freshness_status": "editor_fresh",
       "editorial_score": "62",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump is giving data centers a pass to pollute",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "snapshot": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are urging - perhaps futilely -... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Trump, President Donald Trump, Americans, EPA",
-        "AI desk signal: chip, data center, regulation",
-        "Story focus: Trump is giving data centers a pass to pollute",
-        "Source context: President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-12T10:41:27-04:00",
-      "age_hours": "26.51",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "60",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Obama urges Democrats to have a 'clear plan' for AI safeguards",
     "Anthropic CEO says it's time to pump the brakes on AI",
-    "OpenAI's rogue AI tried to hack another company in May",
-    "Sam Altman says OpenAI going public in 2026 would be 'ill-advised'"
+    "OpenAI's rogue AI tried to hack another company in May"
   ],
   "sections": [
+    {
+      "headline": "Obama urges Democrats to have a 'clear plan' for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "snapshot": "Obama recently said that Democrats need to make artificial intelligence one of their \"central agendas\" and \"have a very clear plan\" to address concerns around the technology's economic impact and safety. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
+      "key_data": [
+        "Key people or organizations: Obama, Democrats",
+        "Story focus: Obama urges Democrats to have a 'clear plan' for AI safeguards",
+        "Source context: Obama recently said that Democrats need to make artificial intelligence one of their \"central agendas\" and \"have a very clear plan\" to address..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Obama.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 13 Sep 2026 16:30:00 +0000",
+      "age_hours": "2.52",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
+      "urgency": ""
+    },
     {
       "headline": "Anthropic CEO says it's time to pump the brakes on AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
@@ -351,7 +377,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-12T12:23:40-04:00",
-      "age_hours": "24.81",
+      "age_hours": "26.63",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -381,7 +407,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-12T17:41:36-04:00",
-      "age_hours": "19.51",
+      "age_hours": "21.33",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -411,7 +437,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-12T17:16:28-04:00",
-      "age_hours": "19.93",
+      "age_hours": "21.75",
       "freshness_status": "editor_fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -441,7 +467,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 12 Sep 2026 19:34:44 +0000",
-      "age_hours": "21.62",
+      "age_hours": "23.44",
       "freshness_status": "editor_fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -470,7 +496,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-12T10:41:27-04:00",
-      "age_hours": "26.51",
+      "age_hours": "28.33",
       "freshness_status": "editor_fresh",
       "editorial_score": "60",
       "urgency": ""
