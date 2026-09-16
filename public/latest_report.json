@@ -3,22 +3,51 @@
   "vertical": "AI",
   "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
   "snapshot": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-09-15 08:51:48 PM ET",
-  "generated_at": "2026-09-15 08:51:48 PM ET",
+  "updated_at": "2026-09-15 09:00:53 PM ET",
+  "generated_at": "2026-09-15 09:00:53 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 30,
+    "total_items_checked": 42,
     "live_fresh_items": 15,
-    "editor_fresh_items": 26,
-    "public_fallback_items": 27,
-    "stale_or_blocked_items": 15,
+    "editor_fresh_items": 29,
+    "public_fallback_items": 34,
+    "stale_or_blocked_items": 27,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-15 08:51:48 PM ET"
+    "last_checked": "2026-09-15 09:00:53 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "AI and data centers are incredibly unpopular in every poll",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "snapshot": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Poll, York Times, Siena University, Asked",
+        "AI desk signal: chip, data center",
+        "Story focus: AI and data centers are incredibly unpopular in every poll",
+        "Source context: Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Poll.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-15T19:34:25-04:00",
+      "age_hours": "1.44",
+      "freshness_status": "fresh",
+      "editorial_score": "104",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
       "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
@@ -44,37 +73,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "age_hours": "4.65",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": ""
-    },
-    {
-      "headline": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "snapshot": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Early Anthropic, METR COO, Their, Artificial Intelligence Underwriting Company",
-        "Specific figures mentioned: $40 million",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Early Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "age_hours": "11.86",
+      "age_hours": "4.80",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -103,9 +102,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 15 Sep 2026 15:47:03 +0000",
-      "age_hours": "9.08",
+      "age_hours": "9.23",
       "freshness_status": "fresh",
       "editorial_score": "126",
+      "urgency": ""
+    },
+    {
+      "headline": "We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "snapshot": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: We, Nvidia, Jensen Huang, It",
+        "AI desk signal: chip, nvidia, enterprise, regulation",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says",
+        "Source context: AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 16 Sep 2026 00:20:39 +0000",
+      "age_hours": "0.67",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -133,38 +162,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-15T11:00:00-04:00",
-      "age_hours": "9.86",
+      "age_hours": "10.01",
       "freshness_status": "fresh",
       "editorial_score": "94",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "This doorbell camera lets a human security guard watch your front door",
-      "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "snapshot": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the company's Active Guard Outdoor Protection (starting at $49.99 a month). This...",
-      "key_data": [
-        "Key people or organizations: DIY, SimpliSafe, SimpliSafe Video Doorbell Series, Active Guard Outdoor Protection",
-        "Specific figures mentioned: 2, $199.99, $49.99",
-        "Story focus: This doorbell camera lets a human security guard watch your front door",
-        "Source context: DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from DIY.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-15T09:36:45-04:00",
-      "age_hours": "11.25",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
       "urgency": "WATCH"
     }
   ],
@@ -194,37 +194,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "age_hours": "4.65",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": ""
-    },
-    {
-      "headline": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "snapshot": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Early Anthropic, METR COO, Their, Artificial Intelligence Underwriting Company",
-        "Specific figures mentioned: $40 million",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Early Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "age_hours": "11.86",
+      "age_hours": "4.80",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -253,21 +223,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 15 Sep 2026 15:47:03 +0000",
-      "age_hours": "9.08",
+      "age_hours": "9.23",
       "freshness_status": "fresh",
       "editorial_score": "126",
       "urgency": ""
     },
     {
-      "headline": "Microsoft says 'people matter more than AI' following safety concerns",
-      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "snapshot": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "headline": "Microsoft's new AI 'code of conduct' tells models not to hack systems or trick humans",
+      "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+      "snapshot": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those principles. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights,...",
       "key_data": [
-        "Key people or organizations: Microsoft, Anthropic CEO Dario Amodei",
-        "Specific figures mentioned: 37",
+        "Key people or organizations: Microsoft, Microsoft AI",
         "AI desk signal: model",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft says 'people matter more than AI' following safety concerns"
+        "Story focus: Microsoft's new AI 'code of conduct' tells models not to hack systems or trick humans",
+        "Source context: The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance,..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -280,13 +250,42 @@
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 14 Sep 2026 16:27:53 +0000",
+      "age_hours": "32.55",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "AI and data centers are incredibly unpopular in every poll",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "snapshot": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Poll, York Times, Siena University, Asked",
+        "AI desk signal: chip, data center",
+        "Story focus: AI and data centers are incredibly unpopular in every poll",
+        "Source context: Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Poll.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-14T09:00:00-04:00",
-      "age_hours": "35.86",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "98",
-      "urgency": ""
+      "published": "2026-09-15T19:34:25-04:00",
+      "age_hours": "1.44",
+      "freshness_status": "fresh",
+      "editorial_score": "104",
+      "urgency": "WATCH"
     },
     {
       "headline": "Meta's new One subscriptions put a price on social media and AI",
@@ -313,7 +312,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-15T11:00:00-04:00",
-      "age_hours": "9.86",
+      "age_hours": "10.01",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": "WATCH"
@@ -321,8 +320,8 @@
   ],
   "key_storylines": [
     "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-    "OpenAI, Anthropic, Google have been in talks on AI safety for weeks"
+    "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+    "We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says"
   ],
   "sections": [
     {
@@ -350,37 +349,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "age_hours": "4.65",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": ""
-    },
-    {
-      "headline": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "snapshot": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Early Anthropic, METR COO, Their, Artificial Intelligence Underwriting Company",
-        "Specific figures mentioned: $40 million",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Early Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "age_hours": "11.86",
+      "age_hours": "4.80",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -409,10 +378,69 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 15 Sep 2026 15:47:03 +0000",
-      "age_hours": "9.08",
+      "age_hours": "9.23",
       "freshness_status": "fresh",
       "editorial_score": "126",
       "urgency": ""
+    },
+    {
+      "headline": "We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "snapshot": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: We, Nvidia, Jensen Huang, It",
+        "AI desk signal: chip, nvidia, enterprise, regulation",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says",
+        "Source context: AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 16 Sep 2026 00:20:39 +0000",
+      "age_hours": "0.67",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "AI and data centers are incredibly unpopular in every poll",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "snapshot": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Poll, York Times, Siena University, Asked",
+        "AI desk signal: chip, data center",
+        "Story focus: AI and data centers are incredibly unpopular in every poll",
+        "Source context: Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Poll.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-15T19:34:25-04:00",
+      "age_hours": "1.44",
+      "freshness_status": "fresh",
+      "editorial_score": "104",
+      "urgency": "WATCH"
     },
     {
       "headline": "Meta's new One subscriptions put a price on social media and AI",
@@ -439,7 +467,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-15T11:00:00-04:00",
-      "age_hours": "9.86",
+      "age_hours": "10.01",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": "WATCH"
@@ -468,40 +496,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-15T09:36:45-04:00",
-      "age_hours": "11.25",
+      "age_hours": "11.40",
       "freshness_status": "fresh",
       "editorial_score": "64",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "snapshot": "AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: We, Nvidia, Jensen Huang, It",
-        "AI desk signal: chip, nvidia, enterprise, regulation",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: We don't need AI regulation — leave safety to us, Nvidia's Jensen Huang says",
-        "Source context: AI isn't some kind of new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from We.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 16 Sep 2026 00:20:39 +0000",
-      "age_hours": "0.52",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
