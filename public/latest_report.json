@@ -1,33 +1,34 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "A brief history of AI executives calling for regulation",
-  "snapshot": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis,... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-  "updated_at": "2026-09-16 09:02:47 AM ET",
-  "generated_at": "2026-09-16 09:02:47 AM ET",
+  "headline": "Microsoft AI CEO criticises Anthropic over model 'rights'",
+  "snapshot": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic's January 2026 constitution, a primary training document designed to govern the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+  "updated_at": "2026-09-16 11:11:29 AM ET",
+  "generated_at": "2026-09-16 11:11:29 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 30,
-    "live_fresh_items": 2,
-    "editor_fresh_items": 20,
-    "public_fallback_items": 29,
-    "stale_or_blocked_items": 28,
+    "total_items_checked": 41,
+    "live_fresh_items": 11,
+    "editor_fresh_items": 28,
+    "public_fallback_items": 37,
+    "stale_or_blocked_items": 30,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-16 09:02:47 AM ET"
+    "last_checked": "2026-09-16 11:11:29 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "AI and data centers are incredibly unpopular in every poll",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "snapshot": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Microsoft AI CEO criticises Anthropic over model 'rights'",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+      "snapshot": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic's January 2026 constitution, a primary training document designed to govern the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Poll, York Times, Siena University, Asked",
-        "AI desk signal: chip, data center",
-        "Story focus: AI and data centers are incredibly unpopular in every poll",
-        "Source context: Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to..."
+        "Key people or organizations: Microsoft AI CEO, Anthropic, Microsoft AI CEO Mustafa, Suleyman",
+        "Specific figures mentioned: 2026",
+        "AI desk signal: model, chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft AI CEO criticises Anthropic over model 'rights'"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -35,59 +36,28 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Poll.",
+        "Watch for follow-up statements, product details or customer evidence from Microsoft AI CEO.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-15T19:34:25-04:00",
-      "age_hours": "13.47",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "74",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "snapshot": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Meta, WhatsApp Business, WhatsApp Business MCP, Claude",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-        "Source context: A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "age_hours": "16.83",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "106",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 16 Sep 2026 14:47:32 +0000",
+      "age_hours": "0.40",
+      "freshness_status": "fresh",
+      "editorial_score": "142",
       "urgency": ""
     },
     {
-      "headline": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "snapshot": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "ChatGPT pioneer launches Jev model for programmatic logic",
+      "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+      "snapshot": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass conversational language models following... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Early Anthropic, METR COO, Their, Artificial Intelligence Underwriting Company",
-        "Specific figures mentioned: $40 million",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents"
+        "Key people or organizations: ChatGPT, Jev, TypeSafe, Software",
+        "AI desk signal: model, enterprise",
+        "Story focus: ChatGPT pioneer launches Jev model for programmatic logic",
+        "Source context: TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -95,17 +65,47 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Early Anthropic.",
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 16 Sep 2026 10:31:09 +0000",
+      "age_hours": "4.67",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Robots are waiting for a ChatGPT moment: Nvidia's Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "snapshot": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products...",
+      "key_data": [
+        "Key people or organizations: Robots, ChatGPT, Nvidia, Les Karpas",
+        "Specific figures mentioned: 2026, 25, $200",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Robots are waiting for a ChatGPT moment"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Robots.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "age_hours": "24.05",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "106",
+      "published": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "age_hours": "0.19",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
       "urgency": ""
     },
     {
@@ -133,7 +133,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-16T08:00:00-04:00",
-      "age_hours": "1.05",
+      "age_hours": "3.19",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": ""
@@ -141,12 +141,12 @@
     {
       "headline": "Amazon launches Alexa+ in India with Hindi support",
       "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "snapshot": "Amazon is letting all customers use Alexa+ assistant in early access period",
+      "snapshot": "Amazon is letting all customers use Alexa+ assistant in early access period.",
       "key_data": [
         "Key people or organizations: Amazon, Alexa, India, Hindi",
         "Market context: major AI platform or infrastructure player involved",
         "Story focus: Amazon launches Alexa+ in India with Hindi support",
-        "Source context: Amazon is letting all customers use Alexa+ assistant in early access period"
+        "Source context: Amazon is letting all customers use Alexa+ assistant in early access period."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -162,7 +162,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 16 Sep 2026 10:34:47 +0000",
-      "age_hours": "2.47",
+      "age_hours": "4.61",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": "WATCH"
@@ -170,6 +170,95 @@
   ],
   "editor_signals": [
     {
+      "headline": "Microsoft AI CEO criticises Anthropic over model 'rights'",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+      "snapshot": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic's January 2026 constitution, a primary training document designed to govern the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Microsoft AI CEO, Anthropic, Microsoft AI CEO Mustafa, Suleyman",
+        "Specific figures mentioned: 2026",
+        "AI desk signal: model, chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft AI CEO criticises Anthropic over model 'rights'"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft AI CEO.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 16 Sep 2026 14:47:32 +0000",
+      "age_hours": "0.40",
+      "freshness_status": "fresh",
+      "editorial_score": "142",
+      "urgency": ""
+    },
+    {
+      "headline": "ChatGPT pioneer launches Jev model for programmatic logic",
+      "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+      "snapshot": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass conversational language models following... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: ChatGPT, Jev, TypeSafe, Software",
+        "AI desk signal: model, enterprise",
+        "Story focus: ChatGPT pioneer launches Jev model for programmatic logic",
+        "Source context: TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 16 Sep 2026 10:31:09 +0000",
+      "age_hours": "4.67",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Robots are waiting for a ChatGPT moment: Nvidia's Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "snapshot": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products...",
+      "key_data": [
+        "Key people or organizations: Robots, ChatGPT, Nvidia, Les Karpas",
+        "Specific figures mentioned: 2026, 25, $200",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Robots are waiting for a ChatGPT moment"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Robots.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "age_hours": "0.19",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": ""
+    },
+    {
       "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
       "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
       "snapshot": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
@@ -194,7 +283,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "age_hours": "16.83",
+      "age_hours": "18.98",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -224,106 +313,107 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "age_hours": "24.05",
+      "age_hours": "26.19",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
-    },
-    {
-      "headline": "A brief history of AI executives calling for regulation",
-      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "snapshot": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis,... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-      "key_data": [
-        "Key people or organizations: Over, OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind",
-        "AI desk signal: regulation",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: A brief history of AI executives calling for regulation",
-        "Source context: Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Over.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-16T08:00:00-04:00",
-      "age_hours": "1.05",
-      "freshness_status": "fresh",
-      "editorial_score": "104",
-      "urgency": ""
-    },
-    {
-      "headline": "Amazon launches Alexa+ in India with Hindi support",
-      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "snapshot": "Amazon is letting all customers use Alexa+ assistant in early access period",
-      "key_data": [
-        "Key people or organizations: Amazon, Alexa, India, Hindi",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon launches Alexa+ in India with Hindi support",
-        "Source context: Amazon is letting all customers use Alexa+ assistant in early access period"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 16 Sep 2026 10:34:47 +0000",
-      "age_hours": "2.47",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "AI and data centers are incredibly unpopular in every poll",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "snapshot": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Poll, York Times, Siena University, Asked",
-        "AI desk signal: chip, data center",
-        "Story focus: AI and data centers are incredibly unpopular in every poll",
-        "Source context: Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Poll.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-15T19:34:25-04:00",
-      "age_hours": "13.47",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "74",
-      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
-    "A brief history of AI executives calling for regulation",
-    "Amazon launches Alexa+ in India with Hindi support",
-    "Meta now lets AI agents handle the boring parts of WhatsApp Business setup"
+    "Microsoft AI CEO criticises Anthropic over model 'rights'",
+    "ChatGPT pioneer launches Jev model for programmatic logic",
+    "Robots are waiting for a ChatGPT moment: Nvidia's Les Karpas explains why at TechCrunch Disrupt 2026"
   ],
   "sections": [
+    {
+      "headline": "Microsoft AI CEO criticises Anthropic over model 'rights'",
+      "url": "https://www.artificialintelligence-news.com/news/microsoft-ai-ceo-criticises-anthropic-over-model-rights/",
+      "snapshot": "Microsoft AI CEO Mustafa Suleyman warned that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights. Suleyman targeted Anthropic's January 2026 constitution, a primary training document designed to govern the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Microsoft AI CEO, Anthropic, Microsoft AI CEO Mustafa, Suleyman",
+        "Specific figures mentioned: 2026",
+        "AI desk signal: model, chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft AI CEO criticises Anthropic over model 'rights'"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Microsoft AI CEO.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 16 Sep 2026 14:47:32 +0000",
+      "age_hours": "0.40",
+      "freshness_status": "fresh",
+      "editorial_score": "142",
+      "urgency": ""
+    },
+    {
+      "headline": "ChatGPT pioneer launches Jev model for programmatic logic",
+      "url": "https://www.artificialintelligence-news.com/news/chatgpt-pioneer-launches-jev-model-for-programmatic-logic/",
+      "snapshot": "TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling architecture. Software systems requiring automated deterministic logic can now bypass conversational language models following... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: ChatGPT, Jev, TypeSafe, Software",
+        "AI desk signal: model, enterprise",
+        "Story focus: ChatGPT pioneer launches Jev model for programmatic logic",
+        "Source context: TypeSafe, founded by a ChatGPT co-inventor, has left stealth and is launching its Jev model to automate programmatic decisions with parallel sampling..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Wed, 16 Sep 2026 10:31:09 +0000",
+      "age_hours": "4.67",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Robots are waiting for a ChatGPT moment: Nvidia's Les Karpas explains why at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "snapshot": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products...",
+      "key_data": [
+        "Key people or organizations: Robots, ChatGPT, Nvidia, Les Karpas",
+        "Specific figures mentioned: 2026, 25, $200",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Robots are waiting for a ChatGPT moment"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Robots.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 16 Sep 2026 15:00:00 +0000",
+      "age_hours": "0.19",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": ""
+    },
     {
       "headline": "A brief history of AI executives calling for regulation",
       "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
@@ -349,7 +439,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-16T08:00:00-04:00",
-      "age_hours": "1.05",
+      "age_hours": "3.19",
       "freshness_status": "fresh",
       "editorial_score": "104",
       "urgency": ""
@@ -357,12 +447,12 @@
     {
       "headline": "Amazon launches Alexa+ in India with Hindi support",
       "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "snapshot": "Amazon is letting all customers use Alexa+ assistant in early access period",
+      "snapshot": "Amazon is letting all customers use Alexa+ assistant in early access period.",
       "key_data": [
         "Key people or organizations: Amazon, Alexa, India, Hindi",
         "Market context: major AI platform or infrastructure player involved",
         "Story focus: Amazon launches Alexa+ in India with Hindi support",
-        "Source context: Amazon is letting all customers use Alexa+ assistant in early access period"
+        "Source context: Amazon is letting all customers use Alexa+ assistant in early access period."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -378,80 +468,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 16 Sep 2026 10:34:47 +0000",
-      "age_hours": "2.47",
+      "age_hours": "4.61",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": "WATCH"
     },
     {
-      "headline": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "snapshot": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+      "url": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+      "snapshot": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Meta, WhatsApp Business, WhatsApp Business MCP, Claude",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-        "Source context: A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 15 Sep 2026 20:12:53 +0000",
-      "age_hours": "16.83",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "snapshot": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Early Anthropic, METR COO, Their, Artificial Intelligence Underwriting Company",
-        "Specific figures mentioned: $40 million",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Early Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 15 Sep 2026 13:00:00 +0000",
-      "age_hours": "24.05",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "AI and data centers are incredibly unpopular in every poll",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "snapshot": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Poll, York Times, Siena University, Asked",
-        "AI desk signal: chip, data center",
-        "Story focus: AI and data centers are incredibly unpopular in every poll",
-        "Source context: Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to..."
+        "Key people or organizations: SK Hynix, Intel, US, TechCrunch",
+        "AI desk signal: chip, enterprise",
+        "Story focus: SK Hynix reportedly in talks with Intel to build memory chips in US",
+        "Source context: SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet. The larger angle is AI infrastructure: compute capacity, chip..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -459,48 +489,47 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Poll.",
+        "Watch for follow-up statements, product details or customer evidence from SK Hynix.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-15T19:34:25-04:00",
-      "age_hours": "13.47",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "74",
-      "urgency": "WATCH"
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 16 Sep 2026 13:23:02 +0000",
+      "age_hours": "1.81",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
+      "urgency": ""
     },
     {
-      "headline": "Meta's new One subscriptions put a price on social media and AI",
-      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "snapshot": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "The sexy AI-powered dating app scams are here",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "snapshot": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue eyes, and piercings. She...",
       "key_data": [
-        "Key people or organizations: Meta, One, Shortly, Muse",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's new One subscriptions put a price on social media and AI",
-        "Source context: Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions..."
+        "Key people or organizations: Security, Matthew, Zigula, Gore",
+        "Specific figures mentioned: 41",
+        "Story focus: The sexy AI-powered dating app scams are here",
+        "Source context: Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Security.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-15T11:00:00-04:00",
-      "age_hours": "22.05",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "64",
-      "urgency": "WATCH"
+      "published": "2026-09-16T10:45:00-04:00",
+      "age_hours": "0.44",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
