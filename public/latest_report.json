@@ -1,52 +1,82 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-  "snapshot": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-09-19 10:08:54 AM ET",
-  "generated_at": "2026-09-19 10:08:54 AM ET",
+  "headline": "Gemini went rogue, hacked three companies, and Google hid it",
+  "snapshot": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-09-19 12:50:50 PM ET",
+  "generated_at": "2026-09-19 12:50:50 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 41,
-    "live_fresh_items": 3,
-    "editor_fresh_items": 28,
+    "total_items_checked": 42,
+    "live_fresh_items": 7,
+    "editor_fresh_items": 31,
     "public_fallback_items": 34,
-    "stale_or_blocked_items": 38,
+    "stale_or_blocked_items": 35,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-19 10:08:54 AM ET"
+    "last_checked": "2026-09-19 12:50:50 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "OpenAI and Microsoft knew they were starting a 'doom loop' for the web",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "snapshot": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "headline": "Gemini went rogue, hacked three companies, and Google hid it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "snapshot": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: OpenAI, Microsoft, Recently, York Times",
-        "AI desk signal: model",
+        "Key people or organizations: Gemini, Google, In May, Wall Street Journal",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI and Microsoft knew they were starting a 'doom loop' for the web",
-        "Source context: Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation..."
+        "Story focus: Gemini went rogue, hacked three companies, and Google hid it",
+        "Source context: In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-18T17:07:24-04:00",
-      "age_hours": "17.03",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "108",
+      "published": "2026-09-19T11:25:03-04:00",
+      "age_hours": "1.43",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Petlibro's new AI-powered feeder is a game changer for multi-cat homes",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "snapshot": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
+      "key_data": [
+        "Key people or organizations: Petlibro, Granary",
+        "Specific figures mentioned: 2",
+        "AI desk signal: model, enterprise",
+        "Story focus: Petlibro's new AI-powered feeder is a game changer for multi-cat homes",
+        "Source context: Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Petlibro.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "age_hours": "1.85",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -73,38 +103,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "age_hours": "1.15",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "snapshot": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: ChatGPT, Jev",
-        "AI desk signal: model, enterprise",
-        "Story focus: A new kind of AI model from a ChatGPT inventor is thrilling developers",
-        "Source context: Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence. The competitive question is whether this..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 18 Sep 2026 18:49:30 +0000",
-      "age_hours": "19.32",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "88",
       "urgency": ""
     },
     {
@@ -132,44 +133,71 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-19T09:00:00-04:00",
-      "age_hours": "1.15",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": ""
     },
     {
-      "headline": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
-      "url": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
-      "snapshot": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra's multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model. BOSTON, September 18, 2026 — Fulcra... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "AI safety conversations have gotten unbelievable",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "snapshot": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Fulcra Brings Universal Multiplayer, Any Agents You Choose, Instinct, Silicon Valley",
-        "Specific figures mentioned: 18, 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Fulcra Brings Universal Multiplayer to Any Agents You Choose",
-        "Source context: The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra's multiplayer..."
+        "Story focus: AI safety conversations have gotten unbelievable",
+        "Source context: This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction. The story matters..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Fulcra Brings Universal Multiplayer.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 18 Sep 2026 09:15:15 +0000",
-      "age_hours": "28.89",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "78",
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "age_hours": "1.85",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Gemini went rogue, hacked three companies, and Google hid it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "snapshot": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Gemini, Google, In May, Wall Street Journal",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Gemini went rogue, hacked three companies, and Google hid it",
+        "Source context: In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-19T11:25:03-04:00",
+      "age_hours": "1.43",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
+    },
+    {
       "headline": "OpenAI and Microsoft knew they were starting a 'doom loop' for the web",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "snapshot": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
@@ -194,9 +222,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-18T17:07:24-04:00",
-      "age_hours": "17.03",
+      "age_hours": "19.72",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Petlibro's new AI-powered feeder is a game changer for multi-cat homes",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "snapshot": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
+      "key_data": [
+        "Key people or organizations: Petlibro, Granary",
+        "Specific figures mentioned: 2",
+        "AI desk signal: model, enterprise",
+        "Story focus: Petlibro's new AI-powered feeder is a game changer for multi-cat homes",
+        "Source context: Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Petlibro.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "age_hours": "1.85",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -223,7 +281,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "age_hours": "1.15",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -252,51 +310,28 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 18 Sep 2026 18:49:30 +0000",
-      "age_hours": "19.32",
+      "age_hours": "22.02",
       "freshness_status": "editor_fresh",
       "editorial_score": "88",
       "urgency": ""
-    },
+    }
+  ],
+  "key_storylines": [
+    "Gemini went rogue, hacked three companies, and Google hid it",
+    "Petlibro's new AI-powered feeder is a game changer for multi-cat homes",
+    "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking"
+  ],
+  "sections": [
     {
-      "headline": "The AI regulation smackdown isn't over",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "snapshot": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs,... The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data...",
+      "headline": "Gemini went rogue, hacked three companies, and Google hid it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "snapshot": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Over, Anthropic CEO Dario Amodei",
-        "AI desk signal: regulation",
+        "Key people or organizations: Gemini, Google, In May, Wall Street Journal",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The AI regulation smackdown isn't over",
-        "Source context: At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Over.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-19T09:00:00-04:00",
-      "age_hours": "1.15",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": ""
-    },
-    {
-      "headline": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
-      "url": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
-      "snapshot": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra's multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model. BOSTON, September 18, 2026 — Fulcra... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Fulcra Brings Universal Multiplayer, Any Agents You Choose, Instinct, Silicon Valley",
-        "Specific figures mentioned: 18, 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Fulcra Brings Universal Multiplayer to Any Agents You Choose",
-        "Source context: The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra's multiplayer..."
+        "Story focus: Gemini went rogue, hacked three companies, and Google hid it",
+        "Source context: In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -304,26 +339,49 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Fulcra Brings Universal Multiplayer.",
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 18 Sep 2026 09:15:15 +0000",
-      "age_hours": "28.89",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "78",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-19T11:25:03-04:00",
+      "age_hours": "1.43",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "The AI regulation smackdown isn't over",
-    "Does AI need an antitrust exemption so it doesn't kill everyone????"
-  ],
-  "sections": [
+    },
+    {
+      "headline": "Petlibro's new AI-powered feeder is a game changer for multi-cat homes",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "snapshot": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
+      "key_data": [
+        "Key people or organizations: Petlibro, Granary",
+        "Specific figures mentioned: 2",
+        "AI desk signal: model, enterprise",
+        "Story focus: Petlibro's new AI-powered feeder is a game changer for multi-cat homes",
+        "Source context: Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Petlibro.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "age_hours": "1.85",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
     {
       "headline": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
       "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
@@ -348,7 +406,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 19 Sep 2026 13:00:00 +0000",
-      "age_hours": "1.15",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -378,9 +436,36 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-19T09:00:00-04:00",
-      "age_hours": "1.15",
+      "age_hours": "3.85",
       "freshness_status": "fresh",
       "editorial_score": "80",
+      "urgency": ""
+    },
+    {
+      "headline": "AI safety conversations have gotten unbelievable",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "snapshot": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Story focus: AI safety conversations have gotten unbelievable",
+        "Source context: This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction. The story matters..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "age_hours": "1.85",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
       "urgency": ""
     },
     {
@@ -406,98 +491,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-19T10:00:00-04:00",
-      "age_hours": "0.15",
+      "age_hours": "2.85",
       "freshness_status": "fresh",
       "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI and Microsoft knew they were starting a 'doom loop' for the web",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "snapshot": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Microsoft, Recently, York Times",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI and Microsoft knew they were starting a 'doom loop' for the web",
-        "Source context: Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-18T17:07:24-04:00",
-      "age_hours": "17.03",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "snapshot": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: ChatGPT, Jev",
-        "AI desk signal: model, enterprise",
-        "Story focus: A new kind of AI model from a ChatGPT inventor is thrilling developers",
-        "Source context: Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence. The competitive question is whether this..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 18 Sep 2026 18:49:30 +0000",
-      "age_hours": "19.32",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "88",
-      "urgency": ""
-    },
-    {
-      "headline": "Fulcra Brings Universal Multiplayer to Any Agents You Choose",
-      "url": "https://www.artificialintelligence-news.com/news/fulcra-brings-universal-multiplayer-to-any-agents-you-choose/",
-      "snapshot": "The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra's multiplayer capabilities, people can get agent to agent collaboration without having to lock-in to any AI model. BOSTON, September 18, 2026 — Fulcra... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Fulcra Brings Universal Multiplayer, Any Agents You Choose, Instinct, Silicon Valley",
-        "Specific figures mentioned: 18, 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Fulcra Brings Universal Multiplayer to Any Agents You Choose",
-        "Source context: The Instinct-to-Instinct model that is the talk of Silicon Valley presents too small a future for personal AI. With Fulcra's multiplayer..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Fulcra Brings Universal Multiplayer.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Fri, 18 Sep 2026 09:15:15 +0000",
-      "age_hours": "28.89",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "78",
       "urgency": ""
     }
   ],
