@@ -3,62 +3,32 @@
   "vertical": "AI",
   "headline": "Meta patches Muse exploit that let attackers control the AI agent",
   "snapshot": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patrick Wardle utilized an undocumented Muse setting that enabled potential... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-09-22 08:08:28 AM ET",
-  "generated_at": "2026-09-22 08:08:28 AM ET",
+  "updated_at": "2026-09-22 11:23:04 AM ET",
+  "generated_at": "2026-09-22 11:23:04 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 29,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 16,
-    "public_fallback_items": 29,
-    "stale_or_blocked_items": 28,
+    "total_items_checked": 40,
+    "live_fresh_items": 10,
+    "editor_fresh_items": 26,
+    "public_fallback_items": 32,
+    "stale_or_blocked_items": 30,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-22 08:08:28 AM ET"
+    "last_checked": "2026-09-22 11:23:04 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Meta's AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "snapshot": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for...",
+      "headline": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "snapshot": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Meta, Amazon, As, Muse",
-        "AI desk signal: model, agent, chip",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI agent has been blocked from using Amazon.com",
-        "Source context: Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "age_hours": "18.22",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "146",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Amazon blocks Meta's Muse AI agent",
-      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "snapshot": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Amazon, Meta, Muse AI, GeekWire",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon blocks Meta's Muse AI agent",
-        "Source context: Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for..."
+        "Key people or organizations: AstroForge, Autonomy",
+        "Specific figures mentioned: 1",
+        "AI desk signal: model, enterprise",
+        "Story focus: AstroForge is putting AI in command of its next spacecraft",
+        "Source context: Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe. The competitive question is whether this changes the model..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -66,48 +36,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Watch for follow-up statements, product details or customer evidence from AstroForge.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-21T05:21:47-04:00",
-      "age_hours": "26.78",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "92",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Meta's Muse is outpacing ChatGPT's early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "snapshot": "Meta's new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Meta, Muse, ChatGPT, Canada",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's Muse is outpacing ChatGPT's early mobile launch",
-        "Source context: Meta's new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "age_hours": "16.82",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "106",
-      "urgency": "WATCH"
+      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Meta patches Muse exploit that let attackers control the AI agent",
@@ -134,39 +74,98 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-22T07:53:58-04:00",
-      "age_hours": "0.24",
+      "age_hours": "3.49",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "UN says AI safeguards can't wait for certainty",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "snapshot": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Toyota's $6.4bn robotics estimate puts physical AI in focus",
+      "url": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+      "snapshot": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment was discussed with investors earlier...",
       "key_data": [
-        "Key people or organizations: UN, Governments, United Nations, OpenAI",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: UN says AI safeguards can't wait for certainty",
-        "Source context: Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the..."
+        "Key people or organizations: Toyota, Toyota Motor",
+        "Specific figures mentioned: $6, 4, 400, 000",
+        "Story focus: Toyota's $6.4bn robotics estimate puts physical AI in focus",
+        "Source context: Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from UN.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Toyota.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-21T06:18:06-04:00",
-      "age_hours": "25.84",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "76",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "age_hours": "5.38",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "snapshot": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for...",
+      "key_data": [
+        "Key people or organizations: Five AI, TechCrunch Disrupt, Stage, Real World AI Stage",
+        "Specific figures mentioned: 2026, $200, 25",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Five AI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "96",
+      "urgency": ""
+    },
+    {
+      "headline": "Nscale's IPO will test Wall Street's appetite for concentrated AI bets once again",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "snapshot": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nscale, IPO, Wall Street, British AI",
+        "AI desk signal: chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nscale's IPO will test Wall Street's appetite for concentrated AI bets once again",
+        "Source context: The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue. The larger angle is AI infrastructure:..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nscale.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 22 Sep 2026 12:23:05 +0000",
+      "age_hours": "3.00",
+      "freshness_status": "fresh",
+      "editorial_score": "88",
       "urgency": ""
     }
   ],
@@ -196,7 +195,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "age_hours": "18.22",
+      "age_hours": "21.46",
       "freshness_status": "editor_fresh",
       "editorial_score": "146",
       "urgency": "DEVELOPING"
@@ -226,7 +225,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "age_hours": "16.82",
+      "age_hours": "20.06",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": "WATCH"
@@ -256,76 +255,75 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-22T07:53:58-04:00",
-      "age_hours": "0.24",
+      "age_hours": "3.49",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "Amazon blocks Meta's Muse AI agent",
-      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "snapshot": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Toyota's $6.4bn robotics estimate puts physical AI in focus",
+      "url": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+      "snapshot": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment was discussed with investors earlier...",
       "key_data": [
-        "Key people or organizations: Amazon, Meta, Muse AI, GeekWire",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon blocks Meta's Muse AI agent",
-        "Source context: Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for..."
+        "Key people or organizations: Toyota, Toyota Motor",
+        "Specific figures mentioned: $6, 4, 400, 000",
+        "Story focus: Toyota's $6.4bn robotics estimate puts physical AI in focus",
+        "Source context: Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Toyota.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-21T05:21:47-04:00",
-      "age_hours": "26.78",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "92",
-      "urgency": "DEVELOPING"
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "age_hours": "5.38",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
+      "urgency": ""
     },
     {
-      "headline": "UN says AI safeguards can't wait for certainty",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "snapshot": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "snapshot": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for...",
       "key_data": [
-        "Key people or organizations: UN, Governments, United Nations, OpenAI",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: Five AI, TechCrunch Disrupt, Stage, Real World AI Stage",
+        "Specific figures mentioned: 2026, $200, 25",
+        "AI desk signal: chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: UN says AI safeguards can't wait for certainty",
-        "Source context: Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the..."
+        "Story focus: Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda"
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from UN.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Five AI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-21T06:18:06-04:00",
-      "age_hours": "25.84",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "76",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "96",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "Meta patches Muse exploit that let attackers control the AI agent",
-    "Meta's AI agent has been blocked from using Amazon.com",
-    "Meta's Muse is outpacing ChatGPT's early mobile launch"
+    "Toyota's $6.4bn robotics estimate puts physical AI in focus",
+    "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda"
   ],
   "sections": [
     {
@@ -353,21 +351,50 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-22T07:53:58-04:00",
-      "age_hours": "0.24",
+      "age_hours": "3.49",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "Meta's AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "snapshot": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for...",
+      "headline": "Toyota's $6.4bn robotics estimate puts physical AI in focus",
+      "url": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
+      "snapshot": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment was discussed with investors earlier...",
       "key_data": [
-        "Key people or organizations: Meta, Amazon, As, Muse",
-        "AI desk signal: model, agent, chip",
+        "Key people or organizations: Toyota, Toyota Motor",
+        "Specific figures mentioned: $6, 4, 400, 000",
+        "Story focus: Toyota's $6.4bn robotics estimate puts physical AI in focus",
+        "Source context: Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Toyota.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Tue, 22 Sep 2026 10:00:00 +0000",
+      "age_hours": "5.38",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "snapshot": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for...",
+      "key_data": [
+        "Key people or organizations: Five AI, TechCrunch Disrupt, Stage, Real World AI Stage",
+        "Specific figures mentioned: 2026, $200, 25",
+        "AI desk signal: chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI agent has been blocked from using Amazon.com",
-        "Source context: Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no..."
+        "Story focus: Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -375,119 +402,59 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from Five AI.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "age_hours": "18.22",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "146",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Meta's Muse is outpacing ChatGPT's early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "snapshot": "Meta's new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Meta, Muse, ChatGPT, Canada",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's Muse is outpacing ChatGPT's early mobile launch",
-        "Source context: Meta's new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "age_hours": "16.82",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "106",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Amazon blocks Meta's Muse AI agent",
-      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "snapshot": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Amazon, Meta, Muse AI, GeekWire",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon blocks Meta's Muse AI agent",
-        "Source context: Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-21T05:21:47-04:00",
-      "age_hours": "26.78",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "92",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "UN says AI safeguards can't wait for certainty",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "snapshot": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: UN, Governments, United Nations, OpenAI",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: UN says AI safeguards can't wait for certainty",
-        "Source context: Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from UN.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-21T06:18:06-04:00",
-      "age_hours": "25.84",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "76",
+      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "96",
       "urgency": ""
     },
     {
-      "headline": "Google's $899 Googlebook is a bet that you'll buy a new laptop for Gemini",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "snapshot": "Google's AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Nscale's IPO will test Wall Street's appetite for concentrated AI bets once again",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "snapshot": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Google, Googlebook, Gemini",
-        "Specific figures mentioned: $899",
+        "Key people or organizations: Nscale, IPO, Wall Street, British AI",
+        "AI desk signal: chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nscale's IPO will test Wall Street's appetite for concentrated AI bets once again",
+        "Source context: The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue. The larger angle is AI infrastructure:..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nscale.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 22 Sep 2026 12:23:05 +0000",
+      "age_hours": "3.00",
+      "freshness_status": "fresh",
+      "editorial_score": "88",
+      "urgency": ""
+    },
+    {
+      "headline": "AstroForge is putting AI in command of its next spacecraft",
+      "url": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "snapshot": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: AstroForge, Autonomy",
+        "Specific figures mentioned: 1",
         "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google's $899 Googlebook is a bet that you'll buy a new laptop for Gemini"
+        "Story focus: AstroForge is putting AI in command of its next spacecraft",
+        "Source context: Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe. The competitive question is whether this changes the model..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -495,18 +462,46 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from AstroForge.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 14:39:22 +0000",
-      "age_hours": "21.49",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "62",
-      "urgency": ""
+      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "age_hours": "0.38",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "AutoScheduler launches warehouse app builder for logistics teams",
+      "url": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
+      "snapshot": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software module forms part of the company's wider Warehouse AI Platform, serving distribution centres that balance inventory, machinery, and...",
+      "key_data": [
+        "Key people or organizations: AutoScheduler, Warehouse AI Platform",
+        "Story focus: AutoScheduler launches warehouse app builder for logistics teams",
+        "Source context: AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from AutoScheduler.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.artificialintelligence-news.com/feed/",
+      "source_name": "AI News",
+      "published": "Tue, 22 Sep 2026 11:34:39 +0000",
+      "age_hours": "3.81",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
