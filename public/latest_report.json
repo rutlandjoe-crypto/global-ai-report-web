@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Meta's AI agent has been blocked from using Amazon.com",
   "snapshot": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for...",
-  "updated_at": "2026-09-21 09:17:27 PM ET",
-  "generated_at": "2026-09-21 09:17:27 PM ET",
+  "updated_at": "2026-09-22 01:47:46 AM ET",
+  "generated_at": "2026-09-22 01:47:46 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 41,
-    "live_fresh_items": 14,
-    "editor_fresh_items": 23,
-    "public_fallback_items": 31,
-    "stale_or_blocked_items": 27,
+    "total_items_checked": 29,
+    "live_fresh_items": 6,
+    "editor_fresh_items": 20,
+    "public_fallback_items": 29,
+    "stale_or_blocked_items": 23,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-21 09:17:27 PM ET"
+    "last_checked": "2026-09-22 01:47:46 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "age_hours": "7.37",
+      "age_hours": "11.87",
       "freshness_status": "fresh",
       "editorial_score": "176",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Amazon blocks Meta's Muse AI agent",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "snapshot": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Amazon, Meta, Muse AI, GeekWire",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon blocks Meta's Muse AI agent",
+        "Source context: Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-21T05:21:47-04:00",
+      "age_hours": "20.43",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "92",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,98 +104,67 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "age_hours": "5.97",
+      "age_hours": "10.47",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "WATCH"
     },
     {
-      "headline": "Multi-agent AI systems are taking over supply chain execution",
-      "url": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
-      "snapshot": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predictive demand models display recommendations, yet human planners still clear... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "snapshot": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
       "key_data": [
-        "Key people or organizations: Multi, Predictive",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Multi-agent AI systems are taking over supply chain execution",
-        "Source context: Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Multi.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Mon, 21 Sep 2026 15:32:54 +0000",
-      "age_hours": "9.74",
-      "freshness_status": "fresh",
-      "editorial_score": "126",
-      "urgency": ""
-    },
-    {
-      "headline": "iPhone owners can now submit claims in Apple's $250 million Siri AI settlement",
-      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "snapshot": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Apple, Siri AI, Siri, If",
-        "Specific figures mentioned: $250 million, 15, 16, 10",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Apple, Silicon Valley, Apple Store, Ron Johnson",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: iPhone owners can now submit claims in Apple's $250 million Siri AI settlement"
+        "Story focus: The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping",
+        "Source context: Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
         "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-21T09:36:52-04:00",
-      "age_hours": "11.68",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 21 Sep 2026 23:44:28 +0000",
+      "age_hours": "6.06",
       "freshness_status": "fresh",
-      "editorial_score": "102",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
-      "headline": "Google's $899 Googlebook is a bet that you'll buy a new laptop for Gemini",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "snapshot": "Google's AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "California tightens rules on AI data center energy and water use",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "snapshot": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Google, Googlebook, Gemini",
-        "Specific figures mentioned: $899",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google's $899 Googlebook is a bet that you'll buy a new laptop for Gemini"
+        "Key people or organizations: California, California Gov, Gavin Newsom, Los Angeles Times",
+        "AI desk signal: chip, data center",
+        "Story focus: California tightens rules on AI data center energy and water use",
+        "Source context: California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from California.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 14:39:22 +0000",
-      "age_hours": "10.63",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-21T16:29:45-04:00",
+      "age_hours": "9.30",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "80",
       "urgency": ""
     }
   ],
@@ -195,7 +194,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "age_hours": "7.37",
+      "age_hours": "11.87",
       "freshness_status": "fresh",
       "editorial_score": "176",
       "urgency": "DEVELOPING"
@@ -225,69 +224,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "age_hours": "5.97",
+      "age_hours": "10.47",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Multi-agent AI systems are taking over supply chain execution",
-      "url": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
-      "snapshot": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predictive demand models display recommendations, yet human planners still clear... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Multi, Predictive",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Multi-agent AI systems are taking over supply chain execution",
-        "Source context: Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Multi.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Mon, 21 Sep 2026 15:32:54 +0000",
-      "age_hours": "9.74",
-      "freshness_status": "fresh",
-      "editorial_score": "126",
-      "urgency": ""
-    },
-    {
-      "headline": "iPhone owners can now submit claims in Apple's $250 million Siri AI settlement",
-      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "snapshot": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Apple, Siri AI, Siri, If",
-        "Specific figures mentioned: $250 million, 15, 16, 10",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: iPhone owners can now submit claims in Apple's $250 million Siri AI settlement"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-21T09:36:52-04:00",
-      "age_hours": "11.68",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
     },
     {
       "headline": "Amazon blocks Meta's Muse AI agent",
@@ -314,176 +254,20 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-21T05:21:47-04:00",
-      "age_hours": "15.93",
+      "age_hours": "20.43",
       "freshness_status": "editor_fresh",
       "editorial_score": "92",
       "urgency": "DEVELOPING"
-    }
-  ],
-  "key_storylines": [
-    "Meta's AI agent has been blocked from using Amazon.com",
-    "Meta's Muse is outpacing ChatGPT's early mobile launch",
-    "Multi-agent AI systems are taking over supply chain execution"
-  ],
-  "sections": [
-    {
-      "headline": "Meta's AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "snapshot": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for...",
-      "key_data": [
-        "Key people or organizations: Meta, Amazon, As, Muse",
-        "AI desk signal: model, agent, chip",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI agent has been blocked from using Amazon.com",
-        "Source context: Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "age_hours": "7.37",
-      "freshness_status": "fresh",
-      "editorial_score": "176",
-      "urgency": "DEVELOPING"
     },
     {
-      "headline": "Meta's Muse is outpacing ChatGPT's early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "snapshot": "Meta's new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "snapshot": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
       "key_data": [
-        "Key people or organizations: Meta, Muse, ChatGPT, Canada",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: Apple, Silicon Valley, Apple Store, Ron Johnson",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's Muse is outpacing ChatGPT's early mobile launch",
-        "Source context: Meta's new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "age_hours": "5.97",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Multi-agent AI systems are taking over supply chain execution",
-      "url": "https://www.artificialintelligence-news.com/news/multi-agent-ai-systems-supply-chain-execution/",
-      "snapshot": "Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing logistics directors towards autonomous execution. Predictive demand models display recommendations, yet human planners still clear... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Multi, Predictive",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Multi-agent AI systems are taking over supply chain execution",
-        "Source context: Multi-agent AI systems are taking over supply chain execution as enterprise networks face diminishing returns from static dashboards, pushing..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Multi.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Mon, 21 Sep 2026 15:32:54 +0000",
-      "age_hours": "9.74",
-      "freshness_status": "fresh",
-      "editorial_score": "126",
-      "urgency": ""
-    },
-    {
-      "headline": "iPhone owners can now submit claims in Apple's $250 million Siri AI settlement",
-      "url": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "snapshot": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Apple, Siri AI, Siri, If",
-        "Specific figures mentioned: $250 million, 15, 16, 10",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: iPhone owners can now submit claims in Apple's $250 million Siri AI settlement"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-21T09:36:52-04:00",
-      "age_hours": "11.68",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Google's $899 Googlebook is a bet that you'll buy a new laptop for Gemini",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "snapshot": "Google's AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Googlebook, Gemini",
-        "Specific figures mentioned: $899",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google's $899 Googlebook is a bet that you'll buy a new laptop for Gemini"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 21 Sep 2026 14:39:22 +0000",
-      "age_hours": "10.63",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Can John Ternus find Apple's next big thing?",
-      "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-      "snapshot": "Today, I'm talking with Mark Gurman, who is the world's best-sourced Apple reporter — both as Bloomberg's chief Apple correspondent and the host of the upcoming podcast Power On. Earlier this month, Apple hosted its annual iPhone hardware event, virtually every detail of which...",
-      "key_data": [
-        "Key people or organizations: Can John Ternus, Apple, Today, Mark Gurman",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Can John Ternus find Apple's next big thing?",
-        "Source context: Today, I'm talking with Mark Gurman, who is the world's best-sourced Apple reporter — both as Bloomberg's chief Apple correspondent and the host of..."
+        "Story focus: The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping",
+        "Source context: Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -491,15 +275,15 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Can John Ternus.",
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-21T10:00:00-04:00",
-      "age_hours": "11.29",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 21 Sep 2026 23:44:28 +0000",
+      "age_hours": "6.06",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -528,9 +312,194 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-21T16:29:45-04:00",
-      "age_hours": "4.80",
+      "age_hours": "9.30",
       "freshness_status": "fresh",
       "editorial_score": "80",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Meta's AI agent has been blocked from using Amazon.com",
+    "Meta's Muse is outpacing ChatGPT's early mobile launch",
+    "The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping"
+  ],
+  "sections": [
+    {
+      "headline": "Meta's AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "snapshot": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for...",
+      "key_data": [
+        "Key people or organizations: Meta, Amazon, As, Muse",
+        "AI desk signal: model, agent, chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's AI agent has been blocked from using Amazon.com",
+        "Source context: Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 21 Sep 2026 17:55:18 +0000",
+      "age_hours": "11.87",
+      "freshness_status": "fresh",
+      "editorial_score": "176",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Meta's Muse is outpacing ChatGPT's early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "snapshot": "Meta's new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Meta, Muse, ChatGPT, Canada",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's Muse is outpacing ChatGPT's early mobile launch",
+        "Source context: Meta's new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 21 Sep 2026 19:19:21 +0000",
+      "age_hours": "10.47",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "snapshot": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "key_data": [
+        "Key people or organizations: Apple, Silicon Valley, Apple Store, Ron Johnson",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The man who built Apple's stores doesn't buy Silicon Valley's bet on AI shopping",
+        "Source context: Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 21 Sep 2026 23:44:28 +0000",
+      "age_hours": "6.06",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "California tightens rules on AI data center energy and water use",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "snapshot": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission to introduce a new rate... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: California, California Gov, Gavin Newsom, Los Angeles Times",
+        "AI desk signal: chip, data center",
+        "Story focus: California tightens rules on AI data center energy and water use",
+        "Source context: California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from California.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-21T16:29:45-04:00",
+      "age_hours": "9.30",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
+      "urgency": ""
+    },
+    {
+      "headline": "Amazon blocks Meta's Muse AI agent",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "snapshot": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Amazon, Meta, Muse AI, GeekWire",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon blocks Meta's Muse AI agent",
+        "Source context: Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-21T05:21:47-04:00",
+      "age_hours": "20.43",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "snapshot": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: OpenAI",
+        "Specific figures mentioned: 100",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI forms math advisory group as its AI resolves more than 100 open problems"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 21 Sep 2026 20:15:58 +0000",
+      "age_hours": "9.53",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
