@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
   "snapshot": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-09-22 03:31:22 PM ET",
-  "generated_at": "2026-09-22 03:31:22 PM ET",
+  "updated_at": "2026-09-22 04:30:57 PM ET",
+  "generated_at": "2026-09-22 04:30:57 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 40,
+    "total_items_checked": 29,
     "live_fresh_items": 15,
-    "editor_fresh_items": 31,
-    "public_fallback_items": 32,
-    "stale_or_blocked_items": 25,
+    "editor_fresh_items": 28,
+    "public_fallback_items": 29,
+    "stale_or_blocked_items": 14,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-22 03:31:22 PM ET"
+    "last_checked": "2026-09-22 04:30:57 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 22 Sep 2026 18:00:00 +0000",
-      "age_hours": "1.52",
+      "age_hours": "2.52",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
@@ -74,9 +74,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-22T12:30:00-04:00",
-      "age_hours": "3.02",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "136",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "snapshot": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Qualcomm",
+        "Specific figures mentioned: 30",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: Qualcomm launches two new smartphone chips with emphasis on AI",
+        "Source context: Qualcomm said that its new top chip can run 30B mixture-of-expert model locally. The larger angle is AI infrastructure: compute capacity, chip access..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Qualcomm.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 22 Sep 2026 20:00:00 +0000",
+      "age_hours": "0.52",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
       "urgency": "WATCH"
     },
     {
@@ -104,7 +134,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 22 Sep 2026 16:30:07 +0000",
-      "age_hours": "3.02",
+      "age_hours": "4.01",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -134,38 +164,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-22T07:53:58-04:00",
-      "age_hours": "7.62",
+      "age_hours": "8.62",
       "freshness_status": "fresh",
       "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Toyota's $6.4bn robotics estimate puts physical AI in focus",
-      "url": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
-      "snapshot": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment was discussed with investors earlier...",
-      "key_data": [
-        "Key people or organizations: Toyota, Toyota Motor",
-        "Specific figures mentioned: $6, 4, 400, 000",
-        "Story focus: Toyota's $6.4bn robotics estimate puts physical AI in focus",
-        "Source context: Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Toyota.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Tue, 22 Sep 2026 10:00:00 +0000",
-      "age_hours": "9.52",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
       "urgency": ""
     }
   ],
@@ -195,7 +196,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 22 Sep 2026 18:00:00 +0000",
-      "age_hours": "1.52",
+      "age_hours": "2.52",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
@@ -225,7 +226,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "age_hours": "25.60",
+      "age_hours": "26.59",
       "freshness_status": "editor_fresh",
       "editorial_score": "146",
       "urgency": "DEVELOPING"
@@ -255,40 +256,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-22T12:30:00-04:00",
-      "age_hours": "3.02",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": "WATCH"
     },
     {
-      "headline": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "snapshot": "Anthropic called it \"the strongest-performing model we've tested to date.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "snapshot": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Anthropic, Opus, Fable",
-        "Specific figures mentioned: 5.5",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic releases Opus 5.5 with lower prices and Fable-level performance"
+        "Key people or organizations: Qualcomm",
+        "Specific figures mentioned: 30",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: Qualcomm launches two new smartphone chips with emphasis on AI",
+        "Source context: Qualcomm said that its new top chip can run 30B mixture-of-expert model locally. The larger angle is AI infrastructure: compute capacity, chip access..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Qualcomm.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 22 Sep 2026 16:30:07 +0000",
-      "age_hours": "3.02",
+      "published": "Tue, 22 Sep 2026 20:00:00 +0000",
+      "age_hours": "0.52",
       "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
+      "editorial_score": "134",
+      "urgency": "WATCH"
     },
     {
       "headline": "Meta patches Muse exploit that let attackers control the AI agent",
@@ -315,7 +316,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-22T07:53:58-04:00",
-      "age_hours": "7.62",
+      "age_hours": "8.62",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -324,7 +325,7 @@
   "key_storylines": [
     "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
     "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-    "Anthropic releases Opus 5.5 with lower prices and Fable-level performance"
+    "Qualcomm launches two new smartphone chips with emphasis on AI"
   ],
   "sections": [
     {
@@ -352,7 +353,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 22 Sep 2026 18:00:00 +0000",
-      "age_hours": "1.52",
+      "age_hours": "2.52",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
@@ -382,9 +383,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-22T12:30:00-04:00",
-      "age_hours": "3.02",
+      "age_hours": "4.02",
       "freshness_status": "fresh",
       "editorial_score": "136",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "snapshot": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Qualcomm",
+        "Specific figures mentioned: 30",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: Qualcomm launches two new smartphone chips with emphasis on AI",
+        "Source context: Qualcomm said that its new top chip can run 30B mixture-of-expert model locally. The larger angle is AI infrastructure: compute capacity, chip access..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Qualcomm.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 22 Sep 2026 20:00:00 +0000",
+      "age_hours": "0.52",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
       "urgency": "WATCH"
     },
     {
@@ -412,7 +443,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 22 Sep 2026 16:30:07 +0000",
-      "age_hours": "3.02",
+      "age_hours": "4.01",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -442,97 +473,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-22T07:53:58-04:00",
-      "age_hours": "7.62",
+      "age_hours": "8.62",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
-    },
-    {
-      "headline": "Toyota's $6.4bn robotics estimate puts physical AI in focus",
-      "url": "https://www.artificialintelligence-news.com/news/toyota-physical-ai-factory-robotics/",
-      "snapshot": "Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and annual spending of about 1 trillion yen ($6.4 billion) from 2028. The potential investment was discussed with investors earlier...",
-      "key_data": [
-        "Key people or organizations: Toyota, Toyota Motor",
-        "Specific figures mentioned: $6, 4, 400, 000",
-        "Story focus: Toyota's $6.4bn robotics estimate puts physical AI in focus",
-        "Source context: Toyota Motor estimates that expanding automation across its factories, group companies, and major suppliers could require around 400,000 robots and..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Toyota.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Tue, 22 Sep 2026 10:00:00 +0000",
-      "age_hours": "9.52",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": ""
-    },
-    {
-      "headline": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "url": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "snapshot": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for...",
-      "key_data": [
-        "Key people or organizations: Five AI, TechCrunch Disrupt, Stage, Real World AI Stage",
-        "Specific figures mentioned: 2026, 25, $200",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Five AI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 22 Sep 2026 15:00:00 +0000",
-      "age_hours": "4.52",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
-      "urgency": ""
-    },
-    {
-      "headline": "AutoScheduler launches warehouse app builder for logistics teams",
-      "url": "https://www.artificialintelligence-news.com/news/autoscheduler-warehouse-app-builder-for-logistics-teams/",
-      "snapshot": "AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software module forms part of the company's wider Warehouse AI Platform, serving distribution centres that balance inventory, machinery, and...",
-      "key_data": [
-        "Key people or organizations: AutoScheduler, Warehouse AI Platform",
-        "Story focus: AutoScheduler launches warehouse app builder for logistics teams",
-        "Source context: AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data. The new software..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from AutoScheduler.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.artificialintelligence-news.com/feed/",
-      "source_name": "AI News",
-      "published": "Tue, 22 Sep 2026 11:34:39 +0000",
-      "age_hours": "7.95",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": "WATCH"
     },
     {
       "headline": "Trump says the US is officially renaming AI to 'super intelligence'",
@@ -557,7 +501,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-22T12:01:10-04:00",
-      "age_hours": "3.50",
+      "age_hours": "4.50",
       "freshness_status": "fresh",
       "editorial_score": "62",
       "urgency": ""
