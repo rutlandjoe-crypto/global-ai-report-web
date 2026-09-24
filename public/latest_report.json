@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Google launches Gemini 3.8 Flash TTS voice models",
   "snapshot": "Google has launched two Gemini 3.8 Flash TTS voice models, introducing dedicated speech generation systems engineered for direct performance scripting and high-volume audio production. The dual release splits vocal synthesis tasks between creative direction and cost-managed... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-09-24 01:35:56 PM ET",
-  "generated_at": "2026-09-24 01:35:56 PM ET",
+  "updated_at": "2026-09-24 04:14:56 PM ET",
+  "generated_at": "2026-09-24 04:14:56 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 42,
-    "live_fresh_items": 12,
-    "editor_fresh_items": 33,
+    "live_fresh_items": 26,
+    "editor_fresh_items": 32,
     "public_fallback_items": 35,
-    "stale_or_blocked_items": 30,
+    "stale_or_blocked_items": 16,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-24 01:35:56 PM ET"
+    "last_checked": "2026-09-24 04:14:56 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 24 Sep 2026 16:09:02 +0000",
-      "age_hours": "1.45",
+      "age_hours": "4.10",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Gemini 3.8 Live with Live Avatar gives Google's AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "snapshot": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Gemini, Live, Live Avatar, Google",
+        "Specific figures mentioned: 3.8",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Gemini 3.8 Live with Live Avatar gives Google's AI a face"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-24T15:59:26-04:00",
+      "age_hours": "0.26",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
     },
     {
       "headline": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
@@ -74,51 +104,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 24 Sep 2026 14:31:00 +0000",
-      "age_hours": "3.08",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
-      "headline": "Google tests letting Gemini call businesses for you",
-      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "snapshot": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "It's sinister that Meta's Muse AI mascot is so cute",
+      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "snapshot": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I named my Muse AI agent -... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Google, Gemini, Pixel",
-        "Specific figures mentioned: 11",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google tests letting Gemini call businesses for you"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 24 Sep 2026 16:00:00 +0000",
-      "age_hours": "1.60",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "snapshot": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Meta, Muse, Muse AI, You",
+        "Key people or organizations: It, Meta, Muse AI, Optimizer",
         "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta is making Muse more powerful and will let you video chat with it, too",
-        "Source context: Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in..."
+        "Story focus: It's sinister that Meta's Muse AI mascot is so cute",
+        "Source context: This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -126,48 +126,48 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from It.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-23T19:19:42-04:00",
-      "age_hours": "18.27",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "90",
+      "published": "2026-09-24T13:00:00-04:00",
+      "age_hours": "3.25",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "snapshot": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Gemini can now call businesses for you so you don't have to wait on hold",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "snapshot": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Australia, OpenAI",
+        "Key people or organizations: Gemini, Google, Pixel, According",
+        "Specific figures mentioned: 11",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Australia to investigate if OpenAI hack of government health website broke the law",
-        "Source context: The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable. The..."
+        "Story focus: Gemini can now call businesses for you so you don't have to wait on hold"
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Australia.",
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 24 Sep 2026 12:54:19 +0000",
-      "age_hours": "4.69",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-24T12:04:31-04:00",
+      "age_hours": "4.17",
       "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
+      "editorial_score": "102",
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
@@ -196,10 +196,40 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 24 Sep 2026 16:09:02 +0000",
-      "age_hours": "1.45",
+      "age_hours": "4.10",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Gemini 3.8 Live with Live Avatar gives Google's AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "snapshot": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Gemini, Live, Live Avatar, Google",
+        "Specific figures mentioned: 3.8",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Gemini 3.8 Live with Live Avatar gives Google's AI a face"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-24T15:59:26-04:00",
+      "age_hours": "0.26",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
     },
     {
       "headline": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
@@ -226,51 +256,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 24 Sep 2026 14:31:00 +0000",
-      "age_hours": "3.08",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
-      "headline": "Google tests letting Gemini call businesses for you",
-      "url": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
-      "snapshot": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "It's sinister that Meta's Muse AI mascot is so cute",
+      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "snapshot": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I named my Muse AI agent -... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Google, Gemini, Pixel",
-        "Specific figures mentioned: 11",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google tests letting Gemini call businesses for you"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 24 Sep 2026 16:00:00 +0000",
-      "age_hours": "1.60",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "snapshot": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Meta, Muse, Muse AI, You",
+        "Key people or organizations: It, Meta, Muse AI, Optimizer",
         "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta is making Muse more powerful and will let you video chat with it, too",
-        "Source context: Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in..."
+        "Story focus: It's sinister that Meta's Muse AI mascot is so cute",
+        "Source context: This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -278,54 +278,54 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from It.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-23T19:19:42-04:00",
-      "age_hours": "18.27",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "90",
+      "published": "2026-09-24T13:00:00-04:00",
+      "age_hours": "3.25",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "snapshot": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Gemini can now call businesses for you so you don't have to wait on hold",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "snapshot": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Australia, OpenAI",
+        "Key people or organizations: Gemini, Google, Pixel, According",
+        "Specific figures mentioned: 11",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Australia to investigate if OpenAI hack of government health website broke the law",
-        "Source context: The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable. The..."
+        "Story focus: Gemini can now call businesses for you so you don't have to wait on hold"
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Australia.",
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 24 Sep 2026 12:54:19 +0000",
-      "age_hours": "4.69",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-24T12:04:31-04:00",
+      "age_hours": "4.17",
       "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
+      "editorial_score": "102",
+      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
     "Google launches Gemini 3.8 Flash TTS voice models",
-    "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
-    "Google tests letting Gemini call businesses for you"
+    "Gemini 3.8 Live with Live Avatar gives Google's AI a face",
+    "Ando wants to take on Slack with a team messaging app that lets humans and agents work together"
   ],
   "sections": [
     {
@@ -353,10 +353,40 @@
       "source_feed": "https://www.artificialintelligence-news.com/feed/",
       "source_name": "AI News",
       "published": "Thu, 24 Sep 2026 16:09:02 +0000",
-      "age_hours": "1.45",
+      "age_hours": "4.10",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Gemini 3.8 Live with Live Avatar gives Google's AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "snapshot": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Gemini, Live, Live Avatar, Google",
+        "Specific figures mentioned: 3.8",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Gemini 3.8 Live with Live Avatar gives Google's AI a face"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-24T15:59:26-04:00",
+      "age_hours": "0.26",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
     },
     {
       "headline": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
@@ -383,9 +413,69 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 24 Sep 2026 14:31:00 +0000",
-      "age_hours": "3.08",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "108",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "It's sinister that Meta's Muse AI mascot is so cute",
+      "url": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
+      "snapshot": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Last night, I asked Blorbo - what I named my Muse AI agent -... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: It, Meta, Muse AI, Optimizer",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: It's sinister that Meta's Muse AI mascot is so cute",
+        "Source context: This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from It.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-24T13:00:00-04:00",
+      "age_hours": "3.25",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    },
+    {
+      "headline": "Gemini can now call businesses for you so you don't have to wait on hold",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+      "snapshot": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Gemini, Google, Pixel, According",
+        "Specific figures mentioned: 11",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Gemini can now call businesses for you so you don't have to wait on hold"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-24T12:04:31-04:00",
+      "age_hours": "4.17",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
       "urgency": "WATCH"
     },
     {
@@ -413,51 +503,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 24 Sep 2026 16:00:00 +0000",
-      "age_hours": "1.60",
+      "age_hours": "4.25",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "snapshot": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Meta's Muse Charm looks like a Tamagotchi, but it's tapping into a much newer trend",
+      "url": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+      "snapshot": "Meta's new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Australia, OpenAI",
+        "Key people or organizations: Meta, Muse Charm, Tamagotchi, Gen",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Australia to investigate if OpenAI hack of government health website broke the law",
-        "Source context: The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable. The..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Australia.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 24 Sep 2026 12:54:19 +0000",
-      "age_hours": "4.69",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "snapshot": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email addresses that they can use for accomplishing tasks. You'll also be able to... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Meta, Muse, Muse AI, You",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta is making Muse more powerful and will let you video chat with it, too",
-        "Source context: Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in..."
+        "Story focus: Meta's Muse Charm looks like a Tamagotchi, but it's tapping into a much newer trend",
+        "Source context: Meta's new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -470,41 +530,12 @@
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-23T19:19:42-04:00",
-      "age_hours": "18.27",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "snapshot": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have...",
-      "key_data": [
-        "Key people or organizations: Meet, VCs, Startup Battlefield, TechCrunch Disrupt",
-        "Specific figures mentioned: 200, 2026, 25, 11",
-        "Story focus: Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-        "Source context: Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meet.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 24 Sep 2026 16:03:36 +0000",
-      "age_hours": "1.54",
+      "published": "Thu, 24 Sep 2026 17:39:24 +0000",
+      "age_hours": "2.59",
       "freshness_status": "fresh",
-      "editorial_score": "62",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
