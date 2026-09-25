@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "One company is at the center of a wave of rogue AI attacks",
   "snapshot": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-09-25 05:53:13 PM ET",
-  "generated_at": "2026-09-25 05:53:13 PM ET",
+  "updated_at": "2026-09-25 07:01:57 PM ET",
+  "generated_at": "2026-09-25 07:01:57 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 19,
+    "live_fresh_items": 20,
     "editor_fresh_items": 30,
     "public_fallback_items": 30,
-    "stale_or_blocked_items": 11,
+    "stale_or_blocked_items": 10,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-25 05:53:13 PM ET"
+    "last_checked": "2026-09-25 07:01:57 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-25T11:39:48-04:00",
-      "age_hours": "6.22",
+      "age_hours": "7.37",
       "freshness_status": "fresh",
       "editorial_score": "148",
+      "urgency": ""
+    },
+    {
+      "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "snapshot": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Unsecured OpenAI, OpenAI",
+        "Specific figures mentioned: 53",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Unsecured OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 25 Sep 2026 22:20:47 +0000",
+      "age_hours": "0.69",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -74,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "age_hours": "3.51",
+      "age_hours": "4.65",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -104,40 +134,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 16:00:00 +0000",
-      "age_hours": "5.89",
+      "age_hours": "7.03",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
-    },
-    {
-      "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "snapshot": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Ahead, US IPO, British AI, Nscale",
-        "Specific figures mentioned: $3.36B",
-        "AI desk signal: chip, nvidia, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ahead.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 18:33:59 +0000",
-      "age_hours": "3.32",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "WATCH"
     },
     {
       "headline": "Can Apple Home's AI camera features outsmart Amazon's and Google's? I put them to the test",
@@ -164,7 +164,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-25T09:00:00-04:00",
-      "age_hours": "8.89",
+      "age_hours": "10.03",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -196,9 +196,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-25T11:39:48-04:00",
-      "age_hours": "6.22",
+      "age_hours": "7.37",
       "freshness_status": "fresh",
       "editorial_score": "148",
+      "urgency": ""
+    },
+    {
+      "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "snapshot": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Unsecured OpenAI, OpenAI",
+        "Specific figures mentioned: 53",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Unsecured OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 25 Sep 2026 22:20:47 +0000",
+      "age_hours": "0.69",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -226,7 +256,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "age_hours": "3.51",
+      "age_hours": "4.65",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -256,40 +286,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 16:00:00 +0000",
-      "age_hours": "5.89",
+      "age_hours": "7.03",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
-    },
-    {
-      "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "snapshot": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Ahead, US IPO, British AI, Nscale",
-        "Specific figures mentioned: $3.36B",
-        "AI desk signal: chip, nvidia, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ahead.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 18:33:59 +0000",
-      "age_hours": "3.32",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "WATCH"
     },
     {
       "headline": "Can Apple Home's AI camera features outsmart Amazon's and Google's? I put them to the test",
@@ -316,7 +316,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-25T09:00:00-04:00",
-      "age_hours": "8.89",
+      "age_hours": "10.03",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -324,8 +324,8 @@
   ],
   "key_storylines": [
     "One company is at the center of a wave of rogue AI attacks",
-    "Meta's Muse just stole the AI spotlight from OpenAI and Anthropic",
-    "Meta's AI Tamagotchi bet is…working?"
+    "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+    "Meta's Muse just stole the AI spotlight from OpenAI and Anthropic"
   ],
   "sections": [
     {
@@ -353,9 +353,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-25T11:39:48-04:00",
-      "age_hours": "6.22",
+      "age_hours": "7.37",
       "freshness_status": "fresh",
       "editorial_score": "148",
+      "urgency": ""
+    },
+    {
+      "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "snapshot": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Unsecured OpenAI, OpenAI",
+        "Specific figures mentioned: 53",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Unsecured OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 25 Sep 2026 22:20:47 +0000",
+      "age_hours": "0.69",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -383,7 +413,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "age_hours": "3.51",
+      "age_hours": "4.65",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -413,40 +443,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 16:00:00 +0000",
-      "age_hours": "5.89",
+      "age_hours": "7.03",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
-    },
-    {
-      "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "snapshot": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Ahead, US IPO, British AI, Nscale",
-        "Specific figures mentioned: $3.36B",
-        "AI desk signal: chip, nvidia, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ahead.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 18:33:59 +0000",
-      "age_hours": "3.32",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "WATCH"
     },
     {
       "headline": "Can Apple Home's AI camera features outsmart Amazon's and Google's? I put them to the test",
@@ -473,7 +473,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-25T09:00:00-04:00",
-      "age_hours": "8.89",
+      "age_hours": "10.03",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -502,7 +502,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-25T11:51:56-04:00",
-      "age_hours": "6.02",
+      "age_hours": "7.17",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
