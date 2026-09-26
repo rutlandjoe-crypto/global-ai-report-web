@@ -1,53 +1,53 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "One company is at the center of a wave of rogue AI attacks",
-  "snapshot": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-09-25 11:14:03 PM ET",
-  "generated_at": "2026-09-25 11:14:03 PM ET",
+  "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+  "snapshot": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-09-26 01:38:12 AM ET",
+  "generated_at": "2026-09-26 01:38:12 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 16,
-    "editor_fresh_items": 30,
+    "live_fresh_items": 8,
+    "editor_fresh_items": 28,
     "public_fallback_items": 30,
-    "stale_or_blocked_items": 14,
+    "stale_or_blocked_items": 22,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-25 11:14:03 PM ET"
+    "last_checked": "2026-09-26 01:38:12 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "One company is at the center of a wave of rogue AI attacks",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "snapshot": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "snapshot": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: One, In July, OpenAI, Hugging Face",
-        "AI desk signal: agent",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: One company is at the center of a wave of rogue AI attacks",
-        "Source context: In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a..."
+        "Key people or organizations: Crusoe, Boom, Boom Supersonic CEO Blake, Scholl",
+        "Specific figures mentioned: $1.25B",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "Source context: Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans. The larger angle is AI..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from One.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Crusoe.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-25T11:39:48-04:00",
-      "age_hours": "11.57",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 25 Sep 2026 23:11:10 +0000",
+      "age_hours": "6.45",
       "freshness_status": "fresh",
-      "editorial_score": "148",
-      "urgency": ""
+      "editorial_score": "104",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
@@ -74,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 22:20:47 +0000",
-      "age_hours": "4.89",
+      "age_hours": "7.29",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -104,50 +104,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "age_hours": "8.85",
+      "age_hours": "11.26",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
     },
     {
-      "headline": "Meta's AI Tamagotchi bet is…working?",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "snapshot": "When AI leaders at OpenAI and Anthropic started talking about \"pacing the frontier,\" maybe someone should have asked: what pace? Now it's turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI's GPT-6 model updates just 90 minutes... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "One company is at the center of a wave of rogue AI attacks",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "snapshot": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Meta, Tamagotchi, OpenAI, Anthropic",
-        "Specific figures mentioned: 5.5, 6, 90",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: One, In July, OpenAI, Hugging Face",
+        "AI desk signal: agent",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI Tamagotchi bet is…working?"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 16:00:00 +0000",
-      "age_hours": "11.23",
-      "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": ""
-    },
-    {
-      "headline": "Sony and UMG are suing Suno again",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "snapshot": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Sony, UMG, Suno, Universal Music Group",
-        "AI desk signal: model, enterprise",
-        "Story focus: Sony and UMG are suing Suno again",
-        "Source context: Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because..."
+        "Story focus: One company is at the center of a wave of rogue AI attacks",
+        "Source context: In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -155,52 +126,52 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sony.",
+        "Watch for follow-up statements, product details or customer evidence from One.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-25T11:39:48-04:00",
+      "age_hours": "13.97",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "118",
+      "urgency": ""
+    },
+    {
+      "headline": "Gemini 3.8 Live with Live Avatar gives Google's AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "snapshot": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Gemini, Live, Live Avatar, Google",
+        "Specific figures mentioned: 3.8",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Gemini 3.8 Live with Live Avatar gives Google's AI a face"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-25T11:51:56-04:00",
-      "age_hours": "11.37",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
+      "published": "2026-09-24T15:59:26-04:00",
+      "age_hours": "33.65",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "80",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "One company is at the center of a wave of rogue AI attacks",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "snapshot": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: One, In July, OpenAI, Hugging Face",
-        "AI desk signal: agent",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: One company is at the center of a wave of rogue AI attacks",
-        "Source context: In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from One.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-25T11:39:48-04:00",
-      "age_hours": "11.57",
-      "freshness_status": "fresh",
-      "editorial_score": "148",
-      "urgency": ""
-    },
-    {
       "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
       "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
       "snapshot": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
@@ -225,9 +196,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 22:20:47 +0000",
-      "age_hours": "4.89",
+      "age_hours": "7.29",
       "freshness_status": "fresh",
       "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "One company is at the center of a wave of rogue AI attacks",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "snapshot": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: One, In July, OpenAI, Hugging Face",
+        "AI desk signal: agent",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: One company is at the center of a wave of rogue AI attacks",
+        "Source context: In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from One.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-25T11:39:48-04:00",
+      "age_hours": "13.97",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "118",
       "urgency": ""
     },
     {
@@ -255,21 +256,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "age_hours": "8.85",
+      "age_hours": "11.26",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
     },
     {
-      "headline": "Meta's AI Tamagotchi bet is…working?",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "snapshot": "When AI leaders at OpenAI and Anthropic started talking about \"pacing the frontier,\" maybe someone should have asked: what pace? Now it's turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI's GPT-6 model updates just 90 minutes... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "snapshot": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Meta, Tamagotchi, OpenAI, Anthropic",
-        "Specific figures mentioned: 5.5, 6, 90",
+        "Key people or organizations: Ahead, US IPO, British AI, Nscale",
+        "Specific figures mentioned: $3.36B",
+        "AI desk signal: chip, nvidia, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ahead.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 25 Sep 2026 18:33:59 +0000",
+      "age_hours": "11.07",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Gemini 3.8 Live with Live Avatar gives Google's AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "snapshot": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Gemini, Live, Live Avatar, Google",
+        "Specific figures mentioned: 3.8",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI Tamagotchi bet is…working?"
+        "Story focus: Gemini 3.8 Live with Live Avatar gives Google's AI a face"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -277,85 +308,26 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 16:00:00 +0000",
-      "age_hours": "11.23",
-      "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": ""
-    },
-    {
-      "headline": "Sony and UMG are suing Suno again",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "snapshot": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Sony, UMG, Suno, Universal Music Group",
-        "AI desk signal: model, enterprise",
-        "Story focus: Sony and UMG are suing Suno again",
-        "Source context: Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sony.",
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-25T11:51:56-04:00",
-      "age_hours": "11.37",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
+      "published": "2026-09-24T15:59:26-04:00",
+      "age_hours": "33.65",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "80",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "One company is at the center of a wave of rogue AI attacks",
     "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
-    "Meta's Muse just stole the AI spotlight from OpenAI and Anthropic"
+    "Meta's Muse just stole the AI spotlight from OpenAI and Anthropic",
+    "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing"
   ],
   "sections": [
-    {
-      "headline": "One company is at the center of a wave of rogue AI attacks",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "snapshot": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: One, In July, OpenAI, Hugging Face",
-        "AI desk signal: agent",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: One company is at the center of a wave of rogue AI attacks",
-        "Source context: In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from One.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-25T11:39:48-04:00",
-      "age_hours": "11.57",
-      "freshness_status": "fresh",
-      "editorial_score": "148",
-      "urgency": ""
-    },
     {
       "headline": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
       "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
@@ -381,7 +353,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 22:20:47 +0000",
-      "age_hours": "4.89",
+      "age_hours": "7.29",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -411,50 +383,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "age_hours": "8.85",
+      "age_hours": "11.26",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
     },
     {
-      "headline": "Meta's AI Tamagotchi bet is…working?",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "snapshot": "When AI leaders at OpenAI and Anthropic started talking about \"pacing the frontier,\" maybe someone should have asked: what pace? Now it's turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI's GPT-6 model updates just 90 minutes... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "snapshot": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Meta, Tamagotchi, OpenAI, Anthropic",
-        "Specific figures mentioned: 5.5, 6, 90",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Ahead, US IPO, British AI, Nscale",
+        "Specific figures mentioned: $3.36B",
+        "AI desk signal: chip, nvidia, data center, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI Tamagotchi bet is…working?"
+        "Story focus: Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing"
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Ahead.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 16:00:00 +0000",
-      "age_hours": "11.23",
+      "published": "Fri, 25 Sep 2026 18:33:59 +0000",
+      "age_hours": "11.07",
       "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": ""
+      "editorial_score": "106",
+      "urgency": "WATCH"
     },
     {
-      "headline": "Sony and UMG are suing Suno again",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "snapshot": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because it's trained on user outputs from previous models, which were themselves trained on unlicensed music ripped from YouTube and other... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "One company is at the center of a wave of rogue AI attacks",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "snapshot": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Sony, UMG, Suno, Universal Music Group",
-        "AI desk signal: model, enterprise",
-        "Story focus: Sony and UMG are suing Suno again",
-        "Source context: Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on their copyrights because..."
+        "Key people or organizations: One, In July, OpenAI, Hugging Face",
+        "AI desk signal: agent",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: One company is at the center of a wave of rogue AI attacks",
+        "Source context: In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -462,29 +435,29 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sony.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from One.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-25T11:51:56-04:00",
-      "age_hours": "11.37",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
+      "published": "2026-09-25T11:39:48-04:00",
+      "age_hours": "13.97",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "118",
       "urgency": ""
     },
     {
-      "headline": "Meta makes the Muse filesystem even more accessible",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "snapshot": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Gemini 3.8 Live with Live Avatar gives Google's AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "snapshot": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Meta, Muse, Yesterday",
+        "Key people or organizations: Gemini, Live, Live Avatar, Google",
+        "Specific figures mentioned: 3.8",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta makes the Muse filesystem even more accessible",
-        "Source context: Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating..."
+        "Story focus: Gemini 3.8 Live with Live Avatar gives Google's AI a face"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -492,18 +465,48 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-25T12:49:53-04:00",
-      "age_hours": "10.40",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
+      "published": "2026-09-24T15:59:26-04:00",
+      "age_hours": "33.65",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "80",
       "urgency": ""
+    },
+    {
+      "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "snapshot": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Crusoe, Boom, Boom Supersonic CEO Blake, Scholl",
+        "Specific figures mentioned: $1.25B",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "Source context: Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Crusoe.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 25 Sep 2026 23:11:10 +0000",
+      "age_hours": "6.45",
+      "freshness_status": "fresh",
+      "editorial_score": "104",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
