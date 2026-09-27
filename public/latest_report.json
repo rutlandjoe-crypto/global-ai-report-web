@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Can Muse overcome Meta's trust issues?",
-  "snapshot": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-09-27 05:40:50 PM ET",
-  "generated_at": "2026-09-27 05:40:50 PM ET",
+  "headline": "OpenAI agents tried to 'bruteforce' a UN website",
+  "snapshot": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-09-27 07:34:45 PM ET",
+  "generated_at": "2026-09-27 07:34:45 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 3,
-    "editor_fresh_items": 8,
-    "public_fallback_items": 27,
-    "stale_or_blocked_items": 27,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 10,
+    "public_fallback_items": 29,
+    "stale_or_blocked_items": 25,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-27 05:40:50 PM ET"
+    "last_checked": "2026-09-27 07:34:45 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 19:57:30 +0000",
-      "age_hours": "1.72",
+      "age_hours": "3.62",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
@@ -74,10 +74,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T12:34:59-04:00",
-      "age_hours": "29.10",
+      "age_hours": "31.00",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "OpenAI agents tried to 'bruteforce' a UN website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "snapshot": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, UN, Security, Rowan Howard",
+        "Specific figures mentioned: 16, 000",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI agents tried to 'bruteforce' a UN website"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-27T13:21:07-04:00",
+      "age_hours": "6.23",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": ""
     },
     {
       "headline": "Anthropic's Dario Amodei gets the SNL treatment",
@@ -104,7 +134,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 16:30:00 +0000",
-      "age_hours": "5.18",
+      "age_hours": "7.08",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -134,42 +164,44 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 20:34:28 +0000",
-      "age_hours": "1.11",
+      "age_hours": "3.00",
       "freshness_status": "fresh",
       "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "snapshot": "Today, I'm talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now...",
-      "key_data": [
-        "Key people or organizations: Can Cloudflare CEO Matthew, Prince, Today, Matthew Prince",
-        "Story focus: Can Cloudflare CEO Matthew Prince save the web from AI?",
-        "Source context: Today, I'm talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Can Cloudflare CEO Matthew.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-26T10:00:00-04:00",
-      "age_hours": "31.68",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "32",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "OpenAI agents tried to 'bruteforce' a UN website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "snapshot": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, UN, Security, Rowan Howard",
+        "Specific figures mentioned: 16, 000",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI agents tried to 'bruteforce' a UN website"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-27T13:21:07-04:00",
+      "age_hours": "6.23",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": ""
+    },
+    {
       "headline": "OpenAI pauses training of its 'most capable models'",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
       "snapshot": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
@@ -194,7 +226,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T12:34:59-04:00",
-      "age_hours": "29.10",
+      "age_hours": "31.00",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": "BREAKING"
@@ -224,7 +256,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 19:57:30 +0000",
-      "age_hours": "1.72",
+      "age_hours": "3.62",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
@@ -254,7 +286,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 16:30:00 +0000",
-      "age_hours": "5.18",
+      "age_hours": "7.08",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -284,46 +316,48 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 20:34:28 +0000",
-      "age_hours": "1.11",
+      "age_hours": "3.00",
       "freshness_status": "fresh",
       "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "snapshot": "Today, I'm talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now...",
-      "key_data": [
-        "Key people or organizations: Can Cloudflare CEO Matthew, Prince, Today, Matthew Prince",
-        "Story focus: Can Cloudflare CEO Matthew Prince save the web from AI?",
-        "Source context: Today, I'm talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Can Cloudflare CEO Matthew.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-26T10:00:00-04:00",
-      "age_hours": "31.68",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "32",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "OpenAI agents tried to 'bruteforce' a UN website",
     "Can Muse overcome Meta's trust issues?",
-    "Anthropic's Dario Amodei gets the SNL treatment",
-    "Anthropic's CEO is about to have dinner with President Trump"
+    "Anthropic's Dario Amodei gets the SNL treatment"
   ],
   "sections": [
+    {
+      "headline": "OpenAI agents tried to 'bruteforce' a UN website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "snapshot": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI, UN, Security, Rowan Howard",
+        "Specific figures mentioned: 16, 000",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI agents tried to 'bruteforce' a UN website"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-27T13:21:07-04:00",
+      "age_hours": "6.23",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": ""
+    },
     {
       "headline": "Can Muse overcome Meta's trust issues?",
       "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
@@ -349,7 +383,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 19:57:30 +0000",
-      "age_hours": "1.72",
+      "age_hours": "3.62",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": ""
@@ -379,7 +413,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 16:30:00 +0000",
-      "age_hours": "5.18",
+      "age_hours": "7.08",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -409,10 +443,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 20:34:28 +0000",
-      "age_hours": "1.11",
+      "age_hours": "3.00",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": ""
+    },
+    {
+      "headline": "Engram is a sampler that turns broken AI hallucinations into music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "snapshot": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a... The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies...",
+      "key_data": [
+        "Key people or organizations: Engram, Music, Thoughtful Things, Kickstarter",
+        "Story focus: Engram is a sampler that turns broken AI hallucinations into music",
+        "Source context: Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Engram.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-09-27T16:46:36-04:00",
+      "age_hours": "2.80",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
+      "urgency": "WATCH"
     },
     {
       "headline": "OpenAI pauses training of its 'most capable models'",
@@ -439,68 +501,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T12:34:59-04:00",
-      "age_hours": "29.10",
+      "age_hours": "31.00",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": "BREAKING"
-    },
-    {
-      "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "snapshot": "Today, I'm talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now...",
-      "key_data": [
-        "Key people or organizations: Can Cloudflare CEO Matthew, Prince, Today, Matthew Prince",
-        "Story focus: Can Cloudflare CEO Matthew Prince save the web from AI?",
-        "Source context: Today, I'm talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Can Cloudflare CEO Matthew.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-09-26T10:00:00-04:00",
-      "age_hours": "31.68",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "32",
-      "urgency": ""
-    },
-    {
-      "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "snapshot": "The limited test covers select products and users, with a broader rollout planned for later in October. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Walmart, Flipkart, Gemini",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-        "Source context: The limited test covers select products and users, with a broader rollout planned for later in October. The competitive question is whether this..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "age_hours": "20.18",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "62",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
