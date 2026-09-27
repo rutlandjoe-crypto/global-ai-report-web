@@ -3,8 +3,8 @@
   "vertical": "AI",
   "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
   "snapshot": "The limited test covers select products and users, with a broader rollout planned for later in October. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-09-27 02:07:34 AM ET",
-  "generated_at": "2026-09-27 02:07:34 AM ET",
+  "updated_at": "2026-09-27 04:36:31 AM ET",
+  "generated_at": "2026-09-27 04:36:31 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
@@ -12,13 +12,43 @@
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
     "live_fresh_items": 2,
-    "editor_fresh_items": 13,
+    "editor_fresh_items": 8,
     "public_fallback_items": 30,
     "stale_or_blocked_items": 28,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-27 02:07:34 AM ET"
+    "last_checked": "2026-09-27 04:36:31 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "snapshot": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Crusoe, Boom, Boom Supersonic CEO Blake, Scholl",
+        "Specific figures mentioned: $1.25B",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "Source context: Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Crusoe.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 25 Sep 2026 23:11:10 +0000",
+      "age_hours": "33.42",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "OpenAI pauses training of its 'most capable models'",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
@@ -44,7 +74,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T12:34:59-04:00",
-      "age_hours": "13.54",
+      "age_hours": "16.03",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": "BREAKING"
@@ -74,7 +104,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "age_hours": "4.63",
+      "age_hours": "7.11",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -104,39 +134,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 22:20:47 +0000",
-      "age_hours": "31.78",
+      "age_hours": "34.26",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta's Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "snapshot": "When AI leaders at OpenAI and Anthropic started talking about \"pacing the frontier,\" maybe someone should have asked: what pace? Now it's turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI's GPT-6 model updates just 90 minutes... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Meta, Muse, OpenAI, Anthropic",
-        "Specific figures mentioned: 5.5, 6, 90",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's Muse just stole the AI spotlight from OpenAI and Anthropic"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "age_hours": "35.75",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "88",
       "urgency": ""
     },
     {
@@ -162,7 +162,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T10:00:00-04:00",
-      "age_hours": "16.13",
+      "age_hours": "18.61",
       "freshness_status": "editor_fresh",
       "editorial_score": "32",
       "urgency": ""
@@ -194,7 +194,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T12:34:59-04:00",
-      "age_hours": "13.54",
+      "age_hours": "16.03",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": "BREAKING"
@@ -224,7 +224,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "age_hours": "4.63",
+      "age_hours": "7.11",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -254,40 +254,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 22:20:47 +0000",
-      "age_hours": "31.78",
+      "age_hours": "34.26",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
     },
     {
-      "headline": "Meta's Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "snapshot": "When AI leaders at OpenAI and Anthropic started talking about \"pacing the frontier,\" maybe someone should have asked: what pace? Now it's turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI's GPT-6 model updates just 90 minutes... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "snapshot": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Meta, Muse, OpenAI, Anthropic",
-        "Specific figures mentioned: 5.5, 6, 90",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's Muse just stole the AI spotlight from OpenAI and Anthropic"
+        "Key people or organizations: Crusoe, Boom, Boom Supersonic CEO Blake, Scholl",
+        "Specific figures mentioned: $1.25B",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "Source context: Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans. The larger angle is AI..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Crusoe.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "age_hours": "35.75",
+      "published": "Fri, 25 Sep 2026 23:11:10 +0000",
+      "age_hours": "33.42",
       "freshness_status": "editor_fresh",
-      "editorial_score": "88",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Can Cloudflare CEO Matthew Prince save the web from AI?",
@@ -312,7 +312,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T10:00:00-04:00",
-      "age_hours": "16.13",
+      "age_hours": "18.61",
       "freshness_status": "editor_fresh",
       "editorial_score": "32",
       "urgency": ""
@@ -349,7 +349,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "age_hours": "4.63",
+      "age_hours": "7.11",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -378,7 +378,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 26 Sep 2026 21:02:06 +0000",
-      "age_hours": "9.09",
+      "age_hours": "11.57",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -408,7 +408,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T12:34:59-04:00",
-      "age_hours": "13.54",
+      "age_hours": "16.03",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": "BREAKING"
@@ -438,7 +438,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 25 Sep 2026 22:20:47 +0000",
-      "age_hours": "31.78",
+      "age_hours": "34.26",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -466,40 +466,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T10:00:00-04:00",
-      "age_hours": "16.13",
+      "age_hours": "18.61",
       "freshness_status": "editor_fresh",
       "editorial_score": "32",
       "urgency": ""
     },
     {
-      "headline": "Meta's Muse just stole the AI spotlight from OpenAI and Anthropic",
-      "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-      "snapshot": "When AI leaders at OpenAI and Anthropic started talking about \"pacing the frontier,\" maybe someone should have asked: what pace? Now it's turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI's GPT-6 model updates just 90 minutes... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "snapshot": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Meta, Muse, OpenAI, Anthropic",
-        "Specific figures mentioned: 5.5, 6, 90",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's Muse just stole the AI spotlight from OpenAI and Anthropic"
+        "Key people or organizations: Crusoe, Boom, Boom Supersonic CEO Blake, Scholl",
+        "Specific figures mentioned: $1.25B",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "Source context: Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans. The larger angle is AI..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Crusoe.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 25 Sep 2026 18:22:47 +0000",
-      "age_hours": "35.75",
+      "published": "Fri, 25 Sep 2026 23:11:10 +0000",
+      "age_hours": "33.42",
       "freshness_status": "editor_fresh",
-      "editorial_score": "88",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
