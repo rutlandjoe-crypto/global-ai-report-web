@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI agents tried to 'bruteforce' a UN website",
   "snapshot": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging Face hack, or the recent... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-09-27 01:25:30 PM ET",
-  "generated_at": "2026-09-27 01:25:30 PM ET",
+  "updated_at": "2026-09-27 02:41:41 PM ET",
+  "generated_at": "2026-09-27 02:41:41 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 6,
-    "public_fallback_items": 30,
-    "stale_or_blocked_items": 29,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 7,
+    "public_fallback_items": 29,
+    "stale_or_blocked_items": 28,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-27 01:25:30 PM ET"
+    "last_checked": "2026-09-27 02:41:41 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T12:34:59-04:00",
-      "age_hours": "24.84",
+      "age_hours": "26.11",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": "BREAKING"
@@ -74,9 +74,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-27T13:21:07-04:00",
-      "age_hours": "0.07",
+      "age_hours": "1.34",
       "freshness_status": "fresh",
       "editorial_score": "128",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "snapshot": "\"AI is the devil and I its maker.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Dario Amodei, SNL",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Dario Amodei gets the SNL treatment",
+        "Source context: \"AI is the devil and I its maker.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "age_hours": "2.19",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -104,7 +134,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "age_hours": "15.93",
+      "age_hours": "17.19",
       "freshness_status": "editor_fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -132,35 +162,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T10:00:00-04:00",
-      "age_hours": "27.43",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "32",
-      "urgency": ""
-    },
-    {
-      "headline": "I created an interactive digital avatar of myself — and you can talk to it",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "snapshot": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "AI desk signal: chip, enterprise",
-        "Story focus: I created an interactive digital avatar of myself — and you can talk to it",
-        "Source context: After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. The larger..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "age_hours": "27.43",
+      "age_hours": "28.69",
       "freshness_status": "editor_fresh",
       "editorial_score": "32",
       "urgency": ""
@@ -192,7 +194,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-27T13:21:07-04:00",
-      "age_hours": "0.07",
+      "age_hours": "1.34",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": ""
@@ -222,10 +224,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T12:34:59-04:00",
-      "age_hours": "24.84",
+      "age_hours": "26.11",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Anthropic's Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "snapshot": "\"AI is the devil and I its maker.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Dario Amodei, SNL",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Dario Amodei gets the SNL treatment",
+        "Source context: \"AI is the devil and I its maker.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "age_hours": "2.19",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
     },
     {
       "headline": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -252,7 +284,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "age_hours": "15.93",
+      "age_hours": "17.19",
       "freshness_status": "editor_fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -280,35 +312,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T10:00:00-04:00",
-      "age_hours": "27.43",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "32",
-      "urgency": ""
-    },
-    {
-      "headline": "I created an interactive digital avatar of myself — and you can talk to it",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "snapshot": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "AI desk signal: chip, enterprise",
-        "Story focus: I created an interactive digital avatar of myself — and you can talk to it",
-        "Source context: After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves. The larger..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "age_hours": "27.43",
+      "age_hours": "28.69",
       "freshness_status": "editor_fresh",
       "editorial_score": "32",
       "urgency": ""
@@ -316,8 +320,8 @@
   ],
   "key_storylines": [
     "OpenAI agents tried to 'bruteforce' a UN website",
-    "OpenAI pauses training of its 'most capable models'",
-    "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India"
+    "Anthropic's Dario Amodei gets the SNL treatment",
+    "OpenAI pauses training of its 'most capable models'"
   ],
   "sections": [
     {
@@ -345,9 +349,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-27T13:21:07-04:00",
-      "age_hours": "0.07",
+      "age_hours": "1.34",
       "freshness_status": "fresh",
       "editorial_score": "128",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "snapshot": "\"AI is the devil and I its maker.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Dario Amodei, SNL",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Dario Amodei gets the SNL treatment",
+        "Source context: \"AI is the devil and I its maker.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 27 Sep 2026 16:30:00 +0000",
+      "age_hours": "2.19",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -375,7 +409,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T12:34:59-04:00",
-      "age_hours": "24.84",
+      "age_hours": "26.11",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
       "urgency": "BREAKING"
@@ -405,7 +439,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 27 Sep 2026 01:30:00 +0000",
-      "age_hours": "15.93",
+      "age_hours": "17.19",
       "freshness_status": "editor_fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -433,7 +467,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-26T10:00:00-04:00",
-      "age_hours": "27.43",
+      "age_hours": "28.69",
       "freshness_status": "editor_fresh",
       "editorial_score": "32",
       "urgency": ""
@@ -461,38 +495,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 26 Sep 2026 14:00:00 +0000",
-      "age_hours": "27.43",
+      "age_hours": "28.69",
       "freshness_status": "editor_fresh",
       "editorial_score": "32",
-      "urgency": ""
-    },
-    {
-      "headline": "Insurers claim AI is already increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "snapshot": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
-      "key_data": [
-        "Key people or organizations: Insurers, Blue Cross Blue Shield",
-        "Specific figures mentioned: $942M",
-        "Story focus: Insurers claim AI is already increasing healthcare costs",
-        "Source context: Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Insurers.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 26 Sep 2026 21:02:06 +0000",
-      "age_hours": "20.39",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "24",
       "urgency": ""
     }
   ],
