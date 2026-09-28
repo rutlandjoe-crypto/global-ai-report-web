@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Nvidia says its new AI safety platform can contain rogue agents within 'milliseconds'",
   "snapshot": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-  "updated_at": "2026-09-28 02:22:46 PM ET",
-  "generated_at": "2026-09-28 02:22:46 PM ET",
+  "updated_at": "2026-09-28 03:52:32 PM ET",
+  "generated_at": "2026-09-28 03:52:32 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 16,
-    "editor_fresh_items": 21,
-    "public_fallback_items": 29,
-    "stale_or_blocked_items": 14,
+    "live_fresh_items": 20,
+    "editor_fresh_items": 25,
+    "public_fallback_items": 30,
+    "stale_or_blocked_items": 10,
     "unknown_date_items": 0,
-    "last_checked": "2026-09-28 02:22:46 PM ET"
+    "last_checked": "2026-09-28 03:52:32 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,7 +43,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-28T13:00:23-04:00",
-      "age_hours": "1.37",
+      "age_hours": "2.87",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "DEVELOPING"
@@ -73,7 +73,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 28 Sep 2026 18:00:00 +0000",
-      "age_hours": "0.38",
+      "age_hours": "1.88",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "WATCH"
@@ -103,9 +103,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-28T09:36:06-04:00",
-      "age_hours": "4.78",
+      "age_hours": "6.27",
       "freshness_status": "fresh",
       "editorial_score": "148",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "snapshot": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Nvidia, As, AGI, Nvidia CEO Jensen Huang",
+        "AI desk signal: agent, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia launches new platform for reining in rogue AI agents",
+        "Source context: As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 28 Sep 2026 18:31:23 +0000",
+      "age_hours": "1.35",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
       "urgency": "WATCH"
     },
     {
@@ -133,40 +163,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 28 Sep 2026 16:52:38 +0000",
-      "age_hours": "1.50",
+      "age_hours": "3.00",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Google is killing off Gemini's Gems in favor of 'skills'",
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "snapshot": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Gemini, Gems, As",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google is killing off Gemini's Gems in favor of 'skills'",
-        "Source context: As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents. The competitive..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 28 Sep 2026 17:29:50 +0000",
-      "age_hours": "0.88",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -195,9 +195,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-28T09:36:06-04:00",
-      "age_hours": "4.78",
+      "age_hours": "6.27",
       "freshness_status": "fresh",
       "editorial_score": "148",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "snapshot": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Nvidia, As, AGI, Nvidia CEO Jensen Huang",
+        "AI desk signal: agent, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia launches new platform for reining in rogue AI agents",
+        "Source context: As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 28 Sep 2026 18:31:23 +0000",
+      "age_hours": "1.35",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
       "urgency": "WATCH"
     },
     {
@@ -225,7 +255,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 28 Sep 2026 16:52:38 +0000",
-      "age_hours": "1.50",
+      "age_hours": "3.00",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
@@ -254,7 +284,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-28T13:00:23-04:00",
-      "age_hours": "1.37",
+      "age_hours": "2.87",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "DEVELOPING"
@@ -284,46 +314,16 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 28 Sep 2026 18:00:00 +0000",
-      "age_hours": "0.38",
+      "age_hours": "1.88",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Google is killing off Gemini's Gems in favor of 'skills'",
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "snapshot": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Gemini, Gems, As",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google is killing off Gemini's Gems in favor of 'skills'",
-        "Source context: As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents. The competitive..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 28 Sep 2026 17:29:50 +0000",
-      "age_hours": "0.88",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": ""
     }
   ],
   "key_storylines": [
     "Nvidia says its new AI safety platform can contain rogue agents within 'milliseconds'",
-    "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-    "Florida seeks a ban on ChatGPT acting like a person"
+    "Nvidia launches new platform for reining in rogue AI agents",
+    "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative"
   ],
   "sections": [
     {
@@ -351,9 +351,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-28T09:36:06-04:00",
-      "age_hours": "4.78",
+      "age_hours": "6.27",
       "freshness_status": "fresh",
       "editorial_score": "148",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Nvidia launches new platform for reining in rogue AI agents",
+      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "snapshot": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Nvidia, As, AGI, Nvidia CEO Jensen Huang",
+        "AI desk signal: agent, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia launches new platform for reining in rogue AI agents",
+        "Source context: As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 28 Sep 2026 18:31:23 +0000",
+      "age_hours": "1.35",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
       "urgency": "WATCH"
     },
     {
@@ -381,7 +411,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 28 Sep 2026 16:52:38 +0000",
-      "age_hours": "1.50",
+      "age_hours": "3.00",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
@@ -410,7 +440,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-09-28T13:00:23-04:00",
-      "age_hours": "1.37",
+      "age_hours": "2.87",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "DEVELOPING"
@@ -440,51 +470,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 28 Sep 2026 18:00:00 +0000",
-      "age_hours": "0.38",
+      "age_hours": "1.88",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "WATCH"
     },
     {
-      "headline": "Google is killing off Gemini's Gems in favor of 'skills'",
-      "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "snapshot": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "OpenAI's AI agents need to catch up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "snapshot": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture the lead in that race.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Google, Gemini, Gems, As",
+        "Key people or organizations: OpenAI, DevDay, On Tuesday",
+        "Specific figures mentioned: 2026",
         "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google is killing off Gemini's Gems in favor of 'skills'",
-        "Source context: As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents. The competitive..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 28 Sep 2026 17:29:50 +0000",
-      "age_hours": "0.88",
-      "freshness_status": "fresh",
-      "editorial_score": "136",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI keeps bulldozing mathematicians",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "snapshot": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that too. OpenAI's latest... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: OpenAI, In, Somehow",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI keeps bulldozing mathematicians",
-        "Source context: In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then..."
+        "Story focus: OpenAI's AI agents need to catch up"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -499,10 +499,10 @@
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-09-28T13:00:00-04:00",
-      "age_hours": "1.38",
+      "published": "2026-09-28T14:45:00-04:00",
+      "age_hours": "1.13",
       "freshness_status": "fresh",
-      "editorial_score": "84",
+      "editorial_score": "128",
       "urgency": ""
     }
   ],
