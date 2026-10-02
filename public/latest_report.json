@@ -1,54 +1,24 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
-  "snapshot": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-  "updated_at": "2026-10-02 05:03:36 AM ET",
-  "generated_at": "2026-10-02 05:03:36 AM ET",
+  "headline": "Amazon writes scary blog warning communities not to block data centers",
+  "snapshot": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+  "updated_at": "2026-10-02 09:31:05 AM ET",
+  "generated_at": "2026-10-02 09:31:05 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 29,
-    "live_fresh_items": 1,
-    "editor_fresh_items": 18,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 19,
     "public_fallback_items": 29,
-    "stale_or_blocked_items": 28,
+    "stale_or_blocked_items": 25,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-02 05:03:36 AM ET"
+    "last_checked": "2026-10-02 09:31:05 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Judge dismisses antitrust lawsuits over Google's AI Overviews",
-      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "snapshot": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Judge, Google, Overviews, Chegg",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Judge dismisses antitrust lawsuits over Google's AI Overviews",
-        "Source context: A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Judge.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-01T13:12:21-04:00",
-      "age_hours": "15.85",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "118",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Amazon releases its own Jev clone as decision models flood the web",
       "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
@@ -74,51 +44,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 01 Oct 2026 16:49:22 +0000",
-      "age_hours": "16.24",
+      "age_hours": "20.70",
       "freshness_status": "editor_fresh",
       "editorial_score": "130",
       "urgency": "WATCH"
     },
     {
-      "headline": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "snapshot": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Amazon writes scary blog warning communities not to block data centers",
+      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "snapshot": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Google, Gemini, Argon",
-        "Specific figures mentioned: 4",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Amazon, US, In, CEO Matt Garman",
+        "Specific figures mentioned: 3, 000",
+        "AI desk signal: chip, data center",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google releases Gemini 4 Argon, called its most powerful model yet"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 30 Sep 2026 23:43:07 +0000",
-      "age_hours": "33.34",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "120",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Google thinks SpaceX's Starship has to launch 1,800 times before space data centers get off the ground",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "snapshot": "Google launched its first advanced chip into orbit to pave the way for space data centers. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Google, SpaceX, Starship",
-        "Specific figures mentioned: 1, 800",
-        "AI desk signal: chip, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google thinks SpaceX's Starship has to launch 1,800 times before space data centers get off the ground"
+        "Story focus: Amazon writes scary blog warning communities not to block data centers"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -126,29 +66,57 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 01 Oct 2026 19:18:03 +0000",
-      "age_hours": "13.76",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "108",
-      "urgency": "WATCH"
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-02T07:52:20-04:00",
+      "age_hours": "1.65",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
     },
     {
-      "headline": "OpenAI's new agent is a shot at Meta — but can it compete with free?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "snapshot": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "snapshot": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: OpenAI, Meta, DevDay, Muse AI",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI's new agent is a shot at Meta — but can it compete with free?",
-        "Source context: At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform..."
+        "Key people or organizations: If, San Antonio City Councilmember, Ric Galvan, But",
+        "Specific figures mentioned: 2000",
+        "AI desk signal: chip, data center",
+        "Story focus: If a data center is camouflaged in the woods, will anyone hate it?",
+        "Source context: San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from If.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-02T08:00:00-04:00",
+      "age_hours": "1.52",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
+      "urgency": ""
+    },
+    {
+      "headline": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "snapshot": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers...",
+      "key_data": [
+        "Key people or organizations: Suno, Speech",
+        "Story focus: AI music maker Suno now generates spoken words",
+        "Source context: Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions...."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -156,18 +124,46 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Suno.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-01T10:36:50-04:00",
-      "age_hours": "18.45",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "80",
+      "published": "2026-10-02T05:42:19-04:00",
+      "age_hours": "3.81",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "AI hallucinations are making entitled customers even worse",
+      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "snapshot": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who...",
+      "key_data": [
+        "Key people or organizations: Madison, York City, Lately, Sometimes",
+        "Story focus: AI hallucinations are making entitled customers even worse",
+        "Source context: Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Madison.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-02T08:00:00-04:00",
+      "age_hours": "1.52",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -196,39 +192,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 01 Oct 2026 16:49:22 +0000",
-      "age_hours": "16.24",
+      "age_hours": "20.70",
       "freshness_status": "editor_fresh",
       "editorial_score": "130",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "snapshot": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Gemini, Argon",
-        "Specific figures mentioned: 4",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google releases Gemini 4 Argon, called its most powerful model yet"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 30 Sep 2026 23:43:07 +0000",
-      "age_hours": "33.34",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "120",
       "urgency": "WATCH"
     },
     {
@@ -256,7 +222,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-01T13:12:21-04:00",
-      "age_hours": "15.85",
+      "age_hours": "20.31",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": "DEVELOPING"
@@ -286,21 +252,146 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 01 Oct 2026 19:18:03 +0000",
-      "age_hours": "13.76",
+      "age_hours": "18.22",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
-      "headline": "OpenAI's new agent is a shot at Meta — but can it compete with free?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "snapshot": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "snapshot": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: OpenAI, Meta, DevDay, Muse AI",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: OpenAI, WSJ",
+        "Specific figures mentioned: 3",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI's new agent is a shot at Meta — but can it compete with free?",
-        "Source context: At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform..."
+        "Story focus: OpenAI cuts ties with 3 safety researchers, WSJ reports",
+        "Source context: OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 01 Oct 2026 18:14:42 +0000",
+      "age_hours": "19.27",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "106",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Amazon writes scary blog warning communities not to block data centers",
+      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "snapshot": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Amazon, US, In, CEO Matt Garman",
+        "Specific figures mentioned: 3, 000",
+        "AI desk signal: chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon writes scary blog warning communities not to block data centers"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-02T07:52:20-04:00",
+      "age_hours": "1.65",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Amazon writes scary blog warning communities not to block data centers",
+    "If a data center is camouflaged in the woods, will anyone hate it?",
+    "AI music maker Suno now generates spoken words"
+  ],
+  "sections": [
+    {
+      "headline": "Amazon writes scary blog warning communities not to block data centers",
+      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "snapshot": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Amazon, US, In, CEO Matt Garman",
+        "Specific figures mentioned: 3, 000",
+        "AI desk signal: chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon writes scary blog warning communities not to block data centers"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-02T07:52:20-04:00",
+      "age_hours": "1.65",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    },
+    {
+      "headline": "If a data center is camouflaged in the woods, will anyone hate it?",
+      "url": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "snapshot": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have grown into massive \"hyperscale\" facilities spanning... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: If, San Antonio City Councilmember, Ric Galvan, But",
+        "Specific figures mentioned: 2000",
+        "AI desk signal: chip, data center",
+        "Story focus: If a data center is camouflaged in the woods, will anyone hate it?",
+        "Source context: San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from If.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-02T08:00:00-04:00",
+      "age_hours": "1.52",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
+      "urgency": ""
+    },
+    {
+      "headline": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "snapshot": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers...",
+      "key_data": [
+        "Key people or organizations: Suno, Speech",
+        "Story focus: AI music maker Suno now generates spoken words",
+        "Source context: Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions...."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -308,53 +399,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Suno.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-01T10:36:50-04:00",
-      "age_hours": "18.45",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "80",
-      "urgency": "WATCH"
-    }
-  ],
-  "key_storylines": [
-    "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
-    "Amazon releases its own Jev clone as decision models flood the web",
-    "Google releases Gemini 4 Argon, called its most powerful model yet"
-  ],
-  "sections": [
-    {
-      "headline": "Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
-      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "snapshot": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-      "key_data": [
-        "Key people or organizations: Musk, Grok, Trump, Venezuela",
-        "Story focus: Musk's AI chatbot Grok reportedly encouraged Trump to capture Venezuela's president",
-        "Source context: President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Musk.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 01 Oct 2026 21:08:11 +0000",
-      "age_hours": "11.92",
+      "published": "2026-10-02T05:42:19-04:00",
+      "age_hours": "3.81",
       "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
+      "editorial_score": "64",
+      "urgency": "WATCH"
     },
     {
       "headline": "Amazon releases its own Jev clone as decision models flood the web",
@@ -381,130 +437,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 01 Oct 2026 16:49:22 +0000",
-      "age_hours": "16.24",
+      "age_hours": "20.70",
       "freshness_status": "editor_fresh",
       "editorial_score": "130",
       "urgency": "WATCH"
     },
     {
-      "headline": "Google releases Gemini 4 Argon, called its most powerful model yet",
-      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-      "snapshot": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "AI hallucinations are making entitled customers even worse",
+      "url": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "snapshot": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, and they won't ask me any questions,\" says Madison, who...",
       "key_data": [
-        "Key people or organizations: Google, Gemini, Argon",
-        "Specific figures mentioned: 4",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google releases Gemini 4 Argon, called its most powerful model yet"
+        "Key people or organizations: Madison, York City, Lately, Sometimes",
+        "Story focus: AI hallucinations are making entitled customers even worse",
+        "Source context: Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Madison.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 30 Sep 2026 23:43:07 +0000",
-      "age_hours": "33.34",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "120",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Judge dismisses antitrust lawsuits over Google's AI Overviews",
-      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "snapshot": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Judge, Google, Overviews, Chegg",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Judge dismisses antitrust lawsuits over Google's AI Overviews",
-        "Source context: A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Judge.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-01T13:12:21-04:00",
-      "age_hours": "15.85",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "118",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "OpenAI's new agent is a shot at Meta — but can it compete with free?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "snapshot": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-deal AI\" agent powered by... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Meta, DevDay, Muse AI",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI's new agent is a shot at Meta — but can it compete with free?",
-        "Source context: At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-01T10:36:50-04:00",
-      "age_hours": "18.45",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "80",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Google thinks SpaceX's Starship has to launch 1,800 times before space data centers get off the ground",
-      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "snapshot": "Google launched its first advanced chip into orbit to pave the way for space data centers. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Google, SpaceX, Starship",
-        "Specific figures mentioned: 1, 800",
-        "AI desk signal: chip, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google thinks SpaceX's Starship has to launch 1,800 times before space data centers get off the ground"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 01 Oct 2026 19:18:03 +0000",
-      "age_hours": "13.76",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "108",
-      "urgency": "WATCH"
+      "published": "2026-10-02T08:00:00-04:00",
+      "age_hours": "1.52",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
