@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Trump unveils his new Super Intelligence Force",
   "snapshot": "This new task force is Trump's latest response to the debate over AI safety. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-  "updated_at": "2026-10-04 02:59:07 PM ET",
-  "generated_at": "2026-10-04 02:59:07 PM ET",
+  "updated_at": "2026-10-04 04:31:41 PM ET",
+  "generated_at": "2026-10-04 04:31:41 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 3,
-    "editor_fresh_items": 9,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 11,
     "public_fallback_items": 28,
-    "stale_or_blocked_items": 27,
+    "stale_or_blocked_items": 25,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-04 02:59:07 PM ET"
+    "last_checked": "2026-10-04 04:31:41 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,7 +43,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 03 Oct 2026 16:30:01 +0000",
-      "age_hours": "26.49",
+      "age_hours": "28.03",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -72,40 +72,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-04T12:16:04-04:00",
-      "age_hours": "2.72",
+      "age_hours": "4.26",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "An OpenAI safety employee has quit and is sounding the alarm",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "snapshot": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: OpenAI, David Robinson, Atlantic, It",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An OpenAI safety employee has quit and is sounding the alarm",
-        "Source context: David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-03T10:31:56-04:00",
-      "age_hours": "28.45",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "112",
-      "urgency": ""
     },
     {
       "headline": "Trump unveils his new Super Intelligence Force",
@@ -130,39 +100,69 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 04 Oct 2026 15:15:10 +0000",
-      "age_hours": "3.73",
+      "age_hours": "5.28",
       "freshness_status": "fresh",
       "editorial_score": "98",
       "urgency": ""
     },
     {
-      "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "snapshot": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Google froze its open source bug bounty program due to a 'significant rise' in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "snapshot": "AI slop seems to be overwhelming bug bounty programs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Amazon, NDAs, CEO, Amazon Web Services",
-        "AI desk signal: chip, data center, enterprise",
+        "Key people or organizations: Google",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon responds to data center backlash, says it no longer uses NDAs",
-        "Source context: The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers. The larger angle is AI infrastructure: compute..."
+        "Story focus: Google froze its open source bug bounty program due to a 'significant rise' in AI submissions",
+        "Source context: AI slop seems to be overwhelming bug bounty programs. The competitive question is whether this changes the model race, enterprise integrations or..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sat, 03 Oct 2026 18:43:57 +0000",
-      "age_hours": "24.25",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "72",
+      "published": "Sun, 04 Oct 2026 20:31:07 +0000",
+      "age_hours": "0.01",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+      "snapshot": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: StarCraft, StarSkirmish, OpenAI, GPT",
+        "Specific figures mentioned: 6, 5.5",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: An AI couldn't beat humans at StarCraft, so it decided to cheat"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from StarCraft.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-04T11:21:59-04:00",
+      "age_hours": "5.16",
+      "freshness_status": "fresh",
+      "editorial_score": "70",
       "urgency": ""
     }
   ],
@@ -191,7 +191,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 03 Oct 2026 16:30:01 +0000",
-      "age_hours": "26.49",
+      "age_hours": "28.03",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -221,7 +221,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-03T10:31:56-04:00",
-      "age_hours": "28.45",
+      "age_hours": "30.00",
       "freshness_status": "editor_fresh",
       "editorial_score": "112",
       "urgency": ""
@@ -249,9 +249,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 04 Oct 2026 15:15:10 +0000",
-      "age_hours": "3.73",
+      "age_hours": "5.28",
       "freshness_status": "fresh",
       "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "Google froze its open source bug bounty program due to a 'significant rise' in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "snapshot": "AI slop seems to be overwhelming bug bounty programs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google froze its open source bug bounty program due to a 'significant rise' in AI submissions",
+        "Source context: AI slop seems to be overwhelming bug bounty programs. The competitive question is whether this changes the model race, enterprise integrations or..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 04 Oct 2026 20:31:07 +0000",
+      "age_hours": "0.01",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -278,46 +308,16 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-04T12:16:04-04:00",
-      "age_hours": "2.72",
+      "age_hours": "4.26",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "snapshot": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Amazon, NDAs, CEO, Amazon Web Services",
-        "AI desk signal: chip, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon responds to data center backlash, says it no longer uses NDAs",
-        "Source context: The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers. The larger angle is AI infrastructure: compute..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 03 Oct 2026 18:43:57 +0000",
-      "age_hours": "24.25",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "72",
-      "urgency": ""
     }
   ],
   "key_storylines": [
     "Trump unveils his new Super Intelligence Force",
-    "NJ's former Lt Gov is using AI to say he's innocent of sexual harassment",
-    "An AI couldn't beat humans at StarCraft, so it decided to cheat"
+    "Google froze its open source bug bounty program due to a 'significant rise' in AI submissions",
+    "NJ's former Lt Gov is using AI to say he's innocent of sexual harassment"
   ],
   "sections": [
     {
@@ -343,9 +343,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 04 Oct 2026 15:15:10 +0000",
-      "age_hours": "3.73",
+      "age_hours": "5.28",
       "freshness_status": "fresh",
       "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "Google froze its open source bug bounty program due to a 'significant rise' in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "snapshot": "AI slop seems to be overwhelming bug bounty programs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google froze its open source bug bounty program due to a 'significant rise' in AI submissions",
+        "Source context: AI slop seems to be overwhelming bug bounty programs. The competitive question is whether this changes the model race, enterprise integrations or..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 04 Oct 2026 20:31:07 +0000",
+      "age_hours": "0.01",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -372,10 +402,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-04T12:16:04-04:00",
-      "age_hours": "2.72",
+      "age_hours": "4.26",
       "freshness_status": "fresh",
       "editorial_score": "78",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Can 'super intelligence' and a non-binding safety pact solve AI's image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "snapshot": "On Equity, we discussed the Trump administration's attempts to rebrand AI. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Can, On Equity, Trump",
+        "Story focus: Can 'super intelligence' and a non-binding safety pact solve AI's image problem?",
+        "Source context: On Equity, we discussed the Trump administration's attempts to rebrand AI. The story matters because AI is moving deeper into legal and regulatory..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Can.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 04 Oct 2026 20:08:34 +0000",
+      "age_hours": "0.39",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
+      "urgency": ""
     },
     {
       "headline": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
@@ -402,7 +460,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-04T11:21:59-04:00",
-      "age_hours": "3.62",
+      "age_hours": "5.16",
       "freshness_status": "fresh",
       "editorial_score": "70",
       "urgency": ""
@@ -431,69 +489,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 03 Oct 2026 16:30:01 +0000",
-      "age_hours": "26.49",
+      "age_hours": "28.03",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
-      "urgency": ""
-    },
-    {
-      "headline": "An OpenAI safety employee has quit and is sounding the alarm",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-      "snapshot": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: OpenAI, David Robinson, Atlantic, It",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An OpenAI safety employee has quit and is sounding the alarm",
-        "Source context: David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-03T10:31:56-04:00",
-      "age_hours": "28.45",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "112",
-      "urgency": ""
-    },
-    {
-      "headline": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "snapshot": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Amazon, NDAs, CEO, Amazon Web Services",
-        "AI desk signal: chip, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon responds to data center backlash, says it no longer uses NDAs",
-        "Source context: The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers. The larger angle is AI infrastructure: compute..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 03 Oct 2026 18:43:57 +0000",
-      "age_hours": "24.25",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "72",
       "urgency": ""
     }
   ],
