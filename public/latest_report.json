@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI launches visual ads that appear alongside image generation results",
   "snapshot": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-10-05 01:47:10 PM ET",
-  "generated_at": "2026-10-05 01:47:10 PM ET",
+  "updated_at": "2026-10-05 02:53:48 PM ET",
+  "generated_at": "2026-10-05 02:53:48 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 14,
-    "editor_fresh_items": 19,
-    "public_fallback_items": 30,
-    "stale_or_blocked_items": 16,
+    "live_fresh_items": 16,
+    "editor_fresh_items": 21,
+    "public_fallback_items": 28,
+    "stale_or_blocked_items": 14,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-05 01:47:10 PM ET"
+    "last_checked": "2026-10-05 02:53:48 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 05 Oct 2026 15:14:24 +0000",
-      "age_hours": "2.55",
+      "age_hours": "3.66",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "snapshot": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT, Codex, European Union",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI is adding text watermarking in ChatGPT and Codex",
+        "Source context: An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first...."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-05T14:08:39-04:00",
+      "age_hours": "0.75",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
     },
     {
       "headline": "OpenAI PR tells journalist to 'move on' while asking Sam Altman about a ChatGPT user's suicide",
@@ -74,7 +104,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-05T12:55:42-04:00",
-      "age_hours": "0.86",
+      "age_hours": "1.97",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -104,65 +134,36 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-05T09:09:48-04:00",
-      "age_hours": "4.62",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-      "snapshot": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the...",
+      "headline": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "snapshot": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Apple Intelligence, Getting, Mac, Apple",
-        "Specific figures mentioned: 12, 27",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-        "Source context: Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called..."
+        "Key people or organizations: TikTok, Shopping Assistant",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: TikTok rolls out an AI shopping assistant and one-click checkout",
+        "Source context: TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products. The competitive..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple Intelligence.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from TikTok.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-05T09:47:14-04:00",
-      "age_hours": "4.00",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Hot Girl Hotline is like 'Dear Abby' for the AI era",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "snapshot": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Hot Girl Hotline, Dear Abby, Founded",
-        "Story focus: Hot Girl Hotline is like 'Dear Abby' for the AI era",
-        "Source context: Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Hot Girl Hotline.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 17:29:22 +0000",
-      "age_hours": "0.30",
+      "published": "Mon, 05 Oct 2026 18:29:00 +0000",
+      "age_hours": "0.41",
       "freshness_status": "fresh",
       "editorial_score": "72",
       "urgency": ""
@@ -194,10 +195,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 05 Oct 2026 15:14:24 +0000",
-      "age_hours": "2.55",
+      "age_hours": "3.66",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "snapshot": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT, Codex, European Union",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI is adding text watermarking in ChatGPT and Codex",
+        "Source context: An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first...."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-05T14:08:39-04:00",
+      "age_hours": "0.75",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
     },
     {
       "headline": "OpenAI PR tells journalist to 'move on' while asking Sam Altman about a ChatGPT user's suicide",
@@ -224,7 +255,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-05T12:55:42-04:00",
-      "age_hours": "0.86",
+      "age_hours": "1.97",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -254,65 +285,36 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-05T09:09:48-04:00",
-      "age_hours": "4.62",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-      "snapshot": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the...",
+      "headline": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "snapshot": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Apple Intelligence, Getting, Mac, Apple",
-        "Specific figures mentioned: 12, 27",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-        "Source context: Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called..."
+        "Key people or organizations: TikTok, Shopping Assistant",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: TikTok rolls out an AI shopping assistant and one-click checkout",
+        "Source context: TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products. The competitive..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple Intelligence.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from TikTok.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-05T09:47:14-04:00",
-      "age_hours": "4.00",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Hot Girl Hotline is like 'Dear Abby' for the AI era",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "snapshot": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Hot Girl Hotline, Dear Abby, Founded",
-        "Story focus: Hot Girl Hotline is like 'Dear Abby' for the AI era",
-        "Source context: Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Hot Girl Hotline.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 17:29:22 +0000",
-      "age_hours": "0.30",
+      "published": "Mon, 05 Oct 2026 18:29:00 +0000",
+      "age_hours": "0.41",
       "freshness_status": "fresh",
       "editorial_score": "72",
       "urgency": ""
@@ -320,8 +322,8 @@
   ],
   "key_storylines": [
     "OpenAI launches visual ads that appear alongside image generation results",
-    "OpenAI PR tells journalist to 'move on' while asking Sam Altman about a ChatGPT user's suicide",
-    "OpenAI is sticking more ads in ChatGPT"
+    "OpenAI is adding text watermarking in ChatGPT and Codex",
+    "OpenAI PR tells journalist to 'move on' while asking Sam Altman about a ChatGPT user's suicide"
   ],
   "sections": [
     {
@@ -349,10 +351,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 05 Oct 2026 15:14:24 +0000",
-      "age_hours": "2.55",
+      "age_hours": "3.66",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "snapshot": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT, Codex, European Union",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI is adding text watermarking in ChatGPT and Codex",
+        "Source context: An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first...."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-05T14:08:39-04:00",
+      "age_hours": "0.75",
+      "freshness_status": "fresh",
+      "editorial_score": "108",
+      "urgency": ""
     },
     {
       "headline": "OpenAI PR tells journalist to 'move on' while asking Sam Altman about a ChatGPT user's suicide",
@@ -379,7 +411,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-05T12:55:42-04:00",
-      "age_hours": "0.86",
+      "age_hours": "1.97",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -409,39 +441,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-05T09:09:48-04:00",
-      "age_hours": "4.62",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-      "snapshot": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Intelligence, but that was removed in macOS 27. Now, the...",
+      "headline": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "snapshot": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Apple Intelligence, Getting, Mac, Apple",
-        "Specific figures mentioned: 12, 27",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-        "Source context: Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called..."
+        "Key people or organizations: TikTok, Shopping Assistant",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: TikTok rolls out an AI shopping assistant and one-click checkout",
+        "Source context: TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products. The competitive..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple Intelligence.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from TikTok.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-05T09:47:14-04:00",
-      "age_hours": "4.00",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 05 Oct 2026 18:29:00 +0000",
+      "age_hours": "0.41",
       "freshness_status": "fresh",
-      "editorial_score": "84",
+      "editorial_score": "72",
       "urgency": ""
     },
     {
@@ -467,36 +498,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 05 Oct 2026 17:29:22 +0000",
-      "age_hours": "0.30",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Researchers are tracking a Chinese AI 'agent fleet'",
-      "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "snapshot": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Researchers, Chinese AI, Independent, Tencent",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Researchers are tracking a Chinese AI 'agent fleet'",
-        "Source context: Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Researchers.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 14:35:09 +0000",
-      "age_hours": "3.20",
+      "age_hours": "1.41",
       "freshness_status": "fresh",
       "editorial_score": "72",
       "urgency": ""
