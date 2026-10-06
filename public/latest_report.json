@@ -1,34 +1,34 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Google is about to remove free access to Gemini Flash and Pro",
-  "snapshot": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model.... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-10-06 09:42:45 AM ET",
-  "generated_at": "2026-10-06 09:42:45 AM ET",
+  "headline": "Mistral's new 1T model aims to leapfrog closed and open rivals",
+  "snapshot": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-10-06 01:49:53 PM ET",
+  "generated_at": "2026-10-06 01:49:53 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 27,
-    "live_fresh_items": 2,
-    "editor_fresh_items": 21,
+    "live_fresh_items": 9,
+    "editor_fresh_items": 27,
     "public_fallback_items": 27,
-    "stale_or_blocked_items": 25,
+    "stale_or_blocked_items": 18,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-06 09:42:45 AM ET"
+    "last_checked": "2026-10-06 01:49:53 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Google is about to remove free access to Gemini Flash and Pro",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "snapshot": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model.... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Mistral's new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "snapshot": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Google, Gemini Flash, Pro, Starting",
-        "Specific figures mentioned: 9, $4.99",
+        "Key people or organizations: Mistral, French AI, Mistral AI, Mistral Large",
+        "Specific figures mentioned: 1, 4",
         "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google is about to remove free access to Gemini Flash and Pro"
+        "Story focus: Mistral's new 1T model aims to leapfrog closed and open rivals",
+        "Source context: French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals. The..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -36,118 +36,29 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from Mistral.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-06T09:19:01-04:00",
-      "age_hours": "0.40",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 06 Oct 2026 14:33:16 +0000",
+      "age_hours": "3.28",
       "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": ""
-    },
-    {
-      "headline": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "snapshot": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \"AI factories,\" a product that would let institutions build their own customized, local AI system by training Reflection's AI models on their own proprietary data. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
-      "key_data": [
-        "Key people or organizations: Reflection, Beam, Chinese",
-        "AI desk signal: model, chip, enterprise",
-        "Story focus: Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-        "Source context: Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \"AI factories,\" a product that would let..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Reflection.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 19:33:53 +0000",
-      "age_hours": "18.15",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "snapshot": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Wikipedia, OpenAI, May, Following",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
-        "Source context: Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Wikipedia.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-05T15:05:19-04:00",
-      "age_hours": "18.62",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI launches visual ads that appear alongside image generation results",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "snapshot": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI launches visual ads that appear alongside image generation results",
-        "Source context: The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 15:14:24 +0000",
-      "age_hours": "22.47",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "80",
+      "editorial_score": "150",
       "urgency": "WATCH"
     },
     {
-      "headline": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "snapshot": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "snapshot": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, Codex, European Union",
+        "Key people or organizations: Anthropic, Claude Team, We",
+        "Specific figures mentioned: $1, 000",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI is adding text watermarking in ChatGPT and Codex",
-        "Source context: An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first...."
+        "Story focus: Anthropic is giving startups a free year of Claude Team and $1,000 in credits"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -155,90 +66,29 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-05T14:08:39-04:00",
-      "age_hours": "19.57",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "78",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Google is about to remove free access to Gemini Flash and Pro",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "snapshot": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model.... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Google, Gemini Flash, Pro, Starting",
-        "Specific figures mentioned: 9, $4.99",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google is about to remove free access to Gemini Flash and Pro"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-06T09:19:01-04:00",
-      "age_hours": "0.40",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "age_hours": "1.83",
       "freshness_status": "fresh",
-      "editorial_score": "110",
+      "editorial_score": "136",
       "urgency": ""
     },
     {
-      "headline": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "snapshot": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \"AI factories,\" a product that would let institutions build their own customized, local AI system by training Reflection's AI models on their own proprietary data. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
+      "headline": "Mirror Particle is building a 'world model' of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "snapshot": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform...",
       "key_data": [
-        "Key people or organizations: Reflection, Beam, Chinese",
-        "AI desk signal: model, chip, enterprise",
-        "Story focus: Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-        "Source context: Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \"AI factories,\" a product that would let..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Reflection.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 19:33:53 +0000",
-      "age_hours": "18.15",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "snapshot": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia platforms. The activity... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Wikipedia, OpenAI, May, Following",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
-        "Source context: Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says..."
+        "Key people or organizations: Mirror Particle, TechCrunch Disrupt, Startup Battlefield, LLM",
+        "Specific figures mentioned: 200",
+        "AI desk signal: model, llm, enterprise",
+        "Story focus: Mirror Particle is building a 'world model' of human behavior",
+        "Source context: Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -246,87 +96,20 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Wikipedia.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-05T15:05:19-04:00",
-      "age_hours": "18.62",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI launches visual ads that appear alongside image generation results",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "snapshot": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI launches visual ads that appear alongside image generation results",
-        "Source context: The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Mirror Particle.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 15:14:24 +0000",
-      "age_hours": "22.47",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "80",
+      "published": "Tue, 06 Oct 2026 16:35:00 +0000",
+      "age_hours": "1.25",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
       "urgency": "WATCH"
     },
     {
-      "headline": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "snapshot": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, Codex, European Union",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI is adding text watermarking in ChatGPT and Codex",
-        "Source context: An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first...."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-05T14:08:39-04:00",
-      "age_hours": "19.57",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "78",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Google is about to remove free access to Gemini Flash and Pro",
-    "Amazon Alexa Plus keeps creepily singing 'lalala' for minutes on end",
-    "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost"
-  ],
-  "sections": [
-    {
       "headline": "Google is about to remove free access to Gemini Flash and Pro",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
       "snapshot": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model.... The competitive question is whether this changes the model race, enterprise integrations or...",
@@ -351,7 +134,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-06T09:19:01-04:00",
-      "age_hours": "0.40",
+      "age_hours": "4.51",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": ""
@@ -380,38 +163,131 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-06T06:53:11-04:00",
-      "age_hours": "2.83",
+      "age_hours": "6.95",
       "freshness_status": "fresh",
       "editorial_score": "76",
       "urgency": ""
-    },
+    }
+  ],
+  "editor_signals": [
     {
-      "headline": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "snapshot": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \"AI factories,\" a product that would let institutions build their own customized, local AI system by training Reflection's AI models on their own proprietary data. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
+      "headline": "Mistral's new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "snapshot": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Reflection, Beam, Chinese",
-        "AI desk signal: model, chip, enterprise",
-        "Story focus: Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-        "Source context: Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build \"AI factories,\" a product that would let..."
+        "Key people or organizations: Mistral, French AI, Mistral AI, Mistral Large",
+        "Specific figures mentioned: 1, 4",
+        "AI desk signal: model, enterprise",
+        "Story focus: Mistral's new 1T model aims to leapfrog closed and open rivals",
+        "Source context: French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals. The..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Reflection.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Mistral.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 19:33:53 +0000",
-      "age_hours": "18.15",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "102",
+      "published": "Tue, 06 Oct 2026 14:33:16 +0000",
+      "age_hours": "3.28",
+      "freshness_status": "fresh",
+      "editorial_score": "150",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "snapshot": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Claude Team, We",
+        "Specific figures mentioned: $1, 000",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic is giving startups a free year of Claude Team and $1,000 in credits"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "age_hours": "1.83",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "Mirror Particle is building a 'world model' of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "snapshot": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform...",
+      "key_data": [
+        "Key people or organizations: Mirror Particle, TechCrunch Disrupt, Startup Battlefield, LLM",
+        "Specific figures mentioned: 200",
+        "AI desk signal: model, llm, enterprise",
+        "Story focus: Mirror Particle is building a 'world model' of human behavior",
+        "Source context: Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mirror Particle.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 06 Oct 2026 16:35:00 +0000",
+      "age_hours": "1.25",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Google is about to remove free access to Gemini Flash and Pro",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "snapshot": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model.... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Google, Gemini Flash, Pro, Starting",
+        "Specific figures mentioned: 9, $4.99",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google is about to remove free access to Gemini Flash and Pro"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-06T09:19:01-04:00",
+      "age_hours": "4.51",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
       "urgency": ""
     },
     {
@@ -439,21 +315,28 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-05T15:05:19-04:00",
-      "age_hours": "18.62",
+      "age_hours": "22.74",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
-    },
+    }
+  ],
+  "key_storylines": [
+    "Mistral's new 1T model aims to leapfrog closed and open rivals",
+    "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "Mirror Particle is building a 'world model' of human behavior"
+  ],
+  "sections": [
     {
-      "headline": "OpenAI launches visual ads that appear alongside image generation results",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "snapshot": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Mistral's new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "snapshot": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: OpenAI",
+        "Key people or organizations: Mistral, French AI, Mistral AI, Mistral Large",
+        "Specific figures mentioned: 1, 4",
         "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI launches visual ads that appear alongside image generation results",
-        "Source context: The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of..."
+        "Story focus: Mistral's new 1T model aims to leapfrog closed and open rivals",
+        "Source context: French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals. The..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -461,29 +344,59 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Mistral.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 06 Oct 2026 14:33:16 +0000",
+      "age_hours": "3.28",
+      "freshness_status": "fresh",
+      "editorial_score": "150",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "snapshot": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\" The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Claude Team, We",
+        "Specific figures mentioned: $1, 000",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic is giving startups a free year of Claude Team and $1,000 in credits"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 05 Oct 2026 15:14:24 +0000",
-      "age_hours": "22.47",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "80",
-      "urgency": "WATCH"
+      "published": "Tue, 06 Oct 2026 16:00:00 +0000",
+      "age_hours": "1.83",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
     },
     {
-      "headline": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "snapshot": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Mirror Particle is building a 'world model' of human behavior",
+      "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "snapshot": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform...",
       "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, Codex, European Union",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI is adding text watermarking in ChatGPT and Codex",
-        "Source context: An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first...."
+        "Key people or organizations: Mirror Particle, TechCrunch Disrupt, Startup Battlefield, LLM",
+        "Specific figures mentioned: 200",
+        "AI desk signal: model, llm, enterprise",
+        "Story focus: Mirror Particle is building a 'world model' of human behavior",
+        "Source context: Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -491,17 +404,104 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Mirror Particle.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 06 Oct 2026 16:35:00 +0000",
+      "age_hours": "1.25",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Google is about to remove free access to Gemini Flash and Pro",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "snapshot": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need a $4.99/month Google AI Plus subscription to access the standard Flash model.... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Google, Gemini Flash, Pro, Starting",
+        "Specific figures mentioned: 9, $4.99",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google is about to remove free access to Gemini Flash and Pro"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-05T14:08:39-04:00",
-      "age_hours": "19.57",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "78",
+      "published": "2026-10-06T09:19:01-04:00",
+      "age_hours": "4.51",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Amazon Alexa Plus keeps creepily singing 'lalala' for minutes on end",
+      "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "snapshot": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conversations with users. When quizzed about the behavior, Alexa is apparently...",
+      "key_data": [
+        "Key people or organizations: Amazon Alexa Plus, Alexa Plus, Amazon Echo, Alexa",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon Alexa Plus keeps creepily singing 'lalala' for minutes on end",
+        "Source context: An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon Alexa Plus.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-06T06:53:11-04:00",
+      "age_hours": "6.95",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": ""
+    },
+    {
+      "headline": "We can't just change the definition of 'recording'",
+      "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+      "snapshot": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or camera is either recording you or it isn't; it's either on or off, without...",
+      "key_data": [
+        "Key people or organizations: We, For",
+        "Story focus: We can't just change the definition of 'recording'",
+        "Source context: With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-06T12:29:44-04:00",
+      "age_hours": "1.34",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
       "urgency": ""
     }
   ],
