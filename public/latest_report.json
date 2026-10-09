@@ -1,54 +1,24 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
-  "snapshot": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-10-09 12:49:27 PM ET",
-  "generated_at": "2026-10-09 12:49:27 PM ET",
+  "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
+  "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+  "updated_at": "2026-10-09 04:22:20 PM ET",
+  "generated_at": "2026-10-09 04:22:20 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 6,
-    "editor_fresh_items": 28,
+    "live_fresh_items": 12,
+    "editor_fresh_items": 30,
     "public_fallback_items": 30,
-    "stale_or_blocked_items": 24,
+    "stale_or_blocked_items": 18,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-09 12:49:27 PM ET"
+    "last_checked": "2026-10-09 04:22:20 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "snapshot": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance. The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Anthropic, Claude",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic changes usage policy to ban model abuse and election interference",
-        "Source context: Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:16:24 +0000",
-      "age_hours": "22.55",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "138",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
@@ -73,20 +43,51 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T05:48:26-04:00",
-      "age_hours": "7.02",
+      "age_hours": "10.57",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "snapshot": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Instinct, Muse, In August, And",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Instinct was the buzziest AI agent around — can it survive Muse?",
-        "Source context: Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no..."
+        "Key people or organizations: Amazon, NDAs, Microsoft, Secrecy",
+        "AI desk signal: agent, chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon drops data center NDAs, and AI agents want your credit card",
+        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 16:53:02 +0000",
+      "age_hours": "3.49",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "snapshot": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic AI, Philadelphia, Anthropic",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "Source context: Anthropic did not discover this behavior until over two months after its AI submitted the false tip. The competitive question is whether this changes..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -94,77 +95,111 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Instinct.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "age_hours": "0.76",
+      "freshness_status": "fresh",
+      "editorial_score": "118",
+      "urgency": ""
+    },
+    {
+      "headline": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Amazon, Is, NDAs, Microsoft",
+        "AI desk signal: chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 16:56:42 +0000",
+      "age_hours": "3.43",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "'Pure insanity': Mathematicians will need years to make sense of OpenAI's latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "snapshot": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Pure, Mathematicians, OpenAI, Staggering",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: 'Pure insanity'",
+        "Source context: \"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Pure.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-09T10:00:00-04:00",
-      "age_hours": "2.82",
+      "published": "2026-10-09T15:09:44-04:00",
+      "age_hours": "1.21",
       "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": ""
-    },
-    {
-      "headline": "We can't help treating AI like it's human. But should we?",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "snapshot": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "key_data": [
-        "Key people or organizations: We, But, Dr, Sherry Turkle",
-        "Story focus: We can't help treating AI like it's human. But should we?",
-        "Source context: \"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from We.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:40:14 +0000",
-      "age_hours": "0.15",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "a16z's Olivia Moore on the state of consumer AI",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "snapshot": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "key_data": [
-        "Key people or organizations: Olivia Moore, Moore, API",
-        "Story focus: a16z's Olivia Moore on the state of consumer AI",
-        "Source context: Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Olivia Moore.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 15:43:33 +0000",
-      "age_hours": "1.10",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Amazon, NDAs, Microsoft, Secrecy",
+        "AI desk signal: agent, chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon drops data center NDAs, and AI agents want your credit card",
+        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 16:53:02 +0000",
+      "age_hours": "3.49",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Anthropic changes usage policy to ban model abuse and election interference",
       "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
@@ -190,7 +225,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 08 Oct 2026 18:16:24 +0000",
-      "age_hours": "22.55",
+      "age_hours": "26.10",
       "freshness_status": "editor_fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
@@ -220,40 +255,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 08 Oct 2026 18:18:00 +0000",
-      "age_hours": "22.52",
+      "age_hours": "26.07",
       "freshness_status": "editor_fresh",
       "editorial_score": "134",
       "urgency": ""
-    },
-    {
-      "headline": "Google is launching a one-stop Gemini agent for your work tasks",
-      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-      "snapshot": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within the Gemini Enterprise app, allowing users to chat with the Gemini agent and... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Google, Gemini, Gemini AI, Work",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google is launching a one-stop Gemini agent for your work tasks",
-        "Source context: Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-08T10:28:03-04:00",
-      "age_hours": "26.36",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "124",
-      "urgency": "WATCH"
     },
     {
       "headline": "Anthropic launches free AI security scans for open-source projects",
@@ -280,7 +285,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-08T17:53:51-04:00",
-      "age_hours": "18.93",
+      "age_hours": "22.47",
       "freshness_status": "editor_fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
@@ -309,18 +314,78 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T05:48:26-04:00",
-      "age_hours": "7.02",
+      "age_hours": "10.57",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "OpenAI doubles down on decision to fire three AI safety researchers",
-    "Instinct was the buzziest AI agent around — can it survive Muse?",
-    "Trump's attempt to rename AI is looking awfully artificial"
+    "Amazon drops data center NDAs, and AI agents want your credit card",
+    "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "OpenAI doubles down on decision to fire three AI safety researchers"
   ],
   "sections": [
+    {
+      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Amazon, NDAs, Microsoft, Secrecy",
+        "AI desk signal: agent, chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon drops data center NDAs, and AI agents want your credit card",
+        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 16:53:02 +0000",
+      "age_hours": "3.49",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "snapshot": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic AI, Philadelphia, Anthropic",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "Source context: Anthropic did not discover this behavior until over two months after its AI submitted the false tip. The competitive question is whether this changes..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "age_hours": "0.76",
+      "freshness_status": "fresh",
+      "editorial_score": "118",
+      "urgency": ""
+    },
     {
       "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
@@ -345,10 +410,70 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T05:48:26-04:00",
-      "age_hours": "7.02",
+      "age_hours": "10.57",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Amazon, Is, NDAs, Microsoft",
+        "AI desk signal: chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 16:56:42 +0000",
+      "age_hours": "3.43",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "'Pure insanity': Mathematicians will need years to make sense of OpenAI's latest drop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "snapshot": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Pure, Mathematicians, OpenAI, Staggering",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: 'Pure insanity'",
+        "Source context: \"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Pure.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-09T15:09:44-04:00",
+      "age_hours": "1.21",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
     },
     {
       "headline": "Instinct was the buzziest AI agent around — can it survive Muse?",
@@ -374,124 +499,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T10:00:00-04:00",
-      "age_hours": "2.82",
+      "age_hours": "6.37",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": ""
-    },
-    {
-      "headline": "Trump's attempt to rename AI is looking awfully artificial",
-      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "snapshot": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the...",
-      "key_data": [
-        "Key people or organizations: Trump, President Donald Trump, His, Little Marco",
-        "Story focus: Trump's attempt to rename AI is looking awfully artificial",
-        "Source context: President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-09T10:25:43-04:00",
-      "age_hours": "2.40",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "We can't help treating AI like it's human. But should we?",
-      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "snapshot": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "key_data": [
-        "Key people or organizations: We, But, Dr, Sherry Turkle",
-        "Story focus: We can't help treating AI like it's human. But should we?",
-        "Source context: \"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from We.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:40:14 +0000",
-      "age_hours": "0.15",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "a16z's Olivia Moore on the state of consumer AI",
-      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "snapshot": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "key_data": [
-        "Key people or organizations: Olivia Moore, Moore, API",
-        "Story focus: a16z's Olivia Moore on the state of consumer AI",
-        "Source context: Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Olivia Moore.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 15:43:33 +0000",
-      "age_hours": "1.10",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "snapshot": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance. The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Anthropic, Claude",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic changes usage policy to ban model abuse and election interference",
-        "Source context: Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 08 Oct 2026 18:16:24 +0000",
-      "age_hours": "22.55",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "138",
-      "urgency": "DEVELOPING"
     }
   ],
   "editorial_brain": {
