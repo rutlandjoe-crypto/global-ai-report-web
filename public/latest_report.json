@@ -3,50 +3,51 @@
   "vertical": "AI",
   "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
   "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-  "updated_at": "2026-10-09 05:26:09 PM ET",
-  "generated_at": "2026-10-09 05:26:09 PM ET",
+  "updated_at": "2026-10-09 08:22:02 PM ET",
+  "generated_at": "2026-10-09 08:22:02 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 12,
+    "live_fresh_items": 14,
     "editor_fresh_items": 30,
     "public_fallback_items": 30,
-    "stale_or_blocked_items": 18,
+    "stale_or_blocked_items": 16,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-09 05:26:09 PM ET"
+    "last_checked": "2026-10-09 08:22:02 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "snapshot": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "headline": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "snapshot": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: OpenAI, In, Jasmine Wang, Tomek Korbak",
+        "Key people or organizations: Anthropic, Philadelphia, Anthropic AI, Philadelphia Police Department",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI doubles down on decision to fire three AI safety researchers",
-        "Source context: OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\"..."
+        "Story focus: Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide"
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-09T05:48:26-04:00",
-      "age_hours": "11.63",
+      "published": "2026-10-09T17:15:38-04:00",
+      "age_hours": "3.11",
       "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "DEVELOPING"
+      "editorial_score": "134",
+      "urgency": "WATCH"
     },
     {
       "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
@@ -73,10 +74,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 09 Oct 2026 16:53:02 +0000",
-      "age_hours": "4.55",
+      "age_hours": "7.48",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "snapshot": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, It",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
+        "Source context: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. The competitive question is whether this..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "age_hours": "0.06",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": ""
     },
     {
       "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
@@ -103,40 +134,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 09 Oct 2026 19:36:56 +0000",
-      "age_hours": "1.82",
+      "age_hours": "4.75",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
-    },
-    {
-      "headline": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Amazon, Is, NDAs, Microsoft",
-        "AI desk signal: chip, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:56:42 +0000",
-      "age_hours": "4.49",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": "WATCH"
     },
     {
       "headline": "'Pure insanity': Mathematicians will need years to make sense of OpenAI's latest drop",
@@ -163,7 +164,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T15:09:44-04:00",
-      "age_hours": "2.27",
+      "age_hours": "5.21",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -195,7 +196,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 09 Oct 2026 16:53:02 +0000",
-      "age_hours": "4.55",
+      "age_hours": "7.48",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
@@ -225,10 +226,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 08 Oct 2026 18:16:24 +0000",
-      "age_hours": "27.16",
+      "age_hours": "30.09",
       "freshness_status": "editor_fresh",
       "editorial_score": "138",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "snapshot": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Philadelphia, Anthropic AI, Philadelphia Police Department",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-09T17:15:38-04:00",
+      "age_hours": "3.11",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
+      "urgency": "WATCH"
     },
     {
       "headline": "Google brings agentic AI to Gemini, starting with businesses",
@@ -255,7 +286,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 08 Oct 2026 18:18:00 +0000",
-      "age_hours": "27.14",
+      "age_hours": "30.07",
       "freshness_status": "editor_fresh",
       "editorial_score": "134",
       "urgency": ""
@@ -285,45 +316,16 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-08T17:53:51-04:00",
-      "age_hours": "23.54",
+      "age_hours": "26.47",
       "freshness_status": "editor_fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "snapshot": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: OpenAI, In, Jasmine Wang, Tomek Korbak",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI doubles down on decision to fire three AI safety researchers",
-        "Source context: OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\"..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-09T05:48:26-04:00",
-      "age_hours": "11.63",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Amazon drops data center NDAs, and AI agents want your credit card",
-    "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "OpenAI doubles down on decision to fire three AI safety researchers"
+    "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+    "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead"
   ],
   "sections": [
     {
@@ -351,10 +353,70 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 09 Oct 2026 16:53:02 +0000",
-      "age_hours": "4.55",
+      "age_hours": "7.48",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "snapshot": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Philadelphia, Anthropic AI, Philadelphia Police Department",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-09T17:15:38-04:00",
+      "age_hours": "3.11",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "snapshot": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, It",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
+        "Source context: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. The competitive question is whether this..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "age_hours": "0.06",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": ""
     },
     {
       "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
@@ -381,69 +443,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 09 Oct 2026 19:36:56 +0000",
-      "age_hours": "1.82",
+      "age_hours": "4.75",
       "freshness_status": "fresh",
       "editorial_score": "118",
       "urgency": ""
-    },
-    {
-      "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "snapshot": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: OpenAI, In, Jasmine Wang, Tomek Korbak",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI doubles down on decision to fire three AI safety researchers",
-        "Source context: OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\"..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-09T05:48:26-04:00",
-      "age_hours": "11.63",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Amazon, Is, NDAs, Microsoft",
-        "AI desk signal: chip, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:56:42 +0000",
-      "age_hours": "4.49",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": "WATCH"
     },
     {
       "headline": "'Pure insanity': Mathematicians will need years to make sense of OpenAI's latest drop",
@@ -470,7 +473,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T15:09:44-04:00",
-      "age_hours": "2.27",
+      "age_hours": "5.21",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -499,7 +502,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T10:00:00-04:00",
-      "age_hours": "7.44",
+      "age_hours": "10.37",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": ""
