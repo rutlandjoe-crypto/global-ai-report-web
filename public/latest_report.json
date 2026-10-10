@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
-  "snapshot": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-10-10 04:01:27 AM ET",
-  "generated_at": "2026-10-10 04:01:27 AM ET",
+  "headline": "AI agent makers are promising privacy — will they deliver?",
+  "snapshot": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-10-10 09:07:12 AM ET",
+  "generated_at": "2026-10-10 09:07:12 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 3,
-    "editor_fresh_items": 19,
+    "live_fresh_items": 1,
+    "editor_fresh_items": 16,
     "public_fallback_items": 30,
-    "stale_or_blocked_items": 27,
+    "stale_or_blocked_items": 29,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-10 04:01:27 AM ET"
+    "last_checked": "2026-10-10 09:07:12 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T17:15:38-04:00",
-      "age_hours": "10.76",
-      "freshness_status": "fresh",
-      "editorial_score": "134",
+      "age_hours": "15.86",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "104",
       "urgency": "WATCH"
     },
     {
@@ -73,72 +73,12 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T05:48:26-04:00",
-      "age_hours": "22.22",
+      "age_hours": "27.31",
       "freshness_status": "editor_fresh",
       "editorial_score": "84",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "snapshot": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, It",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
-        "Source context: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. The competitive question is whether this..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 10 Oct 2026 00:18:32 +0000",
-      "age_hours": "7.72",
-      "freshness_status": "fresh",
-      "editorial_score": "130",
-      "urgency": ""
-    },
-    {
-      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "snapshot": "What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than LLMs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Jev, TypeSafe, LLMs",
-        "Specific figures mentioned: $7.5B",
-        "AI desk signal: model, llm, enterprise",
-        "Story focus: The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-        "Source context: What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jev.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 21:41:29 +0000",
-      "age_hours": "10.33",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
-    },
-    {
       "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
       "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
       "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
@@ -163,14 +103,104 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 09 Oct 2026 16:53:02 +0000",
-      "age_hours": "15.14",
+      "age_hours": "20.24",
       "freshness_status": "editor_fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "snapshot": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, It",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
+        "Source context: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice. The competitive question is whether this..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 10 Oct 2026 00:18:32 +0000",
+      "age_hours": "12.81",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "snapshot": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI DevDay, CEO Sam Altman, Dots, OpenAI",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI agent makers are promising privacy — will they deliver?",
+        "Source context: At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI DevDay.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-10T09:00:00-04:00",
+      "age_hours": "0.12",
+      "freshness_status": "fresh",
+      "editorial_score": "88",
+      "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Amazon, NDAs, Microsoft, Secrecy",
+        "AI desk signal: agent, chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon drops data center NDAs, and AI agents want your credit card",
+        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 16:53:02 +0000",
+      "age_hours": "20.24",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
+      "urgency": "WATCH"
+    },
+    {
       "headline": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
       "snapshot": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July... The competitive question is whether this changes the model race, enterprise integrations or customer...",
@@ -195,9 +225,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T17:15:38-04:00",
-      "age_hours": "10.76",
-      "freshness_status": "fresh",
-      "editorial_score": "134",
+      "age_hours": "15.86",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "104",
       "urgency": "WATCH"
     },
     {
@@ -225,21 +255,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 10 Oct 2026 00:18:32 +0000",
-      "age_hours": "7.72",
-      "freshness_status": "fresh",
-      "editorial_score": "130",
+      "age_hours": "12.81",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Anthropic launches free AI security scans for open-source projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "snapshot": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "snapshot": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Anthropic, OSS Scanner, It",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: OpenAI DevDay, CEO Sam Altman, Dots, OpenAI",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic launches free AI security scans for open-source projects",
-        "Source context: Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source..."
+        "Story focus: AI agent makers are promising privacy — will they deliver?",
+        "Source context: At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -247,29 +277,29 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI DevDay.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-08T17:53:51-04:00",
-      "age_hours": "34.13",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
+      "published": "2026-10-10T09:00:00-04:00",
+      "age_hours": "0.12",
+      "freshness_status": "fresh",
+      "editorial_score": "88",
+      "urgency": ""
     },
     {
-      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "snapshot": "What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than LLMs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "snapshot": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Jev, TypeSafe, LLMs",
-        "Specific figures mentioned: $7.5B",
-        "AI desk signal: model, llm, enterprise",
-        "Story focus: The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-        "Source context: What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than..."
+        "Key people or organizations: Anthropic AI, Philadelphia, Anthropic",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "Source context: Anthropic did not discover this behavior until over two months after its AI submitted the false tip. The competitive question is whether this changes..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -277,56 +307,86 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jev.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic AI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 21:41:29 +0000",
-      "age_hours": "10.33",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Amazon, NDAs, Microsoft, Secrecy",
-        "AI desk signal: agent, chip, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon drops data center NDAs, and AI agents want your credit card",
-        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:53:02 +0000",
-      "age_hours": "15.14",
+      "published": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "age_hours": "17.50",
       "freshness_status": "editor_fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
+      "editorial_score": "88",
+      "urgency": ""
     }
   ],
   "key_storylines": [
-    "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
-    "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
-    "The maker of non-text AI model Jev valued at $7.5B just weeks after launch"
+    "AI agent makers are promising privacy — will they deliver?",
+    "Amazon drops data center NDAs, and AI agents want your credit card",
+    "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide"
   ],
   "sections": [
+    {
+      "headline": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "snapshot": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: OpenAI DevDay, CEO Sam Altman, Dots, OpenAI",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AI agent makers are promising privacy — will they deliver?",
+        "Source context: At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI DevDay.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-10T09:00:00-04:00",
+      "age_hours": "0.12",
+      "freshness_status": "fresh",
+      "editorial_score": "88",
+      "urgency": ""
+    },
+    {
+      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Amazon, NDAs, Microsoft, Secrecy",
+        "AI desk signal: agent, chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon drops data center NDAs, and AI agents want your credit card",
+        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 16:53:02 +0000",
+      "age_hours": "20.24",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
@@ -352,9 +412,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T17:15:38-04:00",
-      "age_hours": "10.76",
-      "freshness_status": "fresh",
-      "editorial_score": "134",
+      "age_hours": "15.86",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "104",
       "urgency": "WATCH"
     },
     {
@@ -382,51 +442,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 10 Oct 2026 00:18:32 +0000",
-      "age_hours": "7.72",
-      "freshness_status": "fresh",
-      "editorial_score": "130",
+      "age_hours": "12.81",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "snapshot": "What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than LLMs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "snapshot": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Jev, TypeSafe, LLMs",
-        "Specific figures mentioned: $7.5B",
-        "AI desk signal: model, llm, enterprise",
-        "Story focus: The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-        "Source context: What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jev.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 21:41:29 +0000",
-      "age_hours": "10.33",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Anthropic launches free AI security scans for open-source projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "snapshot": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Anthropic, OSS Scanner, It",
+        "Key people or organizations: Anthropic AI, Philadelphia, Anthropic",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic launches free AI security scans for open-source projects",
-        "Source context: Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source..."
+        "Story focus: An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "Source context: Anthropic did not discover this behavior until over two months after its AI submitted the false tip. The competitive question is whether this changes..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -434,48 +464,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic AI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-08T17:53:51-04:00",
-      "age_hours": "34.13",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Amazon, NDAs, Microsoft, Secrecy",
-        "AI desk signal: agent, chip, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon drops data center NDAs, and AI agents want your credit card",
-        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:53:02 +0000",
-      "age_hours": "15.14",
+      "published": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "age_hours": "17.50",
       "freshness_status": "editor_fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
+      "editorial_score": "88",
+      "urgency": ""
     },
     {
       "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
@@ -501,7 +501,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-09T05:48:26-04:00",
-      "age_hours": "22.22",
+      "age_hours": "27.31",
       "freshness_status": "editor_fresh",
       "editorial_score": "84",
       "urgency": "DEVELOPING"
