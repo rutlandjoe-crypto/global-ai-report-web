@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Anthropic is cutting off its internal evaluations from the internet",
-  "snapshot": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-10-11 06:32:13 AM ET",
-  "generated_at": "2026-10-11 06:32:13 AM ET",
+  "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
+  "snapshot": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-10-11 10:25:12 AM ET",
+  "generated_at": "2026-10-11 10:25:12 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 29,
-    "live_fresh_items": 0,
-    "editor_fresh_items": 8,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 10,
     "public_fallback_items": 29,
-    "stale_or_blocked_items": 29,
+    "stale_or_blocked_items": 27,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-11 06:32:13 AM ET"
+    "last_checked": "2026-10-11 10:25:12 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,7 +43,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T14:52:07-04:00",
-      "age_hours": "15.67",
+      "age_hours": "19.55",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
@@ -73,7 +73,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T10:41:16-04:00",
-      "age_hours": "19.85",
+      "age_hours": "23.73",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -103,21 +103,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 10 Oct 2026 21:47:51 +0000",
-      "age_hours": "12.74",
+      "age_hours": "16.62",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
     },
     {
-      "headline": "Satya Nadella says we should assume all AI models are 'compromised'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "snapshot": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "snapshot": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Satya Nadella, In, Microsoft, CEO",
+        "Key people or organizations: Learning, Giving, Is",
         "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Satya Nadella says we should assume all AI models are 'compromised'",
-        "Source context: In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella..."
+        "Story focus: Learning to use local AI is exciting, overwhelming, and frustrating",
+        "Source context: I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -125,28 +124,28 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Satya Nadella.",
+        "Watch for follow-up statements, product details or customer evidence from Learning.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-10T18:10:17-04:00",
-      "age_hours": "12.37",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "84",
+      "published": "2026-10-11T07:00:00-04:00",
+      "age_hours": "3.42",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
       "urgency": ""
     },
     {
-      "headline": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "snapshot": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "These execs think voice AI hasn't reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "snapshot": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: We",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Here are the top AI agents that can live in your text messages",
-        "Source context: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
+        "Key people or organizations: ChatGPT, Voice AI",
+        "AI desk signal: model, enterprise",
+        "Story focus: These execs think voice AI hasn't reached its ChatGPT moment yet",
+        "Source context: Voice AI's often misses important points for its context layer, and causes the whole pipeline to break The competitive question is whether this..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -154,17 +153,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sat, 10 Oct 2026 14:00:00 +0000",
-      "age_hours": "20.54",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "60",
+      "published": "Sun, 11 Oct 2026 14:00:00 +0000",
+      "age_hours": "0.42",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
@@ -194,7 +193,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T10:41:16-04:00",
-      "age_hours": "19.85",
+      "age_hours": "23.73",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -223,7 +222,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T14:52:07-04:00",
-      "age_hours": "15.67",
+      "age_hours": "19.55",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
@@ -253,21 +252,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 10 Oct 2026 21:47:51 +0000",
-      "age_hours": "12.74",
+      "age_hours": "16.62",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
     },
     {
-      "headline": "Satya Nadella says we should assume all AI models are 'compromised'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "snapshot": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "snapshot": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Satya Nadella, In, Microsoft, CEO",
+        "Key people or organizations: Learning, Giving, Is",
         "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Satya Nadella says we should assume all AI models are 'compromised'",
-        "Source context: In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella..."
+        "Story focus: Learning to use local AI is exciting, overwhelming, and frustrating",
+        "Source context: I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -275,28 +273,28 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Satya Nadella.",
+        "Watch for follow-up statements, product details or customer evidence from Learning.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-10T18:10:17-04:00",
-      "age_hours": "12.37",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "84",
+      "published": "2026-10-11T07:00:00-04:00",
+      "age_hours": "3.42",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
       "urgency": ""
     },
     {
-      "headline": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "snapshot": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "These execs think voice AI hasn't reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "snapshot": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: We",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Here are the top AI agents that can live in your text messages",
-        "Source context: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
+        "Key people or organizations: ChatGPT, Voice AI",
+        "AI desk signal: model, enterprise",
+        "Story focus: These execs think voice AI hasn't reached its ChatGPT moment yet",
+        "Source context: Voice AI's often misses important points for its context layer, and causes the whole pipeline to break The competitive question is whether this..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -304,26 +302,84 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sat, 10 Oct 2026 14:00:00 +0000",
-      "age_hours": "20.54",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "60",
+      "published": "Sun, 11 Oct 2026 14:00:00 +0000",
+      "age_hours": "0.42",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "Anthropic is cutting off its internal evaluations from the internet",
-    "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-    "Microsoft's Satya Nadella says AI models need an 'emergency brake'"
+    "Learning to use local AI is exciting, overwhelming, and frustrating",
+    "These execs think voice AI hasn't reached its ChatGPT moment yet",
+    "Anthropic is cutting off its internal evaluations from the internet"
   ],
   "sections": [
+    {
+      "headline": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "snapshot": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Learning, Giving, Is",
+        "AI desk signal: model, enterprise",
+        "Story focus: Learning to use local AI is exciting, overwhelming, and frustrating",
+        "Source context: I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Learning.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-11T07:00:00-04:00",
+      "age_hours": "3.42",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "These execs think voice AI hasn't reached its ChatGPT moment yet",
+      "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "snapshot": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: ChatGPT, Voice AI",
+        "AI desk signal: model, enterprise",
+        "Story focus: These execs think voice AI hasn't reached its ChatGPT moment yet",
+        "Source context: Voice AI's often misses important points for its context layer, and causes the whole pipeline to break The competitive question is whether this..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sun, 11 Oct 2026 14:00:00 +0000",
+      "age_hours": "0.42",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
     {
       "headline": "Anthropic is cutting off its internal evaluations from the internet",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
@@ -349,7 +405,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T10:41:16-04:00",
-      "age_hours": "19.85",
+      "age_hours": "23.73",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": ""
@@ -378,7 +434,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T14:52:07-04:00",
-      "age_hours": "15.67",
+      "age_hours": "19.55",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
@@ -408,39 +464,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 10 Oct 2026 21:47:51 +0000",
-      "age_hours": "12.74",
+      "age_hours": "16.62",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Satya Nadella says we should assume all AI models are 'compromised'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "snapshot": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Satya Nadella, In, Microsoft, CEO",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Satya Nadella says we should assume all AI models are 'compromised'",
-        "Source context: In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Satya Nadella.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-10T18:10:17-04:00",
-      "age_hours": "12.37",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -467,38 +493,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 10 Oct 2026 14:00:00 +0000",
-      "age_hours": "20.54",
+      "age_hours": "24.42",
       "freshness_status": "editor_fresh",
       "editorial_score": "60",
-      "urgency": ""
-    },
-    {
-      "headline": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "snapshot": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they've built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass... The business angle is capital allocation: investors and strategic buyers are still sorting which AI...",
-      "key_data": [
-        "Key people or organizations: TechCrunch Disrupt, Meet, October, San Francisco",
-        "Specific figures mentioned: 3, 2026, 13, 15",
-        "Story focus: 3 days to TechCrunch Disrupt 2026",
-        "Source context: TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they've built to 10,000 tech leaders. Plus, 250+..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from TechCrunch Disrupt.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 10 Oct 2026 15:00:00 +0000",
-      "age_hours": "19.54",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "32",
       "urgency": ""
     }
   ],
