@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-  "snapshot": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-10-10 11:39:32 PM ET",
-  "generated_at": "2026-10-10 11:39:32 PM ET",
+  "headline": "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
+  "snapshot": "In a Saturday morning post, Microsoft's CEO wrote that it's time \"to step back and assess the trust architecture\" of AI. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-10-11 03:54:02 AM ET",
+  "generated_at": "2026-10-11 03:54:02 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 29,
-    "live_fresh_items": 4,
-    "editor_fresh_items": 18,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 10,
     "public_fallback_items": 29,
-    "stale_or_blocked_items": 25,
+    "stale_or_blocked_items": 27,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-10 11:39:32 PM ET"
+    "last_checked": "2026-10-11 03:54:02 AM ET"
   },
   "live_newsroom": [
     {
@@ -43,9 +43,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T14:52:07-04:00",
-      "age_hours": "8.79",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
+      "age_hours": "13.03",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "110",
       "urgency": "DEVELOPING"
     },
     {
@@ -73,7 +73,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 10 Oct 2026 21:47:51 +0000",
-      "age_hours": "5.86",
+      "age_hours": "10.10",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -103,40 +103,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T10:41:16-04:00",
-      "age_hours": "12.97",
+      "age_hours": "17.21",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": ""
-    },
-    {
-      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Amazon, NDAs, Microsoft, Secrecy",
-        "AI desk signal: agent, chip, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon drops data center NDAs, and AI agents want your credit card",
-        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:53:02 +0000",
-      "age_hours": "34.78",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
     },
     {
       "headline": "Satya Nadella says we should assume all AI models are 'compromised'",
@@ -163,43 +133,44 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T18:10:17-04:00",
-      "age_hours": "5.49",
+      "age_hours": "9.73",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": ""
+    },
+    {
+      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "snapshot": "What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than LLMs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Jev, TypeSafe, LLMs",
+        "Specific figures mentioned: $7.5B",
+        "AI desk signal: model, llm, enterprise",
+        "Story focus: The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "Source context: What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Jev.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "age_hours": "34.21",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "86",
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
     {
-      "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "snapshot": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: DistroKid, UMG, Artists, Now DistroKid",
-        "AI desk signal: lawsuit",
-        "Story focus: DistroKid has been quietly taking down songs in response to UMG lawsuit",
-        "Source context: Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from DistroKid.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-10T14:52:07-04:00",
-      "age_hours": "8.79",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": "DEVELOPING"
-    },
-    {
       "headline": "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
       "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "snapshot": "In a Saturday morning post, Microsoft's CEO wrote that it's time \"to step back and assess the trust architecture\" of AI. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
@@ -224,7 +195,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 10 Oct 2026 21:47:51 +0000",
-      "age_hours": "5.86",
+      "age_hours": "10.10",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -254,40 +225,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T10:41:16-04:00",
-      "age_hours": "12.97",
+      "age_hours": "17.21",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": ""
-    },
-    {
-      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Amazon, NDAs, Microsoft, Secrecy",
-        "AI desk signal: agent, chip, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon drops data center NDAs, and AI agents want your credit card",
-        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:53:02 +0000",
-      "age_hours": "34.78",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
     },
     {
       "headline": "Satya Nadella says we should assume all AI models are 'compromised'",
@@ -314,47 +255,77 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T18:10:17-04:00",
-      "age_hours": "5.49",
+      "age_hours": "9.73",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": ""
+    },
+    {
+      "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "snapshot": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: DistroKid, UMG, Artists, Now DistroKid",
+        "AI desk signal: lawsuit",
+        "Story focus: DistroKid has been quietly taking down songs in response to UMG lawsuit",
+        "Source context: Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from DistroKid.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-10T14:52:07-04:00",
+      "age_hours": "13.03",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "110",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "snapshot": "What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than LLMs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Jev, TypeSafe, LLMs",
+        "Specific figures mentioned: $7.5B",
+        "AI desk signal: model, llm, enterprise",
+        "Story focus: The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "Source context: What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Jev.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "age_hours": "34.21",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "86",
+      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
-    "DistroKid has been quietly taking down songs in response to UMG lawsuit",
     "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
-    "Satya Nadella says we should assume all AI models are 'compromised'"
+    "Satya Nadella says we should assume all AI models are 'compromised'",
+    "Anthropic is cutting off its internal evaluations from the internet"
   ],
   "sections": [
-    {
-      "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "snapshot": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: DistroKid, UMG, Artists, Now DistroKid",
-        "AI desk signal: lawsuit",
-        "Story focus: DistroKid has been quietly taking down songs in response to UMG lawsuit",
-        "Source context: Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from DistroKid.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-10T14:52:07-04:00",
-      "age_hours": "8.79",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "Microsoft's Satya Nadella says AI models need an 'emergency brake'",
       "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
@@ -380,7 +351,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 10 Oct 2026 21:47:51 +0000",
-      "age_hours": "5.86",
+      "age_hours": "10.10",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -410,7 +381,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T18:10:17-04:00",
-      "age_hours": "5.49",
+      "age_hours": "9.73",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": ""
@@ -440,51 +411,50 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-10T10:41:16-04:00",
-      "age_hours": "12.97",
+      "age_hours": "17.21",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": ""
     },
     {
-      "headline": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "snapshot": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "snapshot": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Amazon, NDAs, Microsoft, Secrecy",
-        "AI desk signal: agent, chip, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon drops data center NDAs, and AI agents want your credit card",
-        "Source context: Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this..."
+        "Key people or organizations: DistroKid, UMG, Artists, Now DistroKid",
+        "AI desk signal: lawsuit",
+        "Story focus: DistroKid has been quietly taking down songs in response to UMG lawsuit",
+        "Source context: Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from DistroKid.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 16:53:02 +0000",
-      "age_hours": "34.78",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-10T14:52:07-04:00",
+      "age_hours": "13.03",
       "freshness_status": "editor_fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
+      "editorial_score": "110",
+      "urgency": "DEVELOPING"
     },
     {
-      "headline": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "snapshot": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "snapshot": "What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than LLMs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Anthropic AI, Philadelphia, Anthropic",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An Anthropic AI model sent a false homicide tip to Philadelphia police",
-        "Source context: Anthropic did not discover this behavior until over two months after its AI submitted the false tip. The competitive question is whether this changes..."
+        "Key people or organizations: Jev, TypeSafe, LLMs",
+        "Specific figures mentioned: $7.5B",
+        "AI desk signal: model, llm, enterprise",
+        "Story focus: The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "Source context: What has users and large corporations so excited about Jev is TypeSafe's claim that it works significantly faster and uses far fewer tokens than..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -492,17 +462,46 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic AI.",
+        "Watch for follow-up statements, product details or customer evidence from Jev.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 09 Oct 2026 19:36:56 +0000",
-      "age_hours": "32.04",
+      "published": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "age_hours": "34.21",
       "freshness_status": "editor_fresh",
-      "editorial_score": "88",
+      "editorial_score": "86",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "snapshot": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: We",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Here are the top AI agents that can live in your text messages",
+        "Source context: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 10 Oct 2026 14:00:00 +0000",
+      "age_hours": "17.90",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "60",
       "urgency": ""
     }
   ],
