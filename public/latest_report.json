@@ -1,24 +1,54 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Microsoft has a new machine learning tool to improve weather forecasts",
-  "snapshot": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-10-14 06:44:19 PM ET",
-  "generated_at": "2026-10-14 06:44:19 PM ET",
+  "headline": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+  "snapshot": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+  "updated_at": "2026-10-14 07:37:27 PM ET",
+  "generated_at": "2026-10-14 07:37:27 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 29,
-    "live_fresh_items": 18,
+    "live_fresh_items": 17,
     "editor_fresh_items": 29,
     "public_fallback_items": 29,
-    "stale_or_blocked_items": 11,
+    "stale_or_blocked_items": 12,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-14 06:44:19 PM ET"
+    "last_checked": "2026-10-14 07:37:27 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "snapshot": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: Eight, OpenAI, ChatGPT, US",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+        "Source context: OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Eight.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-14T17:11:28-04:00",
+      "age_hours": "2.43",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Microsoft has a new machine learning tool to improve weather forecasts",
       "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
@@ -44,39 +74,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-14T12:05:21-04:00",
-      "age_hours": "6.65",
+      "age_hours": "7.53",
       "freshness_status": "fresh",
       "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic's self-replicating AI warning is alarming deja vu",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-      "snapshot": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Anthropic, Are, TVs, No",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's self-replicating AI warning is alarming deja vu",
-        "Source context: Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-14T11:19:02-04:00",
-      "age_hours": "7.42",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -104,7 +104,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-14T15:06:03-04:00",
-      "age_hours": "3.64",
+      "age_hours": "4.52",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": ""
@@ -133,7 +133,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "age_hours": "4.74",
+      "age_hours": "5.62",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -162,7 +162,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "age_hours": "7.74",
+      "age_hours": "8.62",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -170,6 +170,36 @@
   ],
   "editor_signals": [
     {
+      "headline": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "snapshot": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: Eight, OpenAI, ChatGPT, US",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+        "Source context: OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Eight.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-14T17:11:28-04:00",
+      "age_hours": "2.43",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "Microsoft has a new machine learning tool to improve weather forecasts",
       "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
       "snapshot": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate... The competitive question is whether this changes the model race, enterprise integrations or...",
@@ -194,39 +224,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-14T12:05:21-04:00",
-      "age_hours": "6.65",
+      "age_hours": "7.53",
       "freshness_status": "fresh",
       "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic's self-replicating AI warning is alarming deja vu",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-      "snapshot": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Anthropic, Are, TVs, No",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's self-replicating AI warning is alarming deja vu",
-        "Source context: Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-14T11:19:02-04:00",
-      "age_hours": "7.42",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -254,7 +254,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-14T15:06:03-04:00",
-      "age_hours": "3.64",
+      "age_hours": "4.52",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": ""
@@ -283,7 +283,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "age_hours": "4.74",
+      "age_hours": "5.62",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -312,18 +312,48 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "age_hours": "7.74",
+      "age_hours": "8.62",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
     }
   ],
   "key_storylines": [
+    "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
     "Microsoft has a new machine learning tool to improve weather forecasts",
-    "Anthropic's self-replicating AI warning is alarming deja vu",
     "The AI race is back on"
   ],
   "sections": [
+    {
+      "headline": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "snapshot": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: Eight, OpenAI, ChatGPT, US",
+        "AI desk signal: lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+        "Source context: OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Eight.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-14T17:11:28-04:00",
+      "age_hours": "2.43",
+      "freshness_status": "fresh",
+      "editorial_score": "148",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Microsoft has a new machine learning tool to improve weather forecasts",
       "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
@@ -349,39 +379,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-14T12:05:21-04:00",
-      "age_hours": "6.65",
+      "age_hours": "7.53",
       "freshness_status": "fresh",
       "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic's self-replicating AI warning is alarming deja vu",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-      "snapshot": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Anthropic, Are, TVs, No",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's self-replicating AI warning is alarming deja vu",
-        "Source context: Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-14T11:19:02-04:00",
-      "age_hours": "7.42",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -409,7 +409,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-14T15:06:03-04:00",
-      "age_hours": "3.64",
+      "age_hours": "4.52",
       "freshness_status": "fresh",
       "editorial_score": "119",
       "urgency": ""
@@ -438,7 +438,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 14 Oct 2026 18:00:00 +0000",
-      "age_hours": "4.74",
+      "age_hours": "5.62",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -467,7 +467,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 14 Oct 2026 15:00:00 +0000",
-      "age_hours": "7.74",
+      "age_hours": "8.62",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -495,7 +495,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 14 Oct 2026 18:23:46 +0000",
-      "age_hours": "4.34",
+      "age_hours": "5.23",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": "WATCH"
