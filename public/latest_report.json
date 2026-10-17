@@ -1,34 +1,33 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "India becomes the latest country to report rogue AI agent activity",
-  "snapshot": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-10-17 01:27:29 AM ET",
-  "generated_at": "2026-10-17 01:27:29 AM ET",
+  "headline": "An Nvidia insider-turned-VC on why robotics hasn't hit its ChatGPT moment, yet",
+  "snapshot": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\" with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+  "updated_at": "2026-10-17 05:45:40 AM ET",
+  "generated_at": "2026-10-17 05:45:40 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 2,
-    "editor_fresh_items": 23,
+    "live_fresh_items": 0,
+    "editor_fresh_items": 14,
     "public_fallback_items": 30,
-    "stale_or_blocked_items": 28,
+    "stale_or_blocked_items": 30,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-17 01:27:29 AM ET"
+    "last_checked": "2026-10-17 05:45:40 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "snapshot": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "snapshot": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday,...",
       "key_data": [
-        "Key people or organizations: Meta, Apple, Muse AI, Macs",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta and Apple team up to make Muse AI models run better on Macs",
-        "Source context: Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that..."
+        "Key people or organizations: Sega, Total War, Shogun, Complete Edition",
+        "Specific figures mentioned: 2, 2011",
+        "Story focus: Sega pulls Total War",
+        "Source context: Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -36,259 +35,78 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from Sega.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-15T14:15:36-04:00",
-      "age_hours": "35.20",
+      "published": "2026-10-15T18:35:55-04:00",
+      "age_hours": "35.16",
       "freshness_status": "editor_fresh",
-      "editorial_score": "114",
-      "urgency": ""
-    },
-    {
-      "headline": "An Nvidia insider-turned-VC on why robotics hasn't hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "snapshot": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\" with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, VC, ChatGPT, Amulya Vishwanath",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An Nvidia insider-turned-VC on why robotics hasn't hit its ChatGPT moment, yet",
-        "Source context: Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\"..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "age_hours": "12.96",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "snapshot": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\" with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Physical AI, Nvidia, Amulya Vishwanath, NVIDIA",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Physical AI is more than robots, says the Nvidia veteran now investing in it",
-        "Source context: Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\"..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Physical AI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "age_hours": "12.96",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "India becomes the latest country to report rogue AI agent activity",
-      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "snapshot": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: India",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: India becomes the latest country to report rogue AI agent activity",
-        "Source context: The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from India.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 16 Oct 2026 17:52:24 +0000",
-      "age_hours": "11.58",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": ""
-    },
-    {
-      "headline": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "snapshot": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Replit, Anthropic, CEO, Masad",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Replit is no longer working with Anthropic, CEO says",
-        "Source context: Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Replit.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 16 Oct 2026 21:22:28 +0000",
-      "age_hours": "8.08",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "snapshot": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Meta, Apple, Muse AI, Macs",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta and Apple team up to make Muse AI models run better on Macs",
-        "Source context: Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-15T14:15:36-04:00",
-      "age_hours": "35.20",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "114",
-      "urgency": ""
-    },
-    {
-      "headline": "An Nvidia insider-turned-VC on why robotics hasn't hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "snapshot": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\" with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, VC, ChatGPT, Amulya Vishwanath",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: An Nvidia insider-turned-VC on why robotics hasn't hit its ChatGPT moment, yet",
-        "Source context: Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\"..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "age_hours": "12.96",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "snapshot": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\" with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Physical AI, Nvidia, Amulya Vishwanath, NVIDIA",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Physical AI is more than robots, says the Nvidia veteran now investing in it",
-        "Source context: Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\"..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Physical AI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "age_hours": "12.96",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "108",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta launches an open-weight AI model that runs on Macs",
-      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-      "snapshot": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Meta, Macs, Apple, Muse Spark Open",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta launches an open-weight AI model that runs on Macs",
-        "Source context: Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 15 Oct 2026 20:04:53 +0000",
-      "age_hours": "33.38",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "106",
+      "editorial_score": "62",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "An Nvidia insider-turned-VC on why robotics hasn't hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "snapshot": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\" with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Nvidia, VC, ChatGPT, Amulya Vishwanath",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: An Nvidia insider-turned-VC on why robotics hasn't hit its ChatGPT moment, yet",
+        "Source context: Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\"..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "age_hours": "17.26",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "snapshot": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\" with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Physical AI, Nvidia, Amulya Vishwanath, NVIDIA",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Physical AI is more than robots, says the Nvidia veteran now investing in it",
+        "Source context: Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\"..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Physical AI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "age_hours": "17.26",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
+      "urgency": ""
     },
     {
       "headline": "ChatGPT can peek at your Chrome tabs now",
@@ -315,18 +133,11 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-15T18:43:23-04:00",
-      "age_hours": "30.74",
+      "age_hours": "35.04",
       "freshness_status": "editor_fresh",
       "editorial_score": "70",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "India becomes the latest country to report rogue AI agent activity",
-    "Replit is no longer working with Anthropic, CEO says",
-    "Meta and Apple team up to make Muse AI models run better on Macs"
-  ],
-  "sections": [
+    },
     {
       "headline": "India becomes the latest country to report rogue AI agent activity",
       "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
@@ -351,71 +162,13 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 16 Oct 2026 17:52:24 +0000",
-      "age_hours": "11.58",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": ""
-    },
-    {
-      "headline": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "snapshot": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Replit, Anthropic, CEO, Masad",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Replit is no longer working with Anthropic, CEO says",
-        "Source context: Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Replit.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 16 Oct 2026 21:22:28 +0000",
-      "age_hours": "8.08",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "snapshot": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Meta, Apple, Muse AI, Macs",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta and Apple team up to make Muse AI models run better on Macs",
-        "Source context: Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-15T14:15:36-04:00",
-      "age_hours": "35.20",
+      "age_hours": "15.89",
       "freshness_status": "editor_fresh",
-      "editorial_score": "114",
+      "editorial_score": "68",
       "urgency": ""
-    },
+    }
+  ],
+  "editor_signals": [
     {
       "headline": "An Nvidia insider-turned-VC on why robotics hasn't hit its ChatGPT moment, yet",
       "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
@@ -441,7 +194,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "age_hours": "12.96",
+      "age_hours": "17.26",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
       "urgency": ""
@@ -471,10 +224,284 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 16 Oct 2026 16:30:00 +0000",
-      "age_hours": "12.96",
+      "age_hours": "17.26",
       "freshness_status": "editor_fresh",
       "editorial_score": "108",
       "urgency": ""
+    },
+    {
+      "headline": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "snapshot": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: ChatGPT, Chrome, OpenAI, ChatGPT Atlas",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: ChatGPT can peek at your Chrome tabs now",
+        "Source context: OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-15T18:43:23-04:00",
+      "age_hours": "35.04",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "70",
+      "urgency": ""
+    },
+    {
+      "headline": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "snapshot": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: India",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: India becomes the latest country to report rogue AI agent activity",
+        "Source context: The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from India.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 16 Oct 2026 17:52:24 +0000",
+      "age_hours": "15.89",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "68",
+      "urgency": ""
+    },
+    {
+      "headline": "A week with RTX Spark: everything we've learned using Nvidia's new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "snapshot": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: RTX Spark, Nvidia, Arm, SoC",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: A week with RTX Spark",
+        "Source context: Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from RTX Spark.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-16T11:00:00-04:00",
+      "age_hours": "18.76",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "64",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "An Nvidia insider-turned-VC on why robotics hasn't hit its ChatGPT moment, yet",
+    "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "ChatGPT can peek at your Chrome tabs now"
+  ],
+  "sections": [
+    {
+      "headline": "An Nvidia insider-turned-VC on why robotics hasn't hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "snapshot": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\" with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Nvidia, VC, ChatGPT, Amulya Vishwanath",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: An Nvidia insider-turned-VC on why robotics hasn't hit its ChatGPT moment, yet",
+        "Source context: Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\"..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "age_hours": "17.26",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "snapshot": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\" with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Physical AI, Nvidia, Amulya Vishwanath, NVIDIA",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Physical AI is more than robots, says the Nvidia veteran now investing in it",
+        "Source context: Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA's robotics platforms, says robotics is currently in its \"Lego era,\"..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Physical AI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "age_hours": "17.26",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
+      "urgency": ""
+    },
+    {
+      "headline": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "snapshot": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: ChatGPT, Chrome, OpenAI, ChatGPT Atlas",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: ChatGPT can peek at your Chrome tabs now",
+        "Source context: OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-15T18:43:23-04:00",
+      "age_hours": "35.04",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "70",
+      "urgency": ""
+    },
+    {
+      "headline": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "snapshot": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: India",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: India becomes the latest country to report rogue AI agent activity",
+        "Source context: The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from India.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 16 Oct 2026 17:52:24 +0000",
+      "age_hours": "15.89",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "68",
+      "urgency": ""
+    },
+    {
+      "headline": "A week with RTX Spark: everything we've learned using Nvidia's new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "snapshot": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: RTX Spark, Nvidia, Arm, SoC",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: A week with RTX Spark",
+        "Source context: Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from RTX Spark.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-16T11:00:00-04:00",
+      "age_hours": "18.76",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "64",
+      "urgency": ""
+    },
+    {
+      "headline": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "snapshot": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday,...",
+      "key_data": [
+        "Key people or organizations: Sega, Total War, Shogun, Complete Edition",
+        "Specific figures mentioned: 2, 2011",
+        "Story focus: Sega pulls Total War",
+        "Source context: Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Sega.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-15T18:35:55-04:00",
+      "age_hours": "35.16",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "62",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
