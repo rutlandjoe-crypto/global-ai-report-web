@@ -3,22 +3,52 @@
   "vertical": "AI",
   "headline": "Nvidia launches new open models to run agents in the enterprise and on PCs",
   "snapshot": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
-  "updated_at": "2026-10-19 02:26:16 PM ET",
-  "generated_at": "2026-10-19 02:26:16 PM ET",
+  "updated_at": "2026-10-19 04:16:13 PM ET",
+  "generated_at": "2026-10-19 04:16:13 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 6,
-    "editor_fresh_items": 9,
-    "public_fallback_items": 14,
-    "stale_or_blocked_items": 24,
+    "live_fresh_items": 11,
+    "editor_fresh_items": 14,
+    "public_fallback_items": 19,
+    "stale_or_blocked_items": 19,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-19 02:26:16 PM ET"
+    "last_checked": "2026-10-19 04:16:13 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "snapshot": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Tenstorrent, Nvidia",
+        "Specific figures mentioned: $6.2B, $1.5 billion",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Tenstorrent hits $6.2B valuation to scale open-weight AI chips"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Tenstorrent.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 18:37:27 +0000",
+      "age_hours": "1.65",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": "WATCH"
+    },
     {
       "headline": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
       "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
@@ -43,7 +73,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-19T10:30:00-04:00",
-      "age_hours": "3.94",
+      "age_hours": "5.77",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": ""
@@ -71,7 +101,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-19T08:00:00-04:00",
-      "age_hours": "6.44",
+      "age_hours": "8.27",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": ""
@@ -101,68 +131,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 19 Oct 2026 15:37:09 +0000",
-      "age_hours": "2.82",
+      "age_hours": "4.65",
       "freshness_status": "fresh",
       "editorial_score": "218",
       "urgency": "WATCH"
     },
     {
-      "headline": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "snapshot": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco. The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "snapshot": "Amazon wants to break Nvidia's hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Laplace Intelligence, University, Michigan, Startup Battlefield",
-        "Specific figures mentioned: 13, 15",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-        "Source context: University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before..."
+        "Key people or organizations: Amazon, Nvidia, TorchNeuron, PyTorch",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "Source context: Amazon wants to break Nvidia's hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Laplace Intelligence.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 19 Oct 2026 12:30:00 +0000",
-      "age_hours": "5.94",
+      "published": "Mon, 19 Oct 2026 20:09:24 +0000",
+      "age_hours": "0.11",
       "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "snapshot": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: People, TVs, Fed, TV",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: People are using AI to make their smart TVs dumb again",
-        "Source context: Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from People.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 19 Oct 2026 16:13:22 +0000",
-      "age_hours": "2.22",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
+      "editorial_score": "128",
       "urgency": ""
     }
   ],
@@ -192,39 +193,69 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 19 Oct 2026 15:37:09 +0000",
-      "age_hours": "2.82",
+      "age_hours": "4.65",
       "freshness_status": "fresh",
       "editorial_score": "218",
       "urgency": "WATCH"
     },
     {
-      "headline": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "snapshot": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco. The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "snapshot": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Laplace Intelligence, University, Michigan, Startup Battlefield",
-        "Specific figures mentioned: 13, 15",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-        "Source context: University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before..."
+        "Key people or organizations: Tenstorrent, Nvidia",
+        "Specific figures mentioned: $6.2B, $1.5 billion",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Tenstorrent hits $6.2B valuation to scale open-weight AI chips"
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Laplace Intelligence.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Tenstorrent.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 19 Oct 2026 12:30:00 +0000",
-      "age_hours": "5.94",
+      "published": "Mon, 19 Oct 2026 18:37:27 +0000",
+      "age_hours": "1.65",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "136",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "snapshot": "Amazon wants to break Nvidia's hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Amazon, Nvidia, TorchNeuron, PyTorch",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "Source context: Amazon wants to break Nvidia's hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 20:09:24 +0000",
+      "age_hours": "0.11",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
       "urgency": ""
     },
     {
@@ -252,36 +283,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-19T09:58:41-04:00",
-      "age_hours": "4.46",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "snapshot": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: People, TVs, Fed, TV",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: People are using AI to make their smart TVs dumb again",
-        "Source context: Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from People.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 19 Oct 2026 16:13:22 +0000",
-      "age_hours": "2.22",
+      "age_hours": "6.29",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -310,7 +312,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-19T10:30:00-04:00",
-      "age_hours": "3.94",
+      "age_hours": "5.77",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": ""
@@ -318,8 +320,8 @@
   ],
   "key_storylines": [
     "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "A hacker broke into John Deere and SharkNinja with an army of AI agents"
+    "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool"
   ],
   "sections": [
     {
@@ -347,39 +349,69 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 19 Oct 2026 15:37:09 +0000",
-      "age_hours": "2.82",
+      "age_hours": "4.65",
       "freshness_status": "fresh",
       "editorial_score": "218",
       "urgency": "WATCH"
     },
     {
-      "headline": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "snapshot": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco. The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+      "snapshot": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Laplace Intelligence, University, Michigan, Startup Battlefield",
-        "Specific figures mentioned: 13, 15",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-        "Source context: University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before..."
+        "Key people or organizations: Tenstorrent, Nvidia",
+        "Specific figures mentioned: $6.2B, $1.5 billion",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Tenstorrent hits $6.2B valuation to scale open-weight AI chips"
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Laplace Intelligence.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Tenstorrent.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 19 Oct 2026 12:30:00 +0000",
-      "age_hours": "5.94",
+      "published": "Mon, 19 Oct 2026 18:37:27 +0000",
+      "age_hours": "1.65",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "136",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "snapshot": "Amazon wants to break Nvidia's hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Amazon, Nvidia, TorchNeuron, PyTorch",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "Source context: Amazon wants to break Nvidia's hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 20:09:24 +0000",
+      "age_hours": "0.11",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
       "urgency": ""
     },
     {
@@ -407,36 +439,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-19T09:58:41-04:00",
-      "age_hours": "4.46",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "snapshot": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: People, TVs, Fed, TV",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: People are using AI to make their smart TVs dumb again",
-        "Source context: Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from People.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 19 Oct 2026 16:13:22 +0000",
-      "age_hours": "2.22",
+      "age_hours": "6.29",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -465,7 +468,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-19T10:30:00-04:00",
-      "age_hours": "3.94",
+      "age_hours": "5.77",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": ""
@@ -493,7 +496,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-19T08:00:00-04:00",
-      "age_hours": "6.44",
+      "age_hours": "8.27",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": ""
