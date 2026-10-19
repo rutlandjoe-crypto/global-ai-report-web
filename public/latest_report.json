@@ -1,24 +1,53 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-  "snapshot": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-10-19 10:20:35 AM ET",
-  "generated_at": "2026-10-19 10:20:35 AM ET",
+  "headline": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+  "snapshot": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
+  "updated_at": "2026-10-19 02:26:16 PM ET",
+  "generated_at": "2026-10-19 02:26:16 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 2,
-    "editor_fresh_items": 5,
-    "public_fallback_items": 17,
-    "stale_or_blocked_items": 28,
+    "live_fresh_items": 6,
+    "editor_fresh_items": 9,
+    "public_fallback_items": 14,
+    "stale_or_blocked_items": 24,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-19 10:20:35 AM ET"
+    "last_checked": "2026-10-19 02:26:16 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "snapshot": "Today, I'm talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you've been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment —...",
+      "key_data": [
+        "Key people or organizations: JB Pritzker, Today, Illinois Gov, If",
+        "Specific figures mentioned: 100",
+        "Story focus: JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+        "Source context: Today, I'm talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you've been listening to the show, you..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from JB Pritzker.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-19T10:30:00-04:00",
+      "age_hours": "3.94",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
+      "urgency": ""
+    },
     {
       "headline": "Democrats think cracking down on AI could give them an edge",
       "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
@@ -42,49 +71,51 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-19T08:00:00-04:00",
-      "age_hours": "2.34",
+      "age_hours": "6.44",
       "freshness_status": "fresh",
       "editorial_score": "66",
       "urgency": ""
     },
     {
-      "headline": "A woman was arrested in Philly for blocking a delivery robot",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "snapshot": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them...",
+      "headline": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "snapshot": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
       "key_data": [
-        "Key people or organizations: Philly, Carolyn Marvin, Uber, Marvin",
-        "Story focus: A woman was arrested in Philly for blocking a delivery robot",
-        "Source context: Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way...."
+        "Key people or organizations: Nvidia, PCs",
+        "AI desk signal: model, agent, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "Source context: Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Philly.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-18T14:28:10-04:00",
-      "age_hours": "19.87",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "46",
-      "urgency": "BREAKING"
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 15:37:09 +0000",
+      "age_hours": "2.82",
+      "freshness_status": "fresh",
+      "editorial_score": "218",
+      "urgency": "WATCH"
     },
     {
-      "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "snapshot": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "snapshot": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco. The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: John Deere, SharkNinja, Norforge, Though Norforge",
-        "Specific figures mentioned: 100",
+        "Key people or organizations: Laplace Intelligence, University, Michigan, Startup Battlefield",
+        "Specific figures mentioned: 13, 15",
         "AI desk signal: model, agent, enterprise",
-        "Story focus: A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "Source context: A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security..."
+        "Story focus: Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+        "Source context: University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -92,80 +123,111 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from John Deere.",
+        "Watch for follow-up statements, product details or customer evidence from Laplace Intelligence.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-19T09:58:41-04:00",
-      "age_hours": "0.37",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 12:30:00 +0000",
+      "age_hours": "5.94",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "snapshot": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: People, TVs, Fed, TV",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: People are using AI to make their smart TVs dumb again",
+        "Source context: Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from People.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 16:13:22 +0000",
+      "age_hours": "2.22",
       "freshness_status": "fresh",
       "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic says it's committing 5% of its shares to a 'public benefit fund'",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "snapshot": "Anthropic said that it will commit 5% of its shares to the fund. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic",
-        "Specific figures mentioned: 5%",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic says it's committing 5% of its shares to a 'public benefit fund'"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 18 Oct 2026 20:37:40 +0000",
-      "age_hours": "17.72",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Disney agrees to hire the majority of Character.AI's workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "snapshot": "The filing also says that the \"vast majority\" of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "key_data": [
-        "Key people or organizations: Disney, Character, However",
-        "Story focus: Disney agrees to hire the majority of Character.AI's workforce",
-        "Source context: The filing also says that the \"vast majority\" of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Disney.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 18 Oct 2026 16:30:00 +0000",
-      "age_hours": "21.84",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "24",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "snapshot": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
+      "key_data": [
+        "Key people or organizations: Nvidia, PCs",
+        "AI desk signal: model, agent, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "Source context: Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 15:37:09 +0000",
+      "age_hours": "2.82",
+      "freshness_status": "fresh",
+      "editorial_score": "218",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "snapshot": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco. The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Laplace Intelligence, University, Michigan, Startup Battlefield",
+        "Specific figures mentioned: 13, 15",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+        "Source context: University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Laplace Intelligence.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 12:30:00 +0000",
+      "age_hours": "5.94",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
       "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
       "snapshot": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
@@ -190,49 +252,20 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-19T09:58:41-04:00",
-      "age_hours": "0.37",
+      "age_hours": "4.46",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
     },
     {
-      "headline": "Democrats think cracking down on AI could give them an edge",
-      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-      "snapshot": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which...",
+      "headline": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "snapshot": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Democrats, Congress, November, Polls",
-        "Story focus: Democrats think cracking down on AI could give them an edge",
-        "Source context: Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Democrats.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-19T08:00:00-04:00",
-      "age_hours": "2.34",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic says it's committing 5% of its shares to a 'public benefit fund'",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "snapshot": "Anthropic said that it will commit 5% of its shares to the fund. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic",
-        "Specific figures mentioned: 5%",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic says it's committing 5% of its shares to a 'public benefit fund'"
+        "Key people or organizations: People, TVs, Fed, TV",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: People are using AI to make their smart TVs dumb again",
+        "Source context: Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -240,27 +273,28 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Watch for follow-up statements, product details or customer evidence from People.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Sun, 18 Oct 2026 20:37:40 +0000",
-      "age_hours": "17.72",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "54",
+      "published": "Mon, 19 Oct 2026 16:13:22 +0000",
+      "age_hours": "2.22",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
-      "headline": "A woman was arrested in Philly for blocking a delivery robot",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "snapshot": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them...",
+      "headline": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "snapshot": "Today, I'm talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you've been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment —...",
       "key_data": [
-        "Key people or organizations: Philly, Carolyn Marvin, Uber, Marvin",
-        "Story focus: A woman was arrested in Philly for blocking a delivery robot",
-        "Source context: Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way...."
+        "Key people or organizations: JB Pritzker, Today, Illinois Gov, If",
+        "Specific figures mentioned: 100",
+        "Story focus: JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+        "Source context: Today, I'm talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you've been listening to the show, you..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -268,54 +302,86 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Philly.",
+        "Watch for follow-up statements, product details or customer evidence from JB Pritzker.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-18T14:28:10-04:00",
-      "age_hours": "19.87",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "46",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Disney agrees to hire the majority of Character.AI's workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "snapshot": "The filing also says that the \"vast majority\" of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "key_data": [
-        "Key people or organizations: Disney, Character, However",
-        "Story focus: Disney agrees to hire the majority of Character.AI's workforce",
-        "Source context: The filing also says that the \"vast majority\" of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Disney.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 18 Oct 2026 16:30:00 +0000",
-      "age_hours": "21.84",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "24",
+      "published": "2026-10-19T10:30:00-04:00",
+      "age_hours": "3.94",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "Democrats think cracking down on AI could give them an edge",
-    "Anthropic says it's committing 5% of its shares to a 'public benefit fund'"
+    "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "A hacker broke into John Deere and SharkNinja with an army of AI agents"
   ],
   "sections": [
+    {
+      "headline": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+      "snapshot": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
+      "key_data": [
+        "Key people or organizations: Nvidia, PCs",
+        "AI desk signal: model, agent, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia launches new open models to run agents in the enterprise and on PCs",
+        "Source context: Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 15:37:09 +0000",
+      "age_hours": "2.82",
+      "freshness_status": "fresh",
+      "editorial_score": "218",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "snapshot": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco. The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Laplace Intelligence, University, Michigan, Startup Battlefield",
+        "Specific figures mentioned: 13, 15",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+        "Source context: University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Laplace Intelligence.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 12:30:00 +0000",
+      "age_hours": "5.94",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
     {
       "headline": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
@@ -341,9 +407,67 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-19T09:58:41-04:00",
-      "age_hours": "0.37",
+      "age_hours": "4.46",
       "freshness_status": "fresh",
       "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "snapshot": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: People, TVs, Fed, TV",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: People are using AI to make their smart TVs dumb again",
+        "Source context: Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from People.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 19 Oct 2026 16:13:22 +0000",
+      "age_hours": "2.22",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "snapshot": "Today, I'm talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you've been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment —...",
+      "key_data": [
+        "Key people or organizations: JB Pritzker, Today, Illinois Gov, If",
+        "Specific figures mentioned: 100",
+        "Story focus: JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+        "Source context: Today, I'm talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you've been listening to the show, you..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from JB Pritzker.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-19T10:30:00-04:00",
+      "age_hours": "3.94",
+      "freshness_status": "fresh",
+      "editorial_score": "66",
       "urgency": ""
     },
     {
@@ -369,95 +493,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-19T08:00:00-04:00",
-      "age_hours": "2.34",
+      "age_hours": "6.44",
       "freshness_status": "fresh",
       "editorial_score": "66",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic says it's committing 5% of its shares to a 'public benefit fund'",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "snapshot": "Anthropic said that it will commit 5% of its shares to the fund. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic",
-        "Specific figures mentioned: 5%",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic says it's committing 5% of its shares to a 'public benefit fund'"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 18 Oct 2026 20:37:40 +0000",
-      "age_hours": "17.72",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "A woman was arrested in Philly for blocking a delivery robot",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "snapshot": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them...",
-      "key_data": [
-        "Key people or organizations: Philly, Carolyn Marvin, Uber, Marvin",
-        "Story focus: A woman was arrested in Philly for blocking a delivery robot",
-        "Source context: Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way...."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Philly.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-18T14:28:10-04:00",
-      "age_hours": "19.87",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "46",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Disney agrees to hire the majority of Character.AI's workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "snapshot": "The filing also says that the \"vast majority\" of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
-      "key_data": [
-        "Key people or organizations: Disney, Character, However",
-        "Story focus: Disney agrees to hire the majority of Character.AI's workforce",
-        "Source context: The filing also says that the \"vast majority\" of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Disney.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sun, 18 Oct 2026 16:30:00 +0000",
-      "age_hours": "21.84",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "24",
       "urgency": ""
     }
   ],
