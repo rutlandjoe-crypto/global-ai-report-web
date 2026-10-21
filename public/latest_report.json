@@ -3,52 +3,22 @@
   "vertical": "AI",
   "headline": "OpenAI says an AI agent lied about disabling its safety monitoring system",
   "snapshot": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-10-21 01:52:09 PM ET",
-  "generated_at": "2026-10-21 01:52:09 PM ET",
+  "updated_at": "2026-10-21 03:42:06 PM ET",
+  "generated_at": "2026-10-21 03:42:06 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 3,
-    "editor_fresh_items": 24,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 26,
     "public_fallback_items": 30,
-    "stale_or_blocked_items": 27,
+    "stale_or_blocked_items": 25,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-21 01:52:09 PM ET"
+    "last_checked": "2026-10-21 03:42:06 PM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Judge dismisses Sam Altman's sister's sexual abuse lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "snapshot": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Judge, Sam Altman, On Tuesday, US District Judge Zachary",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Judge dismisses Sam Altman's sister's sexual abuse lawsuit",
-        "Source context: On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman,..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Judge.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-20T19:04:19-04:00",
-      "age_hours": "18.80",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "118",
-      "urgency": "DEVELOPING"
-    },
     {
       "headline": "OpenAI says an AI agent lied about disabling its safety monitoring system",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
@@ -74,7 +44,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-21T09:57:43-04:00",
-      "age_hours": "3.91",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": ""
@@ -104,9 +74,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "age_hours": "18.85",
+      "age_hours": "20.68",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
+      "urgency": ""
+    },
+    {
+      "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "snapshot": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
+      "key_data": [
+        "Key people or organizations: While Amazon, Walmart, As Amazon",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+        "Source context: As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from While Amazon.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 21 Oct 2026 19:30:00 +0000",
+      "age_hours": "0.20",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -134,39 +134,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-21T11:00:00-04:00",
-      "age_hours": "2.87",
+      "age_hours": "4.70",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     },
     {
-      "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: 'Physical AI is in its LEGO era'",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "snapshot": "It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "snapshot": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Ex, Nvidia, VC Amulya Vishwanath, Physical AI",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Ex-Nvidia-turned-VC Amulya Vishwanath",
-        "Source context: It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI..."
+        "Key people or organizations: Walmart, Next",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Walmart is inviting AI agents to shop for you",
+        "Source context: Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site,..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ex.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Walmart.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 16:20:06 +0000",
-      "age_hours": "25.53",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "98",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-21T15:30:00-04:00",
+      "age_hours": "0.20",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
       "urgency": ""
     }
   ],
@@ -196,7 +195,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-21T09:57:43-04:00",
-      "age_hours": "3.91",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": ""
@@ -226,9 +225,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "age_hours": "18.85",
+      "age_hours": "20.68",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
+      "urgency": ""
+    },
+    {
+      "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "snapshot": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
+      "key_data": [
+        "Key people or organizations: While Amazon, Walmart, As Amazon",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+        "Source context: As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from While Amazon.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 21 Oct 2026 19:30:00 +0000",
+      "age_hours": "0.20",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -256,7 +285,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T19:04:19-04:00",
-      "age_hours": "18.80",
+      "age_hours": "20.63",
       "freshness_status": "editor_fresh",
       "editorial_score": "118",
       "urgency": "DEVELOPING"
@@ -286,46 +315,16 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-21T11:00:00-04:00",
-      "age_hours": "2.87",
+      "age_hours": "4.70",
       "freshness_status": "fresh",
       "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: 'Physical AI is in its LEGO era'",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "snapshot": "It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Ex, Nvidia, VC Amulya Vishwanath, Physical AI",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Ex-Nvidia-turned-VC Amulya Vishwanath",
-        "Source context: It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ex.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 16:20:06 +0000",
-      "age_hours": "25.53",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "98",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "OpenAI says an AI agent lied about disabling its safety monitoring system",
-    "Conversational Gemini navigation comes to Apple CarPlay",
-    "AI promises productivity, but for managers, it's mostly a headache for now"
+    "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "Conversational Gemini navigation comes to Apple CarPlay"
   ],
   "sections": [
     {
@@ -353,9 +352,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-21T09:57:43-04:00",
-      "age_hours": "3.91",
+      "age_hours": "5.74",
       "freshness_status": "fresh",
       "editorial_score": "138",
+      "urgency": ""
+    },
+    {
+      "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "snapshot": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
+      "key_data": [
+        "Key people or organizations: While Amazon, Walmart, As Amazon",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+        "Source context: As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from While Amazon.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 21 Oct 2026 19:30:00 +0000",
+      "age_hours": "0.20",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -383,9 +412,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-21T11:00:00-04:00",
-      "age_hours": "2.87",
+      "age_hours": "4.70",
       "freshness_status": "fresh",
       "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "snapshot": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Walmart, Next",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Walmart is inviting AI agents to shop for you",
+        "Source context: Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site,..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Walmart.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-21T15:30:00-04:00",
+      "age_hours": "0.20",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -412,7 +470,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 21 Oct 2026 14:00:00 +0000",
-      "age_hours": "3.87",
+      "age_hours": "5.70",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -442,69 +500,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "age_hours": "18.85",
+      "age_hours": "20.68",
       "freshness_status": "editor_fresh",
       "editorial_score": "126",
-      "urgency": ""
-    },
-    {
-      "headline": "Judge dismisses Sam Altman's sister's sexual abuse lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-      "snapshot": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Judge, Sam Altman, On Tuesday, US District Judge Zachary",
-        "AI desk signal: lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Judge dismisses Sam Altman's sister's sexual abuse lawsuit",
-        "Source context: On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman,..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Judge.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-20T19:04:19-04:00",
-      "age_hours": "18.80",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "118",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: 'Physical AI is in its LEGO era'",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "snapshot": "It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Ex, Nvidia, VC Amulya Vishwanath, Physical AI",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Ex-Nvidia-turned-VC Amulya Vishwanath",
-        "Source context: It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ex.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 16:20:06 +0000",
-      "age_hours": "25.53",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "98",
       "urgency": ""
     }
   ],
