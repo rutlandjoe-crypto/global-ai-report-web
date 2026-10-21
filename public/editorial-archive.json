@@ -24,7 +24,7 @@
     "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     "source_name": "The Verge",
     "published": "2026-10-20T19:04:19-04:00",
-    "age_hours": "7.89",
+    "age_hours": "11.59",
     "freshness_status": "fresh",
     "editorial_score": "148",
     "urgency": "DEVELOPING"
@@ -54,7 +54,7 @@
     "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "source_name": "TechCrunch",
     "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-    "age_hours": "7.94",
+    "age_hours": "11.64",
     "freshness_status": "fresh",
     "editorial_score": "156",
     "urgency": ""
@@ -114,9 +114,9 @@
     "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     "source_name": "The Verge",
     "published": "2026-10-20T18:11:34-04:00",
-    "age_hours": "8.77",
-    "freshness_status": "fresh",
-    "editorial_score": "92",
+    "age_hours": "12.47",
+    "freshness_status": "editor_fresh",
+    "editorial_score": "62",
     "urgency": ""
   },
   {
@@ -270,6 +270,36 @@
     "urgency": ""
   },
   {
+    "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: 'Physical AI is in its LEGO era'",
+    "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+    "snapshot": "It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+    "key_data": [
+      "Key people or organizations: Ex, Nvidia, VC Amulya Vishwanath, Physical AI",
+      "AI desk signal: chip, nvidia, enterprise",
+      "Market context: major AI platform or infrastructure player involved",
+      "Story focus: Ex-Nvidia-turned-VC Amulya Vishwanath",
+      "Source context: It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI..."
+    ],
+    "why_it_matters": [
+      "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+      "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+      "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+    ],
+    "what_to_watch": [
+      "Watch for follow-up statements, product details or customer evidence from Ex.",
+      "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+      "Look for measurable adoption signals rather than promotional claims."
+    ],
+    "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+    "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "source_name": "TechCrunch",
+    "published": "Tue, 20 Oct 2026 16:20:06 +0000",
+    "age_hours": "18.33",
+    "freshness_status": "editor_fresh",
+    "editorial_score": "98",
+    "urgency": ""
+  },
+  {
     "headline": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
     "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
     "snapshot": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
@@ -358,13 +388,13 @@
   {
     "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
     "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-    "snapshot": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+    "snapshot": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
     "key_data": [
       "Key people or organizations: Eka, Eka Robotics",
       "Specific figures mentioned: $1.45B",
       "AI desk signal: model, enterprise",
       "Story focus: Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "Source context: Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is..."
+      "Source context: Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is..."
     ],
     "why_it_matters": [
       "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -380,9 +410,9 @@
     "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "source_name": "TechCrunch",
     "published": "Tue, 20 Oct 2026 13:00:00 +0000",
-    "age_hours": "11.25",
-    "freshness_status": "fresh",
-    "editorial_score": "124",
+    "age_hours": "21.66",
+    "freshness_status": "editor_fresh",
+    "editorial_score": "94",
     "urgency": ""
   },
   {
