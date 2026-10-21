@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
   "snapshot": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-  "updated_at": "2026-10-21 02:57:34 AM ET",
-  "generated_at": "2026-10-21 02:57:34 AM ET",
+  "updated_at": "2026-10-21 06:39:47 AM ET",
+  "generated_at": "2026-10-21 06:39:47 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 7,
-    "editor_fresh_items": 27,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 24,
     "public_fallback_items": 30,
-    "stale_or_blocked_items": 23,
+    "stale_or_blocked_items": 28,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-21 02:57:34 AM ET"
+    "last_checked": "2026-10-21 06:39:47 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T19:04:19-04:00",
-      "age_hours": "7.89",
+      "age_hours": "11.59",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -74,51 +74,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "age_hours": "7.94",
+      "age_hours": "11.64",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": ""
     },
     {
-      "headline": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "snapshot": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle...",
+      "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: 'Physical AI is in its LEGO era'",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "snapshot": "It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: OpenAI, Orchestra Bio, Orchestra, Rosalind",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Ex, Nvidia, VC Amulya Vishwanath, Physical AI",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-        "Source context: OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind..."
+        "Story focus: Ex-Nvidia-turned-VC Amulya Vishwanath",
+        "Source context: It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Ex.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 20:35:10 +0000",
-      "age_hours": "10.37",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
+      "published": "Tue, 20 Oct 2026 16:20:06 +0000",
+      "age_hours": "18.33",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "98",
       "urgency": ""
     },
     {
-      "headline": "Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "snapshot": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "snapshot": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Hugging Face CEO, Netflix, OpenAI, Gone Rogue",
+        "Key people or organizations: Eka, Eka Robotics",
+        "Specific figures mentioned: $1.45B",
         "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate",
-        "Source context: Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it..."
+        "Story focus: Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+        "Source context: Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -126,17 +126,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Hugging Face CEO.",
+        "Watch for follow-up statements, product details or customer evidence from Eka.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 22:24:02 +0000",
-      "age_hours": "8.56",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
+      "published": "Tue, 20 Oct 2026 13:00:00 +0000",
+      "age_hours": "21.66",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "94",
       "urgency": ""
     },
     {
@@ -164,43 +164,13 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T18:11:34-04:00",
-      "age_hours": "8.77",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
+      "age_hours": "12.47",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "62",
       "urgency": ""
     }
   ],
   "editor_signals": [
-    {
-      "headline": "Microsoft says AI agents are like insider threats as 'frontier models can't be trusted'",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "snapshot": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Microsoft, OpenAI, Anthropic",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft says AI agents are like insider threats as 'frontier models can't be trusted'",
-        "Source context: Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 19 Oct 2026 22:04:28 +0000",
-      "age_hours": "32.89",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "176",
-      "urgency": ""
-    },
     {
       "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
@@ -226,7 +196,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "age_hours": "7.94",
+      "age_hours": "11.64",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": ""
@@ -256,21 +226,51 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T19:04:19-04:00",
-      "age_hours": "7.89",
+      "age_hours": "11.59",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "snapshot": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle...",
+      "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: 'Physical AI is in its LEGO era'",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "snapshot": "It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: OpenAI, Orchestra Bio, Orchestra, Rosalind",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Ex, Nvidia, VC Amulya Vishwanath, Physical AI",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-        "Source context: OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind..."
+        "Story focus: Ex-Nvidia-turned-VC Amulya Vishwanath",
+        "Source context: It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ex.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 20 Oct 2026 16:20:06 +0000",
+      "age_hours": "18.33",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "snapshot": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Eka, Eka Robotics",
+        "Specific figures mentioned: $1.45B",
+        "AI desk signal: model, enterprise",
+        "Story focus: Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+        "Source context: Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -278,17 +278,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Eka.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 20:35:10 +0000",
-      "age_hours": "10.37",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
+      "published": "Tue, 20 Oct 2026 13:00:00 +0000",
+      "age_hours": "21.66",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "94",
       "urgency": ""
     },
     {
@@ -316,16 +316,16 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T18:11:34-04:00",
-      "age_hours": "8.77",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
+      "age_hours": "12.47",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "62",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "Judge dismisses Sam Altman's sister's sexual abuse lawsuit",
-    "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business"
+    "Ex-Nvidia-turned-VC Amulya Vishwanath: 'Physical AI is in its LEGO era'"
   ],
   "sections": [
     {
@@ -353,7 +353,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "age_hours": "7.94",
+      "age_hours": "11.64",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": ""
@@ -383,21 +383,51 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T19:04:19-04:00",
-      "age_hours": "7.89",
+      "age_hours": "11.59",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-      "snapshot": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle...",
+      "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: 'Physical AI is in its LEGO era'",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+      "snapshot": "It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: OpenAI, Orchestra Bio, Orchestra, Rosalind",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Ex, Nvidia, VC Amulya Vishwanath, Physical AI",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-        "Source context: OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind..."
+        "Story focus: Ex-Nvidia-turned-VC Amulya Vishwanath",
+        "Source context: It's the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch's Equity. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ex.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 20 Oct 2026 16:20:06 +0000",
+      "age_hours": "18.33",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "snapshot": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Eka, Eka Robotics",
+        "Specific figures mentioned: $1.45B",
+        "AI desk signal: model, enterprise",
+        "Story focus: Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+        "Source context: Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -405,17 +435,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Eka.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 20:35:10 +0000",
-      "age_hours": "10.37",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
+      "published": "Tue, 20 Oct 2026 13:00:00 +0000",
+      "age_hours": "21.66",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "94",
       "urgency": ""
     },
     {
@@ -443,21 +473,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T18:11:34-04:00",
-      "age_hours": "8.77",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
+      "age_hours": "12.47",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "62",
       "urgency": ""
     },
     {
-      "headline": "Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "snapshot": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "snapshot": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Hugging Face CEO, Netflix, OpenAI, Gone Rogue",
+        "Key people or organizations: Meta, Muse, URLs, Ars Technica",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate",
-        "Source context: Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it..."
+        "Story focus: Meta pauses Muse sharing after researchers find AI chats on the web",
+        "Source context: Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -465,47 +495,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Hugging Face CEO.",
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 22:24:02 +0000",
-      "age_hours": "8.56",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic's cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "snapshot": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, November IPO",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's cloud partnerships are getting messy",
-        "Source context: Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 21:25:22 +0000",
-      "age_hours": "9.54",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-20T14:07:34-04:00",
+      "age_hours": "16.54",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "54",
       "urgency": ""
     }
   ],
