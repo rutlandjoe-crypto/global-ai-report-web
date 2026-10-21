@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
   "snapshot": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-  "updated_at": "2026-10-21 01:25:40 AM ET",
-  "generated_at": "2026-10-21 01:25:40 AM ET",
+  "updated_at": "2026-10-21 02:57:34 AM ET",
+  "generated_at": "2026-10-21 02:57:34 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 30,
-    "live_fresh_items": 11,
+    "live_fresh_items": 7,
     "editor_fresh_items": 27,
     "public_fallback_items": 30,
-    "stale_or_blocked_items": 19,
+    "stale_or_blocked_items": 23,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-21 01:25:40 AM ET"
+    "last_checked": "2026-10-21 02:57:34 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T19:04:19-04:00",
-      "age_hours": "6.36",
+      "age_hours": "7.89",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -74,7 +74,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "age_hours": "6.40",
+      "age_hours": "7.94",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": ""
@@ -104,39 +104,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 20:35:10 +0000",
-      "age_hours": "8.84",
+      "age_hours": "10.37",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": ""
     },
     {
-      "headline": "Google has joined Amazon in attacking Nvidia's stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "snapshot": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "snapshot": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Google, Amazon, Nvidia, PyTorch",
-        "AI desk signal: chip, nvidia, enterprise",
+        "Key people or organizations: Hugging Face CEO, Netflix, OpenAI, Gone Rogue",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google has joined Amazon in attacking Nvidia's stronghold with AI app developers",
-        "Source context: Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs. The larger angle is..."
+        "Story focus: Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate",
+        "Source context: Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Hugging Face CEO.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 18:38:24 +0000",
-      "age_hours": "10.79",
+      "published": "Tue, 20 Oct 2026 22:24:02 +0000",
+      "age_hours": "8.56",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -164,7 +164,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T18:11:34-04:00",
-      "age_hours": "7.24",
+      "age_hours": "8.77",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -196,7 +196,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 19 Oct 2026 22:04:28 +0000",
-      "age_hours": "31.35",
+      "age_hours": "32.89",
       "freshness_status": "editor_fresh",
       "editorial_score": "176",
       "urgency": ""
@@ -226,7 +226,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "age_hours": "6.40",
+      "age_hours": "7.94",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": ""
@@ -256,7 +256,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T19:04:19-04:00",
-      "age_hours": "6.36",
+      "age_hours": "7.89",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -286,7 +286,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 20:35:10 +0000",
-      "age_hours": "8.84",
+      "age_hours": "10.37",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": ""
@@ -316,7 +316,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T18:11:34-04:00",
-      "age_hours": "7.24",
+      "age_hours": "8.77",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -353,7 +353,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 23:01:23 +0000",
-      "age_hours": "6.40",
+      "age_hours": "7.94",
       "freshness_status": "fresh",
       "editorial_score": "156",
       "urgency": ""
@@ -383,7 +383,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T19:04:19-04:00",
-      "age_hours": "6.36",
+      "age_hours": "7.89",
       "freshness_status": "fresh",
       "editorial_score": "148",
       "urgency": "DEVELOPING"
@@ -413,39 +413,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 20 Oct 2026 20:35:10 +0000",
-      "age_hours": "8.84",
+      "age_hours": "10.37",
       "freshness_status": "fresh",
       "editorial_score": "110",
-      "urgency": ""
-    },
-    {
-      "headline": "Google has joined Amazon in attacking Nvidia's stronghold with AI app developers",
-      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-      "snapshot": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Google, Amazon, Nvidia, PyTorch",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google has joined Amazon in attacking Nvidia's stronghold with AI app developers",
-        "Source context: Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs. The larger angle is..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 20 Oct 2026 18:38:24 +0000",
-      "age_hours": "10.79",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
       "urgency": ""
     },
     {
@@ -473,21 +443,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-20T18:11:34-04:00",
-      "age_hours": "7.24",
+      "age_hours": "8.77",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "snapshot": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm Claroc say they found more... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "snapshot": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Meta, Muse, URLs, Ars Technica",
+        "Key people or organizations: Hugging Face CEO, Netflix, OpenAI, Gone Rogue",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta pauses Muse sharing after researchers find AI chats on the web",
-        "Source context: Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the..."
+        "Story focus: Hugging Face CEO warns that Netflix's OpenAI hack documentary isn't accurate",
+        "Source context: Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -495,15 +465,45 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from Hugging Face CEO.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-20T14:07:34-04:00",
-      "age_hours": "11.30",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 20 Oct 2026 22:24:02 +0000",
+      "age_hours": "8.56",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "snapshot": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, November IPO",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's cloud partnerships are getting messy",
+        "Source context: Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 20 Oct 2026 21:25:22 +0000",
+      "age_hours": "9.54",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
