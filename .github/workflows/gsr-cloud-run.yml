@@ -50,9 +50,8 @@ jobs:
             pip install requests python-dotenv tweepy
           fi
 
-      - name: Run master runner
-        run: |
-          python master_runner.py
+      - name: Generate and validate fresh AI reporting
+        run: python scripts/generate_ai_report.py
 
 
       - name: Guard AI report quality before commit
