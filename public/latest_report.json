@@ -3,22 +3,51 @@
   "vertical": "AI",
   "headline": "Canva's first AI image model plans designs before generating them",
   "snapshot": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-10-23 03:58:48 AM ET",
-  "generated_at": "2026-10-23 03:58:48 AM ET",
+  "updated_at": "2026-10-23 05:02:48 AM ET",
+  "generated_at": "2026-10-23 05:02:48 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 60,
-    "live_fresh_items": 12,
-    "editor_fresh_items": 53,
+    "live_fresh_items": 8,
+    "editor_fresh_items": 52,
     "public_fallback_items": 60,
-    "stale_or_blocked_items": 48,
+    "stale_or_blocked_items": 52,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-23 03:58:48 AM ET"
+    "last_checked": "2026-10-23 05:02:48 AM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Discord now formats Markdown previews right",
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "snapshot": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Discord, Markdown, LLMs",
+        "AI desk signal: model, llm, agent, enterprise",
+        "Story focus: Discord now formats Markdown previews right",
+        "Source context: Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Discord.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-22T14:58:19-04:00",
+      "age_hours": "14.07",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
       "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
@@ -43,7 +72,37 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 22 Oct 2026 21:07:09 +0000",
-      "age_hours": "10.86",
+      "age_hours": "11.93",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    },
+    {
+      "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "snapshot": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Uber, Central Asia, Pony, Nvidia",
+        "Specific figures mentioned: 2027",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Uber.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "age_hours": "5.05",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -73,70 +132,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T17:51:25-04:00",
-      "age_hours": "10.12",
+      "age_hours": "11.19",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "snapshot": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Uber, Central Asia, Pony, Nvidia",
-        "Specific figures mentioned: 2027",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Uber.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 23 Oct 2026 04:00:00 +0000",
-      "age_hours": "3.98",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta's AI could still scrape news sites, legal experts say",
-      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "snapshot": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Meta, Verge",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI could still scrape news sites, legal experts say",
-        "Source context: Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-22T16:32:05-04:00",
-      "age_hours": "11.45",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
     },
     {
       "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
@@ -163,7 +162,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 22 Oct 2026 22:08:24 +0000",
-      "age_hours": "9.84",
+      "age_hours": "10.91",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -195,39 +194,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T17:51:25-04:00",
-      "age_hours": "10.12",
+      "age_hours": "11.19",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
     },
     {
-      "headline": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "snapshot": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "snapshot": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Recursive, Flint, Startup Recursive",
-        "AI desk signal: model, enterprise",
-        "Story focus: Recursive launches Flint, a laptop coding model it says was largely built by AI",
-        "Source context: Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that..."
+        "Key people or organizations: Uber, Central Asia, Pony, Nvidia",
+        "Specific figures mentioned: 2027",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia"
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Recursive.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Uber.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 21 Oct 2026 20:27:41 +0000",
-      "age_hours": "35.52",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "108",
-      "urgency": "WATCH"
+      "published": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "age_hours": "5.05",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
     },
     {
       "headline": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
@@ -253,39 +253,9 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 22 Oct 2026 21:07:09 +0000",
-      "age_hours": "10.86",
+      "age_hours": "11.93",
       "freshness_status": "fresh",
       "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta's AI could still scrape news sites, legal experts say",
-      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "snapshot": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Meta, Verge",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI could still scrape news sites, legal experts say",
-        "Source context: Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-22T16:32:05-04:00",
-      "age_hours": "11.45",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -312,9 +282,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T14:58:19-04:00",
-      "age_hours": "13.01",
+      "age_hours": "14.07",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "snapshot": "OpenAI is launching its decision model to the world. Can it compete with the original Jev? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: OpenAI, Jev, Can",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "Source context: OpenAI is launching its decision model to the world. Can it compete with the original Jev? The competitive question is whether this changes the model..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "age_hours": "14.05",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "98",
       "urgency": "WATCH"
     }
   ],
@@ -349,7 +349,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T17:51:25-04:00",
-      "age_hours": "10.12",
+      "age_hours": "11.19",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
@@ -379,7 +379,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 23 Oct 2026 04:00:00 +0000",
-      "age_hours": "3.98",
+      "age_hours": "5.05",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -408,39 +408,9 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 22 Oct 2026 21:07:09 +0000",
-      "age_hours": "10.86",
+      "age_hours": "11.93",
       "freshness_status": "fresh",
       "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta's AI could still scrape news sites, legal experts say",
-      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "snapshot": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Meta, Verge",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI could still scrape news sites, legal experts say",
-        "Source context: Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-22T16:32:05-04:00",
-      "age_hours": "11.45",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -468,7 +438,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 22 Oct 2026 22:08:24 +0000",
-      "age_hours": "9.84",
+      "age_hours": "10.91",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
@@ -498,21 +468,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 23 Oct 2026 00:45:37 +0000",
-      "age_hours": "7.22",
+      "age_hours": "8.29",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
     },
     {
-      "headline": "Meta turns Muse sharing back on",
-      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "snapshot": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Discord now formats Markdown previews right",
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "snapshot": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Meta, Muse",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta turns Muse sharing back on",
-        "Source context: Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said..."
+        "Key people or organizations: Discord, Markdown, LLMs",
+        "AI desk signal: model, llm, agent, enterprise",
+        "Story focus: Discord now formats Markdown previews right",
+        "Source context: Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -520,46 +489,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from Discord.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-22T16:24:04-04:00",
-      "age_hours": "11.58",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
-      "url": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
-      "snapshot": "We can't have nice things, but at least we can get trailers for them.",
-      "key_data": [
-        "Key people or organizations: Leaked Mass Effect, Universe, We",
-        "Story focus: Leaked Mass Effect",
-        "Source context: We can't have nice things, but at least we can get trailers for them."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Leaked Mass Effect.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 22 Oct 2026 19:59:37 +0000",
-      "age_hours": "11.99",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
+      "published": "2026-10-22T14:58:19-04:00",
+      "age_hours": "14.07",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
