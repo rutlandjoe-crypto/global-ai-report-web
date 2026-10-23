@@ -1,53 +1,24 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Discord now formats Markdown previews right",
-  "snapshot": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-10-22 11:07:56 PM ET",
-  "generated_at": "2026-10-22 11:07:56 PM ET",
+  "headline": "Canva's first AI image model plans designs before generating them",
+  "snapshot": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-10-23 03:58:48 AM ET",
+  "generated_at": "2026-10-23 03:58:48 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 60,
-    "live_fresh_items": 34,
-    "editor_fresh_items": 56,
+    "live_fresh_items": 12,
+    "editor_fresh_items": 53,
     "public_fallback_items": 60,
-    "stale_or_blocked_items": 26,
+    "stale_or_blocked_items": 48,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-22 11:07:56 PM ET"
+    "last_checked": "2026-10-23 03:58:48 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Discord now formats Markdown previews right",
-      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "snapshot": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Discord, Markdown, LLMs",
-        "AI desk signal: model, llm, agent, enterprise",
-        "Story focus: Discord now formats Markdown previews right",
-        "Source context: Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Discord.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-22T14:58:19-04:00",
-      "age_hours": "8.16",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": "WATCH"
-    },
     {
       "headline": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
       "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
@@ -72,40 +43,10 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 22 Oct 2026 21:07:09 +0000",
-      "age_hours": "6.01",
+      "age_hours": "10.86",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
-    },
-    {
-      "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "snapshot": "OpenAI is launching its decision model to the world. Can it compete with the original Jev? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, Jev, Can",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI makes its Jev competitor widely available as decision model competition heats up",
-        "Source context: OpenAI is launching its decision model to the world. Can it compete with the original Jev? The competitive question is whether this changes the model..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "age_hours": "8.13",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": "WATCH"
     },
     {
       "headline": "Canva's first AI image model plans designs before generating them",
@@ -132,10 +73,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T17:51:25-04:00",
-      "age_hours": "5.28",
+      "age_hours": "10.12",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "snapshot": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Uber, Central Asia, Pony, Nvidia",
+        "Specific figures mentioned: 2027",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Uber.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "age_hours": "3.98",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
     },
     {
       "headline": "Meta's AI could still scrape news sites, legal experts say",
@@ -162,52 +133,53 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T16:32:05-04:00",
-      "age_hours": "6.60",
+      "age_hours": "11.45",
       "freshness_status": "fresh",
       "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "snapshot": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: OpenAI, IPO, Should OpenAI",
+        "Specific figures mentioned: $30B, $1, 25",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 22 Oct 2026 22:08:24 +0000",
+      "age_hours": "9.84",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Discord now formats Markdown previews right",
-      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "snapshot": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Canva's first AI image model plans designs before generating them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "snapshot": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Discord, Markdown, LLMs",
-        "AI desk signal: model, llm, agent, enterprise",
-        "Story focus: Discord now formats Markdown previews right",
-        "Source context: Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Discord.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-22T14:58:19-04:00",
-      "age_hours": "8.16",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "snapshot": "OpenAI is launching its decision model to the world. Can it compete with the original Jev? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, Jev, Can",
+        "Key people or organizations: Canva, OpenAI, Microsoft, Google",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI makes its Jev competitor widely available as decision model competition heats up",
-        "Source context: OpenAI is launching its decision model to the world. Can it compete with the original Jev? The competitive question is whether this changes the model..."
+        "Story focus: Canva's first AI image model plans designs before generating them",
+        "Source context: Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -215,17 +187,46 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Canva.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-22T17:51:25-04:00",
+      "age_hours": "10.12",
+      "freshness_status": "fresh",
+      "editorial_score": "122",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "snapshot": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Recursive, Flint, Startup Recursive",
+        "AI desk signal: model, enterprise",
+        "Story focus: Recursive launches Flint, a laptop coding model it says was largely built by AI",
+        "Source context: Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Recursive.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "age_hours": "8.13",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
+      "published": "Wed, 21 Oct 2026 20:27:41 +0000",
+      "age_hours": "35.52",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
@@ -252,40 +253,10 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 22 Oct 2026 21:07:09 +0000",
-      "age_hours": "6.01",
+      "age_hours": "10.86",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
-    },
-    {
-      "headline": "Canva's first AI image model plans designs before generating them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "snapshot": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Canva, OpenAI, Microsoft, Google",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Canva's first AI image model plans designs before generating them",
-        "Source context: Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Canva.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-22T17:51:25-04:00",
-      "age_hours": "5.28",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "WATCH"
     },
     {
       "headline": "Meta's AI could still scrape news sites, legal experts say",
@@ -312,57 +283,57 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T16:32:05-04:00",
-      "age_hours": "6.60",
+      "age_hours": "11.45",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
+    },
+    {
+      "headline": "Discord now formats Markdown previews right",
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "snapshot": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Discord, Markdown, LLMs",
+        "AI desk signal: model, llm, agent, enterprise",
+        "Story focus: Discord now formats Markdown previews right",
+        "Source context: Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Discord.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-22T14:58:19-04:00",
+      "age_hours": "13.01",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
-    "Discord now formats Markdown previews right",
-    "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+    "Canva's first AI image model plans designs before generating them",
+    "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
     "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\""
   ],
   "sections": [
     {
-      "headline": "Discord now formats Markdown previews right",
-      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "snapshot": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Canva's first AI image model plans designs before generating them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "snapshot": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Discord, Markdown, LLMs",
-        "AI desk signal: model, llm, agent, enterprise",
-        "Story focus: Discord now formats Markdown previews right",
-        "Source context: Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Discord.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-22T14:58:19-04:00",
-      "age_hours": "8.16",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "snapshot": "OpenAI is launching its decision model to the world. Can it compete with the original Jev? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, Jev, Can",
+        "Key people or organizations: Canva, OpenAI, Microsoft, Google",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI makes its Jev competitor widely available as decision model competition heats up",
-        "Source context: OpenAI is launching its decision model to the world. Can it compete with the original Jev? The competitive question is whether this changes the model..."
+        "Story focus: Canva's first AI image model plans designs before generating them",
+        "Source context: Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -370,18 +341,48 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Canva.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-22T17:51:25-04:00",
+      "age_hours": "10.12",
+      "freshness_status": "fresh",
+      "editorial_score": "122",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "snapshot": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Uber, Central Asia, Pony, Nvidia",
+        "Specific figures mentioned: 2027",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Uber.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "age_hours": "8.13",
+      "published": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "age_hours": "3.98",
       "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": "WATCH"
+      "editorial_score": "102",
+      "urgency": ""
     },
     {
       "headline": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
@@ -407,40 +408,10 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 22 Oct 2026 21:07:09 +0000",
-      "age_hours": "6.01",
+      "age_hours": "10.86",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
-    },
-    {
-      "headline": "Canva's first AI image model plans designs before generating them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "snapshot": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Canva, OpenAI, Microsoft, Google",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Canva's first AI image model plans designs before generating them",
-        "Source context: Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Canva.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-22T17:51:25-04:00",
-      "age_hours": "5.28",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "WATCH"
     },
     {
       "headline": "Meta's AI could still scrape news sites, legal experts say",
@@ -467,21 +438,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T16:32:05-04:00",
-      "age_hours": "6.60",
+      "age_hours": "11.45",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
     },
     {
-      "headline": "Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence'",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "snapshot": "Microsoft's new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft's system itself. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform...",
+      "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "snapshot": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Microsoft, Mustafa Suleyman, Science, But",
+        "Key people or organizations: OpenAI, IPO, Should OpenAI",
+        "Specific figures mentioned: $30B, $1, 25",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence'",
-        "Source context: Microsoft's new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to..."
+        "Story focus: OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -489,28 +460,29 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 22 Oct 2026 18:43:53 +0000",
-      "age_hours": "8.40",
+      "published": "Thu, 22 Oct 2026 22:08:24 +0000",
+      "age_hours": "9.84",
       "freshness_status": "fresh",
-      "editorial_score": "120",
+      "editorial_score": "94",
       "urgency": ""
     },
     {
-      "headline": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "snapshot": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "snapshot": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Specific figures mentioned: 1",
+        "Key people or organizations: Left, MIT, AIs",
+        "Specific figures mentioned: 13",
         "AI desk signal: model, agent, enterprise",
-        "Story focus: 1Password launches a way for AI agents to log in on your behalf without seeing your password",
-        "Source context: The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts...."
+        "Story focus: Left alone with nothing to do, AI agents started playing",
+        "Source context: MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -518,29 +490,29 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Watch for follow-up statements, product details or customer evidence from Left.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 22 Oct 2026 19:07:09 +0000",
-      "age_hours": "8.01",
+      "published": "Fri, 23 Oct 2026 00:45:37 +0000",
+      "age_hours": "7.22",
       "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
+      "editorial_score": "90",
+      "urgency": ""
     },
     {
-      "headline": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
-      "snapshot": "Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Meta turns Muse sharing back on",
+      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "snapshot": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Meta, Mark Zuckerberg",
-        "Specific figures mentioned: $25B",
+        "Key people or organizations: Meta, Muse",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta shocked by $25B fine after N.M. refused to join multistate settlement"
+        "Story focus: Meta turns Muse sharing back on",
+        "Source context: Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -553,40 +525,12 @@
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 22 Oct 2026 17:04:31 +0000",
-      "age_hours": "10.06",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-22T16:24:04-04:00",
+      "age_hours": "11.58",
       "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "The Social Society Helping Women Join the AI Boom",
-      "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
-      "snapshot": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to \"solve midlife problems using frontier tools.\" The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Social Society Helping, Women Join, Boom, WIRED",
-        "Story focus: The Social Society Helping Women Join the AI Boom",
-        "Source context: WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to \"solve midlife problems..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Social Society Helping.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Thu, 22 Oct 2026 19:56:32 +0000",
-      "age_hours": "7.19",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -612,7 +556,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 22 Oct 2026 19:59:37 +0000",
-      "age_hours": "7.14",
+      "age_hours": "11.99",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
