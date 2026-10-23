@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Discord now formats Markdown previews right",
   "snapshot": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-10-22 07:50:57 PM ET",
-  "generated_at": "2026-10-22 07:50:57 PM ET",
+  "updated_at": "2026-10-22 10:04:10 PM ET",
+  "generated_at": "2026-10-22 10:04:10 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 60,
-    "live_fresh_items": 40,
-    "editor_fresh_items": 60,
+    "live_fresh_items": 36,
+    "editor_fresh_items": 58,
     "public_fallback_items": 60,
-    "stale_or_blocked_items": 20,
+    "stale_or_blocked_items": 24,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-22 07:50:57 PM ET"
+    "last_checked": "2026-10-22 10:04:10 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,7 +43,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T14:58:19-04:00",
-      "age_hours": "4.88",
+      "age_hours": "7.10",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "WATCH"
@@ -72,7 +72,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 22 Oct 2026 21:07:09 +0000",
-      "age_hours": "2.73",
+      "age_hours": "4.95",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -102,40 +102,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "age_hours": "4.85",
+      "age_hours": "7.07",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Claude Duet app is Anthropic's bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "snapshot": "Claude Duet is available through waitlist for Pro and Max plan users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Claude Duet, Anthropic, Pro, Max",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Claude Duet app is Anthropic's bet on agents",
-        "Source context: Claude Duet is available through waitlist for Pro and Max plan users. The competitive question is whether this changes the model race, enterprise..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Claude Duet.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 22 Oct 2026 13:53:26 +0000",
-      "age_hours": "9.96",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
     },
     {
       "headline": "Canva's first AI image model plans designs before generating them",
@@ -162,10 +132,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T17:51:25-04:00",
-      "age_hours": "1.99",
+      "age_hours": "4.21",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta's AI could still scrape news sites, legal experts say",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "snapshot": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Meta, Verge",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's AI could still scrape news sites, legal experts say",
+        "Source context: Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-22T16:32:05-04:00",
+      "age_hours": "5.53",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
     }
   ],
   "editor_signals": [
@@ -193,7 +193,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T14:58:19-04:00",
-      "age_hours": "4.88",
+      "age_hours": "7.10",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "WATCH"
@@ -223,7 +223,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "age_hours": "4.85",
+      "age_hours": "7.07",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "WATCH"
@@ -252,39 +252,9 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 22 Oct 2026 21:07:09 +0000",
-      "age_hours": "2.73",
+      "age_hours": "4.95",
       "freshness_status": "fresh",
       "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Claude Duet app is Anthropic's bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "snapshot": "Claude Duet is available through waitlist for Pro and Max plan users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Claude Duet, Anthropic, Pro, Max",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Claude Duet app is Anthropic's bet on agents",
-        "Source context: Claude Duet is available through waitlist for Pro and Max plan users. The competitive question is whether this changes the model race, enterprise..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Claude Duet.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 22 Oct 2026 13:53:26 +0000",
-      "age_hours": "9.96",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
       "urgency": ""
     },
     {
@@ -312,10 +282,40 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T17:51:25-04:00",
-      "age_hours": "1.99",
+      "age_hours": "4.21",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Meta's AI could still scrape news sites, legal experts say",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "snapshot": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Meta, Verge",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's AI could still scrape news sites, legal experts say",
+        "Source context: Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-22T16:32:05-04:00",
+      "age_hours": "5.53",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
     }
   ],
   "key_storylines": [
@@ -348,7 +348,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T14:58:19-04:00",
-      "age_hours": "4.88",
+      "age_hours": "7.10",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "WATCH"
@@ -378,7 +378,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "age_hours": "4.85",
+      "age_hours": "7.07",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "WATCH"
@@ -407,39 +407,9 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 22 Oct 2026 21:07:09 +0000",
-      "age_hours": "2.73",
+      "age_hours": "4.95",
       "freshness_status": "fresh",
       "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Claude Duet app is Anthropic's bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "snapshot": "Claude Duet is available through waitlist for Pro and Max plan users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Claude Duet, Anthropic, Pro, Max",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Claude Duet app is Anthropic's bet on agents",
-        "Source context: Claude Duet is available through waitlist for Pro and Max plan users. The competitive question is whether this changes the model race, enterprise..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Claude Duet.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 22 Oct 2026 13:53:26 +0000",
-      "age_hours": "9.96",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
       "urgency": ""
     },
     {
@@ -467,7 +437,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T17:51:25-04:00",
-      "age_hours": "1.99",
+      "age_hours": "4.21",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "WATCH"
@@ -497,7 +467,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-22T16:32:05-04:00",
-      "age_hours": "3.31",
+      "age_hours": "5.53",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -527,10 +497,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 22 Oct 2026 18:43:53 +0000",
-      "age_hours": "5.12",
+      "age_hours": "7.34",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
+    },
+    {
+      "headline": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "snapshot": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Specific figures mentioned: 1",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: 1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "Source context: The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts...."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 22 Oct 2026 19:07:09 +0000",
+      "age_hours": "6.95",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": "WATCH"
     },
     {
       "headline": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
@@ -557,37 +556,9 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 22 Oct 2026 17:04:31 +0000",
-      "age_hours": "6.77",
+      "age_hours": "8.99",
       "freshness_status": "fresh",
       "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "Meet Mori, a Cute Robot Mushroom That Doesn't Really Say (or Do) Anything",
-      "url": "https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything/",
-      "snapshot": "Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.",
-      "key_data": [
-        "Key people or organizations: Meet Mori, Cute Robot Mushroom That, Doesn, Really Say",
-        "Story focus: Meet Mori, a Cute Robot Mushroom That Doesn't Really Say (or Do) Anything",
-        "Source context: Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meet Mori.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Thu, 22 Oct 2026 13:00:00 +0000",
-      "age_hours": "10.85",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
       "urgency": ""
     },
     {
@@ -613,9 +584,37 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 22 Oct 2026 19:56:32 +0000",
-      "age_hours": "3.91",
+      "age_hours": "6.13",
       "freshness_status": "fresh",
       "editorial_score": "62",
+      "urgency": ""
+    },
+    {
+      "headline": "Leaked Mass Effect: Universe trailer gives a taste of what we're all missing",
+      "url": "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
+      "snapshot": "We can't have nice things, but at least we can get trailers for them.",
+      "key_data": [
+        "Key people or organizations: Leaked Mass Effect, Universe, We",
+        "Story focus: Leaked Mass Effect",
+        "Source context: We can't have nice things, but at least we can get trailers for them."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Leaked Mass Effect.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Thu, 22 Oct 2026 19:59:37 +0000",
+      "age_hours": "6.08",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
       "urgency": ""
     }
   ],
