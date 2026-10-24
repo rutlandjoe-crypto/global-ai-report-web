@@ -1,10 +1,10 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "OpenAI says it will no longer train its AI models on the live internet, citing \"significant risks\"",
-  "snapshot": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-10-23 07:36:13 PM ET",
-  "generated_at": "2026-10-23 07:36:13 PM ET",
+  "headline": "OpenAI now trains its frontier AI models with no internet access",
+  "snapshot": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+  "updated_at": "2026-10-23 08:13:05 PM ET",
+  "generated_at": "2026-10-23 08:13:05 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
@@ -16,7 +16,7 @@
     "public_fallback_items": 60,
     "stale_or_blocked_items": 41,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-23 07:36:13 PM ET"
+    "last_checked": "2026-10-23 08:13:05 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,7 +43,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 23 Oct 2026 17:18:31 +0000",
-      "age_hours": "6.30",
+      "age_hours": "6.91",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
@@ -73,21 +73,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 23 Oct 2026 21:59:19 +0000",
-      "age_hours": "1.62",
+      "age_hours": "2.23",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "snapshot": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "snapshot": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Meta, Fast Company, In, Verge",
-        "AI desk signal: chip",
+        "Key people or organizations: OpenAI, In",
+        "AI desk signal: model, chip",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta delays new business terms after publisher pushback on AI scraping",
-        "Source context: Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites..."
+        "Story focus: OpenAI now trains its frontier AI models with no internet access",
+        "Source context: OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday,..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -95,17 +95,17 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-23T10:47:41-04:00",
-      "age_hours": "8.81",
+      "published": "2026-10-23T17:11:07-04:00",
+      "age_hours": "3.03",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "144",
       "urgency": ""
     },
     {
@@ -133,7 +133,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 23 Oct 2026 23:05:49 +0000",
-      "age_hours": "0.51",
+      "age_hours": "1.12",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -162,13 +162,43 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 23 Oct 2026 20:19:55 +0000",
-      "age_hours": "3.27",
+      "age_hours": "3.89",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
     }
   ],
   "editor_signals": [
+    {
+      "headline": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "snapshot": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: OpenAI, In",
+        "AI desk signal: model, chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI now trains its frontier AI models with no internet access",
+        "Source context: OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday,..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-23T17:11:07-04:00",
+      "age_hours": "3.03",
+      "freshness_status": "fresh",
+      "editorial_score": "144",
+      "urgency": ""
+    },
     {
       "headline": "OpenAI says it will no longer train its AI models on the live internet, citing \"significant risks\"",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -194,7 +224,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 23 Oct 2026 23:05:49 +0000",
-      "age_hours": "0.51",
+      "age_hours": "1.12",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -223,39 +253,10 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 23 Oct 2026 17:18:31 +0000",
-      "age_hours": "6.30",
+      "age_hours": "6.91",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Discord now formats Markdown previews right",
-      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "snapshot": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Discord, Markdown, LLMs",
-        "AI desk signal: model, llm, agent, enterprise",
-        "Story focus: Discord now formats Markdown previews right",
-        "Source context: Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Discord.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-22T14:58:19-04:00",
-      "age_hours": "28.63",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "110",
-      "urgency": "WATCH"
     },
     {
       "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -282,7 +283,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 23 Oct 2026 21:59:19 +0000",
-      "age_hours": "1.62",
+      "age_hours": "2.23",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": "BREAKING"
@@ -312,18 +313,48 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "age_hours": "28.60",
+      "age_hours": "29.22",
       "freshness_status": "editor_fresh",
       "editorial_score": "98",
       "urgency": "WATCH"
     }
   ],
   "key_storylines": [
+    "OpenAI now trains its frontier AI models with no internet access",
     "OpenAI says it will no longer train its AI models on the live internet, citing \"significant risks\"",
-    "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-    "Meta delays new business terms after publisher pushback on AI scraping"
+    "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs"
   ],
   "sections": [
+    {
+      "headline": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "snapshot": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: OpenAI, In",
+        "AI desk signal: model, chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI now trains its frontier AI models with no internet access",
+        "Source context: OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday,..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-23T17:11:07-04:00",
+      "age_hours": "3.03",
+      "freshness_status": "fresh",
+      "editorial_score": "144",
+      "urgency": ""
+    },
     {
       "headline": "OpenAI says it will no longer train its AI models on the live internet, citing \"significant risks\"",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -349,7 +380,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 23 Oct 2026 23:05:49 +0000",
-      "age_hours": "0.51",
+      "age_hours": "1.12",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
@@ -378,40 +409,10 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 23 Oct 2026 17:18:31 +0000",
-      "age_hours": "6.30",
+      "age_hours": "6.91",
       "freshness_status": "fresh",
       "editorial_score": "122",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "snapshot": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Meta, Fast Company, In, Verge",
-        "AI desk signal: chip",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta delays new business terms after publisher pushback on AI scraping",
-        "Source context: Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-23T10:47:41-04:00",
-      "age_hours": "8.81",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
     },
     {
       "headline": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -438,7 +439,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 23 Oct 2026 21:59:19 +0000",
-      "age_hours": "1.62",
+      "age_hours": "2.23",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": "BREAKING"
@@ -467,9 +468,39 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 23 Oct 2026 20:19:55 +0000",
-      "age_hours": "3.27",
+      "age_hours": "3.89",
       "freshness_status": "fresh",
       "editorial_score": "94",
+      "urgency": ""
+    },
+    {
+      "headline": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "snapshot": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Meta, Fast Company, In, Verge",
+        "AI desk signal: chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta delays new business terms after publisher pushback on AI scraping",
+        "Source context: Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-23T10:47:41-04:00",
+      "age_hours": "9.42",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -496,37 +527,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-23T15:32:39-04:00",
-      "age_hours": "4.06",
+      "age_hours": "4.67",
       "freshness_status": "fresh",
       "editorial_score": "88",
-      "urgency": ""
-    },
-    {
-      "headline": "Retro gaming is being overrun with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "snapshot": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible...",
-      "key_data": [
-        "Key people or organizations: Retro, Halo, Wind Waker, Super Smash Bros",
-        "Story focus: Retro gaming is being overrun with AI",
-        "Source context: Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone,..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Retro.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-23T08:00:00-04:00",
-      "age_hours": "11.60",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     },
     {
@@ -553,7 +556,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 23 Oct 2026 19:06:23 +0000",
-      "age_hours": "4.50",
+      "age_hours": "5.11",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -581,7 +584,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 23 Oct 2026 20:28:43 +0000",
-      "age_hours": "3.13",
+      "age_hours": "3.74",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
