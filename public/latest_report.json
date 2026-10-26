@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Google's AI search changes upended online publishing",
-  "snapshot": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-10-25 07:44:46 PM ET",
-  "generated_at": "2026-10-25 07:44:46 PM ET",
+  "headline": "r/opensource just banned AI, non-English speakers, and more",
+  "snapshot": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+  "updated_at": "2026-10-25 08:46:52 PM ET",
+  "generated_at": "2026-10-25 08:46:52 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 60,
-    "live_fresh_items": 5,
-    "editor_fresh_items": 14,
-    "public_fallback_items": 40,
-    "stale_or_blocked_items": 55,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 12,
+    "public_fallback_items": 39,
+    "stale_or_blocked_items": 56,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-25 07:44:46 PM ET"
+    "last_checked": "2026-10-25 08:46:52 PM ET"
   },
   "live_newsroom": [
     {
@@ -42,7 +42,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-25T09:25:32-04:00",
-      "age_hours": "10.32",
+      "age_hours": "11.36",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -72,40 +72,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "age_hours": "32.75",
+      "age_hours": "33.78",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
     },
     {
-      "headline": "Google's AI search changes upended online publishing",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "snapshot": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "snapshot": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what's happened everywhere from Ireland to New Zealand. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Google, Stepback, For, Emma Roth",
-        "Specific figures mentioned: 8",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google's AI search changes upended online publishing"
+        "Key people or organizations: US Movement Against Data, Centers Can Learn From, Abroad, Paris Marx",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: What the US Movement Against Data Centers Can Learn From Abroad",
+        "Source context: Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what's happened..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from US Movement Against Data.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-25T08:00:00-04:00",
-      "age_hours": "11.75",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
-      "urgency": "BREAKING"
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "age_hours": "14.78",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "42",
+      "urgency": ""
     },
     {
       "headline": "Grok releases the first seven minutes of its AI-generated 'Odyssey'",
@@ -130,7 +129,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 25 Oct 2026 21:31:16 +0000",
-      "age_hours": "2.22",
+      "age_hours": "3.26",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": ""
@@ -158,7 +157,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 25 Oct 2026 16:57:32 +0000",
-      "age_hours": "6.79",
+      "age_hours": "7.82",
       "freshness_status": "fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -190,40 +189,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "age_hours": "32.75",
+      "age_hours": "33.78",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
     },
     {
-      "headline": "Google's AI search changes upended online publishing",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "snapshot": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "snapshot": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Google, Stepback, For, Emma Roth",
-        "Specific figures mentioned: 8",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google's AI search changes upended online publishing"
+        "Key people or organizations: English, If",
+        "Story focus: r/opensource just banned AI, non-English speakers, and more",
+        "Source context: The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from English.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-25T08:00:00-04:00",
-      "age_hours": "11.75",
+      "published": "2026-10-25T09:25:32-04:00",
+      "age_hours": "11.36",
       "freshness_status": "fresh",
-      "editorial_score": "96",
-      "urgency": "BREAKING"
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "What the US Movement Against Data Centers Can Learn From Abroad",
@@ -249,38 +246,10 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Sun, 25 Oct 2026 10:00:00 +0000",
-      "age_hours": "13.75",
+      "age_hours": "14.78",
       "freshness_status": "editor_fresh",
       "editorial_score": "42",
       "urgency": ""
-    },
-    {
-      "headline": "r/opensource just banned AI, non-English speakers, and more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "snapshot": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: English, If",
-        "Story focus: r/opensource just banned AI, non-English speakers, and more",
-        "Source context: The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from English.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-25T09:25:32-04:00",
-      "age_hours": "10.32",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Grok releases the first seven minutes of its AI-generated 'Odyssey'",
@@ -305,18 +274,11 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 25 Oct 2026 21:31:16 +0000",
-      "age_hours": "2.22",
+      "age_hours": "3.26",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Google's AI search changes upended online publishing",
-    "Grok releases the first seven minutes of its AI-generated 'Odyssey'",
-    "r/opensource just banned AI, non-English speakers, and more"
-  ],
-  "sections": [
+    },
     {
       "headline": "Google's AI search changes upended online publishing",
       "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
@@ -342,10 +304,45 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-25T08:00:00-04:00",
-      "age_hours": "11.75",
-      "freshness_status": "fresh",
-      "editorial_score": "96",
+      "age_hours": "12.78",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "66",
       "urgency": "BREAKING"
+    }
+  ],
+  "key_storylines": [
+    "r/opensource just banned AI, non-English speakers, and more",
+    "Grok releases the first seven minutes of its AI-generated 'Odyssey'",
+    "What the US Movement Against Data Centers Can Learn From Abroad"
+  ],
+  "sections": [
+    {
+      "headline": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "snapshot": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: English, If",
+        "Story focus: r/opensource just banned AI, non-English speakers, and more",
+        "Source context: The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from English.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-25T09:25:32-04:00",
+      "age_hours": "11.36",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Grok releases the first seven minutes of its AI-generated 'Odyssey'",
@@ -370,38 +367,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 25 Oct 2026 21:31:16 +0000",
-      "age_hours": "2.22",
+      "age_hours": "3.26",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": ""
     },
     {
-      "headline": "r/opensource just banned AI, non-English speakers, and more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "snapshot": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today,... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "headline": "What the US Movement Against Data Centers Can Learn From Abroad",
+      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+      "snapshot": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what's happened everywhere from Ireland to New Zealand. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: English, If",
-        "Story focus: r/opensource just banned AI, non-English speakers, and more",
-        "Source context: The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by..."
+        "Key people or organizations: US Movement Against Data, Centers Can Learn From, Abroad, Paris Marx",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: What the US Movement Against Data Centers Can Learn From Abroad",
+        "Source context: Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what's happened..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from English.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from US Movement Against Data.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-25T09:25:32-04:00",
-      "age_hours": "10.32",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "DEVELOPING"
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Sun, 25 Oct 2026 10:00:00 +0000",
+      "age_hours": "14.78",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "42",
+      "urgency": ""
     },
     {
       "headline": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
@@ -426,7 +424,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 25 Oct 2026 16:57:32 +0000",
-      "age_hours": "6.79",
+      "age_hours": "7.82",
       "freshness_status": "fresh",
       "editorial_score": "62",
       "urgency": ""
@@ -454,7 +452,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sun, 25 Oct 2026 14:10:00 +0000",
-      "age_hours": "9.58",
+      "age_hours": "10.61",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -484,38 +482,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "age_hours": "32.75",
+      "age_hours": "33.78",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "What the US Movement Against Data Centers Can Learn From Abroad",
-      "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
-      "snapshot": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what's happened everywhere from Ireland to New Zealand. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: US Movement Against Data, Centers Can Learn From, Abroad, Paris Marx",
-        "AI desk signal: chip, data center, enterprise",
-        "Story focus: What the US Movement Against Data Centers Can Learn From Abroad",
-        "Source context: Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what's happened..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from US Movement Against Data.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Sun, 25 Oct 2026 10:00:00 +0000",
-      "age_hours": "13.75",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "42",
       "urgency": ""
     }
   ],
