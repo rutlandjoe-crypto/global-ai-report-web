@@ -1,3 +1,4 @@
+import GsrNewsletterSignup from "./GsrNewsletterSignup";
 import "./globals.css";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
@@ -35,6 +36,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} bg-white text-black`}
       >
         {children}
+        <GsrNewsletterSignup />
       </body>
     </html>
   );
