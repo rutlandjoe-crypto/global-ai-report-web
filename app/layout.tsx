@@ -1,4 +1,5 @@
 import GsrNewsletterSignup from "./GsrNewsletterSignup";
+import GsrAppLinks from "./GsrAppLinks";
 import "./globals.css";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
@@ -35,7 +36,9 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} bg-white text-black`}
       >
+        <GsrAppLinks source="ai" />
         {children}
+        <GsrAppLinks source="ai" placement="footer" />
         <GsrNewsletterSignup />
       </body>
     </html>
