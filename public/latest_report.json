@@ -1,24 +1,54 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Voice AI in vogue: Nvidia releases new open transcription model",
-  "snapshot": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it's a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
-  "updated_at": "2026-10-28 03:18:16 PM ET",
-  "generated_at": "2026-10-28 03:18:16 PM ET",
+  "headline": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
+  "snapshot": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-10-28 07:40:28 PM ET",
+  "generated_at": "2026-10-28 07:40:28 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 26,
-    "editor_fresh_items": 57,
+    "live_fresh_items": 35,
+    "editor_fresh_items": 55,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 33,
+    "stale_or_blocked_items": 24,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-28 03:18:16 PM ET"
+    "last_checked": "2026-10-28 07:40:28 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "snapshot": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google, Gemini, Carbon, In",
+        "Specific figures mentioned: 4, 0",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-28T16:03:00-04:00",
+      "age_hours": "3.62",
+      "freshness_status": "fresh",
+      "editorial_score": "186",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Voice AI in vogue: Nvidia releases new open transcription model",
       "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
@@ -44,39 +74,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "age_hours": "4.30",
+      "age_hours": "8.67",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "xAI is buying out homeowners who promise not to sue over data center noise",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-      "snapshot": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Elon Musk, Mississippi, Guardian",
-        "AI desk signal: chip, data center, lawsuit",
-        "Story focus: xAI is buying out homeowners who promise not to sue over data center noise",
-        "Source context: A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-28T10:44:00-04:00",
-      "age_hours": "4.57",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
@@ -103,21 +104,50 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Wed, 28 Oct 2026 18:47:27 +0000",
-      "age_hours": "0.51",
+      "age_hours": "4.88",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
     },
     {
-      "headline": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "snapshot": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "snapshot": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: As AI, Google, Gemini, Search",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: Elon Musk, Mississippi, Guardian",
+        "AI desk signal: chip, data center, lawsuit",
+        "Story focus: xAI is buying out homeowners who promise not to sue over data center noise",
+        "Source context: A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-28T10:44:00-04:00",
+      "age_hours": "8.94",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "snapshot": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, IPO",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: As AI agents reshape the web, Google opens Gemini and Search to more apps",
-        "Source context: A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use..."
+        "Story focus: Anthropic just launched tools to show companies what their AI spending is buying",
+        "Source context: The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -125,52 +155,52 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from As AI.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "age_hours": "2.30",
+      "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+      "age_hours": "4.34",
       "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta quietly launched an 'AI pet journal' app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "snapshot": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Meta, Waddle World, According, Apple",
-        "Specific figures mentioned: 16",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta quietly launched an 'AI pet journal' app"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-28T07:27:30-04:00",
-      "age_hours": "7.85",
-      "freshness_status": "fresh",
-      "editorial_score": "118",
+      "editorial_score": "146",
       "urgency": "WATCH"
     }
   ],
   "editor_signals": [
     {
+      "headline": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "snapshot": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google, Gemini, Carbon, In",
+        "Specific figures mentioned: 4, 0",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-28T16:03:00-04:00",
+      "age_hours": "3.62",
+      "freshness_status": "fresh",
+      "editorial_score": "186",
+      "urgency": "WATCH"
+    },
+    {
       "headline": "Voice AI in vogue: Nvidia releases new open transcription model",
       "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
       "snapshot": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it's a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
@@ -195,39 +225,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "age_hours": "4.30",
+      "age_hours": "8.67",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "xAI is buying out homeowners who promise not to sue over data center noise",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-      "snapshot": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Elon Musk, Mississippi, Guardian",
-        "AI desk signal: chip, data center, lawsuit",
-        "Story focus: xAI is buying out homeowners who promise not to sue over data center noise",
-        "Source context: A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-28T10:44:00-04:00",
-      "age_hours": "4.57",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
@@ -254,21 +255,21 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Wed, 28 Oct 2026 18:47:27 +0000",
-      "age_hours": "0.51",
+      "age_hours": "4.88",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
     },
     {
-      "headline": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "snapshot": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "snapshot": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: As AI, Google, Gemini, Search",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: Anthropic, IPO",
+        "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: As AI agents reshape the web, Google opens Gemini and Search to more apps",
-        "Source context: A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use..."
+        "Story focus: Anthropic just launched tools to show companies what their AI spending is buying",
+        "Source context: The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -276,57 +277,86 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from As AI.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "age_hours": "2.30",
+      "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+      "age_hours": "4.34",
       "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": ""
+      "editorial_score": "146",
+      "urgency": "WATCH"
     },
     {
-      "headline": "Meta quietly launched an 'AI pet journal' app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "snapshot": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "snapshot": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Meta, Waddle World, According, Apple",
-        "Specific figures mentioned: 16",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta quietly launched an 'AI pet journal' app"
+        "Key people or organizations: Elon Musk, Mississippi, Guardian",
+        "AI desk signal: chip, data center, lawsuit",
+        "Story focus: xAI is buying out homeowners who promise not to sue over data center noise",
+        "Source context: A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-28T07:27:30-04:00",
-      "age_hours": "7.85",
+      "published": "2026-10-28T10:44:00-04:00",
+      "age_hours": "8.94",
       "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": "WATCH"
+      "editorial_score": "140",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
+    "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
     "Voice AI in vogue: Nvidia releases new open transcription model",
-    "xAI is buying out homeowners who promise not to sue over data center noise",
     "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use"
   ],
   "sections": [
     {
+      "headline": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "snapshot": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google, Gemini, Carbon, In",
+        "Specific figures mentioned: 4, 0",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-28T16:03:00-04:00",
+      "age_hours": "3.62",
+      "freshness_status": "fresh",
+      "editorial_score": "186",
+      "urgency": "WATCH"
+    },
+    {
       "headline": "Voice AI in vogue: Nvidia releases new open transcription model",
       "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
       "snapshot": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it's a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
@@ -351,39 +381,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "age_hours": "4.30",
+      "age_hours": "8.67",
       "freshness_status": "fresh",
       "editorial_score": "150",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "xAI is buying out homeowners who promise not to sue over data center noise",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-      "snapshot": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Elon Musk, Mississippi, Guardian",
-        "AI desk signal: chip, data center, lawsuit",
-        "Story focus: xAI is buying out homeowners who promise not to sue over data center noise",
-        "Source context: A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-28T10:44:00-04:00",
-      "age_hours": "4.57",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
@@ -410,10 +411,69 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Wed, 28 Oct 2026 18:47:27 +0000",
-      "age_hours": "0.51",
+      "age_hours": "4.88",
       "freshness_status": "fresh",
       "editorial_score": "136",
       "urgency": ""
+    },
+    {
+      "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "snapshot": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, IPO",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic just launched tools to show companies what their AI spending is buying",
+        "Source context: The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+      "age_hours": "4.34",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "snapshot": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Elon Musk, Mississippi, Guardian",
+        "AI desk signal: chip, data center, lawsuit",
+        "Story focus: xAI is buying out homeowners who promise not to sue over data center noise",
+        "Source context: A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Elon Musk.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-28T10:44:00-04:00",
+      "age_hours": "8.94",
+      "freshness_status": "fresh",
+      "editorial_score": "140",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
@@ -440,40 +500,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "age_hours": "2.30",
+      "age_hours": "6.67",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": ""
-    },
-    {
-      "headline": "Meta quietly launched an 'AI pet journal' app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "snapshot": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Meta, Waddle World, According, Apple",
-        "Specific figures mentioned: 16",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta quietly launched an 'AI pet journal' app"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-28T07:27:30-04:00",
-      "age_hours": "7.85",
-      "freshness_status": "fresh",
-      "editorial_score": "118",
-      "urgency": "WATCH"
     },
     {
       "headline": "Apple announces touchscreen MacBook Pro with OLED display",
@@ -499,7 +529,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Wed, 28 Oct 2026 17:25:04 +0000",
-      "age_hours": "1.89",
+      "age_hours": "6.26",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": ""
@@ -529,7 +559,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-28T12:15:30-04:00",
-      "age_hours": "3.05",
+      "age_hours": "7.42",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -559,65 +589,9 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Wed, 28 Oct 2026 17:46:32 +0000",
-      "age_hours": "1.53",
+      "age_hours": "5.90",
       "freshness_status": "fresh",
       "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Chrome's AI-powered Autofill can now dig through your Gmail to fill out forms",
-      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
-      "snapshot": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
-      "key_data": [
-        "Key people or organizations: Chrome, Autofill, Gmail",
-        "Story focus: Chrome's AI-powered Autofill can now dig through your Gmail to fill out forms",
-        "Source context: The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Chrome.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "age_hours": "2.30",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "snapshot": "Workers tell WIRED that NOA—or \"No Ordinary Assistant\"—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-      "key_data": [
-        "Key people or organizations: Macmillan Staff Say, Publisher Threw, Party, Workplace AI Assistant That",
-        "Story focus: Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-        "Source context: Workers tell WIRED that NOA—or \"No Ordinary Assistant\"—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Macmillan Staff Say.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Wed, 28 Oct 2026 10:15:00 +0000",
-      "age_hours": "9.05",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     }
   ],
