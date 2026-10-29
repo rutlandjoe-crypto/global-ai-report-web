@@ -1,34 +1,34 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-  "snapshot": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
-  "updated_at": "2026-10-29 05:11:28 AM ET",
-  "generated_at": "2026-10-29 05:11:28 AM ET",
+  "headline": "AI has come for Arizona's water",
+  "snapshot": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by...",
+  "updated_at": "2026-10-29 07:15:29 AM ET",
+  "generated_at": "2026-10-29 07:15:29 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 9,
-    "editor_fresh_items": 50,
+    "live_fresh_items": 3,
+    "editor_fresh_items": 45,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 50,
+    "stale_or_blocked_items": 56,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-29 05:11:28 AM ET"
+    "last_checked": "2026-10-29 07:15:29 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "snapshot": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
+      "headline": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "snapshot": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Microsoft, Whatever",
-        "Specific figures mentioned: 10, $92.3 billion, 19%",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Google, Gemini, Carbon, In",
+        "Specific figures mentioned: 4, 0",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft hits 10 quarters of record-breaking revenue in a row"
+        "Story focus: Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -36,57 +36,89 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Watch for follow-up statements, product details or customer evidence from Google.",
         "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-28T16:03:00-04:00",
+      "age_hours": "15.21",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "156",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "snapshot": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it's a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
+      "key_data": [
+        "Key people or organizations: Voice AI, Nvidia, ElevenLabs",
+        "Specific figures mentioned: 40",
+        "AI desk signal: model, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Voice AI in vogue"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Voice AI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 21:25:30 +0000",
-      "age_hours": "11.77",
-      "freshness_status": "fresh",
+      "published": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "age_hours": "20.26",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "120",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "snapshot": "Gemini 4 Carbon is essentially a slightly better version of Argon. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google, Gemini, Carbon, Argon",
+        "Specific figures mentioned: 4",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Wed, 28 Oct 2026 18:47:27 +0000",
+      "age_hours": "16.47",
+      "freshness_status": "editor_fresh",
       "editorial_score": "106",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "Adam Mosseri says negativity around AI is 'going to get worse'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "snapshot": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir...",
-      "key_data": [
-        "Key people or organizations: Adam Mosseri, Asked, CEOs, Instagram",
-        "Story focus: Adam Mosseri says negativity around AI is 'going to get worse'",
-        "Source context: Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Adam Mosseri.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-28T19:05:39-04:00",
-      "age_hours": "10.10",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     },
     {
-      "headline": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "snapshot": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
+      "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "snapshot": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Microsoft, OpenAI, September, It",
-        "Specific figures mentioned: $10 billion, 30",
+        "Key people or organizations: Anthropic, IPO",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft recorded $10 billion in revenue from OpenAI"
+        "Story focus: Anthropic just launched tools to show companies what their AI spending is buying",
+        "Source context: The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -94,57 +126,27 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 21:34:30 +0000",
-      "age_hours": "11.62",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
+      "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+      "age_hours": "15.93",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
+      "urgency": "WATCH"
     },
     {
-      "headline": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "snapshot": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "AI has come for Arizona's water",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "snapshot": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by...",
       "key_data": [
-        "Key people or organizations: Microsoft, Azure, But, AWS",
-        "Specific figures mentioned: $33.2 billion",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft just shared Azure's actual revenue in dollars"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 21:58:32 +0000",
-      "age_hours": "11.22",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "snapshot": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device,...",
-      "key_data": [
-        "Key people or organizations: Akai, MPC, MPC Sample Key",
-        "Story focus: Akai is embracing vibe-coded mods with an open-source MPC",
-        "Source context: The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding...."
+        "Key people or organizations: Arizona, Inside",
+        "Story focus: AI has come for Arizona's water",
+        "Source context: A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -152,15 +154,15 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Akai.",
+        "Watch for follow-up statements, product details or customer evidence from Arizona.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-28T17:34:04-04:00",
-      "age_hours": "11.62",
+      "published": "2026-10-29T06:00:04-04:00",
+      "age_hours": "1.26",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
@@ -192,7 +194,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-28T16:03:00-04:00",
-      "age_hours": "13.14",
+      "age_hours": "15.21",
       "freshness_status": "editor_fresh",
       "editorial_score": "156",
       "urgency": "WATCH"
@@ -222,7 +224,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "age_hours": "18.19",
+      "age_hours": "20.26",
       "freshness_status": "editor_fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
@@ -252,7 +254,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Wed, 28 Oct 2026 18:47:27 +0000",
-      "age_hours": "14.40",
+      "age_hours": "16.47",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -282,7 +284,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 28 Oct 2026 19:19:58 +0000",
-      "age_hours": "13.86",
+      "age_hours": "15.93",
       "freshness_status": "editor_fresh",
       "editorial_score": "116",
       "urgency": "WATCH"
@@ -311,174 +313,114 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-28T10:44:00-04:00",
-      "age_hours": "18.46",
+      "age_hours": "20.52",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "Microsoft hits 10 quarters of record-breaking revenue in a row",
-    "Adam Mosseri says negativity around AI is 'going to get worse'",
-    "Microsoft recorded $10 billion in revenue from OpenAI"
+    "AI has come for Arizona's water",
+    "I Gave My Blood to the AI Death Clock",
+    "Voice AI in vogue: Nvidia releases new open transcription model"
   ],
   "sections": [
     {
-      "headline": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-      "snapshot": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
+      "headline": "AI has come for Arizona's water",
+      "url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "snapshot": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by...",
       "key_data": [
-        "Key people or organizations: Microsoft, Whatever",
-        "Specific figures mentioned: 10, $92.3 billion, 19%",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft hits 10 quarters of record-breaking revenue in a row"
+        "Key people or organizations: Arizona, Inside",
+        "Story focus: AI has come for Arizona's water",
+        "Source context: A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Arizona.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-29T06:00:04-04:00",
+      "age_hours": "1.26",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "I Gave My Blood to the AI Death Clock",
+      "url": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+      "snapshot": "Death Clock promises to predict when you're going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "key_data": [
+        "Key people or organizations: Gave My Blood, Death Clock, Earth",
+        "Story focus: I Gave My Blood to the AI Death Clock",
+        "Source context: Death Clock promises to predict when you're going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gave My Blood.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "age_hours": "1.26",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "snapshot": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it's a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
+      "key_data": [
+        "Key people or organizations: Voice AI, Nvidia, ElevenLabs",
+        "Specific figures mentioned: 40",
+        "AI desk signal: model, chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Voice AI in vogue"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Voice AI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 21:25:30 +0000",
-      "age_hours": "11.77",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "BREAKING"
+      "published": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "age_hours": "20.26",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "120",
+      "urgency": "WATCH"
     },
     {
-      "headline": "Adam Mosseri says negativity around AI is 'going to get worse'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
-      "snapshot": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir...",
+      "headline": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "snapshot": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Adam Mosseri, Asked, CEOs, Instagram",
-        "Story focus: Adam Mosseri says negativity around AI is 'going to get worse'",
-        "Source context: Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Adam Mosseri.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-28T19:05:39-04:00",
-      "age_hours": "10.10",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft recorded $10 billion in revenue from OpenAI",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-      "snapshot": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
-      "key_data": [
-        "Key people or organizations: Microsoft, OpenAI, September, It",
-        "Specific figures mentioned: $10 billion, 30",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Google, Gemini, Carbon, In",
+        "Specific figures mentioned: 4, 0",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft recorded $10 billion in revenue from OpenAI"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 21:34:30 +0000",
-      "age_hours": "11.62",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft just shared Azure's actual revenue in dollars: $33.2 billion",
-      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-      "snapshot": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Microsoft, Azure, But, AWS",
-        "Specific figures mentioned: $33.2 billion",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft just shared Azure's actual revenue in dollars"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 21:58:32 +0000",
-      "age_hours": "11.22",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Akai is embracing vibe-coded mods with an open-source MPC",
-      "url": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
-      "snapshot": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device,...",
-      "key_data": [
-        "Key people or organizations: Akai, MPC, MPC Sample Key",
-        "Story focus: Akai is embracing vibe-coded mods with an open-source MPC",
-        "Source context: The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding...."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Akai.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-28T17:34:04-04:00",
-      "age_hours": "11.62",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Google expands AI Search ads globally as core ad growth slows",
-      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-      "snapshot": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Search, Alphabet",
-        "Specific figures mentioned: 25%, $127.6 billion",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google expands AI Search ads globally as core ad growth slows"
+        "Story focus: Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -490,13 +432,13 @@
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 21:48:37 +0000",
-      "age_hours": "11.38",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-28T16:03:00-04:00",
+      "age_hours": "15.21",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "156",
       "urgency": "WATCH"
     },
     {
@@ -524,10 +466,40 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Wed, 28 Oct 2026 18:47:27 +0000",
-      "age_hours": "14.40",
+      "age_hours": "16.47",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
       "urgency": ""
+    },
+    {
+      "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "snapshot": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, IPO",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic just launched tools to show companies what their AI spending is buying",
+        "Source context: The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 28 Oct 2026 19:19:58 +0000",
+      "age_hours": "15.93",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
