@@ -1,24 +1,81 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
-  "snapshot": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-10-29 12:28:21 PM ET",
-  "generated_at": "2026-10-29 12:28:21 PM ET",
+  "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+  "snapshot": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-10-29 01:57:37 PM ET",
+  "generated_at": "2026-10-29 01:57:37 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 15,
-    "editor_fresh_items": 51,
+    "live_fresh_items": 19,
+    "editor_fresh_items": 54,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 44,
+    "stale_or_blocked_items": 40,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-29 12:28:21 PM ET"
+    "last_checked": "2026-10-29 01:57:37 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "snapshot": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Kalshi, Utah, Charges, Trump",
+        "Story focus: Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+        "Source context: Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling. The story matters because AI is moving deeper into legal and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Kalshi.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Thu, 29 Oct 2026 17:21:33 +0000",
+      "age_hours": "0.60",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "snapshot": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Mistral",
+        "AI desk signal: model, enterprise",
+        "Story focus: Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "Source context: Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mistral.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "age_hours": "3.96",
+      "freshness_status": "fresh",
+      "editorial_score": "154",
+      "urgency": ""
+    },
     {
       "headline": "Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
       "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
@@ -43,7 +100,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 29 Oct 2026 14:00:00 +0000",
-      "age_hours": "2.47",
+      "age_hours": "3.96",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -51,13 +108,13 @@
     {
       "headline": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
       "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "snapshot": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "snapshot": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
       "key_data": [
-        "Key people or organizations: Ex, Palantir, Dream, Autodesk",
+        "Key people or organizations: Ex, Palantir, Dream, Just",
         "Specific figures mentioned: $17M, 100",
-        "AI desk signal: model, enterprise",
+        "AI desk signal: model, llm, enterprise",
         "Story focus: Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-        "Source context: rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI. The competitive question is whether this changes the..."
+        "Source context: Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -73,21 +130,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 29 Oct 2026 16:21:00 +0000",
-      "age_hours": "0.12",
+      "age_hours": "1.61",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "134",
       "urgency": "WATCH"
     },
     {
-      "headline": "Anthropic is asking Wall Street to believe in AGI",
-      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "snapshot": "Today on Decoder, I'm joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "snapshot": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
       "key_data": [
-        "Key people or organizations: Anthropic, Wall Street, AGI, Today",
-        "Specific figures mentioned: 1",
-        "AI desk signal: chip",
+        "Key people or organizations: US, Chinese, Nvidia CEO, Singapore AI",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic is asking Wall Street to believe in AGI"
+        "Story focus: US investigated Chinese spy plot aimed at Nvidia CEO",
+        "Source context: A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy,..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -95,77 +152,17 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Watch for follow-up statements, product details or customer evidence from US.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-29T10:00:00-04:00",
-      "age_hours": "2.47",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 29 Oct 2026 16:42:32 +0000",
+      "age_hours": "1.25",
       "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-      "snapshot": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google",
-        "Specific figures mentioned: $9.06 billion",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google admits AI search makes less money, but it's fixing that with more ads"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 29 Oct 2026 16:24:55 +0000",
-      "age_hours": "0.06",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft's AI future has fewer jobs",
-      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "snapshot": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Microsoft, To, Microsoft CEO Satya Nadella",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft's AI future has fewer jobs",
-        "Source context: To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-29T12:00:00-04:00",
-      "age_hours": "0.47",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
+      "editorial_score": "128",
       "urgency": ""
     }
   ],
@@ -195,50 +192,20 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-28T16:03:00-04:00",
-      "age_hours": "20.42",
+      "age_hours": "21.91",
       "freshness_status": "editor_fresh",
       "editorial_score": "156",
       "urgency": "WATCH"
     },
     {
-      "headline": "Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
-      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-      "snapshot": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "snapshot": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Mistral Says Its AI, Model, Le Chonk, Has Leapfrogged China",
+        "Key people or organizations: Mistral",
         "AI desk signal: model, enterprise",
-        "Story focus: Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
-        "Source context: The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Mistral Says Its AI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
-      "age_hours": "2.47",
-      "freshness_status": "fresh",
-      "editorial_score": "146",
-      "urgency": ""
-    },
-    {
-      "headline": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "snapshot": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it's a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
-      "key_data": [
-        "Key people or organizations: Voice AI, Nvidia, ElevenLabs",
-        "Specific figures mentioned: 40",
-        "AI desk signal: model, chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Voice AI in vogue"
+        "Story focus: Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "Source context: Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't. The competitive question is..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -246,86 +213,19 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Voice AI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "age_hours": "25.47",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "120",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "snapshot": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Ex, Palantir, Dream, Autodesk",
-        "Specific figures mentioned: $17M, 100",
-        "AI desk signal: model, enterprise",
-        "Story focus: Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-        "Source context: rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI. The competitive question is whether this changes the..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ex.",
+        "Watch for follow-up statements, product details or customer evidence from Mistral.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 16:21:00 +0000",
-      "age_hours": "0.12",
+      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "age_hours": "3.96",
       "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
+      "editorial_score": "154",
+      "urgency": ""
     },
-    {
-      "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
-      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-      "snapshot": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, IPO",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic just launched tools to show companies what their AI spending is buying",
-        "Source context: The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO. The competitive question is whether this..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 28 Oct 2026 19:19:58 +0000",
-      "age_hours": "21.14",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
-    }
-  ],
-  "key_storylines": [
-    "Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
-    "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-    "Anthropic is asking Wall Street to believe in AGI"
-  ],
-  "sections": [
     {
       "headline": "Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
       "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
@@ -350,7 +250,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 29 Oct 2026 14:00:00 +0000",
-      "age_hours": "2.47",
+      "age_hours": "3.96",
       "freshness_status": "fresh",
       "editorial_score": "146",
       "urgency": ""
@@ -358,13 +258,13 @@
     {
       "headline": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
       "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "snapshot": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "snapshot": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
       "key_data": [
-        "Key people or organizations: Ex, Palantir, Dream, Autodesk",
+        "Key people or organizations: Ex, Palantir, Dream, Just",
         "Specific figures mentioned: $17M, 100",
-        "AI desk signal: model, enterprise",
+        "AI desk signal: model, llm, enterprise",
         "Story focus: Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-        "Source context: rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI. The competitive question is whether this changes the..."
+        "Source context: Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -380,10 +280,105 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 29 Oct 2026 16:21:00 +0000",
-      "age_hours": "0.12",
+      "age_hours": "1.61",
       "freshness_status": "fresh",
-      "editorial_score": "116",
+      "editorial_score": "134",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "snapshot": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
+      "key_data": [
+        "Key people or organizations: US, Chinese, Nvidia CEO, Singapore AI",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: US investigated Chinese spy plot aimed at Nvidia CEO",
+        "Source context: A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy,..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from US.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 29 Oct 2026 16:42:32 +0000",
+      "age_hours": "1.25",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
+    "Anthropic is asking Wall Street to believe in AGI"
+  ],
+  "sections": [
+    {
+      "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "snapshot": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Mistral",
+        "AI desk signal: model, enterprise",
+        "Story focus: Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "Source context: Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mistral.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "age_hours": "3.96",
+      "freshness_status": "fresh",
+      "editorial_score": "154",
+      "urgency": ""
+    },
+    {
+      "headline": "Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "snapshot": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Mistral Says Its AI, Model, Le Chonk, Has Leapfrogged China",
+        "AI desk signal: model, enterprise",
+        "Story focus: Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
+        "Source context: The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mistral Says Its AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "age_hours": "3.96",
+      "freshness_status": "fresh",
+      "editorial_score": "146",
+      "urgency": ""
     },
     {
       "headline": "Anthropic is asking Wall Street to believe in AGI",
@@ -410,10 +405,98 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-29T10:00:00-04:00",
-      "age_hours": "2.47",
+      "age_hours": "3.96",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
+    },
+    {
+      "headline": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "snapshot": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
+      "key_data": [
+        "Key people or organizations: Ex, Palantir, Dream, Just",
+        "Specific figures mentioned: $17M, 100",
+        "AI desk signal: model, llm, enterprise",
+        "Story focus: Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+        "Source context: Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ex.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 29 Oct 2026 16:21:00 +0000",
+      "age_hours": "1.61",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+      "snapshot": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
+      "key_data": [
+        "Key people or organizations: US, Chinese, Nvidia CEO, Singapore AI",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: US investigated Chinese spy plot aimed at Nvidia CEO",
+        "Source context: A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy,..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from US.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 29 Oct 2026 16:42:32 +0000",
+      "age_hours": "1.25",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": ""
+    },
+    {
+      "headline": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+      "snapshot": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Kalshi, Utah, Charges, Trump",
+        "Story focus: Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+        "Source context: Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling. The story matters because AI is moving deeper into legal and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Kalshi.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Thu, 29 Oct 2026 17:21:33 +0000",
+      "age_hours": "0.60",
+      "freshness_status": "fresh",
+      "editorial_score": "98",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Microsoft's AI future has fewer jobs",
@@ -440,7 +523,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-29T12:00:00-04:00",
-      "age_hours": "0.47",
+      "age_hours": "1.96",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -470,39 +553,9 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 29 Oct 2026 16:24:55 +0000",
-      "age_hours": "0.06",
+      "age_hours": "1.55",
       "freshness_status": "fresh",
       "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-      "snapshot": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Wabi, On Thursday",
-        "Specific figures mentioned: $1.25B, $55 million, $1.25 billion",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-        "Source context: On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation. The competitive..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Wabi.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 14:35:26 +0000",
-      "age_hours": "1.88",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
       "urgency": ""
     },
     {
@@ -530,7 +583,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 29 Oct 2026 12:58:34 +0000",
-      "age_hours": "3.50",
+      "age_hours": "4.98",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
@@ -560,66 +613,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-29T09:30:00-04:00",
-      "age_hours": "2.97",
+      "age_hours": "4.46",
       "freshness_status": "fresh",
       "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-      "snapshot": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
-      "key_data": [
-        "Key people or organizations: Amazon, Alexa, You",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-        "Source context: The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 13:00:00 +0000",
-      "age_hours": "3.47",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "The 'Pain in the Ass' Math That Could Save Vibe Coding From Itself",
-      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
-      "snapshot": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Pain, Ass, Math That Could Save, Vibe Coding From Itself",
-        "Story focus: The 'Pain in the Ass' Math That Could Save Vibe Coding From Itself",
-        "Source context: A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Pain.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Thu, 29 Oct 2026 15:00:00 +0000",
-      "age_hours": "1.47",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
       "urgency": ""
     }
   ],
