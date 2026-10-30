@@ -1,150 +1,33 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-  "snapshot": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-  "updated_at": "2026-10-30 03:47:49 AM ET",
-  "generated_at": "2026-10-30 03:47:49 AM ET",
+  "headline": "Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
+  "snapshot": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling,... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+  "updated_at": "2026-10-30 05:31:40 AM ET",
+  "generated_at": "2026-10-30 05:31:40 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 8,
-    "editor_fresh_items": 43,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 42,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 51,
+    "stale_or_blocked_items": 55,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-30 03:47:49 AM ET"
+    "last_checked": "2026-10-30 05:31:40 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "snapshot": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "headline": "Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "snapshot": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling,... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: AWS, Jassy, Amazon, But",
-        "Specific figures mentioned: 1, $1",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AWS will be a $1T business, Jassy says — but first, it will spend big",
-        "Source context: Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from AWS.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 23:42:22 +0000",
-      "age_hours": "8.09",
-      "freshness_status": "fresh",
-      "editorial_score": "100",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-      "snapshot": "The latest update also brings a cloud recovery option for PCs that won't boot. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Microsoft, Windows, PC, PCs",
-        "Specific figures mentioned: 11",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft fixes a Windows 11 annoyance as PC revenue declines"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 29 Oct 2026 20:18:49 +0000",
-      "age_hours": "11.48",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "snapshot": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, Thrive Holdings, ADT",
-        "Specific figures mentioned: $15.3 billion",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI-backed Thrive Holdings acquires ADT"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 19:56:19 +0000",
-      "age_hours": "11.86",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "snapshot": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "key_data": [
-        "Key people or organizations: As, Reddit, As AI",
-        "Story focus: As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
-        "Source context: As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from As.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 20:08:31 +0000",
-      "age_hours": "11.65",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": ""
-    },
-    {
-      "headline": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-      "snapshot": "Inspector general rejected request from Democratic and Republican senators.",
-      "key_data": [
-        "Key people or organizations: Pentagon IG, Starlink, Starshield, Ukraine",
-        "Story focus: Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-        "Source context: Inspector general rejected request from Democratic and Republican senators."
+        "Key people or organizations: Wikipedia, Wikimedia Foundation, LLMs",
+        "AI desk signal: model, llm, chip",
+        "Story focus: Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
+        "Source context: The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -152,50 +35,18 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Pentagon IG.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Wikipedia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 29 Oct 2026 20:08:10 +0000",
-      "age_hours": "11.66",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "snapshot": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Google, Gemini, Carbon, In",
-        "Specific figures mentioned: 4, 0",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-28T16:03:00-04:00",
-      "age_hours": "35.75",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "156",
-      "urgency": "WATCH"
+      "published": "2026-10-30T05:00:00-04:00",
+      "age_hours": "0.53",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
+      "urgency": ""
     },
     {
       "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
@@ -221,7 +72,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 29 Oct 2026 17:00:00 +0000",
-      "age_hours": "14.80",
+      "age_hours": "16.53",
       "freshness_status": "editor_fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -250,7 +101,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 29 Oct 2026 14:00:00 +0000",
-      "age_hours": "17.80",
+      "age_hours": "19.53",
       "freshness_status": "editor_fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -280,7 +131,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 29 Oct 2026 16:21:00 +0000",
-      "age_hours": "15.45",
+      "age_hours": "17.18",
       "freshness_status": "editor_fresh",
       "editorial_score": "104",
       "urgency": "WATCH"
@@ -310,18 +161,130 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 29 Oct 2026 23:42:22 +0000",
-      "age_hours": "8.09",
+      "age_hours": "9.82",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
     }
   ],
-  "key_storylines": [
-    "AWS will be a $1T business, Jassy says — but first, it will spend big",
-    "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-    "OpenAI-backed Thrive Holdings acquires ADT"
-  ],
-  "sections": [
+  "editor_signals": [
+    {
+      "headline": "Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "snapshot": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling,... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Wikipedia, Wikimedia Foundation, LLMs",
+        "AI desk signal: model, llm, chip",
+        "Story focus: Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
+        "Source context: The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Wikipedia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-30T05:00:00-04:00",
+      "age_hours": "0.53",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
+      "urgency": ""
+    },
+    {
+      "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "snapshot": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Mistral",
+        "AI desk signal: model, enterprise",
+        "Story focus: Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "Source context: Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mistral.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 29 Oct 2026 17:00:00 +0000",
+      "age_hours": "16.53",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "snapshot": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Mistral Says Its AI, Model, Le Chonk, Has Leapfrogged China",
+        "AI desk signal: model, enterprise",
+        "Story focus: Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
+        "Source context: The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mistral Says Its AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "age_hours": "19.53",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
+      "urgency": ""
+    },
+    {
+      "headline": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "snapshot": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
+      "key_data": [
+        "Key people or organizations: Ex, Palantir, Dream, Just",
+        "Specific figures mentioned: $17M, 100",
+        "AI desk signal: model, llm, enterprise",
+        "Story focus: Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+        "Source context: Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ex.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 29 Oct 2026 16:21:00 +0000",
+      "age_hours": "17.18",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "104",
+      "urgency": "WATCH"
+    },
     {
       "headline": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
@@ -347,107 +310,27 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 29 Oct 2026 23:42:22 +0000",
-      "age_hours": "8.09",
+      "age_hours": "9.82",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
-    },
+    }
+  ],
+  "key_storylines": [
+    "Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
+    "AWS will be a $1T business, Jassy says — but first, it will spend big",
+    "Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race"
+  ],
+  "sections": [
     {
-      "headline": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-      "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
-      "snapshot": "The latest update also brings a cloud recovery option for PCs that won't boot. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "snapshot": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling,... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Microsoft, Windows, PC, PCs",
-        "Specific figures mentioned: 11",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft fixes a Windows 11 annoyance as PC revenue declines"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 29 Oct 2026 20:18:49 +0000",
-      "age_hours": "11.48",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI-backed Thrive Holdings acquires ADT",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "snapshot": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, Thrive Holdings, ADT",
-        "Specific figures mentioned: $15.3 billion",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI-backed Thrive Holdings acquires ADT"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 19:56:19 +0000",
-      "age_hours": "11.86",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "snapshot": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
-      "key_data": [
-        "Key people or organizations: As, Reddit, As AI",
-        "Story focus: As search traffic dries up, Reddit announces it's shifting to a logged-in experience",
-        "Source context: As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from As.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 20:08:31 +0000",
-      "age_hours": "11.65",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": ""
-    },
-    {
-      "headline": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-      "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-      "snapshot": "Inspector general rejected request from Democratic and Republican senators.",
-      "key_data": [
-        "Key people or organizations: Pentagon IG, Starlink, Starshield, Ukraine",
-        "Story focus: Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-        "Source context: Inspector general rejected request from Democratic and Republican senators."
+        "Key people or organizations: Wikipedia, Wikimedia Foundation, LLMs",
+        "AI desk signal: model, llm, chip",
+        "Story focus: Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
+        "Source context: The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -455,17 +338,76 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Pentagon IG.",
+        "Watch for follow-up statements, product details or customer evidence from Wikipedia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-30T05:00:00-04:00",
+      "age_hours": "0.53",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
+      "urgency": ""
+    },
+    {
+      "headline": "AWS will be a $1T business, Jassy says — but first, it will spend big",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "snapshot": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "key_data": [
+        "Key people or organizations: AWS, Jassy, Amazon, But",
+        "Specific figures mentioned: 1, $1",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: AWS will be a $1T business, Jassy says — but first, it will spend big",
+        "Source context: Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from AWS.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 29 Oct 2026 20:08:10 +0000",
-      "age_hours": "11.66",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 29 Oct 2026 23:42:22 +0000",
+      "age_hours": "9.82",
       "freshness_status": "fresh",
-      "editorial_score": "62",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "snapshot": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Mistral Says Its AI, Model, Le Chonk, Has Leapfrogged China",
+        "AI desk signal: model, enterprise",
+        "Story focus: Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
+        "Source context: The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mistral Says Its AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 29 Oct 2026 14:00:00 +0000",
+      "age_hours": "19.53",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -491,21 +433,50 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 30 Oct 2026 01:20:48 +0000",
-      "age_hours": "6.45",
+      "age_hours": "8.18",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
     },
     {
-      "headline": "Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity",
-      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
-      "snapshot": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "snapshot": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Google, Gemini, Carbon, In",
-        "Specific figures mentioned: 4, 0",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google launches Gemini 4 Carbon with a 'significant leap' in cybersecurity"
+        "Key people or organizations: Mistral",
+        "AI desk signal: model, enterprise",
+        "Story focus: Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "Source context: Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mistral.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 29 Oct 2026 17:00:00 +0000",
+      "age_hours": "16.53",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "124",
+      "urgency": ""
+    },
+    {
+      "headline": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "snapshot": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
+      "key_data": [
+        "Key people or organizations: Ex, Palantir, Dream, Just",
+        "Specific figures mentioned: $17M, 100",
+        "AI desk signal: model, llm, enterprise",
+        "Story focus: Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+        "Source context: Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -513,17 +484,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from Ex.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-28T16:03:00-04:00",
-      "age_hours": "35.75",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 29 Oct 2026 16:21:00 +0000",
+      "age_hours": "17.18",
       "freshness_status": "editor_fresh",
-      "editorial_score": "156",
+      "editorial_score": "104",
       "urgency": "WATCH"
     }
   ],
