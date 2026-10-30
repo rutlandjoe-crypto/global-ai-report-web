@@ -3,49 +3,139 @@
   "vertical": "AI",
   "headline": "Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
   "snapshot": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling,... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-  "updated_at": "2026-10-30 12:30:13 PM ET",
-  "generated_at": "2026-10-30 12:30:13 PM ET",
+  "updated_at": "2026-10-30 03:45:44 PM ET",
+  "generated_at": "2026-10-30 03:45:44 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 60,
-    "live_fresh_items": 16,
-    "editor_fresh_items": 48,
-    "public_fallback_items": 59,
-    "stale_or_blocked_items": 44,
+    "live_fresh_items": 24,
+    "editor_fresh_items": 54,
+    "public_fallback_items": 58,
+    "stale_or_blocked_items": 36,
     "unknown_date_items": 0,
-    "last_checked": "2026-10-30 12:30:13 PM ET"
+    "last_checked": "2026-10-30 03:45:44 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Pope Leo calls for the disarmament of AI: 'Machines are tools, not persons'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "snapshot": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "headline": "Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "snapshot": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling,... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Pope Leo, Machines, Pope Leo XIV, In Friday",
-        "Story focus: Pope Leo calls for the disarmament of AI",
-        "Source context: Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its..."
+        "Key people or organizations: Wikipedia, Wikimedia Foundation, LLMs",
+        "AI desk signal: model, llm, chip",
+        "Story focus: Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
+        "Source context: The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Pope Leo.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Wikipedia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-10-30T10:58:06-04:00",
-      "age_hours": "1.54",
+      "published": "2026-10-30T05:00:00-04:00",
+      "age_hours": "10.76",
       "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": "DEVELOPING"
+      "editorial_score": "126",
+      "urgency": ""
+    },
+    {
+      "headline": "Google's first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "snapshot": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Google, TPU, Google DeepMind Gemma",
+        "Specific figures mentioned: 4",
+        "AI desk signal: model, chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google's first data center satellite is online and writing poetry"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "age_hours": "2.76",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "snapshot": "But it's still early days for the relatively new e-commerce use case. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Basically, DoorDash, But",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Basically no one is using AI agents for their DoorDash orders",
+        "Source context: But it's still early days for the relatively new e-commerce use case. The competitive question is whether this changes the model race, enterprise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Basically.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 30 Oct 2026 19:30:52 +0000",
+      "age_hours": "0.25",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Google's satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "snapshot": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Google, Earth, In, Tensor Processing Units",
+        "Specific figures mentioned: 4",
+        "AI desk signal: model, chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google's satellite AI server transmits its first response to Earth"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-30T14:21:38-04:00",
+      "age_hours": "1.40",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
     },
     {
       "headline": "DoorDash said it's only received 'several hundred' orders from AI agents",
@@ -71,96 +161,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 30 Oct 2026 13:54:25 +0000",
-      "age_hours": "2.60",
+      "age_hours": "5.86",
       "freshness_status": "fresh",
       "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
-      "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
-      "snapshot": "Disgraced founder of Theranos has some people falling for her act all over again.",
-      "key_data": [
-        "Key people or organizations: Review, You Can See Everything, Elizabeth Holmes, Disgraced",
-        "Story focus: Review",
-        "Source context: Disgraced founder of Theranos has some people falling for her act all over again."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Review.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 30 Oct 2026 11:30:01 +0000",
-      "age_hours": "5.00",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "snapshot": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling,... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Wikipedia, Wikimedia Foundation, LLMs",
-        "AI desk signal: model, llm, chip",
-        "Story focus: Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
-        "Source context: The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Wikipedia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-30T05:00:00-04:00",
-      "age_hours": "7.50",
-      "freshness_status": "fresh",
-      "editorial_score": "126",
-      "urgency": ""
-    },
-    {
-      "headline": "Sam Altman sympathizes with mathematicians, but says OpenAI's math onslaught won't stop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "snapshot": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Sam Altman, OpenAI, OpenAI CEO Sam Altman, But",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Sam Altman sympathizes with mathematicians, but says OpenAI's math onslaught won't stop",
-        "Source context: After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Sam Altman.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-30T09:01:14-04:00",
-      "age_hours": "3.48",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
       "urgency": ""
     }
   ],
@@ -189,7 +192,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-30T05:00:00-04:00",
-      "age_hours": "7.50",
+      "age_hours": "10.76",
       "freshness_status": "fresh",
       "editorial_score": "126",
       "urgency": ""
@@ -218,7 +221,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 29 Oct 2026 17:00:00 +0000",
-      "age_hours": "23.50",
+      "age_hours": "26.76",
       "freshness_status": "editor_fresh",
       "editorial_score": "124",
       "urgency": ""
@@ -247,51 +250,21 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 29 Oct 2026 14:00:00 +0000",
-      "age_hours": "26.50",
+      "age_hours": "29.76",
       "freshness_status": "editor_fresh",
       "editorial_score": "116",
       "urgency": ""
     },
     {
-      "headline": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-      "snapshot": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for...",
+      "headline": "Google's satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "snapshot": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Ex, Palantir, Dream, Just",
-        "Specific figures mentioned: $17M, 100",
-        "AI desk signal: model, llm, enterprise",
-        "Story focus: Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-        "Source context: Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ex.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 16:21:00 +0000",
-      "age_hours": "24.15",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "104",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "US investigated Chinese spy plot aimed at Nvidia CEO",
-      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-      "snapshot": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
-      "key_data": [
-        "Key people or organizations: US, Chinese, Nvidia CEO, Singapore AI",
-        "AI desk signal: chip, nvidia, enterprise",
+        "Key people or organizations: Google, Earth, In, Tensor Processing Units",
+        "Specific figures mentioned: 4",
+        "AI desk signal: model, chip",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: US investigated Chinese spy plot aimed at Nvidia CEO",
-        "Source context: A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy,..."
+        "Story focus: Google's satellite AI server transmits its first response to Earth"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -299,24 +272,54 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from US.",
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-30T14:21:38-04:00",
+      "age_hours": "1.40",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Google's first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "snapshot": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Google, TPU, Google DeepMind Gemma",
+        "Specific figures mentioned: 4",
+        "AI desk signal: model, chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google's first data center satellite is online and writing poetry"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 29 Oct 2026 16:42:32 +0000",
-      "age_hours": "23.79",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "98",
+      "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "age_hours": "2.76",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "Wikipedia's operator says a bad AI copyright ruling could threaten the open web",
-    "DoorDash said it's only received 'several hundred' orders from AI agents",
-    "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit"
+    "Google's first data center satellite is online and writing poetry",
+    "Basically no one is using AI agents for their DoorDash orders"
   ],
   "sections": [
     {
@@ -343,9 +346,98 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-30T05:00:00-04:00",
-      "age_hours": "7.50",
+      "age_hours": "10.76",
       "freshness_status": "fresh",
       "editorial_score": "126",
+      "urgency": ""
+    },
+    {
+      "headline": "Google's first data center satellite is online and writing poetry",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "snapshot": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Google, TPU, Google DeepMind Gemma",
+        "Specific figures mentioned: 4",
+        "AI desk signal: model, chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google's first data center satellite is online and writing poetry"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "age_hours": "2.76",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "snapshot": "But it's still early days for the relatively new e-commerce use case. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Basically, DoorDash, But",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Basically no one is using AI agents for their DoorDash orders",
+        "Source context: But it's still early days for the relatively new e-commerce use case. The competitive question is whether this changes the model race, enterprise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Basically.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 30 Oct 2026 19:30:52 +0000",
+      "age_hours": "0.25",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Google's satellite AI server transmits its first response to Earth",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "snapshot": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Google, Earth, In, Tensor Processing Units",
+        "Specific figures mentioned: 4",
+        "AI desk signal: model, chip",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google's satellite AI server transmits its first response to Earth"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-10-30T14:21:38-04:00",
+      "age_hours": "1.40",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -372,37 +464,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 30 Oct 2026 13:54:25 +0000",
-      "age_hours": "2.60",
+      "age_hours": "5.86",
       "freshness_status": "fresh",
       "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
-      "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
-      "snapshot": "Disgraced founder of Theranos has some people falling for her act all over again.",
-      "key_data": [
-        "Key people or organizations: Review, You Can See Everything, Elizabeth Holmes, Disgraced",
-        "Story focus: Review",
-        "Source context: Disgraced founder of Theranos has some people falling for her act all over again."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Review.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 30 Oct 2026 11:30:01 +0000",
-      "age_hours": "5.00",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     },
     {
@@ -430,7 +494,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-10-30T09:01:14-04:00",
-      "age_hours": "3.48",
+      "age_hours": "6.74",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -459,65 +523,66 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 30 Oct 2026 13:00:00 +0000",
-      "age_hours": "3.50",
+      "age_hours": "6.76",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": ""
     },
     {
-      "headline": "Pope Leo calls for the disarmament of AI: 'Machines are tools, not persons'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "snapshot": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "headline": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "snapshot": "Low costs and offline security mean magnetic tape still has a job.",
       "key_data": [
-        "Key people or organizations: Pope Leo, Machines, Pope Leo XIV, In Friday",
-        "Story focus: Pope Leo calls for the disarmament of AI",
-        "Source context: Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its..."
+        "Key people or organizations: Fujifilm, Low",
+        "Specific figures mentioned: 5",
+        "Story focus: Fujifilm to boost tape production 5x as AI fuels archiving demand",
+        "Source context: Low costs and offline security mean magnetic tape still has a job."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Pope Leo.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-10-30T10:58:06-04:00",
-      "age_hours": "1.54",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people'",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "snapshot": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Theranos, Tyler Shultz",
-        "Story focus: Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people'",
-        "Source context: The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Theranos.",
+        "Watch for follow-up statements, product details or customer evidence from Fujifilm.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 30 Oct 2026 16:03:45 +0000",
-      "age_hours": "0.44",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 30 Oct 2026 17:38:19 +0000",
+      "age_hours": "2.12",
       "freshness_status": "fresh",
-      "editorial_score": "64",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "Thousands of \"ghost students\" use AI to steal millions in student loans, DOJ says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "snapshot": "Applying for FAFSA may get messy as DOJ \"ghost student\" crackdown ramps up.",
+      "key_data": [
+        "Key people or organizations: Thousands, DOJ, Applying, FAFSA",
+        "Story focus: Thousands of \"ghost students\" use AI to steal millions in student loans, DOJ says",
+        "Source context: Applying for FAFSA may get messy as DOJ \"ghost student\" crackdown ramps up."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Thousands.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 30 Oct 2026 16:53:49 +0000",
+      "age_hours": "2.87",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
       "urgency": ""
     }
   ],
