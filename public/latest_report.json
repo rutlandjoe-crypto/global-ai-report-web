@@ -1,24 +1,53 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-  "snapshot": "Two startups tackling the data center water problem are joining forces in a $16 million deal. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-11-02 03:32:26 PM ET",
-  "generated_at": "2026-11-02 03:32:26 PM ET",
+  "headline": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+  "snapshot": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+  "updated_at": "2026-11-02 07:25:36 PM ET",
+  "generated_at": "2026-11-02 07:25:36 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 60,
-    "live_fresh_items": 16,
-    "editor_fresh_items": 19,
-    "public_fallback_items": 45,
-    "stale_or_blocked_items": 44,
+    "live_fresh_items": 22,
+    "editor_fresh_items": 27,
+    "public_fallback_items": 40,
+    "stale_or_blocked_items": 38,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-02 03:32:26 PM ET"
+    "last_checked": "2026-11-02 07:25:36 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "snapshot": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: York Times, Brave, Reuters, According",
+        "AI desk signal: lawsuit",
+        "Story focus: The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+        "Source context: The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from York Times.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-02T12:51:19-05:00",
+      "age_hours": "6.57",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
       "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
@@ -44,7 +73,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "age_hours": "5.54",
+      "age_hours": "9.43",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": "WATCH"
@@ -73,111 +102,112 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Mon, 02 Nov 2026 18:05:31 +0000",
-      "age_hours": "2.45",
+      "age_hours": "6.33",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "When You Should—and Shouldn't—Use AI to Search the Web",
-      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "snapshot": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you'll get better results by typing your query into a good old search engine.",
+      "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "snapshot": "The one-year-old startup is now valued at $300 million. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: You Should, Shouldn, Use AI, Search",
-        "Story focus: When You Should—and Shouldn't—Use AI to Search the Web",
-        "Source context: Chatbots are often quite good at retrieving the information you want from the web. But sometimes you'll get better results by typing your query into..."
+        "Key people or organizations: Trajectory",
+        "Specific figures mentioned: $45M, $300 million",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "Source context: The one-year-old startup is now valued at $300 million. The larger angle is AI infrastructure: compute capacity, chip access and data-center..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from You Should.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from Trajectory.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Mon, 02 Nov 2026 12:00:00 +0000",
-      "age_hours": "8.54",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 02 Nov 2026 23:13:53 +0000",
+      "age_hours": "1.20",
       "freshness_status": "fresh",
-      "editorial_score": "54",
+      "editorial_score": "104",
       "urgency": ""
     },
     {
-      "headline": "Coming in 2027: Apple's $1,000 home robot for FaceTime and switching on lights",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "snapshot": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "headline": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "snapshot": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Coming, Apple, FaceTime, CEO John Ternus",
-        "Specific figures mentioned: 2027, $1, 000",
+        "Key people or organizations: OpenAI, In, Grid Protectors Program, Effingham County",
+        "Specific figures mentioned: 1, 000",
+        "AI desk signal: chip, data center",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Coming in 2027",
-        "Source context: Apple robot backed by CEO John Ternus may have hefty price tag and limited uses."
+        "Story focus: OpenAI pitches data center power plants as a way to protect nearby areas"
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Coming.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Mon, 02 Nov 2026 18:32:21 +0000",
-      "age_hours": "2.00",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI is finally merging ChatGPT's Chat and Work tabs",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "snapshot": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, Chat, Work",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI is finally merging ChatGPT's Chat and Work tabs",
-        "Source context: OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change. The competitive question is whether this changes..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
         "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 02 Nov 2026 13:57:53 +0000",
-      "age_hours": "6.58",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-02T13:01:30-05:00",
+      "age_hours": "6.40",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "102",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "snapshot": "Two startups tackling the data center water problem are joining forces in a $16 million deal. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "snapshot": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Omen AI, Aquatic Labs, Two",
-        "Specific figures mentioned: $16 million",
-        "AI desk signal: chip, data center, enterprise",
-        "Story focus: Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-        "Source context: Two startups tackling the data center water problem are joining forces in a $16 million deal. The larger angle is AI infrastructure: compute..."
+        "Key people or organizations: York Times, Brave, Reuters, According",
+        "AI desk signal: lawsuit",
+        "Story focus: The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+        "Source context: The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from York Times.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-02T12:51:19-05:00",
+      "age_hours": "6.57",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "snapshot": "The one-year-old startup is now valued at $300 million. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Trajectory",
+        "Specific figures mentioned: $45M, $300 million",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "Source context: The one-year-old startup is now valued at $300 million. The larger angle is AI infrastructure: compute capacity, chip access and data-center..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -185,18 +215,18 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Omen AI.",
+        "Watch for follow-up statements, product details or customer evidence from Trajectory.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "age_hours": "5.54",
+      "published": "Mon, 02 Nov 2026 23:13:53 +0000",
+      "age_hours": "1.20",
       "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
+      "editorial_score": "104",
+      "urgency": ""
     },
     {
       "headline": "Claude's new rules against game cloning won't stop the AI copying boom",
@@ -222,116 +252,117 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Mon, 02 Nov 2026 18:05:31 +0000",
-      "age_hours": "2.45",
+      "age_hours": "6.33",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "When You Should—and Shouldn't—Use AI to Search the Web",
-      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "snapshot": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you'll get better results by typing your query into a good old search engine.",
+      "headline": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "snapshot": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: You Should, Shouldn, Use AI, Search",
-        "Story focus: When You Should—and Shouldn't—Use AI to Search the Web",
-        "Source context: Chatbots are often quite good at retrieving the information you want from the web. But sometimes you'll get better results by typing your query into..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from You Should.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Mon, 02 Nov 2026 12:00:00 +0000",
-      "age_hours": "8.54",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Coming in 2027: Apple's $1,000 home robot for FaceTime and switching on lights",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "snapshot": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-      "key_data": [
-        "Key people or organizations: Coming, Apple, FaceTime, CEO John Ternus",
-        "Specific figures mentioned: 2027, $1, 000",
+        "Key people or organizations: OpenAI, In, Grid Protectors Program, Effingham County",
+        "Specific figures mentioned: 1, 000",
+        "AI desk signal: chip, data center",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Coming in 2027",
-        "Source context: Apple robot backed by CEO John Ternus may have hefty price tag and limited uses."
+        "Story focus: OpenAI pitches data center power plants as a way to protect nearby areas"
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Coming.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Mon, 02 Nov 2026 18:32:21 +0000",
-      "age_hours": "2.00",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI is finally merging ChatGPT's Chat and Work tabs",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "snapshot": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, Chat, Work",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI is finally merging ChatGPT's Chat and Work tabs",
-        "Source context: OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change. The competitive question is whether this changes..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
         "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-02T13:01:30-05:00",
+      "age_hours": "6.40",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    },
+    {
+      "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "snapshot": "Two startups tackling the data center water problem are joining forces in a $16 million deal. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Omen AI, Aquatic Labs, Two",
+        "Specific figures mentioned: $16 million",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+        "Source context: Two startups tackling the data center water problem are joining forces in a $16 million deal. The larger angle is AI infrastructure: compute..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Omen AI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 02 Nov 2026 13:57:53 +0000",
-      "age_hours": "6.58",
+      "published": "Mon, 02 Nov 2026 15:00:00 +0000",
+      "age_hours": "9.43",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
+      "editorial_score": "102",
+      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
-    "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-    "Claude's new rules against game cloning won't stop the AI copying boom",
-    "When You Should—and Shouldn't—Use AI to Search the Web"
+    "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+    "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "Claude's new rules against game cloning won't stop the AI copying boom"
   ],
   "sections": [
     {
-      "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "snapshot": "Two startups tackling the data center water problem are joining forces in a $16 million deal. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "snapshot": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Omen AI, Aquatic Labs, Two",
-        "Specific figures mentioned: $16 million",
-        "AI desk signal: chip, data center, enterprise",
-        "Story focus: Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-        "Source context: Two startups tackling the data center water problem are joining forces in a $16 million deal. The larger angle is AI infrastructure: compute..."
+        "Key people or organizations: York Times, Brave, Reuters, According",
+        "AI desk signal: lawsuit",
+        "Story focus: The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+        "Source context: The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from York Times.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-02T12:51:19-05:00",
+      "age_hours": "6.57",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "snapshot": "The one-year-old startup is now valued at $300 million. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Trajectory",
+        "Specific figures mentioned: $45M, $300 million",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "Source context: The one-year-old startup is now valued at $300 million. The larger angle is AI infrastructure: compute capacity, chip access and data-center..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -339,18 +370,18 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Omen AI.",
+        "Watch for follow-up statements, product details or customer evidence from Trajectory.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 02 Nov 2026 15:00:00 +0000",
-      "age_hours": "5.54",
+      "published": "Mon, 02 Nov 2026 23:13:53 +0000",
+      "age_hours": "1.20",
       "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
+      "editorial_score": "104",
+      "urgency": ""
     },
     {
       "headline": "Claude's new rules against game cloning won't stop the AI copying boom",
@@ -376,38 +407,70 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Mon, 02 Nov 2026 18:05:31 +0000",
-      "age_hours": "2.45",
+      "age_hours": "6.33",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
     },
     {
-      "headline": "When You Should—and Shouldn't—Use AI to Search the Web",
-      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
-      "snapshot": "Chatbots are often quite good at retrieving the information you want from the web. But sometimes you'll get better results by typing your query into a good old search engine.",
+      "headline": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "snapshot": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: You Should, Shouldn, Use AI, Search",
-        "Story focus: When You Should—and Shouldn't—Use AI to Search the Web",
-        "Source context: Chatbots are often quite good at retrieving the information you want from the web. But sometimes you'll get better results by typing your query into..."
+        "Key people or organizations: OpenAI, In, Grid Protectors Program, Effingham County",
+        "Specific figures mentioned: 1, 000",
+        "AI desk signal: chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI pitches data center power plants as a way to protect nearby areas"
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from You Should.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Mon, 02 Nov 2026 12:00:00 +0000",
-      "age_hours": "8.54",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-02T13:01:30-05:00",
+      "age_hours": "6.40",
       "freshness_status": "fresh",
-      "editorial_score": "54",
+      "editorial_score": "102",
       "urgency": ""
+    },
+    {
+      "headline": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "snapshot": "Two startups tackling the data center water problem are joining forces in a $16 million deal. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Omen AI, Aquatic Labs, Two",
+        "Specific figures mentioned: $16 million",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+        "Source context: Two startups tackling the data center water problem are joining forces in a $16 million deal. The larger angle is AI infrastructure: compute..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Omen AI.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 02 Nov 2026 15:00:00 +0000",
+      "age_hours": "9.43",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": "WATCH"
     },
     {
       "headline": "Coming in 2027: Apple's $1,000 home robot for FaceTime and switching on lights",
@@ -434,21 +497,21 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Mon, 02 Nov 2026 18:32:21 +0000",
-      "age_hours": "2.00",
+      "age_hours": "5.89",
       "freshness_status": "fresh",
       "editorial_score": "94",
       "urgency": ""
     },
     {
-      "headline": "OpenAI is finally merging ChatGPT's Chat and Work tabs",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "snapshot": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Anthropic clamps down on Claude's AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "snapshot": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, Chat, Work",
+        "Key people or organizations: Anthropic, Claude, Claude Code, Tom",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI is finally merging ChatGPT's Chat and Work tabs",
-        "Source context: OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change. The competitive question is whether this changes..."
+        "Story focus: Anthropic clamps down on Claude's AI video game clones",
+        "Source context: Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -456,57 +519,57 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 02 Nov 2026 13:57:53 +0000",
-      "age_hours": "6.58",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-02T13:56:02-05:00",
+      "age_hours": "5.49",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "42AI comes out of stealth with $62.5M and a world model that can 'predict human behavior'",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "snapshot": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation? The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Anthropic warns that it's very close to RSI capability, aka self-building AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "snapshot": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
       "key_data": [
-        "Specific figures mentioned: 42, $62.5M",
-        "AI desk signal: model, enterprise",
-        "Story focus: 42AI comes out of stealth with $62.5M and a world model that can 'predict human behavior'",
-        "Source context: Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new..."
+        "Key people or organizations: Anthropic, RSI, To",
+        "AI desk signal: chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic warns that it's very close to RSI capability, aka self-building AI",
+        "Source context: RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 02 Nov 2026 16:30:00 +0000",
-      "age_hours": "4.04",
+      "published": "Mon, 02 Nov 2026 22:14:50 +0000",
+      "age_hours": "2.18",
       "freshness_status": "fresh",
-      "editorial_score": "88",
+      "editorial_score": "92",
       "urgency": ""
     },
     {
-      "headline": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "snapshot": "WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.",
+      "headline": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
+      "url": "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+      "snapshot": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
       "key_data": [
-        "Key people or organizations: Hundreds, Mundane AI Apps Are, Hiding Sexually Abusive Deepfake, Features",
-        "Specific figures mentioned: 400",
-        "Story focus: Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features",
-        "Source context: WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let..."
+        "Key people or organizations: Home, Space, Air, Space Museum",
+        "Story focus: \"At Home in Space\" opens, caps Air and Space Museum renovation",
+        "Source context: The Smithsonian's National Air and Space Museum has all of its \"space\" back open."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -514,43 +577,15 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Hundreds.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Mon, 02 Nov 2026 10:00:00 +0000",
-      "age_hours": "10.54",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "The world has a new plan to save nature, but it still needs the money",
-      "url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
-      "snapshot": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
-      "key_data": [
-        "Specific figures mentioned: 2030",
-        "Story focus: The world has a new plan to save nature, but it still needs the money",
-        "Source context: A new action plan aims to rescue 2030 nature targets as financing remains inadequate."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Watch for follow-up statements, product details or customer evidence from Home.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Mon, 02 Nov 2026 14:56:52 +0000",
-      "age_hours": "5.59",
+      "published": "Mon, 02 Nov 2026 23:30:16 +0000",
+      "age_hours": "0.92",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
