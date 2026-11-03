@@ -3,22 +3,51 @@
   "vertical": "AI",
   "headline": "OpenAI is quietly renaming data centers 'compute campuses'",
   "snapshot": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. But what about \"compute campuses\"? Those sound lovely,... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-  "updated_at": "2026-11-03 01:08:48 PM ET",
-  "generated_at": "2026-11-03 01:08:48 PM ET",
+  "updated_at": "2026-11-03 04:27:57 PM ET",
+  "generated_at": "2026-11-03 04:27:57 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 59,
-    "live_fresh_items": 21,
-    "editor_fresh_items": 49,
-    "public_fallback_items": 51,
-    "stale_or_blocked_items": 38,
+    "total_items_checked": 60,
+    "live_fresh_items": 31,
+    "editor_fresh_items": 54,
+    "public_fallback_items": 55,
+    "stale_or_blocked_items": 29,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-03 01:08:48 PM ET"
+    "last_checked": "2026-11-03 04:27:57 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Ukraine's drone strikes spur hasty Russian plans for underground data centers",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "snapshot": "Russia tries to fix exposed digital infrastructure as data center war backfires. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Ukraine, Russian, Russia",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Ukraine's drone strikes spur hasty Russian plans for underground data centers",
+        "Source context: Russia tries to fix exposed digital infrastructure as data center war backfires. The larger angle is AI infrastructure: compute capacity, chip access..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ukraine.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Tue, 03 Nov 2026 20:39:55 +0000",
+      "age_hours": "0.80",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "OpenAI is quietly renaming data centers 'compute campuses'",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
@@ -44,39 +73,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-03T10:00:44-05:00",
-      "age_hours": "3.13",
+      "age_hours": "6.45",
       "freshness_status": "fresh",
       "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Google will let schools skip AI tools, but they have to give up search, too",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-      "snapshot": "Google will offer schools AI tools that purportedly don't give away the answers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google will let schools skip AI tools, but they have to give up search, too",
-        "Source context: Google will offer schools AI tools that purportedly don't give away the answers. The competitive question is whether this changes the model race,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 03 Nov 2026 17:54:43 +0000",
-      "age_hours": "0.23",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -104,21 +103,50 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 03 Nov 2026 16:30:34 +0000",
-      "age_hours": "1.64",
+      "age_hours": "4.96",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
     },
     {
-      "headline": "Google is entirely disabling Search in schools that don't want AI",
-      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "snapshot": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "snapshot": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Google, Search, York Times, Gemini",
+        "Key people or organizations: NYT, Brave, Lawsuit",
+        "AI desk signal: lawsuit",
+        "Story focus: NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+        "Source context: Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content. The story matters because AI is moving deeper into legal and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from NYT.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Tue, 03 Nov 2026 18:30:27 +0000",
+      "age_hours": "2.96",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "snapshot": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT, Google, In",
+        "Specific figures mentioned: 20",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google is entirely disabling Search in schools that don't want AI",
-        "Source context: Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in..."
+        "Story focus: OpenAI says ChatGPT is catching up to Google in search"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -126,47 +154,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-11-03T12:00:04-05:00",
-      "age_hours": "1.15",
+      "published": "2026-11-03T13:30:42-05:00",
+      "age_hours": "2.95",
       "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
-      "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
-      "snapshot": "Google has cut ties with the company behind the botnet campaign. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Android TV",
-        "Specific figures mentioned: 1.3",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google dismantles botnet secretly running on 1.3 million Android TV boxes"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 03 Nov 2026 17:08:21 +0000",
-      "age_hours": "1.01",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
+      "editorial_score": "100",
       "urgency": ""
     }
   ],
@@ -196,10 +194,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-03T10:00:44-05:00",
-      "age_hours": "3.13",
+      "age_hours": "6.45",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
+    },
+    {
+      "headline": "Ukraine's drone strikes spur hasty Russian plans for underground data centers",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "snapshot": "Russia tries to fix exposed digital infrastructure as data center war backfires. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Ukraine, Russian, Russia",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Ukraine's drone strikes spur hasty Russian plans for underground data centers",
+        "Source context: Russia tries to fix exposed digital infrastructure as data center war backfires. The larger angle is AI infrastructure: compute capacity, chip access..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ukraine.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Tue, 03 Nov 2026 20:39:55 +0000",
+      "age_hours": "0.80",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Google will let schools disable its AI tools, but not without sacrificing Search",
@@ -226,21 +253,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 03 Nov 2026 16:30:34 +0000",
-      "age_hours": "1.64",
+      "age_hours": "4.96",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
     },
     {
-      "headline": "Google will let schools skip AI tools, but they have to give up search, too",
-      "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-      "snapshot": "Google will offer schools AI tools that purportedly don't give away the answers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "snapshot": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Google",
+        "Key people or organizations: OpenAI, ChatGPT, Google, In",
+        "Specific figures mentioned: 20",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google will let schools skip AI tools, but they have to give up search, too",
-        "Source context: Google will offer schools AI tools that purportedly don't give away the answers. The competitive question is whether this changes the model race,..."
+        "Story focus: OpenAI says ChatGPT is catching up to Google in search"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -248,17 +275,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 03 Nov 2026 17:54:43 +0000",
-      "age_hours": "0.23",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-03T13:30:42-05:00",
+      "age_hours": "2.95",
       "freshness_status": "fresh",
-      "editorial_score": "84",
+      "editorial_score": "100",
       "urgency": ""
     },
     {
@@ -286,45 +313,16 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-03T12:00:04-05:00",
-      "age_hours": "1.15",
+      "age_hours": "4.46",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Apple is all in on AI — its own and everyone else's",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "snapshot": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued...",
-      "key_data": [
-        "Key people or organizations: Apple, Overall, Mac",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple is all in on AI — its own and everyone else's",
-        "Source context: Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-03T10:24:51-05:00",
-      "age_hours": "2.73",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
       "urgency": ""
     }
   ],
   "key_storylines": [
     "OpenAI is quietly renaming data centers 'compute campuses'",
-    "Google will let schools disable its AI tools, but not without sacrificing Search",
-    "Google will let schools skip AI tools, but they have to give up search, too"
+    "Ukraine's drone strikes spur hasty Russian plans for underground data centers",
+    "Google will let schools disable its AI tools, but not without sacrificing Search"
   ],
   "sections": [
     {
@@ -352,10 +350,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-03T10:00:44-05:00",
-      "age_hours": "3.13",
+      "age_hours": "6.45",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
+    },
+    {
+      "headline": "Ukraine's drone strikes spur hasty Russian plans for underground data centers",
+      "url": "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+      "snapshot": "Russia tries to fix exposed digital infrastructure as data center war backfires. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Ukraine, Russian, Russia",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Ukraine's drone strikes spur hasty Russian plans for underground data centers",
+        "Source context: Russia tries to fix exposed digital infrastructure as data center war backfires. The larger angle is AI infrastructure: compute capacity, chip access..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ukraine.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Tue, 03 Nov 2026 20:39:55 +0000",
+      "age_hours": "0.80",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Google will let schools disable its AI tools, but not without sacrificing Search",
@@ -382,7 +409,126 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 03 Nov 2026 16:30:34 +0000",
-      "age_hours": "1.64",
+      "age_hours": "4.96",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "snapshot": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run through Google. Adam Fry, OpenAI's consumer product lead for ChatGPT, made the... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, ChatGPT, Google, In",
+        "Specific figures mentioned: 20",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI says ChatGPT is catching up to Google in search"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-03T13:30:42-05:00",
+      "age_hours": "2.95",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "Google is entirely disabling Search in schools that don't want AI",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "snapshot": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Google, Search, York Times, Gemini",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google is entirely disabling Search in schools that don't want AI",
+        "Source context: Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-03T12:00:04-05:00",
+      "age_hours": "4.46",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+      "snapshot": "Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: NYT, Brave, Lawsuit",
+        "AI desk signal: lawsuit",
+        "Story focus: NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+        "Source context: Lawsuit calls Brave \"supplier, dealer, and distributor\" of stolen news content. The story matters because AI is moving deeper into legal and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from NYT.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Tue, 03 Nov 2026 18:30:27 +0000",
+      "age_hours": "2.96",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "snapshot": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+      "key_data": [
+        "Key people or organizations: Apple, App Store",
+        "Specific figures mentioned: 18",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple restricts dating apps and AI companions to users 18 and up",
+        "Source context: Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 03 Nov 2026 15:38:27 +0000",
+      "age_hours": "5.82",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -412,158 +558,39 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Tue, 03 Nov 2026 17:54:43 +0000",
-      "age_hours": "0.23",
+      "age_hours": "3.55",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
     },
     {
-      "headline": "Google is entirely disabling Search in schools that don't want AI",
-      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-      "snapshot": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "snapshot": "The five-year-old startup raised a $1.3 billion round led by Bessemer. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Google, Search, York Times, Gemini",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google is entirely disabling Search in schools that don't want AI",
-        "Source context: Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in..."
+        "Key people or organizations: Fal, Bessemer",
+        "Specific figures mentioned: $16B, $1.3 billion",
+        "AI desk signal: chip, enterprise",
+        "Story focus: AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "Source context: The five-year-old startup raised a $1.3 billion round led by Bessemer. The larger angle is AI infrastructure: compute capacity, chip access and..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Fal.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-03T12:00:04-05:00",
-      "age_hours": "1.15",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Apple is all in on AI — its own and everyone else's",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "snapshot": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for revenue and earnings per share. iPhone and Mac sales continued...",
-      "key_data": [
-        "Key people or organizations: Apple, Overall, Mac",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple is all in on AI — its own and everyone else's",
-        "Source context: Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-03T10:24:51-05:00",
-      "age_hours": "2.73",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Apple restricts dating apps and AI companions to users 18 and up",
-      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-      "snapshot": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-      "key_data": [
-        "Key people or organizations: Apple, App Store",
-        "Specific figures mentioned: 18",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple restricts dating apps and AI companions to users 18 and up",
-        "Source context: Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Tue, 03 Nov 2026 15:38:27 +0000",
-      "age_hours": "2.51",
+      "published": "Tue, 03 Nov 2026 19:34:43 +0000",
+      "age_hours": "1.89",
       "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
-      "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
-      "snapshot": "Google has cut ties with the company behind the botnet campaign. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Android TV",
-        "Specific figures mentioned: 1.3",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google dismantles botnet secretly running on 1.3 million Android TV boxes"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 03 Nov 2026 17:08:21 +0000",
-      "age_hours": "1.01",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
-      "snapshot": "Meta faces pressure to protect No Kings Instagram on election day. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Trump, No Kings, Then, Meta",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-        "Source context: Meta faces pressure to protect No Kings Instagram on election day. The competitive question is whether this changes the model race, enterprise..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 03 Nov 2026 15:39:30 +0000",
-      "age_hours": "2.49",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
+      "editorial_score": "80",
       "urgency": ""
     },
     {
@@ -590,39 +617,9 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Tue, 03 Nov 2026 14:45:08 +0000",
-      "age_hours": "3.39",
+      "age_hours": "6.71",
       "freshness_status": "fresh",
       "editorial_score": "78",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic is still grappling with the economics of compute",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "snapshot": "At a moment when Anthropic's compute margins should be getting better, they're getting worse. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic is still grappling with the economics of compute",
-        "Source context: At a moment when Anthropic's compute margins should be getting better, they're getting worse. The competitive question is whether this changes the..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 03 Nov 2026 17:07:01 +0000",
-      "age_hours": "1.03",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
       "urgency": ""
     }
   ],
