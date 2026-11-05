@@ -1,33 +1,121 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Apple is reportedly cutting budgets for its internal AI usage",
-  "snapshot": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-  "updated_at": "2026-11-05 07:49:01 AM ET",
-  "generated_at": "2026-11-05 07:49:01 AM ET",
+  "headline": "OpenAI released a new cybersecurity model. Is that enough?",
+  "snapshot": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+  "updated_at": "2026-11-05 02:25:47 PM ET",
+  "generated_at": "2026-11-05 02:25:47 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 59,
-    "live_fresh_items": 8,
-    "editor_fresh_items": 46,
-    "public_fallback_items": 59,
-    "stale_or_blocked_items": 51,
+    "total_items_checked": 60,
+    "live_fresh_items": 27,
+    "editor_fresh_items": 59,
+    "public_fallback_items": 60,
+    "stale_or_blocked_items": 33,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-05 07:49:01 AM ET"
+    "last_checked": "2026-11-05 02:25:47 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Building on open source AI? Hugging Face's policy chief on the costs, risks, and trade-offs",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "snapshot": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "headline": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "snapshot": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Building, Hugging Face, Open, But",
+        "Key people or organizations: OpenAI, Is",
         "AI desk signal: model, enterprise",
-        "Story focus: Building on open source AI? Hugging Face's policy chief on the costs, risks, and trade-offs",
-        "Source context: Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI released a new cybersecurity model. Is that enough?",
+        "Source context: OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 05 Nov 2026 19:06:12 +0000",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "160",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Exclusive: Aina's Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "snapshot": "The startup Aina bets you won't need to rely on your phone to control virtual assistants. It's making a smart ring that lets you control the actions of your autonomous agents with one tap. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Exclusive, Aina, Smart Ring Wants, Be",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Exclusive",
+        "Source context: The startup Aina bets you won't need to rely on your phone to control virtual assistants. It's making a smart ring that lets you control the actions..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Exclusive.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "age_hours": "5.43",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "snapshot": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, GPT, Cyber",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI says its new cybersecurity model is better at not hacking other companies"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-05T12:00:00-05:00",
+      "age_hours": "2.43",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "snapshot": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Claude, Personal Finance, Plaid",
+        "Story focus: Claude can now analyze your spending with its new Personal Finance tool",
+        "Source context: With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -35,144 +123,178 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Building.",
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
         "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "age_hours": "1.43",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "snapshot": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Dropbox, Tigris Data, DBX Agent Cloud",
+        "Specific figures mentioned: $350M",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+        "Source context: The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Dropbox.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 04 Nov 2026 18:44:57 +0000",
-      "age_hours": "18.07",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "104",
-      "urgency": ""
-    },
-    {
-      "headline": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-      "snapshot": "US leader in deploying humanoid robots goes public on the Nadaq stock exchange.",
-      "key_data": [
-        "Key people or organizations: Agility Robotics, Nasdaq, US, Nadaq",
-        "Story focus: Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-        "Source context: US leader in deploying humanoid robots goes public on the Nadaq stock exchange."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Agility Robotics.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 05 Nov 2026 12:00:41 +0000",
-      "age_hours": "0.81",
+      "published": "Thu, 05 Nov 2026 15:19:05 +0000",
+      "age_hours": "4.11",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": ""
-    },
-    {
-      "headline": "Big Tech's big AI buildout will not end until someone stops it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-      "snapshot": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Big Tech",
-        "AI desk signal: chip, data center",
-        "Story focus: Big Tech's big AI buildout will not end until someone stops it",
-        "Source context: After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Big Tech.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-05T05:45:00-05:00",
-      "age_hours": "2.07",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "snapshot": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "key_data": [
-        "Key people or organizations: Apple",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple is reportedly cutting budgets for its internal AI usage",
-        "Source context: The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 01:26:22 +0000",
-      "age_hours": "11.38",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "snapshot": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
-      "key_data": [
-        "Key people or organizations: Agility, Are, Nasdaq",
-        "Story focus: Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-        "Source context: Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Agility.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 12:00:00 +0000",
-      "age_hours": "0.82",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": ""
+      "editorial_score": "134",
+      "urgency": "WATCH"
     }
   ],
   "editor_signals": [
     {
-      "headline": "Building on open source AI? Hugging Face's policy chief on the costs, risks, and trade-offs",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "snapshot": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
+      "headline": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "snapshot": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Building, Hugging Face, Open, But",
+        "Key people or organizations: OpenAI, Is",
         "AI desk signal: model, enterprise",
-        "Story focus: Building on open source AI? Hugging Face's policy chief on the costs, risks, and trade-offs",
-        "Source context: Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI released a new cybersecurity model. Is that enough?",
+        "Source context: OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 05 Nov 2026 19:06:12 +0000",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "160",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "snapshot": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, GPT, Cyber",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI says its new cybersecurity model is better at not hacking other companies"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-05T12:00:00-05:00",
+      "age_hours": "2.43",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Exclusive: Aina's Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "snapshot": "The startup Aina bets you won't need to rely on your phone to control virtual assistants. It's making a smart ring that lets you control the actions of your autonomous agents with one tap. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Exclusive, Aina, Smart Ring Wants, Be",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Exclusive",
+        "Source context: The startup Aina bets you won't need to rely on your phone to control virtual assistants. It's making a smart ring that lets you control the actions..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Exclusive.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "age_hours": "5.43",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "snapshot": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Dropbox, Tigris Data, DBX Agent Cloud",
+        "Specific figures mentioned: $350M",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+        "Source context: The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Dropbox.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 05 Nov 2026 15:19:05 +0000",
+      "age_hours": "4.11",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "snapshot": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Claude, Personal Finance, Plaid",
+        "Story focus: Claude can now analyze your spending with its new Personal Finance tool",
+        "Source context: With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -180,57 +302,36 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Building.",
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
         "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 04 Nov 2026 18:44:57 +0000",
-      "age_hours": "18.07",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "104",
-      "urgency": ""
-    },
-    {
-      "headline": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-      "snapshot": "US leader in deploying humanoid robots goes public on the Nadaq stock exchange.",
-      "key_data": [
-        "Key people or organizations: Agility Robotics, Nasdaq, US, Nadaq",
-        "Story focus: Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-        "Source context: US leader in deploying humanoid robots goes public on the Nadaq stock exchange."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Agility Robotics.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 05 Nov 2026 12:00:41 +0000",
-      "age_hours": "0.81",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "age_hours": "1.43",
       "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": ""
-    },
+      "editorial_score": "106",
+      "urgency": "DEVELOPING"
+    }
+  ],
+  "key_storylines": [
+    "OpenAI released a new cybersecurity model. Is that enough?",
+    "OpenAI says its new cybersecurity model is better at not hacking other companies",
+    "Exclusive: Aina's Smart Ring Wants to Be a Remote Control for Your AI Agent"
+  ],
+  "sections": [
     {
-      "headline": "ChatGPT will now make you animated GIFs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "snapshot": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "snapshot": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: ChatGPT, GIFs, OpenAI, Images",
-        "Specific figures mentioned: 2.6",
+        "Key people or organizations: OpenAI, Is",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: ChatGPT will now make you animated GIFs"
+        "Story focus: OpenAI released a new cybersecurity model. Is that enough?",
+        "Source context: OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure. The competitive question is..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -238,122 +339,173 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 05 Nov 2026 19:06:12 +0000",
+      "age_hours": "0.33",
+      "freshness_status": "fresh",
+      "editorial_score": "160",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "snapshot": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, GPT, Cyber",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI says its new cybersecurity model is better at not hacking other companies"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-11-04T13:00:00-05:00",
-      "age_hours": "18.82",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "80",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta acquires AI coding startup Conductor",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "snapshot": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Meta, Conductor",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta acquires AI coding startup Conductor",
-        "Source context: The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously. The competitive question is..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 04 Nov 2026 21:10:56 +0000",
-      "age_hours": "15.63",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "98",
-      "urgency": ""
-    },
-    {
-      "headline": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "snapshot": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Open, Hugging Face, But, And",
-        "AI desk signal: model, enterprise",
-        "Story focus: Open source AI is booming. Hugging Face explains who profits.",
-        "Source context: Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Open.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 04 Nov 2026 19:30:04 +0000",
-      "age_hours": "17.32",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Apple is reportedly cutting budgets for its internal AI usage",
-    "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-    "Big Tech's big AI buildout will not end until someone stops it"
-  ],
-  "sections": [
-    {
-      "headline": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "snapshot": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-      "key_data": [
-        "Key people or organizations: Apple",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple is reportedly cutting budgets for its internal AI usage",
-        "Source context: The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 01:26:22 +0000",
-      "age_hours": "11.38",
+      "published": "2026-11-05T12:00:00-05:00",
+      "age_hours": "2.43",
       "freshness_status": "fresh",
-      "editorial_score": "84",
+      "editorial_score": "128",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Exclusive: Aina's Smart Ring Wants to Be a Remote Control for Your AI Agent",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "snapshot": "The startup Aina bets you won't need to rely on your phone to control virtual assistants. It's making a smart ring that lets you control the actions of your autonomous agents with one tap. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Exclusive, Aina, Smart Ring Wants, Be",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Exclusive",
+        "Source context: The startup Aina bets you won't need to rely on your phone to control virtual assistants. It's making a smart ring that lets you control the actions..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Exclusive.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "age_hours": "5.43",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "snapshot": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Dropbox, Tigris Data, DBX Agent Cloud",
+        "Specific figures mentioned: $350M",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+        "Source context: The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Dropbox.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 05 Nov 2026 15:19:05 +0000",
+      "age_hours": "4.11",
+      "freshness_status": "fresh",
+      "editorial_score": "134",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "snapshot": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Claude, Personal Finance, Plaid",
+        "Story focus: Claude can now analyze your spending with its new Personal Finance tool",
+        "Source context: With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "age_hours": "1.43",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "snapshot": "Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
+      "key_data": [
+        "Key people or organizations: Finding New Drugs Is, Laborious, Startup Is, Skipping The Lab Work",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
+        "Source context: Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Finding New Drugs Is.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 05 Nov 2026 13:00:00 +0000",
+      "age_hours": "6.43",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
       "urgency": ""
     },
     {
       "headline": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
       "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-      "snapshot": "US leader in deploying humanoid robots goes public on the Nadaq stock exchange.",
+      "snapshot": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
       "key_data": [
-        "Key people or organizations: Agility Robotics, Nasdaq, US, Nadaq",
+        "Key people or organizations: Agility Robotics, Nasdaq, US",
         "Story focus: Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-        "Source context: US leader in deploying humanoid robots goes public on the Nadaq stock exchange."
+        "Source context: US leader in deploying humanoid robots goes public on the Nasdaq stock exchange."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -369,9 +521,39 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 05 Nov 2026 12:00:41 +0000",
-      "age_hours": "0.81",
+      "age_hours": "7.42",
       "freshness_status": "fresh",
       "editorial_score": "82",
+      "urgency": ""
+    },
+    {
+      "headline": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+      "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+      "snapshot": "Using a capture card and open source software to run PS5 video through a PC GPU. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Gamers, GTA VI, Nvidia, DLSS",
+        "Specific figures mentioned: 5",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gamers.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Thu, 05 Nov 2026 17:40:27 +0000",
+      "age_hours": "1.76",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
       "urgency": ""
     },
     {
@@ -398,76 +580,19 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-05T05:45:00-05:00",
-      "age_hours": "2.07",
+      "age_hours": "8.68",
       "freshness_status": "fresh",
       "editorial_score": "72",
       "urgency": ""
     },
     {
-      "headline": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "snapshot": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
+      "headline": "Statehouse wins give Democrats new power to push clean energy",
+      "url": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
+      "snapshot": "Democrats erased the GOP's trifecta edge and gained new power over energy policy. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Agility, Are, Nasdaq",
-        "Story focus: Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-        "Source context: Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Agility.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 12:00:00 +0000",
-      "age_hours": "0.82",
-      "freshness_status": "fresh",
-      "editorial_score": "82",
-      "urgency": ""
-    },
-    {
-      "headline": "AI's Next Trick? Speaking Dolphin",
-      "url": "https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/",
-      "snapshot": "Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.",
-      "key_data": [
-        "Key people or organizations: Next Trick, Speaking Dolphin, Denise Herzing, Wild Dolphin Project",
-        "Story focus: AI's Next Trick? Speaking Dolphin",
-        "Source context: Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Next Trick.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Thu, 05 Nov 2026 12:00:00 +0000",
-      "age_hours": "0.82",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Building on open source AI? Hugging Face's policy chief on the costs, risks, and trade-offs",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
-      "snapshot": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies capture value? And with... The story matters because AI is moving deeper into legal and regulatory territory, where product speed,...",
-      "key_data": [
-        "Key people or organizations: Building, Hugging Face, Open, But",
-        "AI desk signal: model, enterprise",
-        "Story focus: Building on open source AI? Hugging Face's policy chief on the costs, risks, and trade-offs",
-        "Source context: Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and..."
+        "Key people or organizations: Statehouse, Democrats, GOP",
+        "Story focus: Statehouse wins give Democrats new power to push clean energy",
+        "Source context: Democrats erased the GOP's trifecta edge and gained new power over energy policy. The story matters because AI is moving deeper into legal and..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -475,17 +600,17 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Building.",
+        "Watch for follow-up statements, product details or customer evidence from Statehouse.",
         "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 04 Nov 2026 18:44:57 +0000",
-      "age_hours": "18.07",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "104",
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Thu, 05 Nov 2026 15:59:51 +0000",
+      "age_hours": "3.43",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
       "urgency": ""
     }
   ],
