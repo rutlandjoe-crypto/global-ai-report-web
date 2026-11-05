@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "OpenAI released a new cybersecurity model. Is that enough?",
   "snapshot": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-11-05 02:25:47 PM ET",
-  "generated_at": "2026-11-05 02:25:47 PM ET",
+  "updated_at": "2026-11-05 03:20:17 PM ET",
+  "generated_at": "2026-11-05 03:20:17 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 60,
-    "live_fresh_items": 27,
-    "editor_fresh_items": 59,
+    "live_fresh_items": 33,
+    "editor_fresh_items": 60,
     "public_fallback_items": 60,
-    "stale_or_blocked_items": 33,
+    "stale_or_blocked_items": 27,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-05 02:25:47 PM ET"
+    "last_checked": "2026-11-05 03:20:17 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,10 +44,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "age_hours": "0.33",
+      "age_hours": "1.23",
       "freshness_status": "fresh",
       "editorial_score": "160",
       "urgency": "WATCH"
+    },
+    {
+      "headline": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "snapshot": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: Claude AI, Anthropic, Claude, Personal Finance",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude AI can plug directly into your bank account",
+        "Source context: Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-05T13:00:00-05:00",
+      "age_hours": "2.34",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "Exclusive: Aina's Smart Ring Wants to Be a Remote Control for Your AI Agent",
@@ -73,68 +102,10 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 05 Nov 2026 14:00:00 +0000",
-      "age_hours": "5.43",
+      "age_hours": "6.34",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
-    },
-    {
-      "headline": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "snapshot": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: OpenAI, GPT, Cyber",
-        "Specific figures mentioned: 6",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI says its new cybersecurity model is better at not hacking other companies"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-05T12:00:00-05:00",
-      "age_hours": "2.43",
-      "freshness_status": "fresh",
-      "editorial_score": "128",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "snapshot": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Claude, Personal Finance, Plaid",
-        "Story focus: Claude can now analyze your spending with its new Personal Finance tool",
-        "Source context: With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Claude.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 18:00:00 +0000",
-      "age_hours": "1.43",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
@@ -161,9 +132,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 05 Nov 2026 15:19:05 +0000",
-      "age_hours": "4.11",
+      "age_hours": "5.02",
       "freshness_status": "fresh",
       "editorial_score": "134",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "snapshot": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the process. OpenAI says that during testing, GPT-6 Cyber went out of bounds less than... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: OpenAI, GPT, Cyber",
+        "Specific figures mentioned: 6",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI says its new cybersecurity model is better at not hacking other companies"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-05T12:00:00-05:00",
+      "age_hours": "3.34",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
       "urgency": "WATCH"
     }
   ],
@@ -193,7 +194,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "age_hours": "0.33",
+      "age_hours": "1.23",
       "freshness_status": "fresh",
       "editorial_score": "160",
       "urgency": "WATCH"
@@ -223,7 +224,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-05T12:00:00-05:00",
-      "age_hours": "2.43",
+      "age_hours": "3.34",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "WATCH"
@@ -252,7 +253,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 05 Nov 2026 14:00:00 +0000",
-      "age_hours": "5.43",
+      "age_hours": "6.34",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -282,19 +283,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 05 Nov 2026 15:19:05 +0000",
-      "age_hours": "4.11",
+      "age_hours": "5.02",
       "freshness_status": "fresh",
       "editorial_score": "134",
       "urgency": "WATCH"
     },
     {
-      "headline": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "snapshot": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "snapshot": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Claude, Personal Finance, Plaid",
-        "Story focus: Claude can now analyze your spending with its new Personal Finance tool",
-        "Source context: With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story..."
+        "Key people or organizations: Claude AI, Anthropic, Claude, Personal Finance",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude AI can plug directly into your bank account",
+        "Source context: Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -302,17 +304,17 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Claude.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Claude AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 18:00:00 +0000",
-      "age_hours": "1.43",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-05T13:00:00-05:00",
+      "age_hours": "2.34",
       "freshness_status": "fresh",
-      "editorial_score": "106",
+      "editorial_score": "124",
       "urgency": "DEVELOPING"
     }
   ],
@@ -347,7 +349,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "age_hours": "0.33",
+      "age_hours": "1.23",
       "freshness_status": "fresh",
       "editorial_score": "160",
       "urgency": "WATCH"
@@ -377,7 +379,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-05T12:00:00-05:00",
-      "age_hours": "2.43",
+      "age_hours": "3.34",
       "freshness_status": "fresh",
       "editorial_score": "128",
       "urgency": "WATCH"
@@ -406,7 +408,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 05 Nov 2026 14:00:00 +0000",
-      "age_hours": "5.43",
+      "age_hours": "6.34",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -436,19 +438,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 05 Nov 2026 15:19:05 +0000",
-      "age_hours": "4.11",
+      "age_hours": "5.02",
       "freshness_status": "fresh",
       "editorial_score": "134",
       "urgency": "WATCH"
     },
     {
-      "headline": "Claude can now analyze your spending with its new Personal Finance tool",
-      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "snapshot": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Claude AI can plug directly into your bank account",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "snapshot": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Claude, Personal Finance, Plaid",
-        "Story focus: Claude can now analyze your spending with its new Personal Finance tool",
-        "Source context: With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances. The story..."
+        "Key people or organizations: Claude AI, Anthropic, Claude, Personal Finance",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude AI can plug directly into your bank account",
+        "Source context: Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -456,18 +459,48 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Claude.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Claude AI.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-05T13:00:00-05:00",
+      "age_hours": "2.34",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "snapshot": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Meta, US, Muse AI, Tamagotchi",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta says US users can now video chat with their Muse AI avatar",
+        "Source context: Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 18:00:00 +0000",
-      "age_hours": "1.43",
+      "published": "Thu, 05 Nov 2026 19:48:28 +0000",
+      "age_hours": "0.53",
       "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": "DEVELOPING"
+      "editorial_score": "112",
+      "urgency": "WATCH"
     },
     {
       "headline": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
@@ -493,9 +526,37 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 05 Nov 2026 13:00:00 +0000",
-      "age_hours": "6.43",
+      "age_hours": "7.34",
       "freshness_status": "fresh",
       "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+      "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+      "snapshot": "Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Kalshi, AG",
+        "Story focus: Kalshi court losses pile up as judges refuse to block state gambling laws",
+        "Source context: Kalshi can't avoid gambling law by claiming it doesn't offer gambling, state AG says. The story matters because AI is moving deeper into legal and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Kalshi.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Thu, 05 Nov 2026 19:46:37 +0000",
+      "age_hours": "0.56",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
       "urgency": ""
     },
     {
@@ -521,96 +582,39 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 05 Nov 2026 12:00:41 +0000",
-      "age_hours": "7.42",
+      "age_hours": "8.33",
       "freshness_status": "fresh",
       "editorial_score": "82",
       "urgency": ""
     },
     {
-      "headline": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
-      "url": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
-      "snapshot": "Using a capture card and open source software to run PS5 video through a PC GPU. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "snapshot": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: Gamers, GTA VI, Nvidia, DLSS",
-        "Specific figures mentioned: 5",
-        "AI desk signal: chip, nvidia, enterprise",
+        "Key people or organizations: Muse, Meta, Muse AI, CEO Mark Zuckerberg",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5"
+        "Story focus: Muse has a voice mode now",
+        "Source context: Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Gamers.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Muse.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 05 Nov 2026 17:40:27 +0000",
-      "age_hours": "1.76",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "Big Tech's big AI buildout will not end until someone stops it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-      "snapshot": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Big Tech",
-        "AI desk signal: chip, data center",
-        "Story focus: Big Tech's big AI buildout will not end until someone stops it",
-        "Source context: After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Big Tech.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-11-05T05:45:00-05:00",
-      "age_hours": "8.68",
+      "published": "2026-11-05T14:03:04-05:00",
+      "age_hours": "1.29",
       "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Statehouse wins give Democrats new power to push clean energy",
-      "url": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
-      "snapshot": "Democrats erased the GOP's trifecta edge and gained new power over energy policy. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Statehouse, Democrats, GOP",
-        "Story focus: Statehouse wins give Democrats new power to push clean energy",
-        "Source context: Democrats erased the GOP's trifecta edge and gained new power over energy policy. The story matters because AI is moving deeper into legal and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Statehouse.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 05 Nov 2026 15:59:51 +0000",
-      "age_hours": "3.43",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
+      "editorial_score": "77",
       "urgency": ""
     }
   ],
