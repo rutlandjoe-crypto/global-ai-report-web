@@ -1,153 +1,34 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Perplexity launches its own take on AI agents for work",
-  "snapshot": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-11-06 03:36:44 AM ET",
-  "generated_at": "2026-11-06 03:36:44 AM ET",
+  "headline": "Protesters break into Microsoft data center site in Amsterdam",
+  "snapshot": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+  "updated_at": "2026-11-06 10:37:48 AM ET",
+  "generated_at": "2026-11-06 10:37:48 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 12,
-    "editor_fresh_items": 57,
+    "live_fresh_items": 10,
+    "editor_fresh_items": 51,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 47,
+    "stale_or_blocked_items": 49,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-06 03:36:44 AM ET"
+    "last_checked": "2026-11-06 10:37:48 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "snapshot": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Protesters break into Microsoft data center site in Amsterdam",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "snapshot": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Lawsuit, Man, ChatGPT, She",
-        "AI desk signal: lawsuit",
-        "Story focus: Lawsuit",
-        "Source context: Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says. The story matters because AI is moving deeper into legal and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Lawsuit.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 05 Nov 2026 21:39:40 +0000",
-      "age_hours": "10.95",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Airbnb is working on an AI travel agent",
-      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "snapshot": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Airbnb, Today",
-        "Specific figures mentioned: 2027, 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Airbnb is working on an AI travel agent",
-        "Source context: Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Airbnb.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-05T19:06:12-05:00",
-      "age_hours": "8.51",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "snapshot": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Palo Alto Networks, Clutch, Lightspeed, SignalFire",
-        "Specific figures mentioned: $500M, $85 million",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "Source context: Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source. The competitive question is whether this changes..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Palo Alto Networks.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 06 Nov 2026 06:28:32 +0000",
-      "age_hours": "2.14",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": ""
-    },
-    {
-      "headline": "Perplexity launches its own take on AI agents for work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "snapshot": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Perplexity, OpenAI, Anthropic, Teammates",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Perplexity launches its own take on AI agents for work",
-        "Source context: Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Perplexity.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-05T17:26:50-05:00",
-      "age_hours": "10.17",
-      "freshness_status": "fresh",
-      "editorial_score": "170",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "OpenAI is stepping back from NDAs for data center projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "snapshot": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: OpenAI, NDAs, Following",
+        "Key people or organizations: Protesters, Microsoft, Amsterdam, Members",
+        "Specific figures mentioned: 85",
         "AI desk signal: chip, data center",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI is stepping back from NDAs for data center projects",
-        "Source context: Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to..."
+        "Story focus: Protesters break into Microsoft data center site in Amsterdam"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -155,17 +36,135 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Protesters.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-11-05T19:37:56-05:00",
-      "age_hours": "7.98",
+      "published": "2026-11-06T06:55:19-05:00",
+      "age_hours": "3.71",
       "freshness_status": "fresh",
       "editorial_score": "102",
+      "urgency": ""
+    },
+    {
+      "headline": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "snapshot": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "key_data": [
+        "Key people or organizations: Muse, Amazon, Alexa",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: After blocking Muse, Amazon now lets users text Alexa to help them shop",
+        "Source context: Amazon said that the feature will roll out to millions of users in coming weeks."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Muse.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 06 Nov 2026 14:10:00 +0000",
+      "age_hours": "1.46",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "snapshot": "Lawmakers want answers about Jensen Huang's ties to an alleged Chinese intelligence asset. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nvidia CEO Jensen Huang, Congress, Chinese, Lawmakers",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+        "Source context: Lawmakers want answers about Jensen Huang's ties to an alleged Chinese intelligence asset. The larger angle is AI infrastructure: compute capacity,..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia CEO Jensen Huang.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 06 Nov 2026 14:13:32 +0000",
+      "age_hours": "1.40",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": ""
+    },
+    {
+      "headline": "Amazon will let you text Alexa your shopping list",
+      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "snapshot": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching...",
+      "key_data": [
+        "Key people or organizations: Amazon, Alexa, Shopping, Users",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon will let you text Alexa your shopping list",
+        "Source context: Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-06T09:00:00-05:00",
+      "age_hours": "1.63",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "snapshot": "Despite its small size, Underdog's new model can generate both speech and music. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Underdog, Despite",
+        "Specific figures mentioned: 32",
+        "AI desk signal: model, enterprise",
+        "Story focus: Underdog shows off a 32MB speech model in new demo",
+        "Source context: Despite its small size, Underdog's new model can generate both speech and music. The competitive question is whether this changes the model race,..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Underdog.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 06 Nov 2026 13:02:16 +0000",
+      "age_hours": "2.59",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
       "urgency": ""
     }
   ],
@@ -195,39 +194,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-05T17:26:50-05:00",
-      "age_hours": "10.17",
-      "freshness_status": "fresh",
-      "editorial_score": "170",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "snapshot": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Lawsuit, Man, ChatGPT, She",
-        "AI desk signal: lawsuit",
-        "Story focus: Lawsuit",
-        "Source context: Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says. The story matters because AI is moving deeper into legal and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Lawsuit.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 05 Nov 2026 21:39:40 +0000",
-      "age_hours": "10.95",
-      "freshness_status": "fresh",
+      "age_hours": "17.18",
+      "freshness_status": "editor_fresh",
       "editorial_score": "140",
-      "urgency": "DEVELOPING"
+      "urgency": "WATCH"
     },
     {
       "headline": "OpenAI released a new cybersecurity model. Is that enough?",
@@ -254,106 +224,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "age_hours": "13.51",
+      "age_hours": "20.53",
       "freshness_status": "editor_fresh",
       "editorial_score": "130",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Airbnb is working on an AI travel agent",
-      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "snapshot": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Airbnb, Today",
-        "Specific figures mentioned: 2027, 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Airbnb is working on an AI travel agent",
-        "Source context: Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Airbnb.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-05T19:06:12-05:00",
-      "age_hours": "8.51",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "snapshot": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Dropbox, Tigris Data, DBX Agent Cloud",
-        "Specific figures mentioned: $350M",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-        "Source context: The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Dropbox.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 15:19:05 +0000",
-      "age_hours": "17.29",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "104",
-      "urgency": "WATCH"
-    }
-  ],
-  "key_storylines": [
-    "Perplexity launches its own take on AI agents for work",
-    "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-    "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M"
-  ],
-  "sections": [
-    {
-      "headline": "Perplexity launches its own take on AI agents for work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "snapshot": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Perplexity, OpenAI, Anthropic, Teammates",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Perplexity launches its own take on AI agents for work",
-        "Source context: Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Perplexity.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-05T17:26:50-05:00",
-      "age_hours": "10.17",
-      "freshness_status": "fresh",
-      "editorial_score": "170",
       "urgency": "WATCH"
     },
     {
@@ -380,10 +253,225 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 05 Nov 2026 21:39:40 +0000",
-      "age_hours": "10.95",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
+      "age_hours": "17.97",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "110",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "snapshot": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Dropbox, Tigris Data, DBX Agent Cloud",
+        "Specific figures mentioned: $350M",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+        "Source context: The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Dropbox.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 05 Nov 2026 15:19:05 +0000",
+      "age_hours": "24.31",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "104",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Protesters break into Microsoft data center site in Amsterdam",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "snapshot": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Protesters, Microsoft, Amsterdam, Members",
+        "Specific figures mentioned: 85",
+        "AI desk signal: chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Protesters break into Microsoft data center site in Amsterdam"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Protesters.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-06T06:55:19-05:00",
+      "age_hours": "3.71",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Protesters break into Microsoft data center site in Amsterdam",
+    "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+    "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns"
+  ],
+  "sections": [
+    {
+      "headline": "Protesters break into Microsoft data center site in Amsterdam",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "snapshot": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Protesters, Microsoft, Amsterdam, Members",
+        "Specific figures mentioned: 85",
+        "AI desk signal: chip, data center",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Protesters break into Microsoft data center site in Amsterdam"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Protesters.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-06T06:55:19-05:00",
+      "age_hours": "3.71",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    },
+    {
+      "headline": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "snapshot": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "key_data": [
+        "Key people or organizations: Muse, Amazon, Alexa",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: After blocking Muse, Amazon now lets users text Alexa to help them shop",
+        "Source context: Amazon said that the feature will roll out to millions of users in coming weeks."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Muse.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 06 Nov 2026 14:10:00 +0000",
+      "age_hours": "1.46",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+      "snapshot": "Lawmakers want answers about Jensen Huang's ties to an alleged Chinese intelligence asset. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nvidia CEO Jensen Huang, Congress, Chinese, Lawmakers",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+        "Source context: Lawmakers want answers about Jensen Huang's ties to an alleged Chinese intelligence asset. The larger angle is AI infrastructure: compute capacity,..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia CEO Jensen Huang.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 06 Nov 2026 14:13:32 +0000",
+      "age_hours": "1.40",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": ""
+    },
+    {
+      "headline": "Amazon will let you text Alexa your shopping list",
+      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "snapshot": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching...",
+      "key_data": [
+        "Key people or organizations: Amazon, Alexa, Shopping, Users",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon will let you text Alexa your shopping list",
+        "Source context: Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-06T09:00:00-05:00",
+      "age_hours": "1.63",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "snapshot": "Despite its small size, Underdog's new model can generate both speech and music. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Underdog, Despite",
+        "Specific figures mentioned: 32",
+        "AI desk signal: model, enterprise",
+        "Story focus: Underdog shows off a 32MB speech model in new demo",
+        "Source context: Despite its small size, Underdog's new model can generate both speech and music. The competitive question is whether this changes the model race,..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Underdog.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 06 Nov 2026 13:02:16 +0000",
+      "age_hours": "2.59",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
+      "urgency": ""
     },
     {
       "headline": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
@@ -410,81 +498,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 06 Nov 2026 06:28:32 +0000",
-      "age_hours": "2.14",
+      "age_hours": "9.15",
       "freshness_status": "fresh",
       "editorial_score": "80",
       "urgency": ""
     },
     {
-      "headline": "Airbnb is working on an AI travel agent",
-      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "snapshot": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "headline": "No more Cybertrucks; Musk moves on from the angular metallic flop",
+      "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
+      "snapshot": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Airbnb, Today",
-        "Specific figures mentioned: 2027, 2026",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Airbnb is working on an AI travel agent",
-        "Source context: Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Airbnb.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-05T19:06:12-05:00",
-      "age_hours": "8.51",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "OpenAI is stepping back from NDAs for data center projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "snapshot": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: OpenAI, NDAs, Following",
-        "AI desk signal: chip, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI is stepping back from NDAs for data center projects",
-        "Source context: Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-05T19:37:56-05:00",
-      "age_hours": "7.98",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "snapshot": "Google is technically offering schools more choice but not the choices anyone wants. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Schools, Gemini",
+        "Key people or organizations: No, Cybertrucks, Musk, Tesla",
+        "Specific figures mentioned: 150",
         "AI desk signal: model, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google",
-        "Source context: Google is technically offering schools more choice but not the choices anyone wants. The competitive question is whether this changes the model race,..."
+        "Story focus: No more Cybertrucks; Musk moves on from the angular metallic flop"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -492,77 +520,47 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from No.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Thu, 05 Nov 2026 21:40:36 +0000",
-      "age_hours": "10.94",
+      "published": "Fri, 06 Nov 2026 13:50:20 +0000",
+      "age_hours": "1.79",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "76",
       "urgency": ""
     },
     {
-      "headline": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-      "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
-      "snapshot": "NASA's X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+      "headline": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
+      "snapshot": "Interstellar Technologies announces more government funding for the Japanese Zero rocket. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
       "key_data": [
-        "Key people or organizations: NASA, Fractal",
-        "Specific figures mentioned: 70",
-        "Story focus: NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-        "Source context: NASA's X-70 Fractal announcement comes as agency aims to grow X-plane fleet."
+        "Key people or organizations: Rocket Report, Artemis II, Glenn, Interstellar Technologies",
+        "AI desk signal: funding",
+        "Story focus: Rocket Report",
+        "Source context: Interstellar Technologies announces more government funding for the Japanese Zero rocket. The business angle is capital allocation: investors and..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from NASA.",
+        "Watch for follow-up statements, product details or customer evidence from Rocket Report.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Thu, 05 Nov 2026 22:49:03 +0000",
-      "age_hours": "9.79",
+      "published": "Fri, 06 Nov 2026 13:33:20 +0000",
+      "age_hours": "2.07",
       "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": ""
-    },
-    {
-      "headline": "Ads in Chatbots Have Arrived. Here's What's Working—and What's Not",
-      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
-      "snapshot": "As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing users. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Ads, Chatbots Have Arrived, Working, Not",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Ads in Chatbots Have Arrived. Here's What's Working—and What's Not",
-        "Source context: As Anthropic maintains its vow to keep ads out of Claude, the rest of the AI chatbot industry is racing to win over advertisers without antagonizing..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ads.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Thu, 05 Nov 2026 21:37:18 +0000",
-      "age_hours": "10.99",
-      "freshness_status": "fresh",
-      "editorial_score": "70",
-      "urgency": ""
+      "editorial_score": "74",
+      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
