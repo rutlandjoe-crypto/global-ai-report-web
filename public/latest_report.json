@@ -1,24 +1,54 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Protesters break into Microsoft data center site in Amsterdam",
-  "snapshot": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-  "updated_at": "2026-11-06 11:21:31 AM ET",
-  "generated_at": "2026-11-06 11:21:31 AM ET",
+  "headline": "\"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
+  "snapshot": "Meta won't force Facebook page owners to allow AI training on linked content. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+  "updated_at": "2026-11-06 04:14:42 PM ET",
+  "generated_at": "2026-11-06 04:14:42 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 13,
-    "editor_fresh_items": 53,
+    "live_fresh_items": 31,
+    "editor_fresh_items": 57,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 46,
+    "stale_or_blocked_items": 28,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-06 11:21:31 AM ET"
+    "last_checked": "2026-11-06 04:14:42 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "\"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "snapshot": "Meta won't force Facebook page owners to allow AI training on linked content. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Does Meta, Meta, Facebook",
+        "AI desk signal: chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: \"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
+        "Source context: Meta won't force Facebook page owners to allow AI training on linked content. The larger angle is AI infrastructure: compute capacity, chip access..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Does Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 06 Nov 2026 17:43:02 +0000",
+      "age_hours": "3.53",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
       "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
@@ -44,9 +74,69 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 06 Nov 2026 15:54:47 +0000",
-      "age_hours": "0.45",
+      "age_hours": "5.33",
       "freshness_status": "fresh",
       "editorial_score": "96",
+      "urgency": ""
+    },
+    {
+      "headline": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "snapshot": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI's most advanced cyber model, which isn't public. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Free Chinese AI Models, Are Getting Scary Good, Hacking, DeepSeek",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Free Chinese AI Models Are Getting Scary Good at Hacking",
+        "Source context: An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Free Chinese AI Models.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Fri, 06 Nov 2026 18:43:43 +0000",
+      "age_hours": "2.52",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "snapshot": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Meta, Spaces, Muse",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "Source context: Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. The competitive..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "age_hours": "2.51",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
     },
     {
@@ -74,96 +164,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-06T06:55:19-05:00",
-      "age_hours": "4.44",
+      "age_hours": "9.32",
       "freshness_status": "fresh",
       "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "AI Companies Really, Really Want to Buy Your Work Files and Emails",
-      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-      "snapshot": "Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Companies Really, Really Want, Buy Your Work Files, Emails",
-        "AI desk signal: model, enterprise",
-        "Story focus: AI Companies Really, Really Want to Buy Your Work Files and Emails",
-        "Source context: Data brokers are collecting all sorts of internal corporate files to help train AI models. Not everyone is thrilled. The competitive question is..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Companies Really.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Fri, 06 Nov 2026 16:00:00 +0000",
-      "age_hours": "0.36",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "snapshot": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "key_data": [
-        "Key people or organizations: Muse, Amazon, Alexa",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: After blocking Muse, Amazon now lets users text Alexa to help them shop",
-        "Source context: Amazon said that the feature will roll out to millions of users in coming weeks."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Muse.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 06 Nov 2026 14:10:00 +0000",
-      "age_hours": "2.19",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Amazon will let you text Alexa your shopping list",
-      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "snapshot": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching...",
-      "key_data": [
-        "Key people or organizations: Amazon, Alexa, Shopping, Users",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon will let you text Alexa your shopping list",
-        "Source context: Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-06T09:00:00-05:00",
-      "age_hours": "2.36",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
       "urgency": ""
     }
   ],
@@ -193,7 +196,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-05T17:26:50-05:00",
-      "age_hours": "17.91",
+      "age_hours": "22.80",
       "freshness_status": "editor_fresh",
       "editorial_score": "140",
       "urgency": "WATCH"
@@ -223,50 +226,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "age_hours": "21.26",
+      "age_hours": "26.14",
       "freshness_status": "editor_fresh",
       "editorial_score": "130",
       "urgency": "WATCH"
     },
     {
-      "headline": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "snapshot": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "\"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "snapshot": "Meta won't force Facebook page owners to allow AI training on linked content. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Lawsuit, Man, ChatGPT, She",
-        "AI desk signal: lawsuit",
-        "Story focus: Lawsuit",
-        "Source context: Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says. The story matters because AI is moving deeper into legal and..."
+        "Key people or organizations: Does Meta, Meta, Facebook",
+        "AI desk signal: chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: \"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
+        "Source context: Meta won't force Facebook page owners to allow AI training on linked content. The larger angle is AI infrastructure: compute capacity, chip access..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Lawsuit.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Does Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Thu, 05 Nov 2026 21:39:40 +0000",
-      "age_hours": "18.70",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "110",
+      "published": "Fri, 06 Nov 2026 17:43:02 +0000",
+      "age_hours": "3.53",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "snapshot": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "snapshot": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Dropbox, Tigris Data, DBX Agent Cloud",
-        "Specific figures mentioned: $350M",
+        "Key people or organizations: Meta, Spaces, Muse",
         "AI desk signal: model, agent, enterprise",
-        "Story focus: Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-        "Source context: The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents. The..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "Source context: Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. The competitive..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -274,18 +278,145 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Dropbox.",
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 05 Nov 2026 15:19:05 +0000",
-      "age_hours": "25.04",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "104",
-      "urgency": "WATCH"
+      "published": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "age_hours": "2.51",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "snapshot": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI's most advanced cyber model, which isn't public. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Free Chinese AI Models, Are Getting Scary Good, Hacking, DeepSeek",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Free Chinese AI Models Are Getting Scary Good at Hacking",
+        "Source context: An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Free Chinese AI Models.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Fri, 06 Nov 2026 18:43:43 +0000",
+      "age_hours": "2.52",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "\"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
+    "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "Free Chinese AI Models Are Getting Scary Good at Hacking"
+  ],
+  "sections": [
+    {
+      "headline": "\"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "snapshot": "Meta won't force Facebook page owners to allow AI training on linked content. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Does Meta, Meta, Facebook",
+        "AI desk signal: chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: \"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
+        "Source context: Meta won't force Facebook page owners to allow AI training on linked content. The larger angle is AI infrastructure: compute capacity, chip access..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Does Meta.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 06 Nov 2026 17:43:02 +0000",
+      "age_hours": "3.53",
+      "freshness_status": "fresh",
+      "editorial_score": "124",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "snapshot": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Meta, Spaces, Muse",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "Source context: Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. The competitive..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "age_hours": "2.51",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Free Chinese AI Models Are Getting Scary Good at Hacking",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "snapshot": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI's most advanced cyber model, which isn't public. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Free Chinese AI Models, Are Getting Scary Good, Hacking, DeepSeek",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Free Chinese AI Models Are Getting Scary Good at Hacking",
+        "Source context: An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Free Chinese AI Models.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Fri, 06 Nov 2026 18:43:43 +0000",
+      "age_hours": "2.52",
+      "freshness_status": "fresh",
+      "editorial_score": "114",
+      "urgency": ""
     },
     {
       "headline": "Protesters break into Microsoft data center site in Amsterdam",
@@ -312,44 +443,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-06T06:55:19-05:00",
-      "age_hours": "4.44",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Protesters break into Microsoft data center site in Amsterdam",
-    "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "AI Companies Really, Really Want to Buy Your Work Files and Emails"
-  ],
-  "sections": [
-    {
-      "headline": "Protesters break into Microsoft data center site in Amsterdam",
-      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "snapshot": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Protesters, Microsoft, Amsterdam, Members",
-        "Specific figures mentioned: 85",
-        "AI desk signal: chip, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Protesters break into Microsoft data center site in Amsterdam"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Protesters.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-06T06:55:19-05:00",
-      "age_hours": "4.44",
+      "age_hours": "9.32",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": ""
@@ -379,7 +473,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 06 Nov 2026 15:54:47 +0000",
-      "age_hours": "0.45",
+      "age_hours": "5.33",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
@@ -408,9 +502,68 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Fri, 06 Nov 2026 16:00:00 +0000",
-      "age_hours": "0.36",
+      "age_hours": "5.24",
       "freshness_status": "fresh",
       "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "snapshot": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Chainalysis, Company",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Chainalysis says hackers stole credentials and tokens for all of its customers",
+        "Source context: Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch. The competitive question is whether this changes the model..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Chainalysis.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 06 Nov 2026 20:56:41 +0000",
+      "age_hours": "0.30",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Meta's Muse AI can create custom 'spaces' for the version of the app you need right now",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "snapshot": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Meta, Muse AI, Muse",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's Muse AI can create custom 'spaces' for the version of the app you need right now",
+        "Source context: Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-06T13:10:10-05:00",
+      "age_hours": "3.08",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -437,7 +590,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-06T09:00:00-05:00",
-      "age_hours": "2.36",
+      "age_hours": "7.24",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -466,129 +619,10 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 06 Nov 2026 14:10:00 +0000",
-      "age_hours": "2.19",
+      "age_hours": "7.08",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
-    },
-    {
-      "headline": "Underdog shows off a 32MB speech model in new demo",
-      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "snapshot": "Despite its small size, Underdog's new model can generate both speech and music. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Underdog, Despite",
-        "Specific figures mentioned: 32",
-        "AI desk signal: model, enterprise",
-        "Story focus: Underdog shows off a 32MB speech model in new demo",
-        "Source context: Despite its small size, Underdog's new model can generate both speech and music. The competitive question is whether this changes the model race,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Underdog.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 06 Nov 2026 13:02:16 +0000",
-      "age_hours": "3.32",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": ""
-    },
-    {
-      "headline": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-      "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-      "snapshot": "Lawmakers want answers about Jensen Huang's ties to an alleged Chinese intelligence asset. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Nvidia CEO Jensen Huang, Congress, Chinese, Lawmakers",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-        "Source context: Lawmakers want answers about Jensen Huang's ties to an alleged Chinese intelligence asset. The larger angle is AI infrastructure: compute capacity,..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia CEO Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 06 Nov 2026 14:13:32 +0000",
-      "age_hours": "2.13",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "No more Cybertrucks; Musk moves on from the angular metallic flop",
-      "url": "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
-      "snapshot": "Tesla wanted to unseat the Ford F-150, instead it made the Edsel look successful. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: No, Cybertrucks, Musk, Tesla",
-        "Specific figures mentioned: 150",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: No more Cybertrucks; Musk moves on from the angular metallic flop"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from No.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 06 Nov 2026 13:50:20 +0000",
-      "age_hours": "2.52",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "Rocket Report: Artemis II literally tore through the atmosphere; New Glenn delay",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
-      "snapshot": "Interstellar Technologies announces more government funding for the Japanese Zero rocket. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Rocket Report, Artemis II, Glenn, Interstellar Technologies",
-        "AI desk signal: funding",
-        "Story focus: Rocket Report",
-        "Source context: Interstellar Technologies announces more government funding for the Japanese Zero rocket. The business angle is capital allocation: investors and..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Rocket Report.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 06 Nov 2026 13:33:20 +0000",
-      "age_hours": "2.80",
-      "freshness_status": "fresh",
-      "editorial_score": "74",
-      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
