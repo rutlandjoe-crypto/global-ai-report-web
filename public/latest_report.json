@@ -3,51 +3,106 @@
   "vertical": "AI",
   "headline": "Why a new report on Anthropic automating AI development is alarming researchers",
   "snapshot": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-11-07 10:23:18 AM ET",
-  "generated_at": "2026-11-07 10:23:18 AM ET",
+  "updated_at": "2026-11-07 02:06:25 PM ET",
+  "generated_at": "2026-11-07 02:06:25 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 60,
-    "live_fresh_items": 5,
-    "editor_fresh_items": 43,
+    "live_fresh_items": 7,
+    "editor_fresh_items": 42,
     "public_fallback_items": 60,
-    "stale_or_blocked_items": 55,
+    "stale_or_blocked_items": 53,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-07 10:23:18 AM ET"
+    "last_checked": "2026-11-07 02:06:25 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "\"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-      "snapshot": "Meta won't force Facebook page owners to allow AI training on linked content. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "NYT Cooking's AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "snapshot": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
       "key_data": [
-        "Key people or organizations: Does Meta, Meta, Facebook",
-        "AI desk signal: chip, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: \"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
-        "Source context: Meta won't force Facebook page owners to allow AI training on linked content. The larger angle is AI infrastructure: compute capacity, chip access..."
+        "Key people or organizations: NYT Cooking, Around, Chicken, Yes",
+        "Specific figures mentioned: 7",
+        "Story focus: NYT Cooking's AI assistant saved my weeknight chicken, but almost ruined my cake",
+        "Source context: Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Does Meta.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from NYT Cooking.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-07T10:50:00-05:00",
+      "age_hours": "3.27",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "snapshot": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: British, SIM, Soldier",
+        "Story focus: British soldier ignored order to pull his SIM card, then got blackmailed",
+        "Source context: Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed. The story matters because AI is moving deeper into..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from British.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Fri, 06 Nov 2026 17:43:02 +0000",
-      "age_hours": "21.67",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "94",
-      "urgency": "DEVELOPING"
+      "published": "Sat, 07 Nov 2026 11:00:34 +0000",
+      "age_hours": "8.10",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
+      "urgency": ""
+    },
+    {
+      "headline": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+      "url": "https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/",
+      "snapshot": "The apps and platforms that help family caregivers manage their loved ones' needs are becoming more capable, but the broader issue of caregivers' well-being remains unsolved.",
+      "key_data": [
+        "Key people or organizations: Apps, Caregivers Get, Dose, Might Not Be",
+        "Story focus: Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
+        "Source context: The apps and platforms that help family caregivers manage their loved ones' needs are becoming more capable, but the broader issue of caregivers'..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apps.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Sat, 07 Nov 2026 11:00:00 +0000",
+      "age_hours": "8.11",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
     },
     {
       "headline": "Why a new report on Anthropic automating AI development is alarming researchers",
@@ -74,95 +129,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-07T07:30:00-05:00",
-      "age_hours": "2.89",
+      "age_hours": "6.61",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": ""
     },
     {
-      "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "snapshot": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "snapshot": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Meta, Spaces, Muse",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: US, Nvidia, China, Concerns",
+        "AI desk signal: chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta introduces Spaces, a new way to collaborate with your Muse agent",
-        "Source context: Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. The competitive..."
+        "Story focus: The US let Nvidia sell chips to an empty office in China",
+        "Source context: Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from US.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 06 Nov 2026 18:44:20 +0000",
-      "age_hours": "20.65",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "British soldier ignored order to pull his SIM card, then got blackmailed",
-      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-      "snapshot": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: British, SIM, Soldier",
-        "Story focus: British soldier ignored order to pull his SIM card, then got blackmailed",
-        "Source context: Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed. The story matters because AI is moving deeper into..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from British.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Sat, 07 Nov 2026 11:00:34 +0000",
-      "age_hours": "4.38",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
-      "urgency": ""
-    },
-    {
-      "headline": "AI broke the cybersecurity world. What's next?",
-      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "snapshot": "Today, I'm talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I've always enjoyed talking to Alex because he's...",
-      "key_data": [
-        "Key people or organizations: Today, Alex Stamos, Cognition, Alex",
-        "Story focus: AI broke the cybersecurity world. What's next?",
-        "Source context: Today, I'm talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Today.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-11-07T10:00:00-05:00",
-      "age_hours": "0.39",
+      "published": "2026-11-07T10:43:45-05:00",
+      "age_hours": "3.38",
       "freshness_status": "fresh",
-      "editorial_score": "54",
+      "editorial_score": "136",
       "urgency": ""
     }
   ],
@@ -192,7 +191,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-07T07:30:00-05:00",
-      "age_hours": "2.89",
+      "age_hours": "6.61",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": ""
@@ -222,7 +221,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 06 Nov 2026 17:43:02 +0000",
-      "age_hours": "21.67",
+      "age_hours": "25.39",
       "freshness_status": "editor_fresh",
       "editorial_score": "94",
       "urgency": "DEVELOPING"
@@ -252,9 +251,39 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 06 Nov 2026 18:44:20 +0000",
-      "age_hours": "20.65",
+      "age_hours": "24.37",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "snapshot": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: US, Nvidia, China, Concerns",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The US let Nvidia sell chips to an empty office in China",
+        "Source context: Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from US.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-07T10:43:45-05:00",
+      "age_hours": "3.38",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
       "urgency": ""
     },
     {
@@ -282,40 +311,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-06T18:46:18-05:00",
-      "age_hours": "15.62",
+      "age_hours": "19.34",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Free Chinese AI Models Are Getting Scary Good at Hacking",
-      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "snapshot": "An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind OpenAI's most advanced cyber model, which isn't public. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Free Chinese AI Models, Are Getting Scary Good, Hacking, DeepSeek",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Free Chinese AI Models Are Getting Scary Good at Hacking",
-        "Source context: An experiment in which AI models were asked to break into simulated networks showed the hacking skills of DeepSeek and GLM to be not far behind..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Free Chinese AI Models.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Fri, 06 Nov 2026 18:43:43 +0000",
-      "age_hours": "20.66",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "84",
-      "urgency": ""
     }
   ],
   "key_storylines": [
@@ -349,7 +348,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-07T07:30:00-05:00",
-      "age_hours": "2.89",
+      "age_hours": "6.61",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": ""
@@ -377,7 +376,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Sat, 07 Nov 2026 11:00:34 +0000",
-      "age_hours": "4.38",
+      "age_hours": "8.10",
       "freshness_status": "fresh",
       "editorial_score": "64",
       "urgency": ""
@@ -405,10 +404,69 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Sat, 07 Nov 2026 11:00:00 +0000",
-      "age_hours": "4.39",
+      "age_hours": "8.11",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
+    },
+    {
+      "headline": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "snapshot": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: US, Nvidia, China, Concerns",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The US let Nvidia sell chips to an empty office in China",
+        "Source context: Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from US.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-07T10:43:45-05:00",
+      "age_hours": "3.38",
+      "freshness_status": "fresh",
+      "editorial_score": "136",
+      "urgency": ""
+    },
+    {
+      "headline": "NYT Cooking's AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "snapshot": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: NYT Cooking, Around, Chicken, Yes",
+        "Specific figures mentioned: 7",
+        "Story focus: NYT Cooking's AI assistant saved my weeknight chicken, but almost ruined my cake",
+        "Source context: Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from NYT Cooking.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-07T10:50:00-05:00",
+      "age_hours": "3.27",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "AI broke the cybersecurity world. What's next?",
@@ -433,69 +491,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-07T10:00:00-05:00",
-      "age_hours": "0.39",
+      "age_hours": "4.11",
       "freshness_status": "fresh",
       "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "\"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
-      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-      "snapshot": "Meta won't force Facebook page owners to allow AI training on linked content. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Does Meta, Meta, Facebook",
-        "AI desk signal: chip, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: \"Does Meta think we can't read?\" Meta abandons sketchy commercial terms update.",
-        "Source context: Meta won't force Facebook page owners to allow AI training on linked content. The larger angle is AI infrastructure: compute capacity, chip access..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Does Meta.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 06 Nov 2026 17:43:02 +0000",
-      "age_hours": "21.67",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "94",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "snapshot": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Meta, Spaces, Muse",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta introduces Spaces, a new way to collaborate with your Muse agent",
-        "Source context: Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers. The competitive..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 06 Nov 2026 18:44:20 +0000",
-      "age_hours": "20.65",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "90",
       "urgency": ""
     }
   ],
