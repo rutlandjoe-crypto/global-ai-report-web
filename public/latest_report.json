@@ -1,24 +1,52 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-  "snapshot": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-11-10 08:31:18 PM ET",
-  "generated_at": "2026-11-10 08:31:18 PM ET",
+  "headline": "ChatGPT is getting verified AI 'Business Agents'",
+  "snapshot": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
+  "updated_at": "2026-11-10 11:26:34 PM ET",
+  "generated_at": "2026-11-10 11:26:34 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 39,
-    "editor_fresh_items": 56,
+    "live_fresh_items": 23,
+    "editor_fresh_items": 55,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 20,
+    "stale_or_blocked_items": 36,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-10 08:31:18 PM ET"
+    "last_checked": "2026-11-10 11:26:34 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "snapshot": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+      "key_data": [
+        "Key people or organizations: Democrats, FCC, Republicans, Chairman Carr",
+        "Story focus: Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+        "Source context: Democrats accuse FCC nominee of evading questions about Carr, her current boss."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Democrats.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Tue, 10 Nov 2026 21:55:26 +0000",
+      "age_hours": "6.52",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "PSI is trying to make a business out of AI-driven scientific discovery",
       "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
@@ -44,254 +72,12 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 10 Nov 2026 19:03:52 +0000",
-      "age_hours": "6.46",
+      "age_hours": "9.38",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
     },
     {
-      "headline": "Nvidia has a Jensen Huang problem—and no obvious successor",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
-      "snapshot": "Huang faces a board probe as investors fret over Nvidia's lack of a clear successor. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Nvidia, Jensen Huang, Huang",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia has a Jensen Huang problem—and no obvious successor",
-        "Source context: Huang faces a board probe as investors fret over Nvidia's lack of a clear successor. The larger angle is AI infrastructure: compute capacity, chip..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 10 Nov 2026 14:53:05 +0000",
-      "age_hours": "10.64",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Google releases Gemini 4 Carbon with agent 'swarm' feature",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "snapshot": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Google, Gemini, Carbon",
-        "Specific figures mentioned: 4",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google releases Gemini 4 Carbon with agent 'swarm' feature"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-10T11:00:00-05:00",
-      "age_hours": "9.52",
-      "freshness_status": "fresh",
-      "editorial_score": "154",
-      "urgency": ""
-    },
-    {
-      "headline": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "snapshot": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Android, Cyanogen, Windows",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-        "Source context: Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents. The competitive question is..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "age_hours": "11.52",
-      "freshness_status": "fresh",
-      "editorial_score": "166",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "snapshot": "The new model is up to twice as successful at some tasks. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: DeepMind, Gemini Robotics, ASIMOV",
-        "Specific figures mentioned: 2.5",
-        "AI desk signal: model",
-        "Story focus: DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-        "Source context: The new model is up to twice as successful at some tasks. The story matters because AI is moving deeper into legal and regulatory territory, where..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from DeepMind.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 10 Nov 2026 15:00:39 +0000",
-      "age_hours": "10.51",
-      "freshness_status": "fresh",
-      "editorial_score": "164",
-      "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "snapshot": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Android, Cyanogen, Windows",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-        "Source context: Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents. The competitive question is..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "age_hours": "11.52",
-      "freshness_status": "fresh",
-      "editorial_score": "166",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "snapshot": "The new model is up to twice as successful at some tasks. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: DeepMind, Gemini Robotics, ASIMOV",
-        "Specific figures mentioned: 2.5",
-        "AI desk signal: model",
-        "Story focus: DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-        "Source context: The new model is up to twice as successful at some tasks. The story matters because AI is moving deeper into legal and regulatory territory, where..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from DeepMind.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 10 Nov 2026 15:00:39 +0000",
-      "age_hours": "10.51",
-      "freshness_status": "fresh",
-      "editorial_score": "164",
-      "urgency": ""
-    },
-    {
-      "headline": "Google releases Gemini 4 Carbon with agent 'swarm' feature",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "snapshot": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Google, Gemini, Carbon",
-        "Specific figures mentioned: 4",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google releases Gemini 4 Carbon with agent 'swarm' feature"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-10T11:00:00-05:00",
-      "age_hours": "9.52",
-      "freshness_status": "fresh",
-      "editorial_score": "154",
-      "urgency": ""
-    },
-    {
-      "headline": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "snapshot": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Google, TPUs",
-        "AI desk signal: model, chip, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google broadens its AI hardware portfolio with two new specialized chips",
-        "Source context: Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity. The..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 10 Nov 2026 15:54:08 +0000",
-      "age_hours": "9.62",
-      "freshness_status": "fresh",
-      "editorial_score": "162",
-      "urgency": ""
-    },
-    {
       "headline": "ChatGPT is getting verified AI 'Business Agents'",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
       "snapshot": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
@@ -315,163 +101,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-10T13:00:00-05:00",
-      "age_hours": "7.52",
-      "freshness_status": "fresh",
-      "editorial_score": "130",
-      "urgency": "WATCH"
-    }
-  ],
-  "key_storylines": [
-    "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-    "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-    "Google releases Gemini 4 Carbon with agent 'swarm' feature"
-  ],
-  "sections": [
-    {
-      "headline": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "snapshot": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Google, Android, Cyanogen, Windows",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-        "Source context: Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents. The competitive question is..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "age_hours": "11.52",
-      "freshness_status": "fresh",
-      "editorial_score": "166",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
-      "snapshot": "The new model is up to twice as successful at some tasks. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: DeepMind, Gemini Robotics, ASIMOV",
-        "Specific figures mentioned: 2.5",
-        "AI desk signal: model",
-        "Story focus: DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
-        "Source context: The new model is up to twice as successful at some tasks. The story matters because AI is moving deeper into legal and regulatory territory, where..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from DeepMind.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 10 Nov 2026 15:00:39 +0000",
-      "age_hours": "10.51",
-      "freshness_status": "fresh",
-      "editorial_score": "164",
-      "urgency": ""
-    },
-    {
-      "headline": "Google releases Gemini 4 Carbon with agent 'swarm' feature",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "snapshot": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Google, Gemini, Carbon",
-        "Specific figures mentioned: 4",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google releases Gemini 4 Carbon with agent 'swarm' feature"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-10T11:00:00-05:00",
-      "age_hours": "9.52",
-      "freshness_status": "fresh",
-      "editorial_score": "154",
-      "urgency": ""
-    },
-    {
-      "headline": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "snapshot": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Google, TPUs",
-        "AI desk signal: model, chip, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google broadens its AI hardware portfolio with two new specialized chips",
-        "Source context: Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity. The..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 10 Nov 2026 15:54:08 +0000",
-      "age_hours": "9.62",
-      "freshness_status": "fresh",
-      "editorial_score": "162",
-      "urgency": ""
-    },
-    {
-      "headline": "ChatGPT is getting verified AI 'Business Agents'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "snapshot": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
-      "key_data": [
-        "Key people or organizations: ChatGPT, Business Agents, US",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: ChatGPT is getting verified AI 'Business Agents'",
-        "Source context: ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-10T13:00:00-05:00",
-      "age_hours": "7.52",
+      "age_hours": "10.44",
       "freshness_status": "fresh",
       "editorial_score": "130",
       "urgency": "WATCH"
@@ -501,7 +131,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-10T12:30:00-05:00",
-      "age_hours": "8.02",
+      "age_hours": "10.94",
       "freshness_status": "fresh",
       "editorial_score": "126",
       "urgency": ""
@@ -531,7 +161,224 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Tue, 10 Nov 2026 22:35:01 +0000",
-      "age_hours": "2.94",
+      "age_hours": "5.86",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+      "snapshot": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google, Android, Cyanogen, Windows",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: After challenging Google's Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+        "Source context: Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents. The competitive question is..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "age_hours": "14.44",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "136",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "snapshot": "The new model is up to twice as successful at some tasks. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: DeepMind, Gemini Robotics, ASIMOV",
+        "Specific figures mentioned: 2.5",
+        "AI desk signal: model",
+        "Story focus: DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+        "Source context: The new model is up to twice as successful at some tasks. The story matters because AI is moving deeper into legal and regulatory territory, where..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from DeepMind.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Tue, 10 Nov 2026 15:00:39 +0000",
+      "age_hours": "13.43",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "134",
+      "urgency": ""
+    },
+    {
+      "headline": "ChatGPT is getting verified AI 'Business Agents'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "snapshot": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
+      "key_data": [
+        "Key people or organizations: ChatGPT, Business Agents, US",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: ChatGPT is getting verified AI 'Business Agents'",
+        "Source context: ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-10T13:00:00-05:00",
+      "age_hours": "10.44",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "snapshot": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Google, TPUs",
+        "AI desk signal: model, chip, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google broadens its AI hardware portfolio with two new specialized chips",
+        "Source context: Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity. The..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 10 Nov 2026 15:54:08 +0000",
+      "age_hours": "12.54",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "132",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic has its own AI-powered office suite now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "snapshot": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Anthropic, For, OpenAI, SpaceXSI",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic has its own AI-powered office suite now",
+        "Source context: For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-10T12:30:00-05:00",
+      "age_hours": "10.94",
+      "freshness_status": "fresh",
+      "editorial_score": "126",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "ChatGPT is getting verified AI 'Business Agents'",
+    "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+    "PSI is trying to make a business out of AI-driven scientific discovery"
+  ],
+  "sections": [
+    {
+      "headline": "ChatGPT is getting verified AI 'Business Agents'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "snapshot": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
+      "key_data": [
+        "Key people or organizations: ChatGPT, Business Agents, US",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: ChatGPT is getting verified AI 'Business Agents'",
+        "Source context: ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-10T13:00:00-05:00",
+      "age_hours": "10.44",
+      "freshness_status": "fresh",
+      "editorial_score": "130",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+      "url": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+      "snapshot": "Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027.",
+      "key_data": [
+        "Key people or organizations: Ring, Amazon, Ring Robotics",
+        "Specific figures mentioned: 2026, 2027",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Ring cameras go mobile as Amazon debuts AI-powered security drone and robot",
+        "Source context: Amazon's roaming Ring Robotics devices will debut in late 2026 and early 2027."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Ring.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Tue, 10 Nov 2026 22:35:01 +0000",
+      "age_hours": "5.86",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -561,20 +408,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 10 Nov 2026 19:03:52 +0000",
-      "age_hours": "6.46",
+      "age_hours": "9.38",
       "freshness_status": "fresh",
       "editorial_score": "112",
       "urgency": "WATCH"
     },
     {
-      "headline": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "snapshot": "Built by Cyanogen's cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Anthropic has its own AI-powered office suite now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "snapshot": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to copy its strategies. Earlier this year, Claude Code went through its own... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Linux, Based Desktop Operating System, Is Built, Nerds",
+        "Key people or organizations: Anthropic, For, OpenAI, SpaceXSI",
         "AI desk signal: model, enterprise",
-        "Story focus: This New Linux-Based Desktop Operating System Is Built for AI Nerds",
-        "Source context: Built by Cyanogen's cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models. The competitive..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic has its own AI-powered office suite now",
+        "Source context: For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -582,29 +430,144 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Linux.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "age_hours": "11.52",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-10T12:30:00-05:00",
+      "age_hours": "10.94",
       "freshness_status": "fresh",
-      "editorial_score": "90",
+      "editorial_score": "126",
       "urgency": ""
     },
     {
-      "headline": "Nvidia has a Jensen Huang problem—and no obvious successor",
-      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
-      "snapshot": "Huang faces a board probe as investors fret over Nvidia's lack of a clear successor. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "snapshot": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
       "key_data": [
-        "Key people or organizations: Nvidia, Jensen Huang, Huang",
-        "AI desk signal: chip, nvidia, enterprise",
+        "Key people or organizations: OpenAI, Anthropic, York",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia has a Jensen Huang problem—and no obvious successor",
-        "Source context: Huang faces a board probe as investors fret over Nvidia's lack of a clear successor. The larger angle is AI infrastructure: compute capacity, chip..."
+        "Story focus: OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+        "Source context: New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 10 Nov 2026 20:52:13 +0000",
+      "age_hours": "7.57",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "snapshot": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable...",
+      "key_data": [
+        "Key people or organizations: Anthropic, Claude Meetings, As, Claude",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "Source context: As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 10 Nov 2026 17:30:00 +0000",
+      "age_hours": "10.94",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "The US military seems to be getting nervous about the launch supply crunch",
+      "url": "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+      "snapshot": "\"Launch is extremely constrained and that is exactly the situation we predicted.\"",
+      "key_data": [
+        "Key people or organizations: US, Launch",
+        "Story focus: The US military seems to be getting nervous about the launch supply crunch",
+        "Source context: \"Launch is extremely constrained and that is exactly the situation we predicted.\""
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from US.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Tue, 10 Nov 2026 23:02:39 +0000",
+      "age_hours": "5.40",
+      "freshness_status": "fresh",
+      "editorial_score": "80",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+      "url": "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+      "snapshot": "Democrats accuse FCC nominee of evading questions about Carr, her current boss.",
+      "key_data": [
+        "Key people or organizations: Democrats, FCC, Republicans, Chairman Carr",
+        "Story focus: Democrats oppose plan to stack FCC with Republicans, plan probes of Chairman Carr",
+        "Source context: Democrats accuse FCC nominee of evading questions about Carr, her current boss."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Democrats.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Tue, 10 Nov 2026 21:55:26 +0000",
+      "age_hours": "6.52",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "The US is winning the AI race. Jensen Huang could have blown it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "snapshot": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: US, Jensen Huang, As, Earth",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The US is winning the AI race. Jensen Huang could have blown it",
+        "Source context: As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -612,18 +575,18 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Watch for follow-up statements, product details or customer evidence from US.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 10 Nov 2026 14:53:05 +0000",
-      "age_hours": "10.64",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-10T14:04:05-05:00",
+      "age_hours": "9.37",
       "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": "DEVELOPING"
+      "editorial_score": "62",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
