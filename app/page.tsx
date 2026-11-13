@@ -4,6 +4,7 @@ import Image from "next/image";
 import type { Metadata } from "next";
 import { headers } from "next/headers";
 
+import { huangColumn } from "@/app/lib/huang-column";
 import EditorialStandard from "@/components/EditorialStandard";
 import StructuredIntelligenceBox from "@/components/StructuredIntelligenceBox";
 import SocialIconLinks from "@/app/SocialIconLinks";
@@ -687,6 +688,21 @@ export default async function Page() {
           <NewsroomBriefing items={liveItems} />
         </div>
       </header>
+      <section className="mx-auto max-w-7xl px-5 py-4">
+        <article className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
+          <p className="text-xs font-black uppercase tracking-wide text-blue-700">
+            {huangColumn.series}
+          </p>
+          <h2 className="mt-2 text-2xl font-black">
+            <a href={huangColumn.path} className="hover:underline">
+              {huangColumn.headline}
+            </a>
+          </h2>
+          <p className="mt-2 text-sm text-slate-600">
+            By {huangColumn.author} · <time dateTime={huangColumn.date}>{huangColumn.displayDate}</time>
+          </p>
+        </article>
+      </section>
       <EditorialStandard />
       <SponsorPlacementBlock />
 

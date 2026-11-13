@@ -1,6 +1,8 @@
 import type { MetadataRoute } from "next";
 import { getEditorialItems, SITE_URL } from "./lib/editorial-archive";
 
+import { huangColumn } from "./lib/huang-column";
+
 export const dynamic = "force-dynamic";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
@@ -23,6 +25,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       ...(latestPublished ? { lastModified: latestPublished } : {}),
       changeFrequency: "daily",
       priority: 0.8,
+    },
+    {
+      url: `${SITE_URL}${huangColumn.path}`,
+      lastModified: new Date(huangColumn.date),
     },
     ...items.map((item) => ({
       url: `${SITE_URL}/editorial/${item.slug}`,
