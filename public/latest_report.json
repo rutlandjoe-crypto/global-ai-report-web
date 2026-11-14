@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
-  "snapshot": "New research shows the most advanced AI models from China were trained on banned Nvidia chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-11-13 11:14:48 PM ET",
-  "generated_at": "2026-11-13 11:14:48 PM ET",
+  "headline": "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
+  "snapshot": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express,... The competitive question is whether this changes the model race, enterprise integrations or...",
+  "updated_at": "2026-11-14 03:30:02 AM ET",
+  "generated_at": "2026-11-14 03:30:02 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 14,
-    "editor_fresh_items": 58,
+    "live_fresh_items": 7,
+    "editor_fresh_items": 37,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 45,
+    "stale_or_blocked_items": 52,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-13 11:14:48 PM ET"
+    "last_checked": "2026-11-14 03:30:02 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,20 +44,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "age_hours": "9.57",
-      "freshness_status": "fresh",
-      "editorial_score": "204",
+      "age_hours": "13.83",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "174",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-      "snapshot": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Microsoft's global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+      "snapshot": "Governments, hospitals, courts scrambled by global Microsoft outage. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Kalshi, Trump Jr, CEO, Trump",
-        "AI desk signal: lawsuit",
-        "Story focus: Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-        "Source context: Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits. The story matters because AI is moving deeper into legal and..."
+        "Key people or organizations: Microsoft, Amazon, CrowdStrike, Governments",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft's global outage may be worse than Amazon's or CrowdStrike's, expert says",
+        "Source context: Governments, hospitals, courts scrambled by global Microsoft outage. The story matters because AI is moving deeper into legal and regulatory..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -65,17 +65,17 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Kalshi.",
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
         "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Fri, 13 Nov 2026 19:49:16 +0000",
-      "age_hours": "8.43",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
+      "published": "Fri, 13 Nov 2026 15:26:53 +0000",
+      "age_hours": "17.05",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
@@ -103,7 +103,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-13T15:45:10-05:00",
-      "age_hours": "7.49",
+      "age_hours": "11.75",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "WATCH"
@@ -133,39 +133,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 13 Nov 2026 22:43:00 +0000",
-      "age_hours": "5.53",
+      "age_hours": "9.78",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "WATCH"
     },
     {
-      "headline": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "snapshot": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Amazon has a plan to index the world's online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "snapshot": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less...",
       "key_data": [
-        "Key people or organizations: LangChain, LangSmith",
-        "Specific figures mentioned: $3B, 7, 000",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: AI agent startup LangChain hits $3B valuation",
-        "Source context: LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. The competitive question is whether this..."
+        "Key people or organizations: Amazon, Reuters, World Product Graph",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon has a plan to index the world's online shopping data",
+        "Source context: Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information..."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from LangChain.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 13 Nov 2026 19:37:57 +0000",
-      "age_hours": "8.61",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-13T18:49:11-05:00",
+      "age_hours": "8.68",
       "freshness_status": "fresh",
-      "editorial_score": "108",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
@@ -195,9 +194,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "age_hours": "9.57",
-      "freshness_status": "fresh",
-      "editorial_score": "204",
+      "age_hours": "13.83",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "174",
       "urgency": "DEVELOPING"
     },
     {
@@ -225,21 +224,20 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-13T15:45:10-05:00",
-      "age_hours": "7.49",
+      "age_hours": "11.75",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "WATCH"
     },
     {
-      "headline": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
-      "snapshot": "Families confront Google after teen's lawsuit labels Gemini a \"suicide coach.\" The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Microsoft's global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+      "snapshot": "Governments, hospitals, courts scrambled by global Microsoft outage. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Google, Gemini, Families",
-        "AI desk signal: lawsuit",
+        "Key people or organizations: Microsoft, Amazon, CrowdStrike, Governments",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
-        "Source context: Families confront Google after teen's lawsuit labels Gemini a \"suicide coach.\" The story matters because AI is moving deeper into legal and..."
+        "Story focus: Microsoft's global outage may be worse than Amazon's or CrowdStrike's, expert says",
+        "Source context: Governments, hospitals, courts scrambled by global Microsoft outage. The story matters because AI is moving deeper into legal and regulatory..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -247,48 +245,18 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
         "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Thu, 12 Nov 2026 18:57:45 +0000",
-      "age_hours": "33.28",
+      "published": "Fri, 13 Nov 2026 15:26:53 +0000",
+      "age_hours": "17.05",
       "freshness_status": "editor_fresh",
-      "editorial_score": "100",
+      "editorial_score": "86",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Jensen Huang's exit puts Nvidia's support for open source in question",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "snapshot": "Jensen Huang's resignation raises questions about Nvidia's commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can...",
-      "key_data": [
-        "Key people or organizations: Jensen Huang, Nvidia, Hugging Face",
-        "AI desk signal: model, chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang's exit puts Nvidia's support for open source in question",
-        "Source context: Jensen Huang's resignation raises questions about Nvidia's commitment to open source AI, including its Hugging Face acquisition, open-weight models,..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 12 Nov 2026 18:39:23 +0000",
-      "age_hours": "33.59",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "122",
-      "urgency": "WATCH"
     },
     {
       "headline": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
@@ -315,28 +283,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 13 Nov 2026 22:43:00 +0000",
-      "age_hours": "5.53",
+      "age_hours": "9.78",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "WATCH"
-    }
-  ],
-  "key_storylines": [
-    "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
-    "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
-    "Microsoft 365 Crawls Back to Life After a 24-Hour Outage"
-  ],
-  "sections": [
+    },
     {
-      "headline": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "snapshot": "New research shows the most advanced AI models from China were trained on banned Nvidia chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme' with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "snapshot": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Export, Nvidia, China, Jensen",
-        "AI desk signal: model, chip, nvidia, enterprise",
+        "Key people or organizations: Democrats, Nvidia, Huang, Trump",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
-        "Source context: New research shows the most advanced AI models from China were trained on banned Nvidia chips. The larger angle is AI infrastructure: compute..."
+        "Story focus: Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme' with Trump",
+        "Source context: This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -344,19 +305,26 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Export.",
+        "Watch for follow-up statements, product details or customer evidence from Democrats.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "age_hours": "9.57",
-      "freshness_status": "fresh",
-      "editorial_score": "204",
+      "published": "Thu, 12 Nov 2026 22:42:51 +0000",
+      "age_hours": "33.79",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "102",
       "urgency": "DEVELOPING"
-    },
+    }
+  ],
+  "key_storylines": [
+    "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
+    "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
+    "FAA expands AI advice to manage air traffic congestion across entire US airspace"
+  ],
+  "sections": [
     {
       "headline": "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
@@ -382,40 +350,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-13T15:45:10-05:00",
-      "age_hours": "7.49",
+      "age_hours": "11.75",
       "freshness_status": "fresh",
       "editorial_score": "138",
       "urgency": "WATCH"
-    },
-    {
-      "headline": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
-      "url": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/",
-      "snapshot": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Microsoft, Crawls Back, Life After, Hour Outage",
-        "Specific figures mentioned: 365, 24",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft 365 Crawls Back to Life After a 24-Hour Outage"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Fri, 13 Nov 2026 19:08:57 +0000",
-      "age_hours": "9.10",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
     },
     {
       "headline": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
@@ -442,40 +380,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 13 Nov 2026 22:43:00 +0000",
-      "age_hours": "5.53",
+      "age_hours": "9.78",
       "freshness_status": "fresh",
       "editorial_score": "114",
       "urgency": "WATCH"
     },
     {
-      "headline": "AI agent startup LangChain hits $3B valuation",
-      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "snapshot": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "snapshot": "Airlines praised the AI tool, but the air traffic controllers' union wasn't involved.",
       "key_data": [
-        "Key people or organizations: LangChain, LangSmith",
-        "Specific figures mentioned: $3B, 7, 000",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: AI agent startup LangChain hits $3B valuation",
-        "Source context: LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith. The competitive question is whether this..."
+        "Key people or organizations: FAA, US, Airlines",
+        "Story focus: FAA expands AI advice to manage air traffic congestion across entire US airspace",
+        "Source context: Airlines praised the AI tool, but the air traffic controllers' union wasn't involved."
       ],
       "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from LangChain.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Watch for follow-up statements, product details or customer evidence from FAA.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 13 Nov 2026 19:37:57 +0000",
-      "age_hours": "8.61",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 13 Nov 2026 21:20:47 +0000",
+      "age_hours": "11.15",
       "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": ""
+      "editorial_score": "54",
+      "urgency": "WATCH"
     },
     {
       "headline": "Amazon has a plan to index the world's online shopping data",
@@ -501,20 +437,50 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-13T18:49:11-05:00",
-      "age_hours": "4.43",
+      "age_hours": "8.68",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
     },
     {
-      "headline": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-      "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
-      "snapshot": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "snapshot": "New research shows the most advanced AI models from China were trained on banned Nvidia chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Kalshi, Trump Jr, CEO, Trump",
-        "AI desk signal: lawsuit",
-        "Story focus: Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
-        "Source context: Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits. The story matters because AI is moving deeper into legal and..."
+        "Key people or organizations: Export, Nvidia, China, Jensen",
+        "AI desk signal: model, chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
+        "Source context: New research shows the most advanced AI models from China were trained on banned Nvidia chips. The larger angle is AI infrastructure: compute..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Export.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 13 Nov 2026 18:40:30 +0000",
+      "age_hours": "13.83",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "174",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Microsoft's global outage may be worse than Amazon's or CrowdStrike's, expert says",
+      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+      "snapshot": "Governments, hospitals, courts scrambled by global Microsoft outage. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Microsoft, Amazon, CrowdStrike, Governments",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Microsoft's global outage may be worse than Amazon's or CrowdStrike's, expert says",
+        "Source context: Governments, hospitals, courts scrambled by global Microsoft outage. The story matters because AI is moving deeper into legal and regulatory..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -522,76 +488,18 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Kalshi.",
+        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
         "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Fri, 13 Nov 2026 19:49:16 +0000",
-      "age_hours": "8.43",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
+      "published": "Fri, 13 Nov 2026 15:26:53 +0000",
+      "age_hours": "17.05",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "86",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "snapshot": "Researcher traces a path from AI reward hacking to potential human extinction. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, Researcher",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI board member worries an AI \"takeover\" of society could be months away",
-        "Source context: Researcher traces a path from AI reward hacking to potential human extinction. The competitive question is whether this changes the model race,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 13 Nov 2026 17:25:45 +0000",
-      "age_hours": "10.82",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "snapshot": "Airlines praised the AI tool, but the air traffic controllers' union wasn't involved.",
-      "key_data": [
-        "Key people or organizations: FAA, US, Airlines",
-        "Story focus: FAA expands AI advice to manage air traffic congestion across entire US airspace",
-        "Source context: Airlines praised the AI tool, but the air traffic controllers' union wasn't involved."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from FAA.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 13 Nov 2026 21:20:47 +0000",
-      "age_hours": "6.90",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": "WATCH"
     }
   ],
   "editorial_brain": {
