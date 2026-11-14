@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
-  "snapshot": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express,... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-11-14 03:30:02 AM ET",
-  "generated_at": "2026-11-14 03:30:02 AM ET",
+  "headline": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+  "snapshot": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
+  "updated_at": "2026-11-14 06:49:20 AM ET",
+  "generated_at": "2026-11-14 06:49:20 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 7,
-    "editor_fresh_items": 37,
+    "live_fresh_items": 2,
+    "editor_fresh_items": 30,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 52,
+    "stale_or_blocked_items": 57,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-14 03:30:02 AM ET"
+    "last_checked": "2026-11-14 06:49:20 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "age_hours": "13.83",
+      "age_hours": "17.15",
       "freshness_status": "editor_fresh",
       "editorial_score": "174",
       "urgency": "DEVELOPING"
@@ -73,7 +73,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 13 Nov 2026 15:26:53 +0000",
-      "age_hours": "17.05",
+      "age_hours": "20.37",
       "freshness_status": "editor_fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -103,68 +103,68 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-13T15:45:10-05:00",
-      "age_hours": "11.75",
-      "freshness_status": "fresh",
-      "editorial_score": "138",
+      "age_hours": "15.07",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
-      "headline": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "snapshot": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Claude's Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "snapshot": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Jensen Huang, VCs, Nvidia, Huang",
-        "AI desk signal: chip, nvidia, enterprise, funding",
+        "Key people or organizations: Claude, Duet, Normally, Claude Duet",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
-        "Source context: Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower..."
+        "Story focus: Claude's Duet agent is a little neurotic and surprisingly helpful",
+        "Source context: Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 13 Nov 2026 22:43:00 +0000",
-      "age_hours": "9.78",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Amazon has a plan to index the world's online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "snapshot": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less...",
-      "key_data": [
-        "Key people or organizations: Amazon, Reuters, World Product Graph",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon has a plan to index the world's online shopping data",
-        "Source context: Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-11-13T18:49:11-05:00",
-      "age_hours": "8.68",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
+      "published": "2026-11-13T09:00:00-05:00",
+      "age_hours": "21.82",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "ChatGPT's new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "snapshot": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: ChatGPT, Wallet, ChatGPT Wallet, Pro",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: ChatGPT's new Wallet lets AI agents shop and check out for you",
+        "Source context: ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers. The competitive question..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "age_hours": "19.82",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
       "urgency": ""
     }
   ],
@@ -194,7 +194,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "age_hours": "13.83",
+      "age_hours": "17.15",
       "freshness_status": "editor_fresh",
       "editorial_score": "174",
       "urgency": "DEVELOPING"
@@ -224,9 +224,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-13T15:45:10-05:00",
-      "age_hours": "11.75",
-      "freshness_status": "fresh",
-      "editorial_score": "138",
+      "age_hours": "15.07",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
       "urgency": "WATCH"
     },
     {
@@ -253,88 +253,21 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 13 Nov 2026 15:26:53 +0000",
-      "age_hours": "17.05",
+      "age_hours": "20.37",
       "freshness_status": "editor_fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "snapshot": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Claude's Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "snapshot": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Jensen Huang, VCs, Nvidia, Huang",
-        "AI desk signal: chip, nvidia, enterprise, funding",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
-        "Source context: Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 13 Nov 2026 22:43:00 +0000",
-      "age_hours": "9.78",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme' with Trump",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "snapshot": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Democrats, Nvidia, Huang, Trump",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Democrats launch Nvidia investigation, write scathing letter on Huang's 'scheme' with Trump",
-        "Source context: This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Democrats.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 12 Nov 2026 22:42:51 +0000",
-      "age_hours": "33.79",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "102",
-      "urgency": "DEVELOPING"
-    }
-  ],
-  "key_storylines": [
-    "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
-    "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
-    "FAA expands AI advice to manage air traffic congestion across entire US airspace"
-  ],
-  "sections": [
-    {
-      "headline": "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "snapshot": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express,... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: ChatGPT Wallet, OpenAI, Dots, Dots AI",
-        "Specific figures mentioned: 18",
+        "Key people or organizations: Claude, Duet, Normally, Claude Duet",
         "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: ChatGPT Wallet lets OpenAI's Dots agents make purchases for you"
+        "Story focus: Claude's Duet agent is a little neurotic and surprisingly helpful",
+        "Source context: Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -342,57 +275,63 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from ChatGPT Wallet.",
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-11-13T15:45:10-05:00",
-      "age_hours": "11.75",
-      "freshness_status": "fresh",
-      "editorial_score": "138",
-      "urgency": "WATCH"
+      "published": "2026-11-13T09:00:00-05:00",
+      "age_hours": "21.82",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "98",
+      "urgency": ""
     },
     {
-      "headline": "Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "snapshot": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "ChatGPT's new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "snapshot": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Jensen Huang, VCs, Nvidia, Huang",
-        "AI desk signal: chip, nvidia, enterprise, funding",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang's departure blasts big hole in AI startup funding, VCs and founders say",
-        "Source context: Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower..."
+        "Key people or organizations: ChatGPT, Wallet, ChatGPT Wallet, Pro",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: ChatGPT's new Wallet lets AI agents shop and check out for you",
+        "Source context: ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers. The competitive question..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 13 Nov 2026 22:43:00 +0000",
-      "age_hours": "9.78",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "WATCH"
-    },
+      "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "age_hours": "19.82",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+    "Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!",
+    "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you"
+  ],
+  "sections": [
     {
-      "headline": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "snapshot": "Airlines praised the AI tool, but the air traffic controllers' union wasn't involved.",
+      "headline": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+      "snapshot": "Normally, aviation is slow to embrace new technology—but AI has come for the skies.",
       "key_data": [
-        "Key people or organizations: FAA, US, Airlines",
-        "Story focus: FAA expands AI advice to manage air traffic congestion across entire US airspace",
-        "Source context: Airlines praised the AI tool, but the air traffic controllers' union wasn't involved."
+        "Key people or organizations: No Pilots, Few Air Traffic Controllers, Could Go Wrong, Normally",
+        "Story focus: No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+        "Source context: Normally, aviation is slow to embrace new technology—but AI has come for the skies."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -400,46 +339,17 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from FAA.",
+        "Watch for follow-up statements, product details or customer evidence from No Pilots.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 13 Nov 2026 21:20:47 +0000",
-      "age_hours": "11.15",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Sat, 14 Nov 2026 11:00:00 +0000",
+      "age_hours": "0.82",
       "freshness_status": "fresh",
       "editorial_score": "54",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Amazon has a plan to index the world's online shopping data",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "snapshot": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less...",
-      "key_data": [
-        "Key people or organizations: Amazon, Reuters, World Product Graph",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon has a plan to index the world's online shopping data",
-        "Source context: Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-13T18:49:11-05:00",
-      "age_hours": "8.68",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -467,10 +377,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "age_hours": "13.83",
+      "age_hours": "17.15",
       "freshness_status": "editor_fresh",
       "editorial_score": "174",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "ChatGPT Wallet lets OpenAI's Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "snapshot": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express,... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: ChatGPT Wallet, OpenAI, Dots, Dots AI",
+        "Specific figures mentioned: 18",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: ChatGPT Wallet lets OpenAI's Dots agents make purchases for you"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT Wallet.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-13T15:45:10-05:00",
+      "age_hours": "15.07",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
+      "urgency": "WATCH"
     },
     {
       "headline": "Microsoft's global outage may be worse than Amazon's or CrowdStrike's, expert says",
@@ -496,10 +436,69 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 13 Nov 2026 15:26:53 +0000",
-      "age_hours": "17.05",
+      "age_hours": "20.37",
       "freshness_status": "editor_fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Claude's Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "snapshot": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code.... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Claude, Duet, Normally, Claude Duet",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Claude's Duet agent is a little neurotic and surprisingly helpful",
+        "Source context: Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Claude.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-13T09:00:00-05:00",
+      "age_hours": "21.82",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "98",
+      "urgency": ""
+    },
+    {
+      "headline": "ChatGPT's new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "snapshot": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: ChatGPT, Wallet, ChatGPT Wallet, Pro",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: ChatGPT's new Wallet lets AI agents shop and check out for you",
+        "Source context: ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers. The competitive question..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 13 Nov 2026 16:00:12 +0000",
+      "age_hours": "19.82",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
+      "urgency": ""
     }
   ],
   "editorial_brain": {
