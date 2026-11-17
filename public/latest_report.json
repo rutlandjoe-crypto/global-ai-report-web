@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "California sues OpenAI over rogue AI hacking incidents",
-  "snapshot": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-  "updated_at": "2026-11-16 08:29:35 PM ET",
-  "generated_at": "2026-11-16 08:29:35 PM ET",
+  "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+  "snapshot": "Robotics startup misses payroll a year after CEO used funds for luxury home. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+  "updated_at": "2026-11-17 04:46:56 AM ET",
+  "generated_at": "2026-11-17 04:46:56 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 34,
-    "editor_fresh_items": 42,
+    "live_fresh_items": 5,
+    "editor_fresh_items": 41,
     "public_fallback_items": 53,
-    "stale_or_blocked_items": 25,
+    "stale_or_blocked_items": 54,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-16 08:29:35 PM ET"
+    "last_checked": "2026-11-17 04:46:56 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,50 +44,49 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-16T15:46:01-05:00",
-      "age_hours": "4.73",
-      "freshness_status": "fresh",
-      "editorial_score": "206",
+      "age_hours": "13.02",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "176",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "snapshot": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "snapshot": "Robotics startup misses payroll a year after CEO used funds for luxury home. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
       "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, CSAM",
-        "Specific figures mentioned: 24",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-        "Source context: ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and..."
+        "Key people or organizations: Robo, Eric Trump, Robotics, CEO",
+        "Story focus: Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+        "Source context: Robotics startup misses payroll a year after CEO used funds for luxury home. The business angle is capital allocation: investors and strategic buyers..."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
+        "Watch for follow-up statements, product details or customer evidence from Robo.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 16 Nov 2026 17:00:00 +0000",
-      "age_hours": "8.49",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Mon, 16 Nov 2026 22:58:27 +0000",
+      "age_hours": "10.81",
       "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": "DEVELOPING"
+      "editorial_score": "90",
+      "urgency": ""
     },
     {
-      "headline": "US moves to cut China's remote access to AI chips",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-      "snapshot": "Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "All the questions Nvidia should answer on Tuesday — but probably won't",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "snapshot": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
       "key_data": [
-        "Key people or organizations: US, China, Trump",
-        "AI desk signal: chip, enterprise",
-        "Story focus: US moves to cut China's remote access to AI chips",
-        "Source context: Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and..."
+        "Key people or organizations: Nvidia, CEO, CFO Colette Kress, Given",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: All the questions Nvidia should answer on Tuesday — but probably won't",
+        "Source context: Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -95,29 +94,59 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from US.",
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Mon, 16 Nov 2026 19:10:09 +0000",
-      "age_hours": "6.32",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 16 Nov 2026 22:03:02 +0000",
+      "age_hours": "11.73",
       "freshness_status": "fresh",
-      "editorial_score": "106",
+      "editorial_score": "76",
       "urgency": ""
     },
     {
-      "headline": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "snapshot": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and...",
+      "headline": "Tech leaders are convinced that Jensen Huang's exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "snapshot": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
       "key_data": [
-        "Key people or organizations: Apple, Siri AI, Apple Intelligence, MacRumors",
-        "Specific figures mentioned: 27.3",
+        "Key people or organizations: Tech, Jensen Huang, Nvidia, Now",
+        "Specific figures mentioned: 33",
+        "AI desk signal: chip, nvidia",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple is testing daily usage limits for more complex Siri AI interactions",
-        "Source context: Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits..."
+        "Story focus: Tech leaders are convinced that Jensen Huang's exit was a plot against him"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Tech.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-16T18:17:34-05:00",
+      "age_hours": "10.49",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": ""
+    },
+    {
+      "headline": "Three small failures combined to take down Microsoft 365",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "snapshot": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Three, Microsoft",
+        "Specific figures mentioned: 365",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Three small failures combined to take down Microsoft 365"
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -125,47 +154,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Watch for follow-up statements, product details or customer evidence from Three.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-16T14:24:40-05:00",
-      "age_hours": "6.08",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "OpenAI will embed safety researchers to investigate AI subversion",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "snapshot": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Apollo Research",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI will embed safety researchers to investigate AI subversion",
-        "Source context: OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 16 Nov 2026 17:02:43 +0000",
-      "age_hours": "8.45",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Mon, 16 Nov 2026 21:56:39 +0000",
+      "age_hours": "11.84",
       "freshness_status": "fresh",
-      "editorial_score": "138",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
@@ -195,9 +194,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-16T15:46:01-05:00",
-      "age_hours": "4.73",
-      "freshness_status": "fresh",
-      "editorial_score": "206",
+      "age_hours": "13.02",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "176",
       "urgency": "DEVELOPING"
     },
     {
@@ -225,38 +224,37 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 16 Nov 2026 17:00:00 +0000",
-      "age_hours": "8.49",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
+      "age_hours": "16.78",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "110",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "US moves to cut China's remote access to AI chips",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-      "snapshot": "Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "snapshot": "Robotics startup misses payroll a year after CEO used funds for luxury home. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
       "key_data": [
-        "Key people or organizations: US, China, Trump",
-        "AI desk signal: chip, enterprise",
-        "Story focus: US moves to cut China's remote access to AI chips",
-        "Source context: Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and..."
+        "Key people or organizations: Robo, Eric Trump, Robotics, CEO",
+        "Story focus: Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+        "Source context: Robotics startup misses payroll a year after CEO used funds for luxury home. The business angle is capital allocation: investors and strategic buyers..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from US.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Robo.",
+        "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Mon, 16 Nov 2026 19:10:09 +0000",
-      "age_hours": "6.32",
+      "published": "Mon, 16 Nov 2026 22:58:27 +0000",
+      "age_hours": "10.81",
       "freshness_status": "fresh",
-      "editorial_score": "106",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -284,9 +282,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 16 Nov 2026 17:02:43 +0000",
-      "age_hours": "8.45",
-      "freshness_status": "fresh",
-      "editorial_score": "138",
+      "age_hours": "16.74",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -314,18 +312,165 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-16T14:24:40-05:00",
-      "age_hours": "6.08",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
+      "age_hours": "14.37",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "86",
       "urgency": "WATCH"
     }
   ],
   "key_storylines": [
-    "California sues OpenAI over rogue AI hacking incidents",
-    "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-    "US moves to cut China's remote access to AI chips"
+    "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+    "All the questions Nvidia should answer on Tuesday — but probably won't",
+    "Tech leaders are convinced that Jensen Huang's exit was a plot against him"
   ],
   "sections": [
+    {
+      "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "snapshot": "Robotics startup misses payroll a year after CEO used funds for luxury home. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "key_data": [
+        "Key people or organizations: Robo, Eric Trump, Robotics, CEO",
+        "Story focus: Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+        "Source context: Robotics startup misses payroll a year after CEO used funds for luxury home. The business angle is capital allocation: investors and strategic buyers..."
+      ],
+      "why_it_matters": [
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Robo.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Mon, 16 Nov 2026 22:58:27 +0000",
+      "age_hours": "10.81",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "All the questions Nvidia should answer on Tuesday — but probably won't",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "snapshot": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly...",
+      "key_data": [
+        "Key people or organizations: Nvidia, CEO, CFO Colette Kress, Given",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: All the questions Nvidia should answer on Tuesday — but probably won't",
+        "Source context: Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 16 Nov 2026 22:03:02 +0000",
+      "age_hours": "11.73",
+      "freshness_status": "fresh",
+      "editorial_score": "76",
+      "urgency": ""
+    },
+    {
+      "headline": "Tech leaders are convinced that Jensen Huang's exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "snapshot": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: Tech, Jensen Huang, Nvidia, Now",
+        "Specific figures mentioned: 33",
+        "AI desk signal: chip, nvidia",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Tech leaders are convinced that Jensen Huang's exit was a plot against him"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Tech.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-16T18:17:34-05:00",
+      "age_hours": "10.49",
+      "freshness_status": "fresh",
+      "editorial_score": "74",
+      "urgency": ""
+    },
+    {
+      "headline": "Three small failures combined to take down Microsoft 365",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "snapshot": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Three, Microsoft",
+        "Specific figures mentioned: 365",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Three small failures combined to take down Microsoft 365"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Three.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Mon, 16 Nov 2026 21:56:39 +0000",
+      "age_hours": "11.84",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "snapshot": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "key_data": [
+        "Key people or organizations: Cybersecurity AI, Corma, Three, Corba",
+        "Specific figures mentioned: $1B, 3, $125 million, $1 billion",
+        "Story focus: Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+        "Source context: Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA...."
+      ],
+      "why_it_matters": [
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Cybersecurity AI.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 16 Nov 2026 23:32:32 +0000",
+      "age_hours": "10.24",
+      "freshness_status": "fresh",
+      "editorial_score": "72",
+      "urgency": ""
+    },
     {
       "headline": "California sues OpenAI over rogue AI hacking incidents",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
@@ -351,275 +496,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-16T15:46:01-05:00",
-      "age_hours": "4.73",
-      "freshness_status": "fresh",
-      "editorial_score": "206",
+      "age_hours": "13.02",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "176",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "snapshot": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, CSAM",
-        "Specific figures mentioned: 24",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-        "Source context: ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 16 Nov 2026 17:00:00 +0000",
-      "age_hours": "8.49",
-      "freshness_status": "fresh",
-      "editorial_score": "140",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "US moves to cut China's remote access to AI chips",
-      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
-      "snapshot": "Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: US, China, Trump",
-        "AI desk signal: chip, enterprise",
-        "Story focus: US moves to cut China's remote access to AI chips",
-        "Source context: Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from US.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Mon, 16 Nov 2026 19:10:09 +0000",
-      "age_hours": "6.32",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI will embed safety researchers to investigate AI subversion",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "snapshot": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
-      "key_data": [
-        "Key people or organizations: OpenAI, Apollo Research",
-        "AI desk signal: model",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI will embed safety researchers to investigate AI subversion",
-        "Source context: OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 16 Nov 2026 17:02:43 +0000",
-      "age_hours": "8.45",
-      "freshness_status": "fresh",
-      "editorial_score": "138",
-      "urgency": ""
-    },
-    {
-      "headline": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "snapshot": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and...",
-      "key_data": [
-        "Key people or organizations: Apple, Siri AI, Apple Intelligence, MacRumors",
-        "Specific figures mentioned: 27.3",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple is testing daily usage limits for more complex Siri AI interactions",
-        "Source context: Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-16T14:24:40-05:00",
-      "age_hours": "6.08",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "snapshot": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: US, Chinese, Under, China",
-        "AI desk signal: chip, enterprise",
-        "Story focus: US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-        "Source context: Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from US.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 16 Nov 2026 15:02:34 +0000",
-      "age_hours": "10.45",
-      "freshness_status": "fresh",
-      "editorial_score": "106",
-      "urgency": ""
-    },
-    {
-      "headline": "Google Maps can now create trip itineraries for you",
-      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-      "snapshot": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Google Maps, Google, Maps, Gemini",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Google Maps can now create trip itineraries for you",
-        "Source context: Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google Maps.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-16T09:00:00-05:00",
-      "age_hours": "11.49",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Supreme Court keeps injunction against DEI grant defunding in place",
-      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
-      "snapshot": "Appeals court ruling rejected grant cancellations on First Amendment grounds. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Supreme Court, DEI, Appeals, First Amendment",
-        "AI desk signal: funding",
-        "Story focus: Supreme Court keeps injunction against DEI grant defunding in place",
-        "Source context: Appeals court ruling rejected grant cancellations on First Amendment grounds. The story matters because AI is moving deeper into legal and regulatory..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Supreme Court.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Mon, 16 Nov 2026 19:54:21 +0000",
-      "age_hours": "5.59",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-      "snapshot": "Robotics startup misses payroll a year after CEO used funds for luxury home. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
-      "key_data": [
-        "Key people or organizations: Robo, Eric Trump, Robotics, CEO",
-        "Story focus: Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-        "Source context: Robotics startup misses payroll a year after CEO used funds for luxury home. The business angle is capital allocation: investors and strategic buyers..."
-      ],
-      "why_it_matters": [
-        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
-        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
-        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Robo.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Mon, 16 Nov 2026 22:58:27 +0000",
-      "age_hours": "2.52",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Jensen Huang Is Gone. Now What?",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-lauren-goode-jensen-huang/",
-      "snapshot": "After a shocking downfall, Nvidia's CEO is out of a job. WIRED's Lauren Goode explains what that means for the world's most critical chip company, the AI industry, and Jensen Huang himself. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
-      "key_data": [
-        "Key people or organizations: Jensen Huang Is Gone, Now What, Nvidia, CEO",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang Is Gone. Now What?",
-        "Source context: After a shocking downfall, Nvidia's CEO is out of a job. WIRED's Lauren Goode explains what that means for the world's most critical chip company,..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang Is Gone.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Mon, 16 Nov 2026 16:12:51 +0000",
-      "age_hours": "9.28",
-      "freshness_status": "fresh",
-      "editorial_score": "80",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
