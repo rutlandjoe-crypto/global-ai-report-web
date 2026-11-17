@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
   "snapshot": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can't let AI be controlled by the few. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-11-17 01:48:05 PM ET",
-  "generated_at": "2026-11-17 01:48:05 PM ET",
+  "updated_at": "2026-11-17 02:33:33 PM ET",
+  "generated_at": "2026-11-17 02:33:33 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 58,
-    "live_fresh_items": 23,
+    "live_fresh_items": 27,
     "editor_fresh_items": 53,
     "public_fallback_items": 55,
-    "stale_or_blocked_items": 35,
+    "stale_or_blocked_items": 31,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-17 01:48:05 PM ET"
+    "last_checked": "2026-11-17 02:33:33 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,9 +44,39 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-17T11:19:03-05:00",
-      "age_hours": "2.48",
+      "age_hours": "3.24",
       "freshness_status": "fresh",
       "editorial_score": "116",
+      "urgency": "DEVELOPING"
+    },
+    {
+      "headline": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "snapshot": "The three-year-old Model ML was valued at $1.5 billion in a new round co-led by General Atlantic and QED Investors. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Model ML, General Atlantic, QED Investors",
+        "Specific figures mentioned: $250M, $1.5 billion",
+        "AI desk signal: model",
+        "Story focus: Model ML raises $250M to automate investment banking grunt work",
+        "Source context: The three-year-old Model ML was valued at $1.5 billion in a new round co-led by General Atlantic and QED Investors. The story matters because AI is..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Model ML.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 17 Nov 2026 19:32:11 +0000",
+      "age_hours": "0.02",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": "DEVELOPING"
     },
     {
@@ -74,40 +104,10 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Tue, 17 Nov 2026 15:28:59 +0000",
-      "age_hours": "3.32",
+      "age_hours": "4.08",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
-      "snapshot": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can't let AI be controlled by the few. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Rogue Agents Hacked His, Company, Is, Delangue So Optimistic About",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-        "Source context: The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Rogue Agents Hacked His.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "age_hours": "7.80",
-      "freshness_status": "fresh",
-      "editorial_score": "142",
-      "urgency": ""
     },
     {
       "headline": "Jensen Huang says he's willing to return as Nvidia CEO",
@@ -134,20 +134,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-17T11:09:57-05:00",
-      "age_hours": "2.64",
+      "age_hours": "3.39",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
     },
     {
-      "headline": "AI models can be tricked into identifying civilians as military targets by telling them it's a game",
-      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-      "snapshot": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+      "url": "https://www.wired.com/story/wired-yearbook-2026-clement-delangue/",
+      "snapshot": "The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can't let AI be controlled by the few. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Vals, San Francisco, They",
-        "AI desk signal: model, enterprise",
-        "Story focus: AI models can be tricked into identifying civilians as military targets by telling them it's a game",
-        "Source context: Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare...."
+        "Key people or organizations: Rogue Agents Hacked His, Company, Is, Delangue So Optimistic About",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
+        "Source context: The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -155,17 +156,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Vals.",
+        "Watch for follow-up statements, product details or customer evidence from Rogue Agents Hacked His.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 17 Nov 2026 17:20:41 +0000",
-      "age_hours": "1.46",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Tue, 17 Nov 2026 11:00:00 +0000",
+      "age_hours": "8.56",
       "freshness_status": "fresh",
-      "editorial_score": "124",
+      "editorial_score": "142",
       "urgency": ""
     }
   ],
@@ -195,7 +196,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-16T15:46:01-05:00",
-      "age_hours": "22.03",
+      "age_hours": "22.79",
       "freshness_status": "editor_fresh",
       "editorial_score": "176",
       "urgency": "DEVELOPING"
@@ -225,7 +226,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "age_hours": "7.80",
+      "age_hours": "8.56",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": ""
@@ -254,51 +255,51 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 17 Nov 2026 17:20:41 +0000",
-      "age_hours": "1.46",
+      "age_hours": "2.21",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
     },
     {
-      "headline": "The DOJ says it's investigating Megaspeed",
-      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "snapshot": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Google's Spark AI agent becomes 'Tasks' — and now it's free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "snapshot": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might... The competitive question is whether this changes the model race, enterprise integrations or...",
       "key_data": [
-        "Key people or organizations: DOJ, Megaspeed, Justice, Commerce Departments",
-        "AI desk signal: chip, nvidia, data center",
+        "Key people or organizations: Google, Spark AI, Tasks, Gemini",
+        "Specific figures mentioned: 4",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The DOJ says it's investigating Megaspeed",
-        "Source context: The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the..."
+        "Story focus: Google's Spark AI agent becomes 'Tasks' — and now it's free"
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from DOJ.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-11-17T11:19:03-05:00",
-      "age_hours": "2.48",
+      "published": "2026-11-17T13:58:01-05:00",
+      "age_hours": "0.59",
       "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": "DEVELOPING"
+      "editorial_score": "128",
+      "urgency": ""
     },
     {
-      "headline": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "snapshot": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "snapshot": "The three-year-old Model ML was valued at $1.5 billion in a new round co-led by General Atlantic and QED Investors. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: OpenAI, ChatGPT, CSAM",
-        "Specific figures mentioned: 24",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-        "Source context: ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and..."
+        "Key people or organizations: Model ML, General Atlantic, QED Investors",
+        "Specific figures mentioned: $250M, $1.5 billion",
+        "AI desk signal: model",
+        "Story focus: Model ML raises $250M to automate investment banking grunt work",
+        "Source context: The three-year-old Model ML was valued at $1.5 billion in a new round co-led by General Atlantic and QED Investors. The story matters because AI is..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -306,24 +307,24 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Model ML.",
         "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Mon, 16 Nov 2026 17:00:00 +0000",
-      "age_hours": "25.80",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "110",
+      "published": "Tue, 17 Nov 2026 19:32:11 +0000",
+      "age_hours": "0.02",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?",
-    "AI models can be tricked into identifying civilians as military targets by telling them it's a game",
-    "The DOJ says it's investigating Megaspeed"
+    "Google's Spark AI agent becomes 'Tasks' — and now it's free",
+    "AI models can be tricked into identifying civilians as military targets by telling them it's a game"
   ],
   "sections": [
     {
@@ -351,9 +352,39 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Tue, 17 Nov 2026 11:00:00 +0000",
-      "age_hours": "7.80",
+      "age_hours": "8.56",
       "freshness_status": "fresh",
       "editorial_score": "142",
+      "urgency": ""
+    },
+    {
+      "headline": "Google's Spark AI agent becomes 'Tasks' — and now it's free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "snapshot": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Google, Spark AI, Tasks, Gemini",
+        "Specific figures mentioned: 4",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google's Spark AI agent becomes 'Tasks' — and now it's free"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-17T13:58:01-05:00",
+      "age_hours": "0.59",
+      "freshness_status": "fresh",
+      "editorial_score": "128",
       "urgency": ""
     },
     {
@@ -380,10 +411,40 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 17 Nov 2026 17:20:41 +0000",
-      "age_hours": "1.46",
+      "age_hours": "2.21",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": ""
+    },
+    {
+      "headline": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "snapshot": "The three-year-old Model ML was valued at $1.5 billion in a new round co-led by General Atlantic and QED Investors. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Model ML, General Atlantic, QED Investors",
+        "Specific figures mentioned: $250M, $1.5 billion",
+        "AI desk signal: model",
+        "Story focus: Model ML raises $250M to automate investment banking grunt work",
+        "Source context: The three-year-old Model ML was valued at $1.5 billion in a new round co-led by General Atlantic and QED Investors. The story matters because AI is..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Model ML.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Tue, 17 Nov 2026 19:32:11 +0000",
+      "age_hours": "0.02",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "The DOJ says it's investigating Megaspeed",
@@ -410,7 +471,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-17T11:19:03-05:00",
-      "age_hours": "2.48",
+      "age_hours": "3.24",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": "DEVELOPING"
@@ -440,7 +501,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Tue, 17 Nov 2026 16:50:10 +0000",
-      "age_hours": "1.97",
+      "age_hours": "2.72",
       "freshness_status": "fresh",
       "editorial_score": "100",
       "urgency": ""
@@ -470,7 +531,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-17T11:09:57-05:00",
-      "age_hours": "2.64",
+      "age_hours": "3.39",
       "freshness_status": "fresh",
       "editorial_score": "96",
       "urgency": ""
@@ -499,7 +560,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 17 Nov 2026 17:32:25 +0000",
-      "age_hours": "1.26",
+      "age_hours": "2.02",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
@@ -529,38 +590,9 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Tue, 17 Nov 2026 10:47:45 +0000",
-      "age_hours": "8.01",
+      "age_hours": "8.76",
       "freshness_status": "fresh",
       "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "As decision model use skyrockets, is customization the next frontier?",
-      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-      "snapshot": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: As, Sqwish Labs, Train",
-        "AI desk signal: model, enterprise",
-        "Story focus: As decision model use skyrockets, is customization the next frontier?",
-        "Source context: Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities. The competitive question is whether this..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from As.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 17 Nov 2026 18:10:00 +0000",
-      "age_hours": "0.63",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
       "urgency": ""
     },
     {
@@ -588,40 +620,10 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Tue, 17 Nov 2026 15:28:59 +0000",
-      "age_hours": "3.32",
+      "age_hours": "4.08",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-      "snapshot": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, California, AG",
-        "Specific figures mentioned: 80",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI sued by California after admitting to 80 loss-of-control incidents"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 17 Nov 2026 18:13:34 +0000",
-      "age_hours": "0.58",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
     }
   ],
   "editorial_brain": {
