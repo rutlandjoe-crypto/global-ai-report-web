@@ -1,34 +1,64 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-  "snapshot": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-  "updated_at": "2026-11-16 12:51:16 PM ET",
-  "generated_at": "2026-11-16 12:51:16 PM ET",
+  "headline": "California sues OpenAI over rogue AI hacking incidents",
+  "snapshot": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+  "updated_at": "2026-11-16 08:08:42 PM ET",
+  "generated_at": "2026-11-16 08:08:42 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 60,
-    "live_fresh_items": 17,
-    "editor_fresh_items": 29,
-    "public_fallback_items": 51,
-    "stale_or_blocked_items": 43,
+    "total_items_checked": 59,
+    "live_fresh_items": 34,
+    "editor_fresh_items": 42,
+    "public_fallback_items": 53,
+    "stale_or_blocked_items": 25,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-16 12:51:16 PM ET"
+    "last_checked": "2026-11-16 08:08:42 PM ET"
   },
   "live_newsroom": [
     {
+      "headline": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "snapshot": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: California, OpenAI, Hugging Face, In",
+        "AI desk signal: agent, lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: California sues OpenAI over rogue AI hacking incidents",
+        "Source context: California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from California.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-16T15:46:01-05:00",
+      "age_hours": "4.38",
+      "freshness_status": "fresh",
+      "editorial_score": "206",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
       "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "snapshot": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "snapshot": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
         "Key people or organizations: OpenAI, ChatGPT, CSAM",
         "Specific figures mentioned: 24",
         "Market context: major AI platform or infrastructure player involved",
         "Story focus: OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-        "Source context: ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning The story matters because AI is moving deeper into legal and..."
+        "Source context: ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -44,110 +74,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 16 Nov 2026 17:00:00 +0000",
-      "age_hours": "0.85",
+      "age_hours": "8.14",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-      "snapshot": "Huang is weighing a return just days after resigning amid a deepening scandal. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "US moves to cut China's remote access to AI chips",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "snapshot": "Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Jensen Huang, Nvidia, Huang",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-        "Source context: Huang is weighing a return just days after resigning amid a deepening scandal. The larger angle is AI infrastructure: compute capacity, chip access..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Mon, 16 Nov 2026 14:06:16 +0000",
-      "age_hours": "3.75",
-      "freshness_status": "fresh",
-      "editorial_score": "88",
-      "urgency": ""
-    },
-    {
-      "headline": "The Nvidia scandal isn't slowing down",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-      "snapshot": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, For, Jensen Huang, CEO",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The Nvidia scandal isn't slowing down",
-        "Source context: For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-16T08:00:00-05:00",
-      "age_hours": "4.85",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "OpenAI will embed Apollo researchers to investigate AI subversion",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "snapshot": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: OpenAI, Apollo, Apollo Research",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI will embed Apollo researchers to investigate AI subversion",
-        "Source context: OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 16 Nov 2026 17:02:43 +0000",
-      "age_hours": "0.81",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "snapshot": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: US, Chinese, Under, China",
+        "Key people or organizations: US, China, Trump",
         "AI desk signal: chip, enterprise",
-        "Story focus: US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
-        "Source context: Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted..."
+        "Story focus: US moves to cut China's remote access to AI chips",
+        "Source context: Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -160,26 +100,116 @@
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 16 Nov 2026 15:02:34 +0000",
-      "age_hours": "2.81",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Mon, 16 Nov 2026 19:10:09 +0000",
+      "age_hours": "5.98",
       "freshness_status": "fresh",
       "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "snapshot": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and...",
+      "key_data": [
+        "Key people or organizations: Apple, Siri AI, Apple Intelligence, MacRumors",
+        "Specific figures mentioned: 27.3",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple is testing daily usage limits for more complex Siri AI interactions",
+        "Source context: Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-16T14:24:40-05:00",
+      "age_hours": "5.73",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "OpenAI will embed safety researchers to investigate AI subversion",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "snapshot": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
+      "key_data": [
+        "Key people or organizations: OpenAI, Apollo Research",
+        "AI desk signal: model",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: OpenAI will embed safety researchers to investigate AI subversion",
+        "Source context: OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 16 Nov 2026 17:02:43 +0000",
+      "age_hours": "8.10",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
+      "headline": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "snapshot": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: California, OpenAI, Hugging Face, In",
+        "AI desk signal: agent, lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: California sues OpenAI over rogue AI hacking incidents",
+        "Source context: California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from California.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-16T15:46:01-05:00",
+      "age_hours": "4.38",
+      "freshness_status": "fresh",
+      "editorial_score": "206",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
       "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "snapshot": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "snapshot": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
         "Key people or organizations: OpenAI, ChatGPT, CSAM",
         "Specific figures mentioned: 24",
         "Market context: major AI platform or infrastructure player involved",
         "Story focus: OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-        "Source context: ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning The story matters because AI is moving deeper into legal and..."
+        "Source context: ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -195,21 +225,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 16 Nov 2026 17:00:00 +0000",
-      "age_hours": "0.85",
+      "age_hours": "8.14",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "The Nvidia scandal isn't slowing down",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-      "snapshot": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "US moves to cut China's remote access to AI chips",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "snapshot": "Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Nvidia, For, Jensen Huang, CEO",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The Nvidia scandal isn't slowing down",
-        "Source context: For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote..."
+        "Key people or organizations: US, China, Trump",
+        "AI desk signal: chip, enterprise",
+        "Story focus: US moves to cut China's remote access to AI chips",
+        "Source context: Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -217,59 +246,59 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Watch for follow-up statements, product details or customer evidence from US.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-16T08:00:00-05:00",
-      "age_hours": "4.85",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-      "snapshot": "Huang is weighing a return just days after resigning amid a deepening scandal. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Jensen Huang, Nvidia, Huang",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-        "Source context: Huang is weighing a return just days after resigning amid a deepening scandal. The larger angle is AI infrastructure: compute capacity, chip access..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Mon, 16 Nov 2026 14:06:16 +0000",
-      "age_hours": "3.75",
+      "published": "Mon, 16 Nov 2026 19:10:09 +0000",
+      "age_hours": "5.98",
       "freshness_status": "fresh",
-      "editorial_score": "88",
+      "editorial_score": "106",
       "urgency": ""
     },
     {
-      "headline": "OpenAI will embed Apollo researchers to investigate AI subversion",
+      "headline": "OpenAI will embed safety researchers to investigate AI subversion",
       "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "snapshot": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "snapshot": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
       "key_data": [
-        "Key people or organizations: OpenAI, Apollo, Apollo Research",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: OpenAI, Apollo Research",
+        "AI desk signal: model",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI will embed Apollo researchers to investigate AI subversion",
+        "Story focus: OpenAI will embed safety researchers to investigate AI subversion",
         "Source context: OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 16 Nov 2026 17:02:43 +0000",
+      "age_hours": "8.10",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": ""
+    },
+    {
+      "headline": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "snapshot": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and...",
+      "key_data": [
+        "Key people or organizations: Apple, Siri AI, Apple Intelligence, MacRumors",
+        "Specific figures mentioned: 27.3",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple is testing daily usage limits for more complex Siri AI interactions",
+        "Source context: Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -277,66 +306,66 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 16 Nov 2026 17:02:43 +0000",
-      "age_hours": "0.81",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "snapshot": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Congress, Nvidia, Unsurprisingly, Nvidia CEO Jensen Huang",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-        "Source context: Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Congress.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-11-15T14:15:43-05:00",
-      "age_hours": "22.59",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "106",
-      "urgency": ""
+      "published": "2026-11-16T14:24:40-05:00",
+      "age_hours": "5.73",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": "WATCH"
     }
   ],
   "key_storylines": [
+    "California sues OpenAI over rogue AI hacking incidents",
     "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-    "The Nvidia scandal isn't slowing down",
-    "Jensen Huang allies build a \"war room\" to get him back at Nvidia"
+    "US moves to cut China's remote access to AI chips"
   ],
   "sections": [
     {
+      "headline": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "snapshot": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "key_data": [
+        "Key people or organizations: California, OpenAI, Hugging Face, In",
+        "AI desk signal: agent, lawsuit",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: California sues OpenAI over rogue AI hacking incidents",
+        "Source context: California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from California.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-16T15:46:01-05:00",
+      "age_hours": "4.38",
+      "freshness_status": "fresh",
+      "editorial_score": "206",
+      "urgency": "DEVELOPING"
+    },
+    {
       "headline": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
       "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
-      "snapshot": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "snapshot": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
         "Key people or organizations: OpenAI, ChatGPT, CSAM",
         "Specific figures mentioned: 24",
         "Market context: major AI platform or infrastructure player involved",
         "Story focus: OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
-        "Source context: ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning The story matters because AI is moving deeper into legal and..."
+        "Source context: ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning. The story matters because AI is moving deeper into legal and..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -352,21 +381,20 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 16 Nov 2026 17:00:00 +0000",
-      "age_hours": "0.85",
+      "age_hours": "8.14",
       "freshness_status": "fresh",
       "editorial_score": "140",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "The Nvidia scandal isn't slowing down",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-      "snapshot": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "US moves to cut China's remote access to AI chips",
+      "url": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "snapshot": "Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Nvidia, For, Jensen Huang, CEO",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The Nvidia scandal isn't slowing down",
-        "Source context: For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote..."
+        "Key people or organizations: US, China, Trump",
+        "AI desk signal: chip, enterprise",
+        "Story focus: US moves to cut China's remote access to AI chips",
+        "Source context: Trump bets China won't mind US blocking remote access to AI chips. The larger angle is AI infrastructure: compute capacity, chip access and..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -374,59 +402,59 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Watch for follow-up statements, product details or customer evidence from US.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-16T08:00:00-05:00",
-      "age_hours": "4.85",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
-      "snapshot": "Huang is weighing a return just days after resigning amid a deepening scandal. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Jensen Huang, Nvidia, Huang",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-        "Source context: Huang is weighing a return just days after resigning amid a deepening scandal. The larger angle is AI infrastructure: compute capacity, chip access..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Mon, 16 Nov 2026 14:06:16 +0000",
-      "age_hours": "3.75",
+      "published": "Mon, 16 Nov 2026 19:10:09 +0000",
+      "age_hours": "5.98",
       "freshness_status": "fresh",
-      "editorial_score": "88",
+      "editorial_score": "106",
       "urgency": ""
     },
     {
-      "headline": "OpenAI will embed Apollo researchers to investigate AI subversion",
+      "headline": "OpenAI will embed safety researchers to investigate AI subversion",
       "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "snapshot": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "snapshot": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
       "key_data": [
-        "Key people or organizations: OpenAI, Apollo, Apollo Research",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: OpenAI, Apollo Research",
+        "AI desk signal: model",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: OpenAI will embed Apollo researchers to investigate AI subversion",
+        "Story focus: OpenAI will embed safety researchers to investigate AI subversion",
         "Source context: OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Mon, 16 Nov 2026 17:02:43 +0000",
+      "age_hours": "8.10",
+      "freshness_status": "fresh",
+      "editorial_score": "138",
+      "urgency": ""
+    },
+    {
+      "headline": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "snapshot": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and...",
+      "key_data": [
+        "Key people or organizations: Apple, Siri AI, Apple Intelligence, MacRumors",
+        "Specific figures mentioned: 27.3",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple is testing daily usage limits for more complex Siri AI interactions",
+        "Source context: Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -434,18 +462,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from OpenAI.",
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 16 Nov 2026 17:02:43 +0000",
-      "age_hours": "0.81",
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-16T14:24:40-05:00",
+      "age_hours": "5.73",
       "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": ""
+      "editorial_score": "116",
+      "urgency": "WATCH"
     },
     {
       "headline": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
@@ -471,7 +499,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Mon, 16 Nov 2026 15:02:34 +0000",
-      "age_hours": "2.81",
+      "age_hours": "10.10",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -501,39 +529,66 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-16T09:00:00-05:00",
-      "age_hours": "3.85",
+      "age_hours": "11.14",
       "freshness_status": "fresh",
       "editorial_score": "102",
       "urgency": "WATCH"
     },
     {
-      "headline": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "snapshot": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Supreme Court keeps injunction against DEI grant defunding in place",
+      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+      "snapshot": "Appeals court ruling rejected grant cancellations on First Amendment grounds. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
       "key_data": [
-        "Key people or organizations: Nvidia Was Already, Trouble Before, Jensen Huang Mess, Nvidia",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia Was Already in Trouble Before the Jensen Huang Mess",
-        "Source context: AI competitors are catching up to Nvidia—and poised to take advantage of the chaos. The larger angle is AI infrastructure: compute capacity, chip..."
+        "Key people or organizations: Supreme Court, DEI, Appeals, First Amendment",
+        "AI desk signal: funding",
+        "Story focus: Supreme Court keeps injunction against DEI grant defunding in place",
+        "Source context: Appeals court ruling rejected grant cancellations on First Amendment grounds. The story matters because AI is moving deeper into legal and regulatory..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia Was Already.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Supreme Court.",
+        "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Mon, 16 Nov 2026 11:00:00 +0000",
-      "age_hours": "6.85",
+      "editor_note": "Governance angle: legal exposure, safety obligations and adoption risk.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Mon, 16 Nov 2026 19:54:21 +0000",
+      "age_hours": "5.24",
       "freshness_status": "fresh",
-      "editorial_score": "84",
+      "editorial_score": "98",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "snapshot": "Robotics startup misses payroll a year after CEO used funds for luxury home. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "key_data": [
+        "Key people or organizations: Robo, Eric Trump, Robotics, CEO",
+        "Story focus: Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+        "Source context: Robotics startup misses payroll a year after CEO used funds for luxury home. The business angle is capital allocation: investors and strategic buyers..."
+      ],
+      "why_it_matters": [
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Robo.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Mon, 16 Nov 2026 22:58:27 +0000",
+      "age_hours": "2.17",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -561,37 +616,9 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Mon, 16 Nov 2026 16:12:51 +0000",
-      "age_hours": "1.64",
+      "age_hours": "8.93",
       "freshness_status": "fresh",
       "editorial_score": "80",
-      "urgency": ""
-    },
-    {
-      "headline": "Audible is trying to make it easier to find audiobooks you'll actually like",
-      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-      "snapshot": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to...",
-      "key_data": [
-        "Key people or organizations: Audible",
-        "Story focus: Audible is trying to make it easier to find audiobooks you'll actually like",
-        "Source context: Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Audible.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-16T09:00:00-05:00",
-      "age_hours": "3.85",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     }
   ],
