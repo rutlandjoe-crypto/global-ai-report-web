@@ -1,32 +1,64 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-  "snapshot": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-11-19 04:47:57 AM ET",
-  "generated_at": "2026-11-19 04:47:57 AM ET",
+  "headline": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself",
+  "snapshot": "Investors betting a barnstorming $107 billion will weigh whether the company's AI safety strategy and growing public anger towards data centers could impact its growth. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+  "updated_at": "2026-11-19 12:46:14 PM ET",
+  "generated_at": "2026-11-19 12:46:14 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 60,
-    "live_fresh_items": 13,
-    "editor_fresh_items": 59,
+    "live_fresh_items": 16,
+    "editor_fresh_items": 58,
     "public_fallback_items": 60,
-    "stale_or_blocked_items": 47,
+    "stale_or_blocked_items": 44,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-19 04:47:57 AM ET"
+    "last_checked": "2026-11-19 12:46:14 PM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-      "snapshot": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "snapshot": "Investors betting a barnstorming $107 billion will weigh whether the company's AI safety strategy and growing public anger towards data centers could impact its growth. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Trump, FDA, Senate, NSF",
-        "Story focus: Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-        "Source context: \"This time requires leadership and fortitude,\" Senator Bill Cassidy said. The story matters because AI is moving deeper into legal and regulatory..."
+        "Key people or organizations: Anthropic, Record, IPO Highlights, Giant",
+        "Specific figures mentioned: $107 billion",
+        "AI desk signal: chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "age_hours": "5.77",
+      "freshness_status": "fresh",
+      "editorial_score": "142",
+      "urgency": "BREAKING"
+    },
+    {
+      "headline": "Meta's AI agent Muse is mixing up conversations and exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "snapshot": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
+      "key_data": [
+        "Key people or organizations: Meta, Muse, In",
+        "AI desk signal: agent",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's AI agent Muse is mixing up conversations and exposing private data, report says",
+        "Source context: In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for,..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -34,87 +66,29 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
         "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Wed, 18 Nov 2026 22:08:57 +0000",
-      "age_hours": "11.65",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 19 Nov 2026 17:38:40 +0000",
+      "age_hours": "0.13",
       "freshness_status": "fresh",
-      "editorial_score": "86",
+      "editorial_score": "124",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "snapshot": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "I let Apple's always-listening AI summarize my life for two weeks",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "snapshot": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you....",
       "key_data": [
-        "Key people or organizations: Satya Nadella, Microsoft, CEO, Amazon",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: Apple, Was, Amazon Bee Frontier, Siri Recap",
+        "Specific figures mentioned: 4",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Satya Nadella predicts AI agents will reshuffle the economics of the web",
-        "Source context: Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Satya Nadella.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 18 Nov 2026 22:58:11 +0000",
-      "age_hours": "10.83",
-      "freshness_status": "fresh",
-      "editorial_score": "142",
-      "urgency": ""
-    },
-    {
-      "headline": "The nation's largest school districts consider ditching Google Search",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "snapshot": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
-      "key_data": [
-        "Key people or organizations: Google Search, York, Los Angeles, Chicago",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The nation's largest school districts consider ditching Google Search",
-        "Source context: New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google Search.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-18T18:18:35-05:00",
-      "age_hours": "10.49",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Ukraine blew up Putin's bridge using relay drones to bypass Starlink limits",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-      "snapshot": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-      "key_data": [
-        "Key people or organizations: Ukraine, Putin, Starlink",
-        "Story focus: Ukraine blew up Putin's bridge using relay drones to bypass Starlink limits",
-        "Source context: Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary."
+        "Story focus: I let Apple's always-listening AI summarize my life for two weeks",
+        "Source context: Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -122,91 +96,29 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ukraine.",
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Wed, 18 Nov 2026 23:10:39 +0000",
-      "age_hours": "10.62",
-      "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang's exit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "snapshot": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Microsoft CEO Satya Nadella, Nvidia, Huang, Jensen Huang",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft CEO Satya Nadella remains confident in Nvidia after Huang's exit",
-        "Source context: Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO. The larger angle..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft CEO Satya Nadella.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 18 Nov 2026 23:17:28 +0000",
-      "age_hours": "10.51",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-19T08:00:00-05:00",
+      "age_hours": "4.77",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Remember the frontier AI pause? Chip companies don't either",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "snapshot": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Remember, Chip, OpenAI, Hugging Face",
-        "AI desk signal: model, agent, chip",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Remember the frontier AI pause? Chip companies don't either",
-        "Source context: This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Remember.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-18T10:44:02-05:00",
-      "age_hours": "18.07",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "152",
-      "urgency": ""
     },
     {
-      "headline": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "snapshot": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Google Built a Giant 'Mirror Dimension' Internet to Test Its Chrome AI Agents",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "snapshot": "The company's alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Satya Nadella, Microsoft, CEO, Amazon",
+        "Key people or organizations: Google Built, Giant, Mirror Dimension, Internet",
         "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Satya Nadella predicts AI agents will reshuffle the economics of the web",
-        "Source context: Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for..."
+        "Story focus: Google Built a Giant 'Mirror Dimension' Internet to Test Its Chrome AI Agents",
+        "Source context: The company's alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -214,27 +126,91 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Satya Nadella.",
+        "Watch for follow-up statements, product details or customer evidence from Google Built.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "age_hours": "0.77",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's IPO puts AI's circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "snapshot": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, IPO, Amazon, Google",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's IPO puts AI's circular financing boom to the test",
+        "Source context: Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 18 Nov 2026 22:58:11 +0000",
-      "age_hours": "10.83",
+      "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+      "age_hours": "2.86",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "snapshot": "Investors betting a barnstorming $107 billion will weigh whether the company's AI safety strategy and growing public anger towards data centers could impact its growth. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Record, IPO Highlights, Giant",
+        "Specific figures mentioned: $107 billion",
+        "AI desk signal: chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "age_hours": "5.77",
       "freshness_status": "fresh",
       "editorial_score": "142",
-      "urgency": ""
+      "urgency": "BREAKING"
     },
     {
-      "headline": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-      "snapshot": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Meta's AI agent Muse is mixing up conversations and exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "snapshot": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
       "key_data": [
-        "Key people or organizations: Trump, FDA, Senate, NSF",
-        "Story focus: Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-        "Source context: \"This time requires leadership and fortitude,\" Senator Bill Cassidy said. The story matters because AI is moving deeper into legal and regulatory..."
+        "Key people or organizations: Meta, Muse, In",
+        "AI desk signal: agent",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's AI agent Muse is mixing up conversations and exposing private data, report says",
+        "Source context: In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for,..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -242,17 +218,17 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
         "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Wed, 18 Nov 2026 22:08:57 +0000",
-      "age_hours": "11.65",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 19 Nov 2026 17:38:40 +0000",
+      "age_hours": "0.13",
       "freshness_status": "fresh",
-      "editorial_score": "86",
+      "editorial_score": "124",
       "urgency": "DEVELOPING"
     },
     {
@@ -280,48 +256,41 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-18T14:07:29-05:00",
-      "age_hours": "14.67",
+      "age_hours": "22.65",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Nvidia isn't selling any more AI chips to China",
-      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "snapshot": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Google Built a Giant 'Mirror Dimension' Internet to Test Its Chrome AI Agents",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "snapshot": "The company's alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Nvidia, China, White House, December",
-        "AI desk signal: chip, nvidia",
+        "Key people or organizations: Google Built, Giant, Mirror Dimension, Internet",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Nvidia isn't selling any more AI chips to China",
-        "Source context: Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The..."
+        "Story focus: Google Built a Giant 'Mirror Dimension' Internet to Test Its Chrome AI Agents",
+        "Source context: The company's alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Google Built.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-18T08:01:05-05:00",
-      "age_hours": "20.78",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "106",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "age_hours": "0.77",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
       "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-    "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-    "The nation's largest school districts consider ditching Google Search"
-  ],
-  "sections": [
+    },
     {
       "headline": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
       "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
@@ -347,19 +316,58 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 18 Nov 2026 22:58:11 +0000",
-      "age_hours": "10.83",
+      "age_hours": "18.80",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "112",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself",
+    "Meta's AI agent Muse is mixing up conversations and exposing private data, report says",
+    "I let Apple's always-listening AI summarize my life for two weeks"
+  ],
+  "sections": [
+    {
+      "headline": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "snapshot": "Investors betting a barnstorming $107 billion will weigh whether the company's AI safety strategy and growing public anger towards data centers could impact its growth. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Record, IPO Highlights, Giant",
+        "Specific figures mentioned: $107 billion",
+        "AI desk signal: chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "age_hours": "5.77",
       "freshness_status": "fresh",
       "editorial_score": "142",
-      "urgency": ""
+      "urgency": "BREAKING"
     },
     {
-      "headline": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-      "url": "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
-      "snapshot": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Meta's AI agent Muse is mixing up conversations and exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "snapshot": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
       "key_data": [
-        "Key people or organizations: Trump, FDA, Senate, NSF",
-        "Story focus: Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
-        "Source context: \"This time requires leadership and fortitude,\" Senator Bill Cassidy said. The story matters because AI is moving deeper into legal and regulatory..."
+        "Key people or organizations: Meta, Muse, In",
+        "AI desk signal: agent",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's AI agent Muse is mixing up conversations and exposing private data, report says",
+        "Source context: In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for,..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
@@ -367,147 +375,29 @@
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Trump.",
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
         "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Wed, 18 Nov 2026 22:08:57 +0000",
-      "age_hours": "11.65",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 19 Nov 2026 17:38:40 +0000",
+      "age_hours": "0.13",
       "freshness_status": "fresh",
-      "editorial_score": "86",
+      "editorial_score": "124",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "The nation's largest school districts consider ditching Google Search",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "snapshot": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the option to disable... The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
+      "headline": "I let Apple's always-listening AI summarize my life for two weeks",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "snapshot": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you....",
       "key_data": [
-        "Key people or organizations: Google Search, York, Los Angeles, Chicago",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Apple, Was, Amazon Bee Frontier, Siri Recap",
+        "Specific figures mentioned: 4",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The nation's largest school districts consider ditching Google Search",
-        "Source context: New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Google Search.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-18T18:18:35-05:00",
-      "age_hours": "10.49",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang's exit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "snapshot": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Microsoft CEO Satya Nadella, Nvidia, Huang, Jensen Huang",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft CEO Satya Nadella remains confident in Nvidia after Huang's exit",
-        "Source context: Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO. The larger angle..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft CEO Satya Nadella.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 18 Nov 2026 23:17:28 +0000",
-      "age_hours": "10.51",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "snapshot": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in...",
-      "key_data": [
-        "Key people or organizations: Microsoft CEO Satya Nadella, October",
-        "Specific figures mentioned: 60, 000",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft CEO Satya Nadella explains why he asked 60K employees to quit"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft CEO Satya Nadella.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 19 Nov 2026 00:42:56 +0000",
-      "age_hours": "9.08",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Does Nvidia Got This? Interim CEO Colette Kress Says It's Got This",
-      "url": "https://www.wired.com/story/guys-really-we-got-this/",
-      "snapshot": "WIRED is tallying up how many times Nvidia's interim CEO has assured everyone that the company has everything under control. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Does Nvidia Got This, Interim CEO Colette Kress, Says It, Got This",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Does Nvidia Got This? Interim CEO Colette Kress Says It's Got This",
-        "Source context: WIRED is tallying up how many times Nvidia's interim CEO has assured everyone that the company has everything under control. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Does Nvidia Got This.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Wed, 18 Nov 2026 22:16:23 +0000",
-      "age_hours": "11.53",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "Ukraine blew up Putin's bridge using relay drones to bypass Starlink limits",
-      "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
-      "snapshot": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-      "key_data": [
-        "Key people or organizations: Ukraine, Putin, Starlink",
-        "Story focus: Ukraine blew up Putin's bridge using relay drones to bypass Starlink limits",
-        "Source context: Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary."
+        "Story focus: I let Apple's always-listening AI summarize my life for two weeks",
+        "Source context: Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the..."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -515,47 +405,221 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Ukraine.",
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Wed, 18 Nov 2026 23:10:39 +0000",
-      "age_hours": "10.62",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-19T08:00:00-05:00",
+      "age_hours": "4.77",
       "freshness_status": "fresh",
-      "editorial_score": "66",
-      "urgency": "DEVELOPING"
+      "editorial_score": "92",
+      "urgency": ""
     },
     {
-      "headline": "Even His Own Officials Don't Think Trump's China Trip Will Lead to Progress on AI",
-      "url": "https://www.wired.com/story/administration-officials-dont-think-much-ai-progress-will-come-of-trumps-china-visit/",
-      "snapshot": "Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Google Built a Giant 'Mirror Dimension' Internet to Test Its Chrome AI Agents",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "snapshot": "The company's alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Even His Own Officials, Don, Think Trump, China Trip Will Lead",
-        "AI desk signal: chip, nvidia, enterprise",
+        "Key people or organizations: Google Built, Giant, Mirror Dimension, Internet",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Even His Own Officials Don't Think Trump's China Trip Will Lead to Progress on AI",
-        "Source context: Fallout from the Nvidia scandal has made any negotiations around AI difficult, officials say. The larger angle is AI infrastructure: compute..."
+        "Story focus: Google Built a Giant 'Mirror Dimension' Internet to Test Its Chrome AI Agents",
+        "Source context: The company's alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Even His Own Officials.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Google Built.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
-      "published": "Wed, 18 Nov 2026 22:00:00 +0000",
-      "age_hours": "11.80",
+      "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "age_hours": "0.77",
       "freshness_status": "fresh",
-      "editorial_score": "62",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's IPO puts AI's circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "snapshot": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, IPO, Amazon, Google",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's IPO puts AI's circular financing boom to the test",
+        "Source context: Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 19 Nov 2026 14:54:39 +0000",
+      "age_hours": "2.86",
+      "freshness_status": "fresh",
+      "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "snapshot": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now globally on all ChatGPT plans on the web, desktop app, and iOS and Android apps.... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: ChatGPT, Live Dictation, It, Android",
+        "AI desk signal: model, enterprise",
+        "Story focus: ChatGPT can transcribe as you speak now with Live Dictation",
+        "Source context: ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from ChatGPT.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-19T10:16:45-05:00",
+      "age_hours": "2.49",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "With the biggest IPO of all time, Anthropic's 'good guy' reputation is on the line",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "snapshot": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: IPO, Anthropic, Today, SpaceX",
+        "Specific figures mentioned: $81.3 billion",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: With the biggest IPO of all time, Anthropic's 'good guy' reputation is on the line"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from IPO.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-19T09:25:37-05:00",
+      "age_hours": "3.34",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "snapshot": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Nasdaq, IPO",
+        "Specific figures mentioned: $111, 33%, $83, $80 billion",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic hits Nasdaq exchanges at $111, 33% above IPO price"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 19 Nov 2026 16:59:23 +0000",
+      "age_hours": "0.78",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
+      "urgency": ""
+    },
+    {
+      "headline": "Mouse fight club might explain why we like to watch violent things",
+      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+      "snapshot": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+      "key_data": [
+        "Key people or organizations: Mouse, Watching",
+        "Story focus: Mouse fight club might explain why we like to watch violent things",
+        "Source context: Watching fights wasn't as good as practical experience, but it got the mice halfway there."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Mouse.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Thu, 19 Nov 2026 14:04:38 +0000",
+      "age_hours": "3.69",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
+      "urgency": ""
+    },
+    {
+      "headline": "How to tell a cyberattack from a plain old outage",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "snapshot": "When everything goes down, don't assume it's a cyberattack.",
+      "key_data": [
+        "Story focus: How to tell a cyberattack from a plain old outage",
+        "Source context: When everything goes down, don't assume it's a cyberattack."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Thu, 19 Nov 2026 11:13:01 +0000",
+      "age_hours": "6.55",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
       "urgency": ""
     }
   ],
