@@ -3,20 +3,20 @@
   "vertical": "AI",
   "headline": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself",
   "snapshot": "Investors betting a barnstorming $107 billion will weigh whether the company's AI safety strategy and growing public anger towards data centers could impact its growth. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-11-19 12:46:14 PM ET",
-  "generated_at": "2026-11-19 12:46:14 PM ET",
+  "updated_at": "2026-11-19 01:48:46 PM ET",
+  "generated_at": "2026-11-19 01:48:46 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 60,
-    "live_fresh_items": 16,
-    "editor_fresh_items": 58,
+    "live_fresh_items": 20,
+    "editor_fresh_items": 59,
     "public_fallback_items": 60,
-    "stale_or_blocked_items": 44,
+    "stale_or_blocked_items": 40,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-19 12:46:14 PM ET"
+    "last_checked": "2026-11-19 01:48:46 PM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "age_hours": "5.77",
+      "age_hours": "6.81",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "BREAKING"
@@ -74,39 +74,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 19 Nov 2026 17:38:40 +0000",
-      "age_hours": "0.13",
+      "age_hours": "1.17",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "I let Apple's always-listening AI summarize my life for two weeks",
-      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-      "snapshot": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you....",
+      "headline": "LLMs will provide accurate climate info, except when they won't",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "snapshot": "Some models fare better, but all fail in similar ways. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Apple, Was, Amazon Bee Frontier, Siri Recap",
-        "Specific figures mentioned: 4",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: I let Apple's always-listening AI summarize my life for two weeks",
-        "Source context: Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the..."
+        "Key people or organizations: LLMs, Some",
+        "AI desk signal: model, llm, enterprise",
+        "Story focus: LLMs will provide accurate climate info, except when they won't",
+        "Source context: Some models fare better, but all fail in similar ways. The competitive question is whether this changes the model race, enterprise integrations or..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from LLMs.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-19T08:00:00-05:00",
-      "age_hours": "4.77",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Thu, 19 Nov 2026 18:44:39 +0000",
+      "age_hours": "0.07",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -134,21 +133,21 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "age_hours": "0.77",
+      "age_hours": "1.81",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
     },
     {
-      "headline": "Anthropic's IPO puts AI's circular financing boom to the test",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "snapshot": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "snapshot": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Anthropic, IPO, Amazon, Google",
-        "AI desk signal: model, enterprise",
+        "Key people or organizations: Google, Gemini, Mac",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's IPO puts AI's circular financing boom to the test",
-        "Source context: Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue..."
+        "Story focus: Google gives Gemini the ability to use your Mac for you",
+        "Source context: Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows. The..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -156,17 +155,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Watch for follow-up statements, product details or customer evidence from Google.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 19 Nov 2026 14:54:39 +0000",
-      "age_hours": "2.86",
+      "published": "Thu, 19 Nov 2026 18:09:11 +0000",
+      "age_hours": "0.66",
       "freshness_status": "fresh",
-      "editorial_score": "100",
+      "editorial_score": "110",
       "urgency": ""
     }
   ],
@@ -196,7 +195,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "age_hours": "5.77",
+      "age_hours": "6.81",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "BREAKING"
@@ -226,7 +225,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 19 Nov 2026 17:38:40 +0000",
-      "age_hours": "0.13",
+      "age_hours": "1.17",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "DEVELOPING"
@@ -256,7 +255,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-18T14:07:29-05:00",
-      "age_hours": "22.65",
+      "age_hours": "23.69",
       "freshness_status": "editor_fresh",
       "editorial_score": "110",
       "urgency": "DEVELOPING"
@@ -286,7 +285,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "age_hours": "0.77",
+      "age_hours": "1.81",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -316,7 +315,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 18 Nov 2026 22:58:11 +0000",
-      "age_hours": "18.80",
+      "age_hours": "19.84",
       "freshness_status": "editor_fresh",
       "editorial_score": "112",
       "urgency": ""
@@ -325,7 +324,7 @@
   "key_storylines": [
     "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself",
     "Meta's AI agent Muse is mixing up conversations and exposing private data, report says",
-    "I let Apple's always-listening AI summarize my life for two weeks"
+    "LLMs will provide accurate climate info, except when they won't"
   ],
   "sections": [
     {
@@ -353,7 +352,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "age_hours": "5.77",
+      "age_hours": "6.81",
       "freshness_status": "fresh",
       "editorial_score": "142",
       "urgency": "BREAKING"
@@ -383,39 +382,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 19 Nov 2026 17:38:40 +0000",
-      "age_hours": "0.13",
+      "age_hours": "1.17",
       "freshness_status": "fresh",
       "editorial_score": "124",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "I let Apple's always-listening AI summarize my life for two weeks",
-      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-      "snapshot": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you....",
+      "headline": "LLMs will provide accurate climate info, except when they won't",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "snapshot": "Some models fare better, but all fail in similar ways. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Apple, Was, Amazon Bee Frontier, Siri Recap",
-        "Specific figures mentioned: 4",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: I let Apple's always-listening AI summarize my life for two weeks",
-        "Source context: Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the..."
+        "Key people or organizations: LLMs, Some",
+        "AI desk signal: model, llm, enterprise",
+        "Story focus: LLMs will provide accurate climate info, except when they won't",
+        "Source context: Some models fare better, but all fail in similar ways. The competitive question is whether this changes the model race, enterprise integrations or..."
       ],
       "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors, regulators or enterprise customers respond.",
+        "Watch for follow-up statements, product details or customer evidence from LLMs.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-19T08:00:00-05:00",
-      "age_hours": "4.77",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Thu, 19 Nov 2026 18:44:39 +0000",
+      "age_hours": "0.07",
       "freshness_status": "fresh",
-      "editorial_score": "92",
+      "editorial_score": "108",
       "urgency": ""
     },
     {
@@ -443,10 +441,70 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "age_hours": "0.77",
+      "age_hours": "1.81",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
+    },
+    {
+      "headline": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "snapshot": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google, Gemini, Mac",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google gives Gemini the ability to use your Mac for you",
+        "Source context: Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows. The..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 19 Nov 2026 18:09:11 +0000",
+      "age_hours": "0.66",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Google will launch Android app verification requirement globally in January 2027",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+      "snapshot": "Google says almost all developers have already gotten on board with verification. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google, Android, January",
+        "Specific figures mentioned: 2027",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google will launch Android app verification requirement globally in January 2027"
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Thu, 19 Nov 2026 18:00:33 +0000",
+      "age_hours": "0.80",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": "WATCH"
     },
     {
       "headline": "Anthropic's IPO puts AI's circular financing boom to the test",
@@ -473,9 +531,69 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 19 Nov 2026 14:54:39 +0000",
-      "age_hours": "2.86",
+      "age_hours": "3.90",
       "freshness_status": "fresh",
       "editorial_score": "100",
+      "urgency": ""
+    },
+    {
+      "headline": "I let Apple's always-listening AI summarize my life for two weeks",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "snapshot": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you....",
+      "key_data": [
+        "Key people or organizations: Apple, Was, Amazon Bee Frontier, Siri Recap",
+        "Specific figures mentioned: 4",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: I let Apple's always-listening AI summarize my life for two weeks",
+        "Source context: Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-19T08:00:00-05:00",
+      "age_hours": "5.81",
+      "freshness_status": "fresh",
+      "editorial_score": "92",
+      "urgency": ""
+    },
+    {
+      "headline": "Gemini on Mac can now use your computer",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "snapshot": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms,... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Gemini, Mac, Google",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Gemini on Mac can now use your computer",
+        "Source context: Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Gemini.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-19T13:21:13-05:00",
+      "age_hours": "0.46",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     },
     {
@@ -502,124 +620,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-19T10:16:45-05:00",
-      "age_hours": "2.49",
+      "age_hours": "3.53",
       "freshness_status": "fresh",
       "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "With the biggest IPO of all time, Anthropic's 'good guy' reputation is on the line",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "snapshot": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: IPO, Anthropic, Today, SpaceX",
-        "Specific figures mentioned: $81.3 billion",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: With the biggest IPO of all time, Anthropic's 'good guy' reputation is on the line"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from IPO.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-19T09:25:37-05:00",
-      "age_hours": "3.34",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "snapshot": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, Nasdaq, IPO",
-        "Specific figures mentioned: $111, 33%, $83, $80 billion",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic hits Nasdaq exchanges at $111, 33% above IPO price"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 19 Nov 2026 16:59:23 +0000",
-      "age_hours": "0.78",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Mouse fight club might explain why we like to watch violent things",
-      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
-      "snapshot": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
-      "key_data": [
-        "Key people or organizations: Mouse, Watching",
-        "Story focus: Mouse fight club might explain why we like to watch violent things",
-        "Source context: Watching fights wasn't as good as practical experience, but it got the mice halfway there."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Mouse.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 19 Nov 2026 14:04:38 +0000",
-      "age_hours": "3.69",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "How to tell a cyberattack from a plain old outage",
-      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
-      "snapshot": "When everything goes down, don't assume it's a cyberattack.",
-      "key_data": [
-        "Story focus: How to tell a cyberattack from a plain old outage",
-        "Source context: When everything goes down, don't assume it's a cyberattack."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from the main source or organization.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 19 Nov 2026 11:13:01 +0000",
-      "age_hours": "6.55",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
       "urgency": ""
     }
   ],
