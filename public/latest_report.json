@@ -1,93 +1,63 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Apple may be developing its own AI agent that runs your Mac",
-  "snapshot": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-11-20 03:18:36 AM ET",
-  "generated_at": "2026-11-20 03:18:36 AM ET",
+  "headline": "Signal is blocking Gemini and Siri AI from reading your screen",
+  "snapshot": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+  "updated_at": "2026-11-20 08:40:26 AM ET",
+  "generated_at": "2026-11-20 08:40:26 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 14,
-    "editor_fresh_items": 52,
+    "live_fresh_items": 8,
+    "editor_fresh_items": 43,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 45,
+    "stale_or_blocked_items": 51,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-20 03:18:36 AM ET"
+    "last_checked": "2026-11-20 08:40:26 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-      "snapshot": "Amazon now uses its shopping platform for political purposes. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "snapshot": "Investors betting a barnstorming $107 billion will weigh whether the company's AI safety strategy and growing public anger toward data centers could impact its growth. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Amazon, Delivery Protection Act",
+        "Key people or organizations: Anthropic, Record, IPO Highlights, Giant",
+        "Specific figures mentioned: $107 billion",
+        "AI desk signal: chip, data center, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-        "Source context: Amazon now uses its shopping platform for political purposes. The story matters because AI is moving deeper into legal and regulatory territory,..."
+        "Story focus: Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself"
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 19 Nov 2026 22:16:37 +0000",
-      "age_hours": "10.03",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "snapshot": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, IPO",
-        "Specific figures mentioned: 7, $2B, $83, $280 million",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
         "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 00:43:50 +0000",
-      "age_hours": "7.58",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "age_hours": "25.67",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "112",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Apple is hiring engineers to build its own AI agent",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "snapshot": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "headline": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "snapshot": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Apple, Bloomberg",
+        "Key people or organizations: Signal, Gemini, Siri AI, Android",
         "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple is hiring engineers to build its own AI agent",
-        "Source context: Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and..."
+        "Story focus: Signal is blocking Gemini and Siri AI from reading your screen",
+        "Source context: Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -95,80 +65,19 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Watch for follow-up statements, product details or customer evidence from Signal.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
-      "published": "2026-11-19T17:31:41-05:00",
-      "age_hours": "9.78",
+      "published": "2026-11-20T07:30:47-05:00",
+      "age_hours": "1.16",
       "freshness_status": "fresh",
-      "editorial_score": "102",
+      "editorial_score": "120",
       "urgency": ""
     },
-    {
-      "headline": "These tech outages are giving Y2K, AI agent style",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "snapshot": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
-      "key_data": [
-        "Key people or organizations: Are, There",
-        "AI desk signal: agent",
-        "Story focus: These tech outages are giving Y2K, AI agent style",
-        "Source context: Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Are.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 19 Nov 2026 21:42:31 +0000",
-      "age_hours": "10.60",
-      "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "snapshot": "Lawsuit: Over 99% of school system's AI gun alerts were false positives. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Traumatized, Doritos, Lawsuit, Over",
-        "Specific figures mentioned: 99%",
-        "AI desk signal: lawsuit",
-        "Story focus: Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-        "Source context: Lawsuit: Over 99% of school system's AI gun alerts were false positives. The story matters because AI is moving deeper into legal and regulatory..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Traumatized.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 19 Nov 2026 20:19:28 +0000",
-      "age_hours": "11.99",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": "DEVELOPING"
-    }
-  ],
-  "editor_signals": [
     {
       "headline": "Apple may be developing its own AI agent that runs your Mac",
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -194,9 +103,128 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 20 Nov 2026 00:56:01 +0000",
-      "age_hours": "7.38",
+      "age_hours": "12.74",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "snapshot": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "key_data": [
+        "Key people or organizations: Rocket Report, Stoke, Russia, Soyuz",
+        "Story focus: Rocket Report",
+        "Source context: Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Rocket Report.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 20 Nov 2026 13:35:45 +0000",
+      "age_hours": "0.08",
       "freshness_status": "fresh",
-      "editorial_score": "144",
+      "editorial_score": "64",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "snapshot": "Meta's AI assistant can track and unfollow Instagram users who don't follow you back—and some people are taking full advantage. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Muse Is Unleashing, World, Pettiness, Instagram",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Muse Is Unleashing a World of Pettiness on Instagram",
+        "Source context: Meta's AI assistant can track and unfollow Instagram users who don't follow you back—and some people are taking full advantage. The competitive..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Muse Is Unleashing.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "age_hours": "1.67",
+      "freshness_status": "fresh",
+      "editorial_score": "62",
+      "urgency": ""
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "snapshot": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Signal, Gemini, Siri AI, Android",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Signal is blocking Gemini and Siri AI from reading your screen",
+        "Source context: Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Signal.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-20T07:30:47-05:00",
+      "age_hours": "1.16",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "snapshot": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Apple, Mac, Meta Muse, Instinct",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple may be developing its own AI agent that runs your Mac",
+        "Source context: The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. The competitive..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 20 Nov 2026 00:56:01 +0000",
+      "age_hours": "12.74",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "114",
       "urgency": ""
     },
     {
@@ -224,373 +252,163 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "age_hours": "20.31",
+      "age_hours": "25.67",
       "freshness_status": "editor_fresh",
       "editorial_score": "112",
       "urgency": "BREAKING"
     },
     {
-      "headline": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-      "snapshot": "Amazon now uses its shopping platform for political purposes. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "snapshot": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
       "key_data": [
-        "Key people or organizations: Amazon, Delivery Protection Act",
+        "Key people or organizations: Meta, Muse, In",
+        "AI desk signal: agent",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-        "Source context: Amazon now uses its shopping platform for political purposes. The story matters because AI is moving deeper into legal and regulatory territory,..."
+        "Story focus: Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says",
+        "Source context: In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for,..."
       ],
       "why_it_matters": [
         "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
         "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
         "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 19 Nov 2026 22:16:37 +0000",
-      "age_hours": "10.03",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "snapshot": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Satya Nadella, Microsoft, CEO, Amazon",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Satya Nadella predicts AI agents will reshuffle the economics of the web",
-        "Source context: Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Satya Nadella.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 18 Nov 2026 22:58:11 +0000",
-      "age_hours": "33.34",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "112",
-      "urgency": ""
-    },
-    {
-      "headline": "Apple is hiring engineers to build its own AI agent",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "snapshot": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Apple, Bloomberg",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple is hiring engineers to build its own AI agent",
-        "Source context: Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-19T17:31:41-05:00",
-      "age_hours": "9.78",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Apple may be developing its own AI agent that runs your Mac",
-    "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-    "Apple is hiring engineers to build its own AI agent"
-  ],
-  "sections": [
-    {
-      "headline": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "snapshot": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Apple, Mac, Meta Muse, Instinct",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple may be developing its own AI agent that runs your Mac",
-        "Source context: The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. The competitive..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 00:56:01 +0000",
-      "age_hours": "7.38",
-      "freshness_status": "fresh",
-      "editorial_score": "144",
-      "urgency": ""
-    },
-    {
-      "headline": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
-      "snapshot": "Amazon now uses its shopping platform for political purposes. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Amazon, Delivery Protection Act",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-        "Source context: Amazon now uses its shopping platform for political purposes. The story matters because AI is moving deeper into legal and regulatory territory,..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 19 Nov 2026 22:16:37 +0000",
-      "age_hours": "10.03",
-      "freshness_status": "fresh",
-      "editorial_score": "108",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Apple is hiring engineers to build its own AI agent",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "snapshot": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Apple, Bloomberg",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Apple is hiring engineers to build its own AI agent",
-        "Source context: Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Apple.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-19T17:31:41-05:00",
-      "age_hours": "9.78",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "A brief history of Nvidia's recent stock fluctuations",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "snapshot": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, We, Colette Kress, CEO",
-        "Specific figures mentioned: $150, 40",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: A brief history of Nvidia's recent stock fluctuations"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-19T16:59:35-05:00",
-      "age_hours": "10.32",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta's Muse Charm might cost $300",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "snapshot": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Meta, Muse Charm, Muse AI, Information",
-        "Specific figures mentioned: $300",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's Muse Charm might cost $300"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
         "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-19T15:22:17-05:00",
-      "age_hours": "11.94",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "snapshot": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic, IPO",
-        "Specific figures mentioned: 7, $2B, $83, $280 million",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO"
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 00:43:50 +0000",
-      "age_hours": "7.58",
-      "freshness_status": "fresh",
-      "editorial_score": "98",
-      "urgency": "BREAKING"
-    },
-    {
-      "headline": "These tech outages are giving Y2K, AI agent style",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "snapshot": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect...",
-      "key_data": [
-        "Key people or organizations: Are, There",
-        "AI desk signal: agent",
-        "Story focus: These tech outages are giving Y2K, AI agent style",
-        "Source context: Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Are.",
         "Track court, regulator, creator, customer or enterprise responses.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Thu, 19 Nov 2026 21:42:31 +0000",
-      "age_hours": "10.60",
-      "freshness_status": "fresh",
+      "published": "Thu, 19 Nov 2026 17:38:40 +0000",
+      "age_hours": "20.03",
+      "freshness_status": "editor_fresh",
       "editorial_score": "94",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "snapshot": "Lawsuit: Over 99% of school system's AI gun alerts were false positives. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Google Built a Giant 'Mirror Dimension' Internet to Test Its Chrome AI Agents",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "snapshot": "The company's alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Traumatized, Doritos, Lawsuit, Over",
-        "Specific figures mentioned: 99%",
-        "AI desk signal: lawsuit",
-        "Story focus: Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-        "Source context: Lawsuit: Over 99% of school system's AI gun alerts were false positives. The story matters because AI is moving deeper into legal and regulatory..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Traumatized.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Thu, 19 Nov 2026 20:19:28 +0000",
-      "age_hours": "11.99",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "What's With All These Outages?",
-      "url": "https://www.wired.com/story/uncanny-valley-podcast-whats-with-all-these-outages/",
-      "snapshot": "This week on \"Uncanny Valley,\" we discuss the outages that have swept digital life over the past week, where new money from Anthropic's IPO is going, and the AI chip world post-Jensen Huang. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
-      "key_data": [
-        "Key people or organizations: Outages, Uncanny Valley, Anthropic, IPO",
-        "AI desk signal: chip, enterprise",
+        "Key people or organizations: Google Built, Giant, Mirror Dimension, Internet",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: What's With All These Outages?",
-        "Source context: This week on \"Uncanny Valley,\" we discuss the outages that have swept digital life over the past week, where new money from Anthropic's IPO is going,..."
+        "Story focus: Google Built a Giant 'Mirror Dimension' Internet to Test Its Chrome AI Agents",
+        "Source context: The company's alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Outages.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Google Built.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
-      "published": "Thu, 19 Nov 2026 21:57:01 +0000",
-      "age_hours": "10.36",
+      "published": "Thu, 19 Nov 2026 17:00:00 +0000",
+      "age_hours": "20.67",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "Signal is blocking Gemini and Siri AI from reading your screen",
+    "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+    "Muse Is Unleashing a World of Pettiness on Instagram"
+  ],
+  "sections": [
+    {
+      "headline": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "snapshot": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Signal, Gemini, Siri AI, Android",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Signal is blocking Gemini and Siri AI from reading your screen",
+        "Source context: Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Signal.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-20T07:30:47-05:00",
+      "age_hours": "1.16",
       "freshness_status": "fresh",
-      "editorial_score": "77",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "snapshot": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "key_data": [
+        "Key people or organizations: Rocket Report, Stoke, Russia, Soyuz",
+        "Story focus: Rocket Report",
+        "Source context: Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Rocket Report.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 20 Nov 2026 13:35:45 +0000",
+      "age_hours": "0.08",
+      "freshness_status": "fresh",
+      "editorial_score": "64",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Muse Is Unleashing a World of Pettiness on Instagram",
+      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
+      "snapshot": "Meta's AI assistant can track and unfollow Instagram users who don't follow you back—and some people are taking full advantage. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Muse Is Unleashing, World, Pettiness, Instagram",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Muse Is Unleashing a World of Pettiness on Instagram",
+        "Source context: Meta's AI assistant can track and unfollow Instagram users who don't follow you back—and some people are taking full advantage. The competitive..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Muse Is Unleashing.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Fri, 20 Nov 2026 12:00:00 +0000",
+      "age_hours": "1.67",
+      "freshness_status": "fresh",
+      "editorial_score": "62",
       "urgency": ""
     },
     {
@@ -617,10 +435,70 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Fri, 20 Nov 2026 07:00:00 +0000",
-      "age_hours": "1.31",
+      "age_hours": "6.67",
       "freshness_status": "fresh",
       "editorial_score": "62",
       "urgency": ""
+    },
+    {
+      "headline": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "snapshot": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Apple, Mac, Meta Muse, Instinct",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Apple may be developing its own AI agent that runs your Mac",
+        "Source context: The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots. The competitive..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Apple.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 20 Nov 2026 00:56:01 +0000",
+      "age_hours": "12.74",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "114",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "snapshot": "Investors betting a barnstorming $107 billion will weigh whether the company's AI safety strategy and growing public anger toward data centers could impact its growth. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Record, IPO Highlights, Giant",
+        "Specific figures mentioned: $107 billion",
+        "AI desk signal: chip, data center, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Thu, 19 Nov 2026 12:00:00 +0000",
+      "age_hours": "25.67",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "112",
+      "urgency": "BREAKING"
     }
   ],
   "editorial_brain": {
