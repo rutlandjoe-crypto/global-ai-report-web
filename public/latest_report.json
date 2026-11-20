@@ -3,22 +3,80 @@
   "vertical": "AI",
   "headline": "Signal is blocking Gemini and Siri AI from reading your screen",
   "snapshot": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-  "updated_at": "2026-11-20 12:29:31 PM ET",
-  "generated_at": "2026-11-20 12:29:31 PM ET",
+  "updated_at": "2026-11-20 04:34:49 PM ET",
+  "generated_at": "2026-11-20 04:34:49 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 15,
-    "editor_fresh_items": 48,
+    "live_fresh_items": 24,
+    "editor_fresh_items": 55,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 44,
+    "stale_or_blocked_items": 35,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-20 12:29:31 PM ET"
+    "last_checked": "2026-11-20 04:34:49 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "snapshot": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board's main issue was the former CEO's \"lack of candor.\" The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
+      "key_data": [
+        "Key people or organizations: Jensen Huang, Lying, Alarmed Nvidia Board Ahead, His Resignation",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
+        "Source context: Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board's..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Fri, 20 Nov 2026 19:52:21 +0000",
+      "age_hours": "1.71",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "snapshot": "CTIA said jamming test showed \"interference... up to two and a half miles away.\" The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Prisons, OK, CTIA",
+        "Story focus: Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+        "Source context: CTIA said jamming test showed \"interference... up to two and a half miles away.\" The story matters because AI is moving deeper into legal and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Prisons.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 20 Nov 2026 19:52:59 +0000",
+      "age_hours": "1.70",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
+    },
     {
       "headline": "The week everything fell apart",
       "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
@@ -43,7 +101,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-20T09:06:59-05:00",
-      "age_hours": "3.38",
+      "age_hours": "7.46",
       "freshness_status": "fresh",
       "editorial_score": "73",
       "urgency": "DEVELOPING"
@@ -73,38 +131,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 20 Nov 2026 14:55:44 +0000",
-      "age_hours": "2.56",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "120",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "SpaceX lenders don't want Elon Musk launching their collateral into space",
-      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
-      "snapshot": "Bondholders want SpaceX's valuable chip collateral kept on Earth and within reach. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: SpaceX, Elon Musk, Bondholders, Earth",
-        "AI desk signal: chip, enterprise",
-        "Story focus: SpaceX lenders don't want Elon Musk launching their collateral into space",
-        "Source context: Bondholders want SpaceX's valuable chip collateral kept on Earth and within reach. The larger angle is AI infrastructure: compute capacity, chip..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SpaceX.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 20 Nov 2026 14:15:21 +0000",
-      "age_hours": "3.24",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
       "urgency": "WATCH"
     },
     {
@@ -131,39 +160,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-20T07:30:47-05:00",
-      "age_hours": "4.98",
+      "age_hours": "9.07",
       "freshness_status": "fresh",
       "editorial_score": "120",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "snapshot": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Anthropic, Millennium Prize, Claude, Levent",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-        "Source context: Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-20T11:34:13-05:00",
-      "age_hours": "0.92",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     }
   ],
@@ -192,7 +191,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-20T07:30:47-05:00",
-      "age_hours": "4.98",
+      "age_hours": "9.07",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -222,7 +221,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 20 Nov 2026 14:55:44 +0000",
-      "age_hours": "2.56",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
@@ -252,10 +251,39 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 19 Nov 2026 12:00:00 +0000",
-      "age_hours": "29.49",
+      "age_hours": "33.58",
       "freshness_status": "editor_fresh",
       "editorial_score": "112",
       "urgency": "BREAKING"
+    },
+    {
+      "headline": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "snapshot": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Chips, Lenders, SpaceX",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Chips can survive the space environment — can their financing?",
+        "Source context: Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Chips.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 20 Nov 2026 17:40:01 +0000",
+      "age_hours": "3.91",
+      "freshness_status": "fresh",
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "Apple may be developing its own AI agent that runs your Mac",
@@ -282,46 +310,16 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 20 Nov 2026 00:56:01 +0000",
-      "age_hours": "16.56",
+      "age_hours": "20.65",
       "freshness_status": "editor_fresh",
       "editorial_score": "114",
       "urgency": ""
-    },
-    {
-      "headline": "Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "snapshot": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
-      "key_data": [
-        "Key people or organizations: Meta, Muse, In",
-        "AI desk signal: agent",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says",
-        "Source context: In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for,..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Thu, 19 Nov 2026 17:38:40 +0000",
-      "age_hours": "23.85",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "94",
-      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
     "Signal is blocking Gemini and Siri AI from reading your screen",
     "The fallout from Nvidia's Jensen Huang scandal continues",
-    "SpaceX lenders don't want Elon Musk launching their collateral into space"
+    "Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation"
   ],
   "sections": [
     {
@@ -348,7 +346,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-20T07:30:47-05:00",
-      "age_hours": "4.98",
+      "age_hours": "9.07",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": ""
@@ -378,20 +376,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 20 Nov 2026 14:55:44 +0000",
-      "age_hours": "2.56",
+      "age_hours": "6.65",
       "freshness_status": "fresh",
       "editorial_score": "120",
       "urgency": "WATCH"
     },
     {
-      "headline": "SpaceX lenders don't want Elon Musk launching their collateral into space",
-      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
-      "snapshot": "Bondholders want SpaceX's valuable chip collateral kept on Earth and within reach. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "headline": "Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "snapshot": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board's main issue was the former CEO's \"lack of candor.\" The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
       "key_data": [
-        "Key people or organizations: SpaceX, Elon Musk, Bondholders, Earth",
-        "AI desk signal: chip, enterprise",
-        "Story focus: SpaceX lenders don't want Elon Musk launching their collateral into space",
-        "Source context: Bondholders want SpaceX's valuable chip collateral kept on Earth and within reach. The larger angle is AI infrastructure: compute capacity, chip..."
+        "Key people or organizations: Jensen Huang, Lying, Alarmed Nvidia Board Ahead, His Resignation",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
+        "Source context: Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board's..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -399,18 +398,47 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from SpaceX.",
+        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Fri, 20 Nov 2026 19:52:21 +0000",
+      "age_hours": "1.71",
+      "freshness_status": "fresh",
+      "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "snapshot": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Chips, Lenders, SpaceX",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Chips can survive the space environment — can their financing?",
+        "Source context: Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Chips.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 20 Nov 2026 14:15:21 +0000",
-      "age_hours": "3.24",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 20 Nov 2026 17:40:01 +0000",
+      "age_hours": "3.91",
       "freshness_status": "fresh",
-      "editorial_score": "90",
-      "urgency": "WATCH"
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
@@ -437,10 +465,67 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-20T11:34:13-05:00",
-      "age_hours": "0.92",
+      "age_hours": "5.01",
       "freshness_status": "fresh",
       "editorial_score": "92",
       "urgency": ""
+    },
+    {
+      "headline": "SpaceX lenders don't want Elon Musk launching their collateral into space",
+      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+      "snapshot": "Bondholders want SpaceX's valuable chip collateral kept on Earth and within reach. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: SpaceX, Elon Musk, Bondholders, Earth",
+        "AI desk signal: chip, enterprise",
+        "Story focus: SpaceX lenders don't want Elon Musk launching their collateral into space",
+        "Source context: Bondholders want SpaceX's valuable chip collateral kept on Earth and within reach. The larger angle is AI infrastructure: compute capacity, chip..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from SpaceX.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 20 Nov 2026 14:15:21 +0000",
+      "age_hours": "7.32",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+      "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+      "snapshot": "CTIA said jamming test showed \"interference... up to two and a half miles away.\" The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "key_data": [
+        "Key people or organizations: Prisons, OK, CTIA",
+        "Story focus: Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+        "Source context: CTIA said jamming test showed \"interference... up to two and a half miles away.\" The story matters because AI is moving deeper into legal and..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Prisons.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 20 Nov 2026 19:52:59 +0000",
+      "age_hours": "1.70",
+      "freshness_status": "fresh",
+      "editorial_score": "86",
+      "urgency": "DEVELOPING"
     },
     {
       "headline": "The week everything fell apart",
@@ -466,49 +551,21 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-20T09:06:59-05:00",
-      "age_hours": "3.38",
+      "age_hours": "7.46",
       "freshness_status": "fresh",
       "editorial_score": "73",
       "urgency": "DEVELOPING"
     },
     {
-      "headline": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
-      "snapshot": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "headline": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+      "snapshot": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Rocket Report, Stoke, Russia, Soyuz",
-        "Story focus: Rocket Report",
-        "Source context: Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Rocket Report.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 20 Nov 2026 13:35:45 +0000",
-      "age_hours": "3.90",
-      "freshness_status": "fresh",
-      "editorial_score": "64",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Muse Is Unleashing a World of Pettiness on Instagram",
-      "url": "https://www.wired.com/story/muse-is-unleashing-a-world-of-pettiness-on-instagram/",
-      "snapshot": "Meta's AI assistant can track and unfollow Instagram users who don't follow you back—and some people are taking full advantage. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Muse Is Unleashing, World, Pettiness, Instagram",
+        "Key people or organizations: Army, Modeling",
+        "Specific figures mentioned: 100",
         "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Muse Is Unleashing a World of Pettiness on Instagram",
-        "Source context: Meta's AI assistant can track and unfollow Instagram users who don't follow you back—and some people are taking full advantage. The competitive..."
+        "Story focus: Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
+        "Source context: Modeling predicts plume of neurotoxic lead could reach up to 100 miles away. The competitive question is whether this changes the model race,..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -516,28 +573,27 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Muse Is Unleashing.",
+        "Watch for follow-up statements, product details or customer evidence from Army.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Fri, 20 Nov 2026 12:00:00 +0000",
-      "age_hours": "5.49",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 20 Nov 2026 19:21:50 +0000",
+      "age_hours": "2.22",
       "freshness_status": "fresh",
-      "editorial_score": "62",
+      "editorial_score": "64",
       "urgency": ""
     },
     {
-      "headline": "This 16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
-      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
-      "snapshot": "Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as efficient as possible for the US and its military allies. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "headline": "Daniel Ek backs AI researcher's fusion power startup. Here's what they're building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "snapshot": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
       "key_data": [
-        "Key people or organizations: Year, Old Founded, Missile Startup, He",
-        "Specific figures mentioned: 16",
-        "Story focus: This 16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
-        "Source context: Henrijs Dandzbergs dropped out of high school to join startup accelerator Y Combinator. With a new breed of missile, he wants to make killing as..."
+        "Key people or organizations: Daniel Ek, Spotify, Europa Fusion",
+        "Story focus: Daniel Ek backs AI researcher's fusion power startup. Here's what they're building.",
+        "Source context: Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building. The..."
       ],
       "why_it_matters": [
         "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
@@ -545,73 +601,17 @@
         "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Year.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Fri, 20 Nov 2026 07:00:00 +0000",
-      "age_hours": "10.49",
-      "freshness_status": "fresh",
-      "editorial_score": "62",
-      "urgency": ""
-    },
-    {
-      "headline": "Six AI-powered gadgets that could make your home office smarter",
-      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-      "snapshot": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-      "key_data": [
-        "Key people or organizations: Six AI",
-        "Story focus: Six AI-powered gadgets that could make your home office smarter",
-        "Source context: From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Six AI.",
+        "Watch for follow-up statements, product details or customer evidence from Daniel Ek.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 14:00:00 +0000",
-      "age_hours": "3.49",
+      "published": "Fri, 20 Nov 2026 19:53:41 +0000",
+      "age_hours": "1.69",
       "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Valve says it might have to raise the price of supply-limited Steam Machines",
-      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
-      "snapshot": "\"We don't yet know the number we are able to make, and at what price...\"",
-      "key_data": [
-        "Key people or organizations: Valve, Steam Machines, We",
-        "Story focus: Valve says it might have to raise the price of supply-limited Steam Machines",
-        "Source context: \"We don't yet know the number we are able to make, and at what price...\""
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Valve.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 20 Nov 2026 16:11:21 +0000",
-      "age_hours": "1.30",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
+      "editorial_score": "62",
       "urgency": ""
     }
   ],
