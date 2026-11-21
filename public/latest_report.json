@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "The fallout from Nvidia's Jensen Huang scandal continues",
-  "snapshot": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-  "updated_at": "2026-11-20 09:53:35 PM ET",
-  "generated_at": "2026-11-20 09:53:35 PM ET",
+  "headline": "Chips can survive the space environment — can their financing?",
+  "snapshot": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+  "updated_at": "2026-11-21 12:24:17 AM ET",
+  "generated_at": "2026-11-21 12:24:17 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 18,
-    "editor_fresh_items": 54,
+    "live_fresh_items": 15,
+    "editor_fresh_items": 48,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 41,
+    "stale_or_blocked_items": 44,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-20 09:53:35 PM ET"
+    "last_checked": "2026-11-21 12:24:17 AM ET"
   },
   "live_newsroom": [
     {
@@ -44,7 +44,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Fri, 20 Nov 2026 19:52:21 +0000",
-      "age_hours": "7.02",
+      "age_hours": "9.53",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -72,40 +72,10 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 20 Nov 2026 19:52:59 +0000",
-      "age_hours": "7.01",
+      "age_hours": "9.52",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "The fallout from Nvidia's Jensen Huang scandal continues",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "snapshot": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Nvidia, Jensen Huang, In, CEO Jensen Huang",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The fallout from Nvidia's Jensen Huang scandal continues",
-        "Source context: In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 14:55:44 +0000",
-      "age_hours": "11.96",
-      "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "WATCH"
     },
     {
       "headline": "Chips can survive the space environment — can their financing?",
@@ -131,7 +101,7 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 20 Nov 2026 17:40:01 +0000",
-      "age_hours": "9.23",
+      "age_hours": "11.74",
       "freshness_status": "fresh",
       "editorial_score": "116",
       "urgency": ""
@@ -161,23 +131,52 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 20 Nov 2026 21:47:10 +0000",
-      "age_hours": "5.11",
+      "age_hours": "7.62",
       "freshness_status": "fresh",
       "editorial_score": "102",
+      "urgency": ""
+    },
+    {
+      "headline": "Google rolls out new search homepage with AI chat history and no search button",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "snapshot": "Google search is making it even easier to access AI tools on the search page. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google rolls out new search homepage with AI chat history and no search button",
+        "Source context: Google search is making it even easier to access AI tools on the search page. The competitive question is whether this changes the model race,..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Fri, 20 Nov 2026 21:58:29 +0000",
+      "age_hours": "7.43",
+      "freshness_status": "fresh",
+      "editorial_score": "84",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "The fallout from Nvidia's Jensen Huang scandal continues",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "snapshot": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "snapshot": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Nvidia, Jensen Huang, In, CEO Jensen Huang",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The fallout from Nvidia's Jensen Huang scandal continues",
-        "Source context: In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy..."
+        "Key people or organizations: Chips, Lenders, SpaceX",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Chips can survive the space environment — can their financing?",
+        "Source context: Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -185,18 +184,18 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Watch for follow-up statements, product details or customer evidence from Chips.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 14:55:44 +0000",
-      "age_hours": "11.96",
+      "published": "Fri, 20 Nov 2026 17:40:01 +0000",
+      "age_hours": "11.74",
       "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "WATCH"
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
@@ -223,7 +222,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Fri, 20 Nov 2026 19:52:21 +0000",
-      "age_hours": "7.02",
+      "age_hours": "9.53",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -253,38 +252,9 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 20 Nov 2026 21:47:10 +0000",
-      "age_hours": "5.11",
+      "age_hours": "7.62",
       "freshness_status": "fresh",
       "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Chips can survive the space environment — can their financing?",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "snapshot": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Chips, Lenders, SpaceX",
-        "AI desk signal: chip, data center, enterprise",
-        "Story focus: Chips can survive the space environment — can their financing?",
-        "Source context: Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Chips.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 17:40:01 +0000",
-      "age_hours": "9.23",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
       "urgency": ""
     },
     {
@@ -312,28 +282,57 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 20 Nov 2026 00:56:01 +0000",
-      "age_hours": "25.96",
+      "age_hours": "28.47",
       "freshness_status": "editor_fresh",
       "editorial_score": "114",
       "urgency": ""
+    },
+    {
+      "headline": "Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "snapshot": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public...",
+      "key_data": [
+        "Key people or organizations: Meta, Muse, In",
+        "AI desk signal: agent",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Meta's AI agent Muse is mixing up conversations and could be exposing private data, report says",
+        "Source context: In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for,..."
+      ],
+      "why_it_matters": [
+        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
+        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
+        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Meta.",
+        "Track court, regulator, creator, customer or enterprise responses.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Thu, 19 Nov 2026 17:38:40 +0000",
+      "age_hours": "35.76",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "94",
+      "urgency": "DEVELOPING"
     }
   ],
   "key_storylines": [
-    "The fallout from Nvidia's Jensen Huang scandal continues",
+    "Chips can survive the space environment — can their financing?",
     "Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
     "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers"
   ],
   "sections": [
     {
-      "headline": "The fallout from Nvidia's Jensen Huang scandal continues",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "snapshot": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "snapshot": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Nvidia, Jensen Huang, In, CEO Jensen Huang",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The fallout from Nvidia's Jensen Huang scandal continues",
-        "Source context: In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy..."
+        "Key people or organizations: Chips, Lenders, SpaceX",
+        "AI desk signal: chip, data center, enterprise",
+        "Story focus: Chips can survive the space environment — can their financing?",
+        "Source context: Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -341,18 +340,18 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
+        "Watch for follow-up statements, product details or customer evidence from Chips.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 14:55:44 +0000",
-      "age_hours": "11.96",
+      "published": "Fri, 20 Nov 2026 17:40:01 +0000",
+      "age_hours": "11.74",
       "freshness_status": "fresh",
-      "editorial_score": "120",
-      "urgency": "WATCH"
+      "editorial_score": "116",
+      "urgency": ""
     },
     {
       "headline": "Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
@@ -379,7 +378,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Fri, 20 Nov 2026 19:52:21 +0000",
-      "age_hours": "7.02",
+      "age_hours": "9.53",
       "freshness_status": "fresh",
       "editorial_score": "106",
       "urgency": ""
@@ -409,68 +408,9 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 20 Nov 2026 21:47:10 +0000",
-      "age_hours": "5.11",
+      "age_hours": "7.62",
       "freshness_status": "fresh",
       "editorial_score": "102",
-      "urgency": ""
-    },
-    {
-      "headline": "Chips can survive the space environment — can their financing?",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-      "snapshot": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Chips, Lenders, SpaceX",
-        "AI desk signal: chip, data center, enterprise",
-        "Story focus: Chips can survive the space environment — can their financing?",
-        "Source context: Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large? The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Chips.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Fri, 20 Nov 2026 17:40:01 +0000",
-      "age_hours": "9.23",
-      "freshness_status": "fresh",
-      "editorial_score": "116",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "snapshot": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Anthropic, Millennium Prize, Claude, Levent",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-        "Source context: Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-20T11:34:13-05:00",
-      "age_hours": "10.32",
-      "freshness_status": "fresh",
-      "editorial_score": "92",
       "urgency": ""
     },
     {
@@ -496,7 +436,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 20 Nov 2026 19:52:59 +0000",
-      "age_hours": "7.01",
+      "age_hours": "9.52",
       "freshness_status": "fresh",
       "editorial_score": "86",
       "urgency": "DEVELOPING"
@@ -526,7 +466,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Fri, 20 Nov 2026 21:58:29 +0000",
-      "age_hours": "4.92",
+      "age_hours": "7.43",
       "freshness_status": "fresh",
       "editorial_score": "84",
       "urgency": ""
@@ -555,7 +495,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-20T13:50:19-05:00",
-      "age_hours": "8.05",
+      "age_hours": "10.57",
       "freshness_status": "fresh",
       "editorial_score": "72",
       "urgency": ""
@@ -583,9 +523,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Fri, 20 Nov 2026 19:53:41 +0000",
-      "age_hours": "7.00",
+      "age_hours": "9.51",
       "freshness_status": "fresh",
       "editorial_score": "62",
+      "urgency": ""
+    },
+    {
+      "headline": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "snapshot": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "key_data": [
+        "Key people or organizations: Riemann, Mathematicians",
+        "Specific figures mentioned: 167",
+        "Story focus: AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "Source context: Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Riemann.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Fri, 20 Nov 2026 19:32:08 +0000",
+      "age_hours": "9.87",
+      "freshness_status": "fresh",
+      "editorial_score": "54",
       "urgency": ""
     }
   ],
