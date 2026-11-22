@@ -1,54 +1,24 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "A tale of two Nvidias",
-  "snapshot": "We got two very different pictures of Nvidia — the company's latest earnings report vs. the tech executives loudly calling for Jensen Huang's return. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-11-22 02:43:08 AM ET",
-  "generated_at": "2026-11-22 02:43:08 AM ET",
+  "headline": "Can Anthropic afford to put safety first?",
+  "snapshot": "Today, I'm talking with Hayden Field, The Verge's senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+  "updated_at": "2026-11-22 05:24:44 AM ET",
+  "generated_at": "2026-11-22 05:24:44 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 4,
-    "editor_fresh_items": 21,
+    "live_fresh_items": 0,
+    "editor_fresh_items": 12,
     "public_fallback_items": 59,
-    "stale_or_blocked_items": 55,
+    "stale_or_blocked_items": 59,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-22 02:43:08 AM ET"
+    "last_checked": "2026-11-22 05:24:44 AM ET"
   },
   "live_newsroom": [
-    {
-      "headline": "Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
-      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-      "snapshot": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board's main issue was the former CEO's \"lack of candor.\" The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
-      "key_data": [
-        "Key people or organizations: Jensen Huang, Lying, Alarmed Nvidia Board Ahead, His Resignation",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
-        "Source context: Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board's..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Fri, 20 Nov 2026 19:52:21 +0000",
-      "age_hours": "35.85",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "76",
-      "urgency": ""
-    },
     {
       "headline": "Can Anthropic afford to put safety first?",
       "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
@@ -73,9 +43,66 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-21T10:00:00-05:00",
-      "age_hours": "16.72",
+      "age_hours": "19.41",
       "freshness_status": "editor_fresh",
       "editorial_score": "80",
+      "urgency": ""
+    },
+    {
+      "headline": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "snapshot": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: We",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Here are the top AI agents that can live in your text messages",
+        "Source context: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 21 Nov 2026 17:00:00 +0000",
+      "age_hours": "17.41",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "60",
+      "urgency": ""
+    },
+    {
+      "headline": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+      "snapshot": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
+      "key_data": [
+        "Key people or organizations: Review, Godzilla Minus Zero, Director Takashi Yamazaki, Godzilla",
+        "Story focus: Review",
+        "Source context: Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes"
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Review.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Sat, 21 Nov 2026 22:12:41 +0000",
+      "age_hours": "12.20",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "24",
       "urgency": ""
     },
     {
@@ -103,9 +130,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 21 Nov 2026 21:07:42 +0000",
-      "age_hours": "10.59",
-      "freshness_status": "fresh",
-      "editorial_score": "73",
+      "age_hours": "13.28",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "43",
       "urgency": ""
     },
     {
@@ -131,37 +158,9 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-21T15:03:37-05:00",
-      "age_hours": "11.66",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-      "snapshot": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
-      "key_data": [
-        "Key people or organizations: Review, Godzilla Minus Zero, Director Takashi Yamazaki, Godzilla",
-        "Story focus: Review",
-        "Source context: Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes"
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Review.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Sat, 21 Nov 2026 22:12:41 +0000",
-      "age_hours": "9.51",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
+      "age_hours": "14.35",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "42",
       "urgency": ""
     }
   ],
@@ -190,39 +189,66 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-21T10:00:00-05:00",
-      "age_hours": "16.72",
+      "age_hours": "19.41",
       "freshness_status": "editor_fresh",
       "editorial_score": "80",
       "urgency": ""
     },
     {
-      "headline": "Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
-      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-      "snapshot": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board's main issue was the former CEO's \"lack of candor.\" The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
+      "headline": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "snapshot": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Jensen Huang, Lying, Alarmed Nvidia Board Ahead, His Resignation",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
-        "Source context: Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board's..."
+        "Key people or organizations: We",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Here are the top AI agents that can live in your text messages",
+        "Source context: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 21 Nov 2026 17:00:00 +0000",
+      "age_hours": "17.41",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "60",
+      "urgency": ""
+    },
+    {
+      "headline": "The Outages Are Just Getting Started",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "snapshot": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "key_data": [
+        "Key people or organizations: Outages Are Just, Getting Started, Welcome",
+        "Story focus: The Outages Are Just Getting Started",
+        "Source context: AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Outages Are Just.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
-      "published": "Fri, 20 Nov 2026 19:52:21 +0000",
-      "age_hours": "35.85",
+      "published": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "age_hours": "21.41",
       "freshness_status": "editor_fresh",
-      "editorial_score": "76",
+      "editorial_score": "24",
       "urgency": ""
     },
     {
@@ -250,9 +276,9 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Sat, 21 Nov 2026 21:07:42 +0000",
-      "age_hours": "10.59",
-      "freshness_status": "fresh",
-      "editorial_score": "73",
+      "age_hours": "13.28",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "43",
       "urgency": ""
     },
     {
@@ -278,162 +304,18 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-21T15:03:37-05:00",
-      "age_hours": "11.66",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-      "snapshot": "Meta is \"re-evaluating\" 2030 sustainability goals. Will others follow? The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Meta, Will",
-        "Specific figures mentioned: 2030",
-        "AI desk signal: chip, data center, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Meta.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Fri, 20 Nov 2026 21:47:10 +0000",
-      "age_hours": "33.93",
+      "age_hours": "14.35",
       "freshness_status": "editor_fresh",
-      "editorial_score": "72",
+      "editorial_score": "42",
       "urgency": ""
     }
   ],
   "key_storylines": [
-    "A tale of two Nvidias",
-    "The UN fails to agree on rules regulating 'killer robots'",
-    "Review: Godzilla Minus Zero joins the list of truly stellar sequels"
+    "Can Anthropic afford to put safety first?",
+    "Here are the top AI agents that can live in your text messages",
+    "A tale of two Nvidias"
   ],
   "sections": [
-    {
-      "headline": "A tale of two Nvidias",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "snapshot": "We got two very different pictures of Nvidia — the company's latest earnings report vs. the tech executives loudly calling for Jensen Huang's return. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Nvidias, We, Nvidia, Jensen Huang",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: A tale of two Nvidias",
-        "Source context: We got two very different pictures of Nvidia — the company's latest earnings report vs. the tech executives loudly calling for Jensen Huang's return...."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidias.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 21 Nov 2026 21:07:42 +0000",
-      "age_hours": "10.59",
-      "freshness_status": "fresh",
-      "editorial_score": "73",
-      "urgency": ""
-    },
-    {
-      "headline": "The UN fails to agree on rules regulating 'killer robots'",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "snapshot": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely...",
-      "key_data": [
-        "Key people or organizations: UN, One, Geneva, Eventually",
-        "Story focus: The UN fails to agree on rules regulating 'killer robots'",
-        "Source context: One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or..."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from UN.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-21T15:03:37-05:00",
-      "age_hours": "11.66",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
-      "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-      "snapshot": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes",
-      "key_data": [
-        "Key people or organizations: Review, Godzilla Minus Zero, Director Takashi Yamazaki, Godzilla",
-        "Story focus: Review",
-        "Source context: Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes"
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Review.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Sat, 21 Nov 2026 22:12:41 +0000",
-      "age_hours": "9.51",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
-    {
-      "headline": "Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "snapshot": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "key_data": [
-        "Key people or organizations: Signal, Android",
-        "Story focus: Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance",
-        "Source context: Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Signal.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Sat, 21 Nov 2026 21:37:10 +0000",
-      "age_hours": "10.10",
-      "freshness_status": "fresh",
-      "editorial_score": "54",
-      "urgency": ""
-    },
     {
       "headline": "Can Anthropic afford to put safety first?",
       "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
@@ -458,21 +340,50 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-21T10:00:00-05:00",
-      "age_hours": "16.72",
+      "age_hours": "19.41",
       "freshness_status": "editor_fresh",
       "editorial_score": "80",
       "urgency": ""
     },
     {
-      "headline": "Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
-      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-      "snapshot": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board's main issue was the former CEO's \"lack of candor.\" The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and...",
+      "headline": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "snapshot": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Jensen Huang, Lying, Alarmed Nvidia Board Ahead, His Resignation",
+        "Key people or organizations: We",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Here are the top AI agents that can live in your text messages",
+        "Source context: We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from We.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 21 Nov 2026 17:00:00 +0000",
+      "age_hours": "17.41",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "60",
+      "urgency": ""
+    },
+    {
+      "headline": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "snapshot": "We got two very different pictures of Nvidia — the company's latest earnings report vs. the tech executives loudly calling for Jensen Huang's return. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Nvidias, We, Nvidia, Jensen Huang",
         "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang's 'Lying' Alarmed Nvidia Board Ahead of His Resignation",
-        "Source context: Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board's..."
+        "Story focus: A tale of two Nvidias",
+        "Source context: We got two very different pictures of Nvidia — the company's latest earnings report vs. the tech executives loudly calling for Jensen Huang's return...."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -480,17 +391,130 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
+        "Watch for follow-up statements, product details or customer evidence from Nvidias.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 21 Nov 2026 21:07:42 +0000",
+      "age_hours": "13.28",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "43",
+      "urgency": ""
+    },
+    {
+      "headline": "The UN fails to agree on rules regulating 'killer robots'",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "snapshot": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely...",
+      "key_data": [
+        "Key people or organizations: UN, One, Geneva, Eventually",
+        "Story focus: The UN fails to agree on rules regulating 'killer robots'",
+        "Source context: One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or..."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from UN.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-21T15:03:37-05:00",
+      "age_hours": "14.35",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "42",
+      "urgency": ""
+    },
+    {
+      "headline": "Chess.com's next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "snapshot": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called...",
+      "key_data": [
+        "Key people or organizations: Chess, Gambit, Scrabble",
+        "Specific figures mentioned: 10",
+        "Story focus: Chess.com's next move is a new hub for classic games, from mahjong to sudoku",
+        "Source context: Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Chess.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-21T09:00:00-05:00",
+      "age_hours": "20.41",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "34",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "snapshot": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too. The business angle is capital allocation: investors and strategic buyers are still sorting which AI companies have real defensibility beyond headline momentum.",
+      "key_data": [
+        "Key people or organizations: Is, Hollywood, China, Experts",
+        "Story focus: Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "Source context: An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if..."
+      ],
+      "why_it_matters": [
+        "This is a capital-allocation story as the AI market separates durable businesses from momentum plays.",
+        "Funding, valuation and acquisition signals can reveal where investors believe defensibility exists.",
+        "Editors should connect the deal logic to revenue, infrastructure costs and enterprise demand."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Is.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Sat, 21 Nov 2026 16:00:00 +0000",
+      "age_hours": "18.41",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "32",
+      "urgency": ""
+    },
+    {
+      "headline": "The Outages Are Just Getting Started",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "snapshot": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+      "key_data": [
+        "Key people or organizations: Outages Are Just, Getting Started, Welcome",
+        "Story focus: The Outages Are Just Getting Started",
+        "Source context: AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Outages Are Just.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
-      "published": "Fri, 20 Nov 2026 19:52:21 +0000",
-      "age_hours": "35.85",
+      "published": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "age_hours": "21.41",
       "freshness_status": "editor_fresh",
-      "editorial_score": "76",
+      "editorial_score": "24",
       "urgency": ""
     }
   ],
