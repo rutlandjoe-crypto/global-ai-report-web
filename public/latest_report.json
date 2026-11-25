@@ -1,93 +1,34 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Even the best AI agents struggle with everyday life",
-  "snapshot": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-  "updated_at": "2026-11-25 12:05:45 AM ET",
-  "generated_at": "2026-11-25 12:05:45 AM ET",
+  "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+  "snapshot": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+  "updated_at": "2026-11-25 08:50:09 AM ET",
+  "generated_at": "2026-11-25 08:50:09 AM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 57,
-    "live_fresh_items": 22,
-    "editor_fresh_items": 54,
-    "public_fallback_items": 57,
-    "stale_or_blocked_items": 35,
+    "total_items_checked": 58,
+    "live_fresh_items": 4,
+    "editor_fresh_items": 44,
+    "public_fallback_items": 58,
+    "stale_or_blocked_items": 54,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-25 12:05:45 AM ET"
+    "last_checked": "2026-11-25 08:50:09 AM ET"
   },
   "live_newsroom": [
     {
-      "headline": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-      "snapshot": "Amazon says Prime Air drones made \"hundreds of thousands\" of deliveries in 2026.",
+      "headline": "Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "snapshot": "Amazon's decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Amazon, FAA, Prime Air",
-        "Specific figures mentioned: 2026",
+        "Key people or organizations: Amazon, Decart, Nvidia, Trainium",
+        "Specific figures mentioned: $7.5 billion",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-        "Source context: Amazon says Prime Air drones made \"hundreds of thousands\" of deliveries in 2026."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 24 Nov 2026 18:47:57 +0000",
-      "age_hours": "10.30",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Tidal will start banning AI-generated music next month",
-      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "snapshot": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
-      "key_data": [
-        "Key people or organizations: Tidal, December, As, Robert Andersen",
-        "Specific figures mentioned: 9, 29, 80, 000",
-        "Story focus: Tidal will start banning AI-generated music next month",
-        "Source context: Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Tidal.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-24T12:17:09-05:00",
-      "age_hours": "11.81",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Yale's Sonnenfeld: Nvidia is a 'detriment' to US industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "snapshot": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Yale, Sonnenfeld, Nvidia, US",
-        "AI desk signal: chip, nvidia, lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Yale's Sonnenfeld",
-        "Source context: Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could..."
+        "Story focus: Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -95,57 +36,28 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Yale.",
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 25 Nov 2026 00:12:02 +0000",
-      "age_hours": "4.90",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "DEVELOPING"
+      "published": "Tue, 24 Nov 2026 15:51:07 +0000",
+      "age_hours": "21.98",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "120",
+      "urgency": "WATCH"
     },
     {
-      "headline": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-      "snapshot": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
+      "headline": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "snapshot": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding... The competitive question is whether this changes the model race, enterprise integrations or customer...",
       "key_data": [
-        "Key people or organizations: Tidal",
-        "Specific figures mentioned: 27, 6.3",
-        "Story focus: Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-        "Source context: AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero. The story matters because AI is moving deeper into legal and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Tidal.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 24 Nov 2026 17:34:34 +0000",
-      "age_hours": "11.52",
-      "freshness_status": "fresh",
-      "editorial_score": "112",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "snapshot": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Even, As",
+        "Key people or organizations: Has, Reverse Engineer Anything, While, Roland",
         "AI desk signal: model, agent, enterprise",
-        "Story focus: Even the best AI agents struggle with everyday life",
-        "Source context: As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks..."
+        "Story focus: Has vibe coding made open source the new normal for synths?",
+        "Source context: The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -153,79 +65,18 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Even.",
+        "Watch for follow-up statements, product details or customer evidence from Has.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 24 Nov 2026 21:33:29 +0000",
-      "age_hours": "7.54",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-25T08:00:00-05:00",
+      "age_hours": "0.84",
       "freshness_status": "fresh",
-      "editorial_score": "126",
+      "editorial_score": "90",
       "urgency": ""
-    }
-  ],
-  "editor_signals": [
-    {
-      "headline": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "snapshot": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Even, As",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Even the best AI agents struggle with everyday life",
-        "Source context: As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Even.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 24 Nov 2026 21:33:29 +0000",
-      "age_hours": "7.54",
-      "freshness_status": "fresh",
-      "editorial_score": "126",
-      "urgency": ""
-    },
-    {
-      "headline": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-      "snapshot": "Amazon says Prime Air drones made \"hundreds of thousands\" of deliveries in 2026.",
-      "key_data": [
-        "Key people or organizations: Amazon, FAA, Prime Air",
-        "Specific figures mentioned: 2026",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-        "Source context: Amazon says Prime Air drones made \"hundreds of thousands\" of deliveries in 2026."
-      ],
-      "why_it_matters": [
-        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
-        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
-        "Editors should separate real market movement from promotional noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors, regulators or enterprise customers respond.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 24 Nov 2026 18:47:57 +0000",
-      "age_hours": "10.30",
-      "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "DEVELOPING"
     },
     {
       "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
@@ -252,51 +103,21 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Tue, 24 Nov 2026 16:00:00 +0000",
-      "age_hours": "13.10",
+      "age_hours": "21.84",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
     },
     {
-      "headline": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "snapshot": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "snapshot": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Anthropic, Claude Ship, As AI",
-        "AI desk signal: model, agent, enterprise",
+        "Key people or organizations: Jensen Huang, Nvidia, Megaspeed, Huang",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "Source context: As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals. The..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Mon, 23 Nov 2026 22:05:50 +0000",
-      "age_hours": "31.00",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "124",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Yale's Sonnenfeld: Nvidia is a 'detriment' to US industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "snapshot": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Yale, Sonnenfeld, Nvidia, US",
-        "AI desk signal: chip, nvidia, lawsuit",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Yale's Sonnenfeld",
-        "Source context: Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could..."
+        "Story focus: The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "Source context: Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler. The larger angle is AI..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -304,26 +125,138 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Yale.",
+        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 25 Nov 2026 13:00:00 +0000",
+      "age_hours": "0.84",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": ""
+    },
+    {
+      "headline": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "snapshot": "The \"hardest remaining problem in classical physics\" gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "key_data": [
+        "Key people or organizations: Airplane Turbulence Is Extremely, Hard, Predict, Maybe Not",
+        "Story focus: Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+        "Source context: The \"hardest remaining problem in classical physics\" gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI."
+      ],
+      "why_it_matters": [
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Airplane Turbulence Is Extremely.",
+        "Track whether competitors, regulators or enterprise customers respond.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Wed, 25 Nov 2026 11:30:00 +0000",
+      "age_hours": "2.34",
+      "freshness_status": "fresh",
+      "editorial_score": "62",
+      "urgency": ""
+    }
+  ],
+  "editor_signals": [
+    {
+      "headline": "Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "snapshot": "Amazon's decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Amazon, Decart, Nvidia, Trainium",
+        "Specific figures mentioned: $7.5 billion",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia"
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 25 Nov 2026 00:12:02 +0000",
-      "age_hours": "4.90",
+      "published": "Tue, 24 Nov 2026 15:51:07 +0000",
+      "age_hours": "21.98",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "120",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "snapshot": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Has, Reverse Engineer Anything, While, Roland",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Has vibe coding made open source the new normal for synths?",
+        "Source context: The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Has.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-25T08:00:00-05:00",
+      "age_hours": "0.84",
       "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "DEVELOPING"
-    }
-  ],
-  "key_storylines": [
-    "Even the best AI agents struggle with everyday life",
-    "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-    "Tidal will start banning AI-generated music next month"
-  ],
-  "sections": [
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "snapshot": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic Created, Honeypot, Lure AI Agents Into, Misbehaving",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+        "Source context: A new test assumes AI agents can go rogue—and asks whether they can resist temptation. The competitive question is whether this changes the model..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic Created.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "age_hours": "21.84",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
     {
       "headline": "Even the best AI agents struggle with everyday life",
       "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
@@ -348,21 +281,115 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Tue, 24 Nov 2026 21:33:29 +0000",
-      "age_hours": "7.54",
-      "freshness_status": "fresh",
-      "editorial_score": "126",
+      "age_hours": "16.28",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "96",
       "urgency": ""
     },
     {
-      "headline": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-      "snapshot": "Amazon says Prime Air drones made \"hundreds of thousands\" of deliveries in 2026.",
+      "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "snapshot": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Amazon, FAA, Prime Air",
-        "Specific figures mentioned: 2026",
+        "Key people or organizations: Jensen Huang, Nvidia, Megaspeed, Huang",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-        "Source context: Amazon says Prime Air drones made \"hundreds of thousands\" of deliveries in 2026."
+        "Story focus: The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "Source context: Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 25 Nov 2026 13:00:00 +0000",
+      "age_hours": "0.84",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "Has vibe coding made open source the new normal for synths?",
+    "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long"
+  ],
+  "sections": [
+    {
+      "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "snapshot": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Jensen Huang, Nvidia, Megaspeed, Huang",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "Source context: Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler. The larger angle is AI..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 25 Nov 2026 13:00:00 +0000",
+      "age_hours": "0.84",
+      "freshness_status": "fresh",
+      "editorial_score": "94",
+      "urgency": ""
+    },
+    {
+      "headline": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "snapshot": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding... The competitive question is whether this changes the model race, enterprise integrations or customer...",
+      "key_data": [
+        "Key people or organizations: Has, Reverse Engineer Anything, While, Roland",
+        "AI desk signal: model, agent, enterprise",
+        "Story focus: Has vibe coding made open source the new normal for synths?",
+        "Source context: The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Has.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-25T08:00:00-05:00",
+      "age_hours": "0.84",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
+      "urgency": ""
+    },
+    {
+      "headline": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "snapshot": "The \"hardest remaining problem in classical physics\" gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI.",
+      "key_data": [
+        "Key people or organizations: Airplane Turbulence Is Extremely, Hard, Predict, Maybe Not",
+        "Story focus: Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long",
+        "Source context: The \"hardest remaining problem in classical physics\" gets a boost from terabytes of crowdsourced data and new ways of using machine learning and AI."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -370,58 +397,57 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Watch for follow-up statements, product details or customer evidence from Airplane Turbulence Is Extremely.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 24 Nov 2026 18:47:57 +0000",
-      "age_hours": "10.30",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Wed, 25 Nov 2026 11:30:00 +0000",
+      "age_hours": "2.34",
       "freshness_status": "fresh",
-      "editorial_score": "114",
-      "urgency": "DEVELOPING"
+      "editorial_score": "62",
+      "urgency": ""
     },
     {
-      "headline": "Tidal will start banning AI-generated music next month",
-      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "snapshot": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months... The story matters because AI is moving deeper into legal and regulatory territory, where product...",
+      "headline": "AI may soon change what it means to be a theoretical physicist",
+      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+      "snapshot": "Frontier AI is already solving problems that once took top physicists a full day.",
       "key_data": [
-        "Key people or organizations: Tidal, December, As, Robert Andersen",
-        "Specific figures mentioned: 9, 29, 80, 000",
-        "Story focus: Tidal will start banning AI-generated music next month",
-        "Source context: Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs..."
+        "Key people or organizations: Frontier AI",
+        "Story focus: AI may soon change what it means to be a theoretical physicist",
+        "Source context: Frontier AI is already solving problems that once took top physicists a full day."
       ],
       "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
+        "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
+        "The newsroom value is identifying whether the development changes behavior, budgets or institutional trust.",
+        "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Tidal.",
+        "Watch for follow-up statements, product details or customer evidence from Frontier AI.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-24T12:17:09-05:00",
-      "age_hours": "11.81",
+      "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Wed, 25 Nov 2026 12:00:28 +0000",
+      "age_hours": "1.83",
       "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": "DEVELOPING"
+      "editorial_score": "54",
+      "urgency": ""
     },
     {
-      "headline": "Yale's Sonnenfeld: Nvidia is a 'detriment' to US industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "snapshot": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "snapshot": "Amazon's decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
       "key_data": [
-        "Key people or organizations: Yale, Sonnenfeld, Nvidia, US",
-        "AI desk signal: chip, nvidia, lawsuit",
+        "Key people or organizations: Amazon, Decart, Nvidia, Trainium",
+        "Specific figures mentioned: $7.5 billion",
+        "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Yale's Sonnenfeld",
-        "Source context: Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could..."
+        "Story focus: Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia"
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -429,118 +455,29 @@
         "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Yale.",
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
         "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 25 Nov 2026 00:12:02 +0000",
-      "age_hours": "4.90",
-      "freshness_status": "fresh",
-      "editorial_score": "122",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-      "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
-      "snapshot": "AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero. The story matters because AI is moving deeper into legal and regulatory territory, where product speed, data rights, safety obligations and public accountability can affect adoption.",
-      "key_data": [
-        "Key people or organizations: Tidal",
-        "Specific figures mentioned: 27, 6.3",
-        "Story focus: Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
-        "Source context: AI songs account for 6.3 percent of Tidal's catalog, but it's about to be zero. The story matters because AI is moving deeper into legal and..."
-      ],
-      "why_it_matters": [
-        "This shows AI moving from product hype into the legal and regulatory systems that can define its limits.",
-        "The consequences may affect data rights, safety obligations, user trust and enterprise adoption.",
-        "Editors should identify who gains leverage: companies, regulators, courts, creators, workers or customers."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Tidal.",
-        "Track court, regulator, creator, customer or enterprise responses.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 24 Nov 2026 17:34:34 +0000",
-      "age_hours": "11.52",
-      "freshness_status": "fresh",
-      "editorial_score": "112",
-      "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "snapshot": "Walmart now lets customers shop Black Friday deals through Muse, Meta's AI agent. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Walmart, Meta, Black Friday, Muse",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-        "Source context: Walmart now lets customers shop Black Friday deals through Muse, Meta's AI agent. The competitive question is whether this changes the model race,..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Walmart.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 24 Nov 2026 21:32:38 +0000",
-      "age_hours": "7.55",
-      "freshness_status": "fresh",
-      "editorial_score": "102",
+      "published": "Tue, 24 Nov 2026 15:51:07 +0000",
+      "age_hours": "21.98",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "120",
       "urgency": "WATCH"
     },
     {
-      "headline": "Jensen Huang's Return Shows Nvidia Is Too Big to Police",
-      "url": "https://www.wired.com/story/jensen-huang-nvidia-us-national-security-risks/",
-      "snapshot": "Nvidia's place at the center of the US economy may have outweighed concerns about its CEO's ties to a suspected Chinese intelligence asset, national security and foreign policy experts say. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government...",
+      "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
+      "snapshot": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Jensen Huang, Return Shows Nvidia Is, Too Big, Police",
-        "AI desk signal: chip, nvidia, enterprise",
+        "Key people or organizations: Anthropic Created, Honeypot, Lure AI Agents Into, Misbehaving",
+        "AI desk signal: model, agent, enterprise",
         "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang's Return Shows Nvidia Is Too Big to Police",
-        "Source context: Nvidia's place at the center of the US economy may have outweighed concerns about its CEO's ties to a suspected Chinese intelligence asset, national..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Tue, 24 Nov 2026 23:39:04 +0000",
-      "age_hours": "5.44",
-      "freshness_status": "fresh",
-      "editorial_score": "86",
-      "urgency": ""
-    },
-    {
-      "headline": "Microsoft's historic cloud outage exposed an engineering \"fog of war\"",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
-      "snapshot": "Internal memos reveal a \"Code Red\" overhaul and ambitious one-hour recovery goals. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Microsoft, Internal, Code Red",
-        "AI desk signal: model, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Microsoft's historic cloud outage exposed an engineering \"fog of war\"",
-        "Source context: Internal memos reveal a \"Code Red\" overhaul and ambitious one-hour recovery goals. The competitive question is whether this changes the model race,..."
+        "Story focus: Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+        "Source context: A new test assumes AI agents can go rogue—and asks whether they can resist temptation. The competitive question is whether this changes the model..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -548,77 +485,17 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Microsoft.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic Created.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Tue, 24 Nov 2026 22:36:28 +0000",
-      "age_hours": "6.49",
-      "freshness_status": "fresh",
-      "editorial_score": "84",
-      "urgency": ""
-    },
-    {
-      "headline": "Jensen Huang reportedly tells Nvidia staff it's 'not true' Trump got him rehired",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "snapshot": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
-      "key_data": [
-        "Key people or organizations: Jensen Huang, Nvidia, Trump, Nvidia CEO Jensen Huang",
-        "AI desk signal: chip, nvidia",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang reportedly tells Nvidia staff it's 'not true' Trump got him rehired",
-        "Source context: Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-24T15:02:03-05:00",
-      "age_hours": "9.06",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
-      "urgency": ""
-    },
-    {
-      "headline": "Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-      "snapshot": "The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Jensen Huang Apologizes, Nvidia Employees, First All, Hands Since His Return",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Jensen Huang Apologizes to Nvidia Employees in First All-Hands Since His Return",
-        "Source context: The Nvidia CEO opened up about his personal life, defended his reinstatement, and acknowledged that his intense management style had hurt his staff...."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang Apologizes.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
-      "published": "Tue, 24 Nov 2026 17:44:53 +0000",
-      "age_hours": "11.35",
-      "freshness_status": "fresh",
-      "editorial_score": "76",
+      "published": "Tue, 24 Nov 2026 16:00:00 +0000",
+      "age_hours": "21.84",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "90",
       "urgency": ""
     }
   ],
