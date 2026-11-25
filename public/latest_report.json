@@ -1,24 +1,84 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
-  "snapshot": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on... The competitive question is whether this changes the model race, enterprise integrations or...",
-  "updated_at": "2026-11-25 11:12:40 AM ET",
-  "generated_at": "2026-11-25 11:12:40 AM ET",
+  "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+  "snapshot": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise...",
+  "updated_at": "2026-11-25 05:54:54 PM ET",
+  "generated_at": "2026-11-25 05:54:54 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
-    "total_items_checked": 58,
-    "live_fresh_items": 9,
-    "editor_fresh_items": 49,
-    "public_fallback_items": 58,
-    "stale_or_blocked_items": 49,
+    "total_items_checked": 59,
+    "live_fresh_items": 26,
+    "editor_fresh_items": 54,
+    "public_fallback_items": 59,
+    "stale_or_blocked_items": 33,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-25 11:12:40 AM ET"
+    "last_checked": "2026-11-25 05:54:54 PM ET"
   },
   "live_newsroom": [
+    {
+      "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "snapshot": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise...",
+      "key_data": [
+        "Key people or organizations: Jensen Huang, Nvidia, Megaspeed, Huang",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "Source context: The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 25 Nov 2026 13:00:00 +0000",
+      "age_hours": "9.92",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "snapshot": "The pitch is an unusual combination of privacy promises and AI features. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google, Kagi, Gmail",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google search alternative Kagi launches Gmail rival",
+        "Source context: The pitch is an unusual combination of privacy promises and AI features. The competitive question is whether this changes the model race, enterprise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Wed, 25 Nov 2026 20:57:09 +0000",
+      "age_hours": "1.96",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
+    },
     {
       "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
       "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
@@ -44,7 +104,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-25T09:12:33-05:00",
-      "age_hours": "2.00",
+      "age_hours": "8.71",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": ""
@@ -74,20 +134,21 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 25 Nov 2026 14:10:18 +0000",
-      "age_hours": "2.04",
+      "age_hours": "8.74",
       "freshness_status": "fresh",
       "editorial_score": "110",
       "urgency": "WATCH"
     },
     {
-      "headline": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
-      "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
-      "snapshot": "Prior modeling estimated the plume would cover hundreds of square miles. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "headline": "Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "snapshot": "Anthropic CEO Dario Amodei pushes back against rivals' accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Lead, Iowa, Prior",
+        "Key people or organizations: Anthropic, Dario Amodei, Anthropic CEO Dario Amodei",
         "AI desk signal: model, enterprise",
-        "Story focus: Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
-        "Source context: Prior modeling estimated the plume would cover hundreds of square miles. The competitive question is whether this changes the model race, enterprise..."
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
+        "Source context: Anthropic CEO Dario Amodei pushes back against rivals' accusations that he favors surrendering human agency to AI, even as leading AI companies..."
       ],
       "why_it_matters": [
         "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
@@ -95,335 +156,31 @@
         "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Lead.",
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
         "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Wed, 25 Nov 2026 15:35:17 +0000",
-      "age_hours": "0.62",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
-      "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-      "snapshot": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Jensen Huang, Nvidia, Megaspeed, Huang",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-        "Source context: Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler. The larger angle is AI..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
-      "published": "Wed, 25 Nov 2026 13:00:00 +0000",
-      "age_hours": "3.21",
+      "published": "Wed, 25 Nov 2026 19:44:24 +0000",
+      "age_hours": "3.18",
       "freshness_status": "fresh",
-      "editorial_score": "94",
-      "urgency": ""
-    },
-    {
-      "headline": "Has vibe coding made open source the new normal for synths?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-      "snapshot": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding... The competitive question is whether this changes the model race, enterprise integrations or customer...",
-      "key_data": [
-        "Key people or organizations: Has, Reverse Engineer Anything, While, Roland",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Has vibe coding made open source the new normal for synths?",
-        "Source context: The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Has.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-25T08:00:00-05:00",
-      "age_hours": "3.21",
-      "freshness_status": "fresh",
-      "editorial_score": "90",
+      "editorial_score": "102",
       "urgency": ""
     }
   ],
   "editor_signals": [
     {
-      "headline": "Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "snapshot": "Amazon's decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Amazon, Decart, Nvidia, Trainium",
-        "Specific figures mentioned: $7.5 billion",
-        "AI desk signal: chip, nvidia, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon's Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia"
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Developing AI industry story; prioritize primary company statements, filings, technical details and customer impact.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 24 Nov 2026 15:51:07 +0000",
-      "age_hours": "24.36",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "120",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "snapshot": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Amazon, Muse AI, Meta, Fortune",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon is reportedly in talks to end Muse AI shopping block",
-        "Source context: Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-25T09:12:33-05:00",
-      "age_hours": "2.00",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": ""
-    },
-    {
-      "headline": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/",
-      "snapshot": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Anthropic Created, Honeypot, Lure AI Agents Into, Misbehaving",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
-        "Source context: A new test assumes AI agents can go rogue—and asks whether they can resist temptation. The competitive question is whether this changes the model..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Anthropic Created.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Tue, 24 Nov 2026 16:00:00 +0000",
-      "age_hours": "24.21",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "90",
-      "urgency": ""
-    },
-    {
-      "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "snapshot": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Amazon, Meta, Muse",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-        "Source context: Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse. The competitive question is whether this changes..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 25 Nov 2026 14:10:18 +0000",
-      "age_hours": "2.04",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "snapshot": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Even, As",
-        "AI desk signal: model, agent, enterprise",
-        "Story focus: Even the best AI agents struggle with everyday life",
-        "Source context: As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Even.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Tue, 24 Nov 2026 21:33:29 +0000",
-      "age_hours": "18.65",
-      "freshness_status": "editor_fresh",
-      "editorial_score": "96",
-      "urgency": ""
-    }
-  ],
-  "key_storylines": [
-    "Amazon is reportedly in talks to end Muse AI shopping block",
-    "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-    "Lead azide detonation sends clouds over Iowa as questions of health risks swirl"
-  ],
-  "sections": [
-    {
-      "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "snapshot": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on... The competitive question is whether this changes the model race, enterprise integrations or...",
-      "key_data": [
-        "Key people or organizations: Amazon, Muse AI, Meta, Fortune",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon is reportedly in talks to end Muse AI shopping block",
-        "Source context: Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "source_name": "The Verge",
-      "published": "2026-11-25T09:12:33-05:00",
-      "age_hours": "2.00",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": ""
-    },
-    {
-      "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-      "snapshot": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Amazon, Meta, Muse",
-        "AI desk signal: model, agent, enterprise",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-        "Source context: Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse. The competitive question is whether this changes..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Amazon.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 25 Nov 2026 14:10:18 +0000",
-      "age_hours": "2.04",
-      "freshness_status": "fresh",
-      "editorial_score": "110",
-      "urgency": "WATCH"
-    },
-    {
-      "headline": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
-      "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
-      "snapshot": "Prior modeling estimated the plume would cover hundreds of square miles. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
-      "key_data": [
-        "Key people or organizations: Lead, Iowa, Prior",
-        "AI desk signal: model, enterprise",
-        "Story focus: Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
-        "Source context: Prior modeling estimated the plume would cover hundreds of square miles. The competitive question is whether this changes the model race, enterprise..."
-      ],
-      "why_it_matters": [
-        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
-        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
-        "Editors should separate meaningful product movement from promotional AI noise."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Lead.",
-        "Track whether competitors answer with pricing, product or integration changes.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
-      "source_feed": "https://arstechnica.com/feed/",
-      "source_name": "arstechnica.com",
-      "published": "Wed, 25 Nov 2026 15:35:17 +0000",
-      "age_hours": "0.62",
-      "freshness_status": "fresh",
-      "editorial_score": "72",
-      "urgency": ""
-    },
-    {
       "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
       "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-      "snapshot": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "snapshot": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise...",
       "key_data": [
         "Key people or organizations: Jensen Huang, Nvidia, Megaspeed, Huang",
         "AI desk signal: chip, nvidia, enterprise",
         "Market context: major AI platform or infrastructure player involved",
         "Story focus: The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-        "Source context: Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler. The larger angle is AI..."
+        "Source context: The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive..."
       ],
       "why_it_matters": [
         "AI competition is increasingly being decided by infrastructure, not just product announcements.",
@@ -439,9 +196,316 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Wed, 25 Nov 2026 13:00:00 +0000",
-      "age_hours": "3.21",
+      "age_hours": "9.92",
       "freshness_status": "fresh",
-      "editorial_score": "94",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "snapshot": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Amazon, Muse AI, Meta, Fortune",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon is reportedly in talks to end Muse AI shopping block",
+        "Source context: Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-25T09:12:33-05:00",
+      "age_hours": "8.71",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "snapshot": "The pitch is an unusual combination of privacy promises and AI features. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google, Kagi, Gmail",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google search alternative Kagi launches Gmail rival",
+        "Source context: The pitch is an unusual combination of privacy promises and AI features. The competitive question is whether this changes the model race, enterprise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Wed, 25 Nov 2026 20:57:09 +0000",
+      "age_hours": "1.96",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "snapshot": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Amazon, Meta, Muse",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "Source context: Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse. The competitive question is whether this changes..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 25 Nov 2026 14:10:18 +0000",
+      "age_hours": "8.74",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "snapshot": "Anthropic CEO Dario Amodei pushes back against rivals' accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Dario Amodei, Anthropic CEO Dario Amodei",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
+        "Source context: Anthropic CEO Dario Amodei pushes back against rivals' accusations that he favors surrendering human agency to AI, even as leading AI companies..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 25 Nov 2026 19:44:24 +0000",
+      "age_hours": "3.18",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    }
+  ],
+  "key_storylines": [
+    "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+    "Amazon is reportedly in talks to end Muse AI shopping block",
+    "Google search alternative Kagi launches Gmail rival"
+  ],
+  "sections": [
+    {
+      "headline": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "snapshot": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise...",
+      "key_data": [
+        "Key people or organizations: Jensen Huang, Nvidia, Megaspeed, Huang",
+        "AI desk signal: chip, nvidia, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+        "Source context: The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Jensen Huang.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 25 Nov 2026 13:00:00 +0000",
+      "age_hours": "9.92",
+      "freshness_status": "fresh",
+      "editorial_score": "120",
+      "urgency": ""
+    },
+    {
+      "headline": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "snapshot": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on... The competitive question is whether this changes the model race, enterprise integrations or...",
+      "key_data": [
+        "Key people or organizations: Amazon, Muse AI, Meta, Fortune",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon is reportedly in talks to end Muse AI shopping block",
+        "Source context: Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-25T09:12:33-05:00",
+      "age_hours": "8.71",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": ""
+    },
+    {
+      "headline": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "snapshot": "The pitch is an unusual combination of privacy promises and AI features. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Google, Kagi, Gmail",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Google search alternative Kagi launches Gmail rival",
+        "Source context: The pitch is an unusual combination of privacy promises and AI features. The competitive question is whether this changes the model race, enterprise..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Google.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Wed, 25 Nov 2026 20:57:09 +0000",
+      "age_hours": "1.96",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "snapshot": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Amazon, Meta, Muse",
+        "AI desk signal: model, agent, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "Source context: Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse. The competitive question is whether this changes..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Amazon.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 25 Nov 2026 14:10:18 +0000",
+      "age_hours": "8.74",
+      "freshness_status": "fresh",
+      "editorial_score": "110",
+      "urgency": "WATCH"
+    },
+    {
+      "headline": "Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "snapshot": "Anthropic CEO Dario Amodei pushes back against rivals' accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
+      "key_data": [
+        "Key people or organizations: Anthropic, Dario Amodei, Anthropic CEO Dario Amodei",
+        "AI desk signal: model, enterprise",
+        "Market context: major AI platform or infrastructure player involved",
+        "Story focus: Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'",
+        "Source context: Anthropic CEO Dario Amodei pushes back against rivals' accusations that he favors surrendering human agency to AI, even as leading AI companies..."
+      ],
+      "why_it_matters": [
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Anthropic.",
+        "Track whether competitors answer with pricing, product or integration changes.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "source_name": "TechCrunch",
+      "published": "Wed, 25 Nov 2026 19:44:24 +0000",
+      "age_hours": "3.18",
+      "freshness_status": "fresh",
+      "editorial_score": "102",
+      "urgency": ""
+    },
+    {
+      "headline": "FCC signs off on SpaceX's plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "snapshot": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "key_data": [
+        "Key people or organizations: FCC, SpaceX, In, Elon Musk",
+        "Specific figures mentioned: 1",
+        "AI desk signal: chip, data center",
+        "Story focus: FCC signs off on SpaceX's plan to put up to 1 million data center satellites into space",
+        "Source context: In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from FCC.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "source_name": "The Verge",
+      "published": "2026-11-25T12:44:51-05:00",
+      "age_hours": "5.17",
+      "freshness_status": "fresh",
+      "editorial_score": "90",
       "urgency": ""
     },
     {
@@ -468,39 +532,38 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-25T08:00:00-05:00",
-      "age_hours": "3.21",
+      "age_hours": "9.92",
       "freshness_status": "fresh",
       "editorial_score": "90",
       "urgency": ""
     },
     {
-      "headline": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-      "snapshot": "⁠Nvidia has made clear⁠ it won't backstop an AI data center until it's nearly ready to run, and that's landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power and a finished building matter more than a pitch... The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are...",
+      "headline": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+      "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+      "snapshot": "Prior modeling estimated the plume would cover hundreds of square miles. The competitive question is whether this changes the model race, enterprise integrations or customer lock-in as major AI providers battle for durable platform advantage.",
       "key_data": [
-        "Key people or organizations: Nvidia",
-        "AI desk signal: chip, nvidia, data center",
-        "Market context: major AI platform or infrastructure player involved",
-        "Story focus: AI data centers are becoming harder to build, and neoclouds are feeling it",
-        "Source context: ⁠Nvidia has made clear⁠ it won't backstop an AI data center until it's nearly ready to run, and that's landing just as neoclouds report construction..."
+        "Key people or organizations: Lead, Iowa, Prior",
+        "AI desk signal: model, enterprise",
+        "Story focus: Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+        "Source context: Prior modeling estimated the plume would cover hundreds of square miles. The competitive question is whether this changes the model race, enterprise..."
       ],
       "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+        "This affects the competitive race among major AI platforms, model providers and enterprise vendors.",
+        "The key test is whether the move changes customer behavior, integration depth or platform lock-in.",
+        "Editors should separate meaningful product movement from promotional AI noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Nvidia.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Watch for follow-up statements, product details or customer evidence from Lead.",
+        "Track whether competitors answer with pricing, product or integration changes.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
-      "source_name": "TechCrunch",
-      "published": "Wed, 25 Nov 2026 15:41:43 +0000",
-      "age_hours": "0.52",
+      "editor_note": "Platform competition angle: model capability, integration depth and customer lock-in.",
+      "source_feed": "https://arstechnica.com/feed/",
+      "source_name": "arstechnica.com",
+      "published": "Wed, 25 Nov 2026 15:35:17 +0000",
+      "age_hours": "7.33",
       "freshness_status": "fresh",
-      "editorial_score": "88",
+      "editorial_score": "72",
       "urgency": ""
     },
     {
@@ -526,19 +589,19 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Wed, 25 Nov 2026 11:30:00 +0000",
-      "age_hours": "4.71",
+      "age_hours": "11.42",
       "freshness_status": "fresh",
       "editorial_score": "62",
       "urgency": ""
     },
     {
-      "headline": "AI may soon change what it means to be a theoretical physicist",
-      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-      "snapshot": "Frontier AI is already solving problems that once took top physicists a full day.",
+      "headline": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "snapshot": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
       "key_data": [
-        "Key people or organizations: Frontier AI",
-        "Story focus: AI may soon change what it means to be a theoretical physicist",
-        "Source context: Frontier AI is already solving problems that once took top physicists a full day."
+        "Key people or organizations: Backblaze, Ars",
+        "Story focus: Backblaze explains why it's sharing customer information with advertisers",
+        "Source context: Backblaze tells Ars it won't share users' backup, storage files with advertisers."
       ],
       "why_it_matters": [
         "This belongs in the broader AI adoption story across business, labor, policy and technology infrastructure.",
@@ -546,15 +609,15 @@
         "Editors should separate real market movement from promotional noise."
       ],
       "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Frontier AI.",
+        "Watch for follow-up statements, product details or customer evidence from Backblaze.",
         "Track whether competitors, regulators or enterprise customers respond.",
         "Look for measurable adoption signals rather than promotional claims."
       ],
       "editor_note": "AI adoption angle: separate verified business impact from product-cycle noise.",
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
-      "published": "Wed, 25 Nov 2026 12:00:28 +0000",
-      "age_hours": "4.20",
+      "published": "Wed, 25 Nov 2026 18:38:29 +0000",
+      "age_hours": "4.27",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": ""
