@@ -1,22 +1,22 @@
 {
   "site": "Global AI Report",
   "vertical": "AI",
-  "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
-  "snapshot": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-  "updated_at": "2026-11-27 12:10:27 PM ET",
-  "generated_at": "2026-11-27 12:10:27 PM ET",
+  "headline": "Android's DIY widgets are a bit of vibe-coding fun",
+  "snapshot": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+  "updated_at": "2026-11-27 02:42:37 PM ET",
+  "generated_at": "2026-11-27 02:42:37 PM ET",
   "video_url": "https://www.youtube.com/embed/21X5lGlDOfg?rel=0&autoplay=1&mute=1",
   "freshness": {
     "max_live_story_age_hours": 12,
     "max_editor_story_age_hours": 36,
     "max_public_fallback_age_hours": 72,
     "total_items_checked": 59,
-    "live_fresh_items": 6,
+    "live_fresh_items": 5,
     "editor_fresh_items": 13,
-    "public_fallback_items": 54,
-    "stale_or_blocked_items": 53,
+    "public_fallback_items": 49,
+    "stale_or_blocked_items": 54,
     "unknown_date_items": 0,
-    "last_checked": "2026-11-27 12:10:27 PM ET"
+    "last_checked": "2026-11-27 02:42:37 PM ET"
   },
   "live_newsroom": [
     {
@@ -43,39 +43,10 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-26T04:54:40-05:00",
-      "age_hours": "31.26",
+      "age_hours": "33.80",
       "freshness_status": "editor_fresh",
       "editorial_score": "56",
       "urgency": "DEVELOPING"
-    },
-    {
-      "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
-      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
-      "snapshot": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Breed, Chip Runs AI Models, Using Waves, Light",
-        "AI desk signal: model, chip, enterprise",
-        "Story focus: A New Breed of Chip Runs AI Models Using Waves of Light",
-        "Source context: German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Breed.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Fri, 27 Nov 2026 07:00:00 +0000",
-      "age_hours": "10.17",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
     },
     {
       "headline": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -102,9 +73,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 26 Nov 2026 20:03:54 +0000",
-      "age_hours": "21.11",
+      "age_hours": "23.65",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "snapshot": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Breed, Chip Runs AI Models, Using Waves, Light",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: A New Breed of Chip Runs AI Models Using Waves of Light",
+        "Source context: German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Breed.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Fri, 27 Nov 2026 07:00:00 +0000",
+      "age_hours": "12.71",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "94",
       "urgency": ""
     },
     {
@@ -132,7 +132,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 26 Nov 2026 10:51:27 +0000",
-      "age_hours": "30.32",
+      "age_hours": "32.85",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -160,7 +160,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-27T09:00:00-05:00",
-      "age_hours": "3.17",
+      "age_hours": "5.71",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": "WATCH"
@@ -168,35 +168,6 @@
   ],
   "editor_signals": [
     {
-      "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
-      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
-      "snapshot": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Breed, Chip Runs AI Models, Using Waves, Light",
-        "AI desk signal: model, chip, enterprise",
-        "Story focus: A New Breed of Chip Runs AI Models Using Waves of Light",
-        "Source context: German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Breed.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Fri, 27 Nov 2026 07:00:00 +0000",
-      "age_hours": "10.17",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
-    {
       "headline": "Nvidia hits pause on chip shipments to Southeast Asia",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
       "snapshot": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
@@ -221,9 +192,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 26 Nov 2026 20:03:54 +0000",
-      "age_hours": "21.11",
+      "age_hours": "23.65",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "snapshot": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Breed, Chip Runs AI Models, Using Waves, Light",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: A New Breed of Chip Runs AI Models Using Waves of Light",
+        "Source context: German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Breed.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Fri, 27 Nov 2026 07:00:00 +0000",
+      "age_hours": "12.71",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "94",
       "urgency": ""
     },
     {
@@ -250,7 +250,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-26T04:54:40-05:00",
-      "age_hours": "31.26",
+      "age_hours": "33.80",
       "freshness_status": "editor_fresh",
       "editorial_score": "56",
       "urgency": "DEVELOPING"
@@ -280,7 +280,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 26 Nov 2026 10:51:27 +0000",
-      "age_hours": "30.32",
+      "age_hours": "32.85",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -308,47 +308,18 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-27T09:00:00-05:00",
-      "age_hours": "3.17",
+      "age_hours": "5.71",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": "WATCH"
     }
   ],
   "key_storylines": [
-    "A New Breed of Chip Runs AI Models Using Waves of Light",
     "Android's DIY widgets are a bit of vibe-coding fun",
-    "Nvidia hits pause on chip shipments to Southeast Asia"
+    "Nvidia hits pause on chip shipments to Southeast Asia",
+    "A New Breed of Chip Runs AI Models Using Waves of Light"
   ],
   "sections": [
-    {
-      "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
-      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
-      "snapshot": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
-      "key_data": [
-        "Key people or organizations: Breed, Chip Runs AI Models, Using Waves, Light",
-        "AI desk signal: model, chip, enterprise",
-        "Story focus: A New Breed of Chip Runs AI Models Using Waves of Light",
-        "Source context: German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger..."
-      ],
-      "why_it_matters": [
-        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
-        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
-        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
-      ],
-      "what_to_watch": [
-        "Watch for follow-up statements, product details or customer evidence from Breed.",
-        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
-        "Look for measurable adoption signals rather than promotional claims."
-      ],
-      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
-      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
-      "source_name": "wired.com",
-      "published": "Fri, 27 Nov 2026 07:00:00 +0000",
-      "age_hours": "10.17",
-      "freshness_status": "fresh",
-      "editorial_score": "124",
-      "urgency": ""
-    },
     {
       "headline": "Android's DIY widgets are a bit of vibe-coding fun",
       "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
@@ -372,7 +343,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-27T09:00:00-05:00",
-      "age_hours": "3.17",
+      "age_hours": "5.71",
       "freshness_status": "fresh",
       "editorial_score": "54",
       "urgency": "WATCH"
@@ -402,9 +373,38 @@
       "source_feed": "https://techcrunch.com/category/artificial-intelligence/feed/",
       "source_name": "TechCrunch",
       "published": "Thu, 26 Nov 2026 20:03:54 +0000",
-      "age_hours": "21.11",
+      "age_hours": "23.65",
       "freshness_status": "editor_fresh",
       "editorial_score": "106",
+      "urgency": ""
+    },
+    {
+      "headline": "A New Breed of Chip Runs AI Models Using Waves of Light",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "snapshot": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger angle is AI infrastructure: compute capacity, chip access and data-center economics are increasingly determining which companies can scale products for enterprise and government customers.",
+      "key_data": [
+        "Key people or organizations: Breed, Chip Runs AI Models, Using Waves, Light",
+        "AI desk signal: model, chip, enterprise",
+        "Story focus: A New Breed of Chip Runs AI Models Using Waves of Light",
+        "Source context: German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations. The larger..."
+      ],
+      "why_it_matters": [
+        "AI competition is increasingly being decided by infrastructure, not just product announcements.",
+        "Compute supply, data-center capacity and institutional buyers can shape which companies actually scale.",
+        "Editors should frame the story around power, procurement, capacity and durable competitive advantage."
+      ],
+      "what_to_watch": [
+        "Watch for follow-up statements, product details or customer evidence from Breed.",
+        "Track whether the story changes compute capacity, cloud spending or supplier leverage.",
+        "Look for measurable adoption signals rather than promotional claims."
+      ],
+      "editor_note": "Infrastructure angle: compute capacity, supplier leverage and enterprise/government demand.",
+      "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "source_name": "wired.com",
+      "published": "Fri, 27 Nov 2026 07:00:00 +0000",
+      "age_hours": "12.71",
+      "freshness_status": "editor_fresh",
+      "editorial_score": "94",
       "urgency": ""
     },
     {
@@ -431,7 +431,7 @@
       "source_feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "source_name": "The Verge",
       "published": "2026-11-26T04:54:40-05:00",
-      "age_hours": "31.26",
+      "age_hours": "33.80",
       "freshness_status": "editor_fresh",
       "editorial_score": "56",
       "urgency": "DEVELOPING"
@@ -461,7 +461,7 @@
       "source_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
       "source_name": "wired.com",
       "published": "Thu, 26 Nov 2026 10:51:27 +0000",
-      "age_hours": "30.32",
+      "age_hours": "32.85",
       "freshness_status": "editor_fresh",
       "editorial_score": "90",
       "urgency": ""
@@ -490,7 +490,7 @@
       "source_feed": "https://arstechnica.com/feed/",
       "source_name": "arstechnica.com",
       "published": "Thu, 26 Nov 2026 18:00:29 +0000",
-      "age_hours": "23.17",
+      "age_hours": "25.70",
       "freshness_status": "editor_fresh",
       "editorial_score": "50",
       "urgency": ""
